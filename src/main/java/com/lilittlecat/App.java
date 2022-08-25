@@ -6,10 +6,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.RandomAccessFile;
+import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.charset.StandardCharsets;
@@ -23,132 +20,109 @@ import java.util.Properties;
  */
 public class App {
     public static final String URL = "https://raw.fastgit.org/ruanyf/weekly/master/docs/issue-NUMBER.md";
+    public static final String README_URL = "https://raw.fastgit.org/ruanyf/weekly/master/README.md";
     public static final String GITHUB_URL = "https://github.com/ruanyf/weekly/blob/master/docs/issue-NUMBER.md";
 
     public static void main(String[] args) {
-        final App app = new App();
-//        app.addContent();
-        app.addAllContent();
+        App app = new App();
+        app.addContent();
     }
 
     public void addContent() {
-        Properties props = new Properties();
-        InputStreamReader inputStreamReader;
-        final String dir = System.getProperty("user.dir");
-        try (InputStream in = getClass().getResourceAsStream("/app.properties");
-             RandomAccessFile tools = new RandomAccessFile(dir + "/doc/工具.md", "rw");
-             RandomAccessFile resources = new RandomAccessFile(dir + "/doc/资源.md", "rw");
+        String dir = System.getProperty("user.dir");
+        try (
+                RandomAccessFile tools = new RandomAccessFile(dir + "/doc/工具.md", "rw");
+                RandomAccessFile resources = new RandomAccessFile(dir + "/doc/资源.md", "rw");
+                RandomAccessFile thisReadme = new RandomAccessFile(dir + "/README.md", "rw");
         ) {
-            FileChannel toolsChannel = tools.getChannel();
-            FileChannel resourcesChannel = resources.getChannel();
-            assert in != null;
-            inputStreamReader = new InputStreamReader(in, StandardCharsets.UTF_8);
-            props.load(inputStreamReader);
-            int currentNumber = Integer.parseInt((String) props.get("currentNumber"));
-
+            // Get current publish number
             OkHttpClient client = new OkHttpClient().newBuilder()
                     .build();
-            StringBuilder t = new StringBuilder();
-            StringBuilder r = new StringBuilder();
+            Response response = client.newCall(
+                            new Request.Builder()
+                                    .url(README_URL)
+                                    .method("GET", null)
+                                    .build())
+                    .execute();
+            if (!response.isSuccessful()) {
+                return;
+            }
+            String readme = Objects.requireNonNull(response.body()).string();
+            String currentPublishNumberString = StrUtil.subBetween(readme, "- 第", "期").trim();
+            if (StrUtil.isBlank(currentPublishNumberString)) {
+                return;
+            }
+            int currentPublishNumber = Integer.parseInt(currentPublishNumberString);
+            // Get current handled number
+            FileChannel thisReadmeChannel = thisReadme.getChannel();
+            ByteBuffer thisReadmeBuffer = ByteBuffer.allocate((int) (thisReadme.length()));
+            thisReadmeChannel.read(thisReadmeBuffer);
+            String oldReadme = new String(thisReadmeBuffer.array(), StandardCharsets.UTF_8);
+            int oldNumber = Integer.parseInt(StrUtil.subBetween(oldReadme, "<currentVersion>", "</currentVersion>"));
+            if (oldNumber == currentPublishNumber) {
+                return;
+            }
+            FileChannel toolsChannel = tools.getChannel();
+            FileChannel resourcesChannel = resources.getChannel();
+            StringBuilder currentToolsContent = new StringBuilder();
+            StringBuilder currentResourcesContent = new StringBuilder();
+            StringBuilder currentReadmeContent = new StringBuilder();
             Request request = new Request.Builder()
-                    .url(StrUtil.replace(URL, "NUMBER", String.valueOf(currentNumber)))
+                    .url(StrUtil.replace(URL, "NUMBER", String.valueOf(currentPublishNumber)))
                     .method("GET", null)
                     .build();
-            Response response = client.newCall(request).execute();
-            if (response.isSuccessful()) {
-                String body = Objects.requireNonNull(response.body()).string();
+            Response contentResponse = client.newCall(request).execute();
+            if (contentResponse.isSuccessful()) {
+                String body = Objects.requireNonNull(contentResponse.body()).string();
+                String title =
+                        "# ["
+                                + body.split("\n")[0].replace("# ", "")
+                                + "]("
+                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentPublishNumber))
+                                + ")";
                 String toolsTitle =
                         "# ["
                                 + body.split("\n")[0].replace("# ", "")
                                 + "]("
-                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentNumber))
+                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentPublishNumber))
                                 + "#工具)";
                 String resourcesTitle =
                         "# ["
                                 + body.split("\n")[0].replace("# ", "")
                                 + "]("
-                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentNumber))
+                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentPublishNumber))
                                 + "#资源)";
                 final String toolsContent = StrUtil.subBetween(body, "## 工具", "## ");
                 final String resourceContent = StrUtil.subBetween(body, "## 资源", "## ");
+                currentReadmeContent.append(title).append("\n");
                 if (StrUtil.isNotBlank(toolsContent)) {
-                    t.insert(0, toolsTitle + "\n" + toolsContent);
+                    currentToolsContent.insert(0, toolsTitle + "\n" + toolsContent);
+                    currentReadmeContent.append("### 工具\n").append(toolsContent).append("\n");
                 }
                 if (StrUtil.isNotBlank(resourceContent)) {
-                    r.insert(0, resourcesTitle + "\n" + resourceContent);
+                    currentResourcesContent.insert(0, resourcesTitle + "\n" + resourceContent);
+                    currentReadmeContent.append("### 资源\n").append(resourceContent).append("\n");
                 }
-
+                ByteBuffer toolsBuffer = ByteBuffer.allocate((int) (tools.length()));
+                ByteBuffer resourcesBuffer = ByteBuffer.allocate((int) (resources.length()));
+                toolsChannel.read(toolsBuffer);
+                resourcesChannel.read(resourcesBuffer);
+                toolsChannel.write(ByteBuffer.wrap((currentToolsContent
+                        + new String(toolsBuffer.array(), StandardCharsets.UTF_8)).getBytes(StandardCharsets.UTF_8)), 0);
+                resourcesChannel.write(ByteBuffer.wrap((currentResourcesContent
+                        + new String(resourcesBuffer.array(), StandardCharsets.UTF_8)).getBytes(StandardCharsets.UTF_8)), 0);
+                // Update README.md
+                String begin = "<!-- Begin -->";
+                String end = "<!-- End -->";
+                oldReadme = oldReadme.replace("<currentVersion>" + oldNumber + "</currentVersion>",
+                        "<currentVersion>" + currentPublishNumber + "</currentVersion>");
+                thisReadmeChannel.write(ByteBuffer.wrap((oldReadme.split(begin)[0] + begin + "\n" +
+                        currentReadmeContent + end + oldReadme.split(end)[1]).getBytes(StandardCharsets.UTF_8)), 0);
             }
-            byte[] toolsBytes = t.toString().getBytes(StandardCharsets.UTF_8);
-            byte[] resourcesBytes = r.toString().getBytes(StandardCharsets.UTF_8);
-            toolsChannel.write(new ByteBuffer[]{ByteBuffer.wrap(toolsBytes)}, 0, toolsBytes.length);
-            resourcesChannel.write(new ByteBuffer[]{ByteBuffer.wrap(resourcesBytes)}, 0, resourcesBytes.length);
 
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public void addAllContent() {
-        Properties props = new Properties();
-        InputStreamReader inputStreamReader;
-        final String dir = System.getProperty("user.dir");
-        try (InputStream in = getClass().getResourceAsStream("/app.properties");
-             RandomAccessFile tools = new RandomAccessFile(dir + "/doc/工具.md", "rw");
-             RandomAccessFile resources = new RandomAccessFile(dir + "/doc/资源.md", "rw");
-        ) {
-            FileChannel toolsChannel = tools.getChannel();
-            FileChannel resourcesChannel = resources.getChannel();
-            assert in != null;
-            inputStreamReader = new InputStreamReader(in, StandardCharsets.UTF_8);
-            props.load(inputStreamReader);
-//            int currentNumber = Integer.parseInt((String) props.get("currentNumber"));
-            int currentNumber = 218;
-
-
-            OkHttpClient client = new OkHttpClient().newBuilder()
-                    .build();
-            StringBuilder t = new StringBuilder();
-            StringBuilder r = new StringBuilder();
-            for (int i = 1; i <= currentNumber; i++) {
-                System.out.println("handing-" + i);
-                MediaType mediaType = MediaType.parse("text/plain");
-                Request request = new Request.Builder()
-                        .url(StrUtil.replace(URL, "NUMBER", String.valueOf(i)))
-//                        .url("https://raw.fastgit.org/ruanyf/weekly/master/docs/issue-218.md")
-                        .method("GET", null)
-                        .build();
-                Response response = client.newCall(request).execute();
-                if (response.isSuccessful()) {
-                    String body = Objects.requireNonNull(response.body()).string();
-                    String toolsTitle =
-                            "# ["
-                                    + body.split("\n")[0].replace("# ", "")
-                                    + "]("
-                                    + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(i))
-                                    + "#工具)";
-                    String resourcesTitle =
-                            "# ["
-                                    + body.split("\n")[0].replace("# ", "")
-                                    + "]("
-                                    + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(i))
-                                    + "#资源)";
-                    final String toolsContent = StrUtil.subBetween(body, "## 工具", "## ");
-                    final String resourceContent = StrUtil.subBetween(body, "## 资源", "## ");
-                    if (StrUtil.isNotBlank(toolsContent)) {
-                        t.insert(0, toolsTitle + "\n" + toolsContent);
-                    }
-                    if (StrUtil.isNotBlank(resourceContent)) {
-                        r.insert(0, resourcesTitle + "\n" + resourceContent);
-                    }
-                }
-            }
-            toolsChannel.write(ByteBuffer.wrap(t.toString().getBytes(StandardCharsets.UTF_8)));
-            resourcesChannel.write(ByteBuffer.wrap(r.toString().getBytes(StandardCharsets.UTF_8)));
-
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-
-    }
 }
