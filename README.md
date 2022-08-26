@@ -6,105 +6,97 @@
 但是到目前为止周刊已经两百多期，苦于查找困难，特将其汇总于此，方便查阅。
 
 ## 最新一期
-<!-- <currentVersion>219</currentVersion> -->
+<!-- <currentVersion>220</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 219 期）：如何防止帐号被黑](https://github.com/ruanyf/weekly/blob/master/docs/issue-219.md)
+# [科技爱好者周刊（第 220 期）：人工智能的机会在哪里](https://github.com/ruanyf/weekly/blob/master/docs/issue-220.md)
 ### 工具
 
 
-1、[Maccy](https://maccy.app/)
+1、[mjml](https://mjml.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063024.webp)
 
-一个 MacOS 系统的开源软件，可以保存系统剪贴版的历史，查看每一次复制粘贴的内容。
+编写 HTML 邮件的工具。它提供了一套邮件组件，并能将这些组件转码为 HTML 代码。你可以试试它的 [PlayGround](https://mjml.io/try-it-live)。
 
-2、[Nude UI](https://nudeui.com/)
+2、[Upptime](https://github.com/upptime/upptime)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070110.webp)
 
-著名前端开发者 Lea Verou 做的 Web Component 组件库，目前只有五六个表单组件，都是轻量级组件，非常易用，效果不错。
+一个开源的网站状态监视服务，它使用 GitHub Actions 每五分钟查询一次网站是否在线，每六个小时把响应时间提交到 Git 仓库，生成一个网站（上图），供用户监控网站状态。
 
-3、[卡通猫生成器](https://uchinoko-maker.jp/)
+3、[Vanblog](https://vanblog.mereith.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081309.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082503.webp)
 
-一个网页小工具，可以生成卡通猫图片，猫的每个部分都可以定制。
+一款个人博客系统，支持众多功能，采用 Docker 部署，带有管理后台，前台为静态页面，提供自动 HTTPS 证书。（[@Mereithhh](https://github.com/ruanyf/weekly/issues/2576) 投稿）
 
-4、[Glances](https://nicolargo.github.io/glances/)
+4、[SVNAdmin](https://github.com/witersen/SvnAdminV2.0)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082505.webp)
 
-一个 Python 写的系统监控工具，最大特点就是跨平台，Linux/Windows/Mac 都能用。
+SVN 源代码仓库的 Web 管理界面，使用 PHP 开发。（[@witersen](https://github.com/ruanyf/weekly/issues/2578) 投稿）
 
-5、[XLite](https://github.com/x2bool/xlite)
+5、[gossip](https://github.com/qianxi0410/gossip)
 
-这个工具可以将 Excel 表格文件导入 SQLite，使用 SQL 进行查询。
+这个工具可以把 GitHub Issue 转成一个静态博客，内容和评论都存放在 issue 中。博客使用 next.js 开发，可以自动部署到 Vercel 或 GitHub Pages。（[@qianxi0410](https://github.com/ruanyf/weekly/issues/2581) 投稿）
 
-6、[Jina](https://github.com/jina-ai/jina)
+6、[BgSub](https://bgsub.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081812.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082509.webp)
 
-一个基于 Python 的框架，用于构建神经搜索系统，针对图像、音频、视频等进行搜索，比如[口红搜索](https://github.com/lhr0909/lipstick-db)（寻找适合某张人脸照片的口红）。（[@Guanngxu](https://github.com/ruanyf/weekly/issues/2565) 投稿）
+一个网页工具，可以自动抠图，替换背景颜色或背景图片，完全在本地完成，不会上传服务器。（[@PearOCR](https://github.com/ruanyf/weekly/issues/2582) 投稿）
 
-7、[ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac)
+7、[一起听播客](https://github.com/yenche123/podcast-together)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081813.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082506.webp)
 
-实时显示 MacOS 每个进程的网络速率，适配明暗两个主题。（[@foamzou](https://github.com/ruanyf/weekly/issues/2568) 投稿）
+一个开源网站，支持多人一起听播客，支持小宇宙和 Apple Podcast 中国区播客。（[@yenche123](https://github.com/ruanyf/weekly/issues/2579) 投稿）
 
-8、[diskusage](https://github.com/chenquan/diskusage)
+8、[MiraPlayer](https://github.com/miravideo/FFCreator)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081814.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082504.webp)
 
-一个显示磁盘占用情况的命令行工具。虽然 Linux 已经有了 ncdu，但是这个工具是用 Go 写的，可以跨平台（Linux、Mac & Windows）。（[@chenquan](https://github.com/ruanyf/weekly/issues/2567) 投稿）
+一个基于腾讯视频库 [FFCreator](https://github.com/tnfe/FFCreator/blob/master/README.zh-CN.md) 封装的前端视频播放器和编辑器组件。（[@milkliker](https://github.com/ruanyf/weekly/issues/2577) 投稿）
 
-9、[GitJournal](https://gitjournal.io/)
+9、[Solon](https://solon.noear.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062906.webp)
+一个轻量级 Java 应用开发框架，资源占用少，支持从 Spring Boot 迁移。（[@noear](https://github.com/ruanyf/weekly/issues/2590) 投稿）
 
-一个手机的笔记 App，支持用 Markdown 做笔记，推送到远程 Git 仓库。它的安卓 App 是免费的，iOS App 是收费的。
+10、[Codeberg](https://codeberg.org/)
 
-10、[Unpaywall](https://unpaywall.org/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070111.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050706.webp)
-
-一个浏览器插件，在各种论文数据库的页面上，添加下载按钮。周刊此前介绍过同类插件，这个看上去更正规一些。
-
-另有一个论文数据库 [OA.mg](https://oa.mg/)，用来查找论文。
-
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050705.webp)
+一个 GitHub/GitLab 的替代品，用来自己托管 Git 代码仓库。
 
 
 ### 资源
 
 
-1、[通过构建博客生成器学习 Haskell](https://lhbg-book.link/)
+1、[据意查句](https://wantquotes.net/)
 
-一本免费阅读的 Haskell 英文教程，从零教起，对初学者很友好。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081819.webp)
 
-2、[oPhysics](https://ophysics.com/index.html)
+清华大学推出了一个搜索引擎，根据关键词搜索相关的诗文。比如搜索“郁闷”，就会返回各种跟郁闷相关的句子，参见[介绍文章](https://www.163.com/dy/article/HDHB76F30511DSSR.html)。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081815.webp)
+另有一个汉语的[近义词搜索引擎](https://wantwords.net/)。
 
-这个网站收集可以网页交互的物理学演示，有几十个作品。实时调节参数，就能看到结果。（[@meq1986](https://github.com/ruanyf/weekly/issues/2570) 投稿）
+2、[必应壁纸](https://bing.wdbyte.com/)
 
-3、[treevis.net](https://treevis.net/)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082507.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060911.webp)
+周刊介绍过一个抓取必应每日壁纸的 [GitHub Actions 模板](https://github.com/niumoo/bing-wallpaper)，作者现在将其做成静态网站，可以在线浏览和下载壁纸，每日更新。（[@niumoo](https://github.com/ruanyf/weekly/issues/2591) 投稿）
 
-这个网站收集了300种数据可视化案例，可以当作自己选择可视化形式时的灵感。
+3、[音频博客《代码英雄》](https://linux.cn/talk/clh/)
 
-4、[Unix 窗口管理器清单](https://www.gilesorr.com/wm/table.html)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082508.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061101.webp)
+红帽公司精心制作的一个音频播客。“Linux 中国”得到授权进行了文本翻译，将其带给国内的开发者。可惜的是，[英文版](https://www.redhat.com/en/command-line-heroes)已经更新到第九季，中文翻译才到第四季。（[@CherryLover](https://github.com/ruanyf/weekly/issues/2584) 投稿）
 
-这个网站收集近200种 Unix/Linux 系统的窗口管理器。如果你不喜欢桌面环境自带的窗口管理器，可以换一个。
+4、[Bunny Fonts](https://fonts.bunny.net/about)
 
-5、[理解量子技术](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/)（Understanding Quantum Technologies，2021版）
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062002.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062001.webp)
-
-一本免费的英文电子书，向初学者介绍量子计算各方面的基础知识，带有彩色插图，厚达800多页。
+谷歌网络字体的一个替代品，等同非官方镜像，另外也可以避免泄漏用户信息给谷歌。
 
 
 <!-- End -->
