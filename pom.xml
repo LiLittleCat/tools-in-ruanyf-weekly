@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>tools-in-ruanyf-weekly</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/LiLittleCat/tools-in-ruanyf-weekly</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
