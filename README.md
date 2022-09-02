@@ -10,97 +10,115 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>220</currentVersion> -->
+<!-- <currentVersion>221</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 220 期）：人工智能的机会在哪里](https://github.com/ruanyf/weekly/blob/master/docs/issue-220.md)
+# [科技爱好者周刊（第 221 期）：全世界最繁荣的行业](https://github.com/ruanyf/weekly/blob/master/docs/issue-221.md)
 ### 工具
 
 
-1、[mjml](https://mjml.io/)
+1、[u](https://github.com/ananthakumaran/u)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063024.webp)
+一个 JS 库，用于 JSON 数据的序列化。特点是需要定义数据的规格（spec），所以序列化后的字符串非常小。
 
-编写 HTML 邮件的工具。它提供了一套邮件组件，并能将这些组件转码为 HTML 代码。你可以试试它的 [PlayGround](https://mjml.io/try-it-live)。
+2、[Flipper Zero](https://flipperzero.one/)
 
-2、[Upptime](https://github.com/upptime/upptime)
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051405.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070110.webp)
+一个硬件小工具，将各种物联网协议（NFC、红外线、RFID、蓝牙等）做在一个设备里面，还能编程，方便进行各种实验，看上去很好玩。
 
-一个开源的网站状态监视服务，它使用 GitHub Actions 每五分钟查询一次网站是否在线，每六个小时把响应时间提交到 Git 仓库，生成一个网站（上图），供用户监控网站状态。
+3、[Astrofox](https://astrofox.io/)
 
-3、[Vanblog](https://vanblog.mereith.com/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082503.webp)
+这个软件基于音频生成可视化的视频，也就是让音频变成视频，可以添加各种图层，有多个参数可以调整。
 
-一款个人博客系统，支持众多功能，采用 Docker 部署，带有管理后台，前台为静态页面，提供自动 HTTPS 证书。（[@Mereithhh](https://github.com/ruanyf/weekly/issues/2576) 投稿）
+4、[Mutant Standard](https://mutant.tech/)
 
-4、[SVNAdmin](https://github.com/witersen/SvnAdminV2.0)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082505.webp)
+一套有点另类的 Emoji 图案，将近1000个符号。如果你想要不一样的 Emoji，可以试试。
 
-SVN 源代码仓库的 Web 管理界面，使用 PHP 开发。（[@witersen](https://github.com/ruanyf/weekly/issues/2578) 投稿）
+5、[PocketBase](https://github.com/pocketbase/pocketbase)
 
-5、[gossip](https://github.com/qianxi0410/gossip)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070903.webp)
 
-这个工具可以把 GitHub Issue 转成一个静态博客，内容和评论都存放在 issue 中。博客使用 next.js 开发，可以自动部署到 Vercel 或 GitHub Pages。（[@qianxi0410](https://github.com/ruanyf/weekly/issues/2581) 投稿）
+单文件的数据库软件，使用 Go 编写，把数据库（SQLite）、后台 UI、数据管理、用户管理等，都做在一个文件里面。
 
-6、[BgSub](https://bgsub.cn/)
+6、[Piano Trainer](https://github.com/ZaneH/piano-trainer)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082509.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071001.webp)
 
-一个网页工具，可以自动抠图，替换背景颜色或背景图片，完全在本地完成，不会上传服务器。（[@PearOCR](https://github.com/ruanyf/weekly/issues/2582) 投稿）
+一个跨平台的钢琴训练软件，通过一个个小练习，帮助初学者学会弹钢琴。目前好像不支持电脑键盘，必须使用 MIDI 键盘。
 
-7、[一起听播客](https://github.com/yenche123/podcast-together)
+7、[Aspect](https://sample-code.aspect.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071005.webp)
 
-一个开源网站，支持多人一起听播客，支持小宇宙和 Apple Podcast 中国区播客。（[@yenche123](https://github.com/ruanyf/weekly/issues/2579) 投稿）
+一个浏览器插件，允许从网页里面拷贝任意 UI 组件，把它的代码还原出来，相当于从 UI 的逆向工程。
 
-8、[MiraPlayer](https://github.com/miravideo/FFCreator)
+8、[Markdeep](https://casual-effects.com/markdeep/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071011.webp)
 
-一个基于腾讯视频库 [FFCreator](https://github.com/tnfe/FFCreator/blob/master/README.zh-CN.md) 封装的前端视频播放器和编辑器组件。（[@milkliker](https://github.com/ruanyf/weekly/issues/2577) 投稿）
+一种扩展的 Markdown 格式，添加了很多功能，同时还是一个 JS 脚本，只要放入网页，就能自动把这种格式的文本文件渲染成 HTML 页面。
 
-9、[Solon](https://solon.noear.org/)
+9、[AutoRegex](https://www.autoregex.xyz/)
 
-一个轻量级 Java 应用开发框架，资源占用少，支持从 Spring Boot 迁移。（[@noear](https://github.com/ruanyf/weekly/issues/2590) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071012.webp)
 
-10、[Codeberg](https://codeberg.org/)
-
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070111.webp)
-
-一个 GitHub/GitLab 的替代品，用来自己托管 Git 代码仓库。
+这个网站将正则表达式“翻译”成英语解释。你填入一个正则表达式，它返回一段英文解释。
 
 
 ### 资源
 
 
-1、[据意查句](https://wantquotes.net/)
+1、[Stable Diffusion 资源](https://github.com/Maks-s/sd-akashic)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081819.webp)
+上周的一件大事是 [Stable Diffusion 模型](https://github.com/CompVis/stable-diffusion)发布了。
 
-清华大学推出了一个搜索引擎，根据关键词搜索相关的诗文。比如搜索“郁闷”，就会返回各种跟郁闷相关的句子，参见[介绍文章](https://www.163.com/dy/article/HDHB76F30511DSSR.html)。
+它是一个“文本到图像”的开源引擎，功能跟闭源的 DALL·E 引擎类似，但代码是公开的。
 
-另有一个汉语的[近义词搜索引擎](https://wantwords.net/)。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090110.webp)
 
-2、[必应壁纸](https://bing.wdbyte.com/)
+已经有很多人基于它开发各种应用，标题链接是一个仓库，收集各种相关链接。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082507.webp)
+它还可以从草图生成详图，这里有一篇大开眼界的[使用案例](https://andys.page/posts/how-to-draw/)。下面是作者手绘的草图。
 
-周刊介绍过一个抓取必应每日壁纸的 [GitHub Actions 模板](https://github.com/niumoo/bing-wallpaper)，作者现在将其做成静态网站，可以在线浏览和下载壁纸，每日更新。（[@niumoo](https://github.com/ruanyf/weekly/issues/2591) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022083101.webp)
 
-3、[音频博客《代码英雄》](https://linux.cn/talk/clh/)
+下面是 Stable Diffusion 给出的详图。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082508.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022083102.webp)
 
-红帽公司精心制作的一个音频播客。“Linux 中国”得到授权进行了文本翻译，将其带给国内的开发者。可惜的是，[英文版](https://www.redhat.com/en/command-line-heroes)已经更新到第九季，中文翻译才到第四季。（[@CherryLover](https://github.com/ruanyf/weekly/issues/2584) 投稿）
+2、[陕西博物馆360度实景浏览](https://720yun.com/vr/3e22dasfmlw)
 
-4、[Bunny Fonts](https://fonts.bunny.net/about)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082515.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062002.webp)
+线上参观陕西博物馆，360度展示，共有五个展厅100多个场景。可以网页浏览，也可以 VR 头盔浏览。
 
-谷歌网络字体的一个替代品，等同非官方镜像，另外也可以避免泄漏用户信息给谷歌。
+3、[Web3 不是 Web](https://www.xiaoyuzhoufm.com/episode/62d93b1cfa15142e17251e05)
+
+百姓网创始人王建硕的一个播客访谈，解释他理解的 Web3。
+
+他认为，Web3 是一个很糟糕的名字，虽然基于 Web，却有本质不同，不是 Web 的下一个版本，更像一张全球共享的大表。另外，可以参考他在 Youtube 上面的[讲座视频](https://www.youtube.com/watch?v=1QKbm3Sv2Uw)。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090109.webp)
+
+4、[编程语言数据库 PLDB](https://pldb.com/docs/columns.html)
+
+这个数据库专门收入各种编程语言，任何人都可以提交新语言，已经收入了4044种，还在快速增加中。
+
+5、[WebAuthn 指南](https://webauthn.guide/)
+
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062405.webp)
+
+这个网站提供最新的用户认证技术 WebAuthn API 的介绍。
+
+
+<!-- End -->
+
+
+非官方镜像，另外也可以避免泄漏用户信息给谷歌。
 
 
 <!-- End -->
