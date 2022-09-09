@@ -102,30 +102,3 @@ Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管
 <!-- End -->
 
 
-非官方镜像，另外也可以避免泄漏用户信息给谷歌。
-
-
-��同，不是 Web 的下一个版本，更像一张全球共享的大表。另外，可以参考他在 Youtube 上面的[讲座视频](https://www.youtube.com/watch?v=1QKbm3Sv2Uw)。
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090109.webp)
-
-4、[编程语言数据库 PLDB](https://pldb.com/docs/columns.html)
-
-这个数据库专门收入各种编程语言，任何人都可以提交新语言，已经收入了4044种，还在快速增加中。
-
-5、[WebAuthn 指南](https://webauthn.guide/)
-
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062405.webp)
-
-这个网站提供最新的用户认证技术 WebAuthn API 的介绍。
-
-
-<!-- End -->
-
-
-非官方镜像，另外也可以避免泄漏用户信息给谷歌。
-
-
-<!-- End -->
-
-
