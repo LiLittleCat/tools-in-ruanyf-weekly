@@ -10,93 +10,107 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>222</currentVersion> -->
+<!-- <currentVersion>223</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 222 期）：四十年编程感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-222.md)
+# [科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-223.md)
 ### 工具
 
 
-1、[lldap](https://github.com/nitnelave/lldap)
+1、[websocat](https://github.com/vi/websocat)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071108.webp)
+一个命令行的 WebSocket 工具，用来跟 websocket 服务器互动，以及在本地架设 WebSocket 服务。
 
-一个轻量级的 LDAP（一种用户认证协议）开源实现，简化了使用方法。它自带前端，可以跟很多后端应用结合，为这些应用提供身份验证服务。
+2、[memlab](https://facebookincubator.github.io/memlab/)
 
-2、[NESBox](https://nesbox.xianqiao.wang/)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091403.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090801.webp)
+Facebook 公司开源的一个工具，用来检测 JavaScript 应用是否存在内存泄漏，参见[介绍文章](https://engineering.fb.com/2022/09/12/open-source/memlab/)。
 
-一个开源的游戏平台，支持多人在线，一起玩 NES（俗称 FC 红白机） 游戏，有 web 版和桌面版。目前已经有很多游戏，预计有 1000+ 游戏，参考这篇[介绍文章](https://juejin.cn/post/7136883410819088397)。（[@mantou132](https://github.com/ruanyf/weekly/issues/2600) 投稿）
+3、[坐姿守护 App](https://apps.apple.com/cn/app/id1629577265)
 
-3、[JuiceFS](https://github.com/juicedata/juicefs)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091407.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090803.webp)
+一款 iOS App，使用手机摄像头检测坐姿是否正确，可与 Apple watch 手表联动，参考[介绍文章](https://zhuanlan.zhihu.com/p/563941565)。（[@haozes](https://github.com/ruanyf/weekly/issues/2625) 投稿）
 
-一个面向云原生设计的文件系统，可以挂载各种云存储，当作本地磁盘使用。（[@DASWU](https://github.com/ruanyf/weekly/issues/2601) 投稿）
+4、[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
-4、[Urara](https://urara-docs.netlify.app/)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091503.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090804.webp)
+一款开源的聊天软件，服务端、桌面端、手机 App 都提供。（[@cross-hello](https://github.com/ruanyf/weekly/issues/2617) 投稿）
 
-一个静态博客生成器，基于 SvelteKit。（[@kwaa](https://github.com/ruanyf/weekly/issues/2605) 投稿）
+5、[QWER](https://github.com/kwchang0831/svelte-QWER)
 
-5、[Cleanup Photos](https://cleanupphotos.com/)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091504.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071405.webp)
+用 SvelteKit 打造的一个静态博客系统。（[@kwchang0831](https://github.com/ruanyf/weekly/issues/2618) 投稿）
 
-这个网页工具可以清除照片上不要的物体。用户上传照片以后，框选不需要的物体，系统会自动清除这些物体，用背景填充照片。
+6、[OSS Insight](https://ossinsight.io/)
 
-6、[OurBoard](https://www.ourboard.io/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071425.webp)
+GitHub 开源动态观察，使用这个网站，可以获得某个 GitHub 仓库或者某个开发者的详细统计数据和趋势。
 
-一个在线白板，你创建一个房间，把网址分享给其他人，大家就可以在一块网页白板上共同涂写。
+7、[zwfp](https://github.com/vedhavyas/zwfp)
 
-7、[gh-dash](https://github.com/dlvhdr/gh-dash)
+一个利用零宽度字符，在 TXT 文本文件里面插入加密文本的工具，别人根本不会察觉有加密内容。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040201.webp)
+8、[mpv](https://mpv.io/)
 
-GitHub 官方命令行客户端`gh`的插件，可以在命令行以面板形式，显示仓库的 PR 和 issue。
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071904.webp)
 
-8、[Rectangles](https://rectangles.app/)
+一个跨平台的命令行视频播放器。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040204.webp)
+9、[PimEyes](https://pimeyes.com)
 
-这个网页上，一个方块代表10分钟，一天24小时就是144个方块。可以一眼看到，当天还有多少个方块空着。
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052801.webp)
 
-9、[Nginx Proxy Manager](https://nginxproxymanager.com/)
+一个人脸反向搜索引擎。你上传一张人像，它返回该人的其他照片。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052106.webp)
+10、[Virtual Graph paper](https://virtual-graph-paper.com/)
 
-Nginx 经常用作反向代理，这个工具为反向代理提供一个 Web 管理界面。
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052805.webp)
+
+一个在线画板，可以方便地用鼠标做图。
 
 
 ### 资源
 
 
-1、[乔布斯档案](https://stevejobsarchive.com/)
+1、[Storj](https://www.storj.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070703.webp)
 
-乔布斯家人建立的网站，用来为后人保存史蒂夫·乔布斯的各种材料。目前刚刚建立，内容还比较少。
+这个网站提供分布式云存储服务，可以用作文件备份，免费账户有每月 150GB 的存储空间和流量。
 
-2、[从零开始的神经网络](https://aegeorge42.github.io/)（Neural Networks from Scratch）
+2、[中国铁路地图](http://cnrail.geogv.org/zhcn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063025.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091502.webp)
 
-一个英文的图文互动教程，使用简单的语言和图片，解释什么是神经网络。
+这个网站可以查看全国铁路的路线图，另有[全世界的铁路地图](https://www.openrailwaymap.org/)。
 
-3、[随机的谷歌街景](https://randomstreetview.com/)
+3、[GTA V 猜猜看](https://gta-geoguesser.com/index.html/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090113.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070705.webp)
 
-这个网站随机展示谷歌街景的照片，世界各地都有。（[@shenzhw](https://github.com/ruanyf/weekly/issues/2604) 投稿）
+一个很有创意的小游戏，它显示一张游戏《GTA V》的截图，让你在游戏地图上标出，这是哪个地点的截图。
 
-4、[中华遗嘱网](https://www.will.org.cn/)
+4、[学习 Python 内置函数](https://sadh.life/post/builtins/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090515.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070707.webp)
 
-这个网站提供遗嘱的知识和服务，属于半官方组织，收费不低，但是比自己去找专业服务还是方便和便宜一点。
+一篇英语长文，逐一介绍 Python 的所有内置函数。
+
+5、[Proof 维基](https://proofwiki.org/wiki/Main_Page)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050801.webp)
+
+一个收集数学证明的维基网站，目前收集了2万多个数学定理的证明。
+
+
+<!-- End -->
+
+
+专业服务还是方便和便宜一点。
 
 
 <!-- End -->
