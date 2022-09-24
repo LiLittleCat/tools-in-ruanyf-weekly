@@ -10,109 +10,106 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>223</currentVersion> -->
+<!-- <currentVersion>224</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-223.md)
+# [科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](https://github.com/ruanyf/weekly/blob/master/docs/issue-224.md)
 ### 工具
 
 
-1、[websocat](https://github.com/vi/websocat)
+1、[kvass](https://github.com/maxmunzel/kvass)
 
-一个命令行的 WebSocket 工具，用来跟 websocket 服务器互动，以及在本地架设 WebSocket 服务。
+一个轻便的键值对存储工具，将数据存在本机。可以命令行使用，也可以对外提供 HTTP 接口，分享网址给其他人。
 
-2、[memlab](https://facebookincubator.github.io/memlab/)
+2、[ERNIE-ViLG 文生图](https://wenxin.baidu.com/moduleApi/ernieVilg)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092108.webp)
 
-Facebook 公司开源的一个工具，用来检测 JavaScript 应用是否存在内存泄漏，参见[介绍文章](https://engineering.fb.com/2022/09/12/open-source/memlab/)。
+百度 AI 引擎“文心大模型”的文生图功能，输入中文句子，输出相应的图片，类似于 DALL-E 和 Stable Diffusion。
 
-3、[坐姿守护 App](https://apps.apple.com/cn/app/id1629577265)
+另外，还可以看看一个同样功能的英文服务 [Elbo](https://art.elbo.ai/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072504.webp)
 
-一款 iOS App，使用手机摄像头检测坐姿是否正确，可与 Apple watch 手表联动，参考[介绍文章](https://zhuanlan.zhihu.com/p/563941565)。（[@haozes](https://github.com/ruanyf/weekly/issues/2625) 投稿）
+3、[Simple Admin](https://github.com/suyuan32/simple-admin-core)
 
-4、[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092109.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091503.webp)
+一个 Go 语言写的微服务后端管理系统。（[@suyuan32](https://github.com/ruanyf/weekly/issues/2632) 投稿）
 
-一款开源的聊天软件，服务端、桌面端、手机 App 都提供。（[@cross-hello](https://github.com/ruanyf/weekly/issues/2617) 投稿）
+4、[text-watermark](https://github.com/zengkan0703/text-watermark)
 
-5、[QWER](https://github.com/kwchang0831/svelte-QWER)
+一个 npm 模块，借助零宽度字符，在文本里面插入（或解码）不可见的文字水印。（[@zengkan0703](https://github.com/ruanyf/weekly/issues/2634) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091504.webp)
+5、[proxy-web-storage](https://github.com/KID-joker/proxy-web-storage)
 
-用 SvelteKit 打造的一个静态博客系统。（[@kwchang0831](https://github.com/ruanyf/weekly/issues/2618) 投稿）
+一个 JS 库，用 proxy 封装了 localStorage 和 sessionStorage。除了常规的数据存储，可支持事件监听和设置过期时间。（[@KID-joker](https://github.com/ruanyf/weekly/issues/2643) 投稿）
 
-6、[OSS Insight](https://ossinsight.io/)
+6、[TinyTeX](https://yihui.org/tinytex/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072607.webp)
 
-GitHub 开源动态观察，使用这个网站，可以获得某个 GitHub 仓库或者某个开发者的详细统计数据和趋势。
+学术排版系统 Tex Live 的简化版本，只有100多兆，支持中文。
 
-7、[zwfp](https://github.com/vedhavyas/zwfp)
+7、[Keet](https://keet.io/)
 
-一个利用零宽度字符，在 TXT 文本文件里面插入加密文本的工具，别人根本不会察觉有加密内容。
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072615.webp)
 
-8、[mpv](https://mpv.io/)
+一个点对点聊天的软件，不需要服务器，可以进行多人的视频和文字的加密对话。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071904.webp)
+8、[Phoenix](https://phcode.dev/)
 
-一个跨平台的命令行视频播放器。
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072701.webp)
 
-9、[PimEyes](https://pimeyes.com)
+Adobe 公司开发过一个代码编辑器 Bracket，现在将其做成了 Web 版，重新命名为 Phoenix，可以当作线上 IDE 使用，[源码](https://github.com/phcode-dev/phoenix)开源。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052801.webp)
+9、[HypeScript](https://github.com/ronami/HypeScript)
 
-一个人脸反向搜索引擎。你上传一张人像，它返回该人的其他照片。
+一个 TypeScript 库，用来获取 TypeScript 编译器对一段代码的报错。看上去很有意思，还能写出这样的库，但想不出有什么用途。
 
-10、[Virtual Graph paper](https://virtual-graph-paper.com/)
+10、[Dragonfly](https://github.com/dragonflydb/dragonfly)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053105.webp)
 
-一个在线画板，可以方便地用鼠标做图。
+Redis 和 Memcached 的替代品，内存里面的键值对数据库，号称性能更快。
 
 
 ### 资源
 
 
-1、[Storj](https://www.storj.io/)
+1、[人生统计](https://neal.fun/life-stats/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070905.webp)
 
-这个网站提供分布式云存储服务，可以用作文件备份，免费账户有每月 150GB 的存储空间和流量。
+输入生日，这个网站会告诉你一些统计数字，比如你活了多少天、心跳了多少次、地球多了多少人口。
 
-2、[中国铁路地图](http://cnrail.geogv.org/zhcn/)
+2、[中文播客榜](https://xyzrank.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092111.webp)
 
-这个网站可以查看全国铁路的路线图，另有[全世界的铁路地图](https://www.openrailwaymap.org/)。
+查看中文播客的排名和热门节目，数据取自小宇宙和 Apple Podcast，每日更新。（[@alaskasquirrel](https://github.com/ruanyf/weekly/issues/2641) 供稿）
 
-3、[GTA V 猜猜看](https://gta-geoguesser.com/index.html/)
+3、[云安全资源汇总](https://wiki.teamssix.com/cloudsecurityresources/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092110.webp)
 
-一个很有创意的小游戏，它显示一张游戏《GTA V》的截图，让你在游戏地图上标出，这是哪个地点的截图。
+这个项目收集云安全领域的博客、公众号、文章、工具、书籍、视频等资源。（[@teamssix](https://github.com/ruanyf/weekly/issues/2635) 投稿）
 
-4、[学习 Python 内置函数](https://sadh.life/post/builtins/)
+4、[程序员音乐](https://musicforprogramming.net/latest/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070912.webp)
 
-一篇英语长文，逐一介绍 Python 的所有内置函数。
+一个另类的背景音乐网站，精选了一些歌曲和专辑，适合编程时当作背景音乐。它的界面完全采用字符终端样式。
 
-5、[Proof 维基](https://proofwiki.org/wiki/Main_Page)
+5、[编程字体](https://www.programmingfonts.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071013.webp)
 
-一个收集数学证明的维基网站，目前收集了2万多个数学定理的证明。
+这个网站提供了近百种编程字体，可以切换查看效果，以供选择。
 
 
 <!-- End -->
 
 
 专业服务还是方便和便宜一点。
-
-
-<!-- End -->
 
 
