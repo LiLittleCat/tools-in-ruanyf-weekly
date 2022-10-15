@@ -10,98 +10,99 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>225</currentVersion> -->
+<!-- <currentVersion>226</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](https://github.com/ruanyf/weekly/blob/master/docs/issue-225.md)
+# [科技爱好者周刊（第 226 期）：谷歌出了什么问题？](https://github.com/ruanyf/weekly/blob/master/docs/issue-226.md)
 ### 工具
 
 
-1、[Certificate Ripper](https://github.com/Hakky54/certificate-ripper)
+1、[Lyra](https://lyrasearch.io/)
 
-一个命令行工具，用来获取网站的 HTTPS 证书。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080204.webp)
 
-2、[ctop](https://github.com/bcicen/ctop)
+一个 TypeScript 写的全文搜索引擎，所有数据都放在内存里面，相当于一个功能比较强的 JavaScript 的搜索库，但是我不确定是否支持中文。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060509.webp)
+2、[Fleet](https://www.jetbrains.com/fleet/)
 
-一个容器的终端监控界面，监控容器的运行状况，就像是容器的 top 命令。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101316.webp)
 
-3、[Bottle](https://usebottles.com/)
+JetBrains 公司的下一代 IDE，号称具有 IntelliJ 的代码处理引擎，但是架构和 UI 进行了重新设计，目前免费使用。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060801.webp)
+3、[Make-A-Video](https://makeavideo.studio/)
 
-一个在 Linux 上运行 Windows 软件的工具，主要用于运行游戏。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093003.webp)
 
-4、[Umbrel](https://umbrel.com/)
+Meta 公司发布的工具，可以根据输入的文本，自动生成一段视频，比如“奔跑的一群马”。类似的工具还有 [Phenaki](https://phenaki.video/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060803.webp)
+4、[Pagefind](https://pagefind.app/)
 
-个人服务器的操作系统，把常用工具做在一个启动页里面，主要用在树莓派。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080207.webp)
 
-5、[Fighting Design](https://fighting.tianyuhao.cn/)
+一个静态全文搜索工具，专供静态网站使用，不需要服务器就能完成全站搜索，参见[介绍文章](https://cloudcannon.com/blog/introducing-pagefind/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092901.webp)
+5、[Howdz Dashboard](https://github.com/leon-kfd/Dashboard)
 
-一款个人开发者打造的 Vue3 组件库，已经有相当的规模了。（[@Tyh2001](https://github.com/ruanyf/weekly/issues/2651) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101011.webp)
 
-6、[NetGuard](https://netguard.me/)
+一个开源的浏览器插件，可以自定义浏览器的起始页。（[@leon-kfd](https://github.com/ruanyf/weekly/issues/2673) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060903.webp)
+6、[MusicFree](https://github.com/maotoumao/MusicFree)
 
-一个免费的安卓防火墙，不需要 root 就能使用，可以让某个 App 无法使用 WiFi 或流量。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101012.webp)
 
-7、[V2exOS](https://github.com/isaced/V2exOS)
+一个开源的安卓平台免费音乐播放器，使用 React Native 编写，支持自定义插件。（[@maotoumao](https://github.com/ruanyf/weekly/issues/2674) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092906.webp)
+7、[pcl.js](https://pcljs.org/zh-cn/)
 
-一个用 SwiftUI 编写的 V2ex macOS 客户端。（[@isaced](https://github.com/ruanyf/weekly/issues/2663) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101013.webp)
 
-8、[redis-shake](https://github.com/alibaba/RedisShake)
+这个工具将大型 C++ 库 Point Cloud Library (PCL) 编译为 WebAssembly，运行在浏览器中，供 JavaScript 调用。它实现了大量相关的通用算法和数据结构，涉及点云获取、滤波、特征提取、识别、可视化等功能。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/2676) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092905.webp)
+8、[OneDev](https://github.com/theonedev/onedev)
 
-阿里巴巴开源的工具，用于 Redis 实例间数据迁移与清洗。（[@suxb201](https://github.com/ruanyf/weekly/issues/2661) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080304.webp)
 
-9、[ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
+一个自托管的 Git 服务器，类似于开源的 GitHub/GitLab，自带 CI/CD 和看板功能。
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060904.webp)
+9、[Stormah](https://stormah.com/)
 
-ffmpeg 以参数复杂而闻名，这个网页应用让用户填写几个文本框，自动生成对应的 ffmpeg 命令。
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061614.webp)
 
-10、[giscus](https://giscus.app/zh-CN)
+一个简易的网页笔记，可以指定远程 Git 仓库作为后端。你在浏览器里做笔记，储存到远程的 Git 仓库。
 
-一个由 GitHub 讨论区驱动的网站评论系统，用户在你的网站上留下评论，数据会存在 GitHub 讨论区。
+10、[NoSleep.js](https://github.com/richtr/NoSleep.js)
+
+这个 JS 库可以让手机不进入休眠状态，网页窗口始终亮屏，原理是在页面插入一段不可见的、一直在播放的视频，代价是增加 CPU 负载和耗电。
 
 
 ### 资源
 
 
-1、[编程竞赛的常见算法](https://cp-algorithms.com/graph/strongly-connected-components.html)（Algorithms for Competitive Programming）
+1、[识典古籍](https://www.shidianguji.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101320.webp)
 
-这是一本免费的英文电子书，逐一讲解编程竞赛里面常见的几十种算法，求职面试也用得到。
+北京大学和抖音公益合作的古籍数字化平台。目前可免费搜索390部经典古籍，共计3000多万字。未来三年将陆续完成一万种古籍的智能化整理工作。
 
-2、[相机曝光模拟器](http://www.canonoutsideofauto.ca/play/)
+2、[程序员的实用深度学习](https://course.fast.ai/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072201.webp)
 
-一个网页模拟器，调整镜头的光圈、快门和ISO，得到不同的曝光照片，帮助新人理解曝光三要素。（[@meq1986](https://github.com/ruanyf/weekly/issues/2649) 投稿）
+fast.ai 推出的最新线上公开课，向程序员介绍如何做一个深度学习项目，有视频和详细的课程资料，另有[课程仓库](https://github.com/fastai/course22/)。
 
-3、[数据库排名](https://db-engines.com/en/ranking)
+3、[马斯克聊天](https://danluu.com/elon-twitter-texts/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100701.webp)
 
-这个网站根据数据库的流行程度，对数据库软件进行排名。
+马斯克与推特公司的收购案，闹上了法院。这个网页整理了，法院公布的马斯克私聊记录，内容很多，看看富人聊什么，挺有意思。
 
-4、[墨西哥湾洋流](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
+4、[AI 播客](https://podcast.ai/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101106.webp)
 
-《纽约时报》的长篇可视化作品，介绍墨西哥湾洋流的影响，制作得非常精美。
+国外网友用 AI 生成了一段播客，著名主持人采访乔布斯，两个人对谈了20分钟，非常逼真，详情参考[这篇文章](https://www.qbitai.com/2022/10/38588.html)。
 
-5、[fasteR](https://github.com/matloff/fasteR)
+以后，媒体的很多视听内容，可能都会用 AI 生成。
 
-这个仓库是 R 语言学习教程，有大量示例。
 
 <!-- End -->
