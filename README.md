@@ -10,97 +10,105 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>226</currentVersion> -->
+<!-- <currentVersion>227</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 226 期）：谷歌出了什么问题？](https://github.com/ruanyf/weekly/blob/master/docs/issue-226.md)
+# [科技爱好者周刊（第 227 期）：脸书的公司入职教育](https://github.com/ruanyf/weekly/blob/master/docs/issue-227.md)
 ### 工具
 
 
-1、[Lyra](https://lyrasearch.io/)
+1、[mCaptcha](https://mcaptcha.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080607.webp)
 
-一个 TypeScript 写的全文搜索引擎，所有数据都放在内存里面，相当于一个功能比较强的 JavaScript 的搜索库，但是我不确定是否支持中文。
+一个开源的网络机器人识别工具（captcha），带有前端和后端。它的原理是工作量证明，如果对方发出大量请求，将不得不耗费大量计算资源。
 
-2、[Fleet](https://www.jetbrains.com/fleet/)
+2、[Replit App](https://blog.replit.com/mobile-app)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101316.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102003.webp)
 
-JetBrains 公司的下一代 IDE，号称具有 IntelliJ 的代码处理引擎，但是架构和 UI 进行了重新设计，目前免费使用。
+Replit 是基于浏览器的 IDE，本周推出了手机 App，让你可以在手机上开发软件。
 
-3、[Make-A-Video](https://makeavideo.studio/)
+3、[Froebel](https://github.com/MathisBullinger/froebel)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093003.webp)
+一个 TypeScript 写的工具函数库（help library），类似于 Lodash，特点是严格强调类型正确，在 Deno 和 npm 都可以使用。
 
-Meta 公司发布的工具，可以根据输入的文本，自动生成一段视频，比如“奔跑的一群马”。类似的工具还有 [Phenaki](https://phenaki.video/)。
+4、[Domain Admin](https://github.com/mouday/domain-admin)
 
-4、[Pagefind](https://pagefind.app/)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080207.webp)
+开源的域名 SSL 证书监测平台，可以自己搭建，监控 SSL 证书，到期自动邮件提醒。（[@mouday](https://github.com/ruanyf/weekly/issues/2679) 投稿）
 
-一个静态全文搜索工具，专供静态网站使用，不需要服务器就能完成全站搜索，参见[介绍文章](https://cloudcannon.com/blog/introducing-pagefind/)。
+5、[Wolfia](https://www.wolfia.com/)
 
-5、[Howdz Dashboard](https://github.com/leon-kfd/Dashboard)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101011.webp)
+这个服务的想法很好，用户上传一个安卓 App，网站会在后台新建一个安卓虚拟机，运行这个 App，让用户通过网页使用。
 
-一个开源的浏览器插件，可以自定义浏览器的起始页。（[@leon-kfd](https://github.com/ruanyf/weekly/issues/2673) 投稿）
+6、[vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-6、[MusicFree](https://github.com/maotoumao/MusicFree)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101910.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101012.webp)
+开源的、基于 fabric.js 和 Vue 的图片编辑器，可自定义字体、素材、设计模板。（[@nihaojob](https://github.com/ruanyf/weekly/issues/2688) 投稿）
 
-一个开源的安卓平台免费音乐播放器，使用 React Native 编写，支持自定义插件。（[@maotoumao](https://github.com/ruanyf/weekly/issues/2674) 投稿）
+7、[HTTPie](https://httpie.io/app)
 
-7、[pcl.js](https://pcljs.org/zh-cn/)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081002.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101013.webp)
+API 调试工具 HTTPie 推出的网页版。
 
-这个工具将大型 C++ 库 Point Cloud Library (PCL) 编译为 WebAssembly，运行在浏览器中，供 JavaScript 调用。它实现了大量相关的通用算法和数据结构，涉及点云获取、滤波、特征提取、识别、可视化等功能。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/2676) 投稿）
+8、[TAURI](https://tauri.app/)
 
-8、[OneDev](https://github.com/theonedev/onedev)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080304.webp)
+Electron 的替代品，用来制作跨平台的桌面应用，使用 Rust 语言开发。它采用各平台自带的 WebView，缺点是支持的 Web API 会比较少，优点是打包产物体积小。
 
-一个自托管的 Git 服务器，类似于开源的 GitHub/GitLab，自带 CI/CD 和看板功能。
+9、[ReadySet Core](https://readyset.io/blog/readyset-core)
 
-9、[Stormah](https://stormah.com/)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061614.webp)
+一个免费的云服务，提供 SQL 缓存，可以放在数据库的前面，它会缓存每一条 SQL 查询。
 
-一个简易的网页笔记，可以指定远程 Git 仓库作为后端。你在浏览器里做笔记，储存到远程的 Git 仓库。
+10、[Tailwind DX](https://gimli.app/tailwinddx.html)
 
-10、[NoSleep.js](https://github.com/richtr/NoSleep.js)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061903.webp)
 
-这个 JS 库可以让手机不进入休眠状态，网页窗口始终亮屏，原理是在页面插入一段不可见的、一直在播放的视频，代价是增加 CPU 负载和耗电。
+Chrome 开发者工具的插件，用来增强 Tailwind CSS 的调试。
 
 
 ### 资源
 
 
-1、[识典古籍](https://www.shidianguji.com/)
+1、[Freehand 意绘](https://freehand.yunwooo.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101320.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101901.webp)
 
-北京大学和抖音公益合作的古籍数字化平台。目前可免费搜索390部经典古籍，共计3000多万字。未来三年将陆续完成一万种古籍的智能化整理工作。
+Stable Diffusion 模型的一个中文化版本，简化了参数和操作步骤，方便中文用户使用。可以根据中文描述生成图片，不过可能因为资源不足，响应很慢。（[@TandK8600](https://github.com/ruanyf/weekly/issues/2678) 投稿）
 
-2、[程序员的实用深度学习](https://course.fast.ai/)
+2、[Four Tet](https://open.spotify.com/playlist/2uzbATYxs9V8YQi5lf89WG)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072308.webp)
 
-fast.ai 推出的最新线上公开课，向程序员介绍如何做一个深度学习项目，有视频和详细的课程资料，另有[课程仓库](https://github.com/fastai/course22/)。
+Spotify 歌单，由[一个英国音乐制作人](https://pitchfork.com/thepitch/four-tet-on-his-155-hour-spotify-playlist-the-coolest-thing-on-streaming/)创建。他不停往里面添加歌曲，目前已经有1860首歌，可以播放155小时，不少是很古怪的音乐。
 
-3、[马斯克聊天](https://danluu.com/elon-twitter-texts/)
+3、[AI 绘画资料](https://github.com/hua1995116/awesome-ai-painting)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100701.webp)
+这个中文仓库收集 AI 图片生成引擎的各种资料。（[@hua1995116](https://github.com/ruanyf/weekly/issues/2681) 投稿）
 
-马斯克与推特公司的收购案，闹上了法院。这个网页整理了，法院公布的马斯克私聊记录，内容很多，看看富人聊什么，挺有意思。
+4、[Famnom](https://www.famnom.com/)
 
-4、[AI 播客](https://podcast.ai/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072402.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101106.webp)
+一个食品营养数据库，可以查询食物热量，只支持英语查询。它的数据来自[美国农业部](https://fdc.nal.usda.gov/fdc-app.html)。
 
-国外网友用 AI 生成了一段播客，著名主持人采访乔布斯，两个人对谈了20分钟，非常逼真，详情参考[这篇文章](https://www.qbitai.com/2022/10/38588.html)。
+5、[谷歌拼图](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072816.webp)
+
+谷歌推出的网页的拼图小游戏，支持多人一起拼。
+
+
+<!-- End -->
+ps://www.qbitai.com/2022/10/38588.html)。
 
 以后，媒体的很多视听内容，可能都会用 AI 生成。
 
