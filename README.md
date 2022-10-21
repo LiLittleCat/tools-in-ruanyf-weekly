@@ -106,11 +106,4 @@ Spotify 歌单，由[一个英国音乐制作人](https://pitchfork.com/thepitch
 
 谷歌推出的网页的拼图小游戏，支持多人一起拼。
 
-
-<!-- End -->
-ps://www.qbitai.com/2022/10/38588.html)。
-
-以后，媒体的很多视听内容，可能都会用 AI 生成。
-
-
 <!-- End -->
