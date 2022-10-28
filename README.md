@@ -10,100 +10,119 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>227</currentVersion> -->
+<!-- <currentVersion>228</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 227 期）：脸书的公司入职教育](https://github.com/ruanyf/weekly/blob/master/docs/issue-227.md)
+# [科技爱好者周刊（第 228 期）：人类和人生的意义](https://github.com/ruanyf/weekly/blob/master/docs/issue-228.md)
 ### 工具
 
 
-1、[mCaptcha](https://mcaptcha.org/)
+1、[Turbopack](https://turbo.build/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080607.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102603.webp)
 
-一个开源的网络机器人识别工具（captcha），带有前端和后端。它的原理是工作量证明，如果对方发出大量请求，将不得不耗费大量计算资源。
+Vercel 公司发布新一代打包器 Turbopack，号称比 Webpack 快700倍，比 Vite 快10倍。
 
-2、[Replit App](https://blog.replit.com/mobile-app)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102604.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102003.webp)
+而且，它还出自 Webpack 作者之手，Vercel 聘请了他来领导这个项目。
 
-Replit 是基于浏览器的 IDE，本周推出了手机 App，让你可以在手机上开发软件。
+Turopack 可以看作是 Rust 语言重写的 Webpack，目前还处于初期，后面有计划支持兼容 Webpack 插件。看来 Webpack 真的要退出历史舞台了。 ​​​
 
-3、[Froebel](https://github.com/MathisBullinger/froebel)
+2、[Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-一个 TypeScript 写的工具函数库（help library），类似于 Lodash，特点是严格强调类型正确，在 Deno 和 npm 都可以使用。
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050707.webp)
 
-4、[Domain Admin](https://github.com/mouday/domain-admin)
+Linux 平台的一个变声器软件，可以把你的声音变成男声、女声、播音员等等。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101902.webp)
+3、[HyperUI](https://www.hyperui.dev/)
 
-开源的域名 SSL 证书监测平台，可以自己搭建，监控 SSL 证书，到期自动邮件提醒。（[@mouday](https://github.com/ruanyf/weekly/issues/2679) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050711.webp)
 
-5、[Wolfia](https://www.wolfia.com/)
+一个 Tailwind CSS 组件库。如果你不清楚 Tailwind CSS 的那些类名应该怎么搭配，可以看看这个库。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081001.webp)
+4、[OneMark](https://onemark.neuxlab.cn/)
 
-这个服务的想法很好，用户上传一个安卓 App，网站会在后台新建一个安卓虚拟机，运行这个 App，让用户通过网页使用。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102701.webp)
 
-6、[vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+微软的免费笔记软件 OneNote 的 Markdown 插件，可以用 Markdown 语法输入笔记，参见[介绍文章](https://sspai.com/post/76228)。（[@WeiXinLee](https://github.com/ruanyf/weekly/issues/2699) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101910.webp)
+5、[base2048](https://github.com/qntm/base2048)
 
-开源的、基于 fabric.js 和 Vue 的图片编辑器，可自定义字体、素材、设计模板。（[@nihaojob](https://github.com/ruanyf/weekly/issues/2688) 投稿）
+一个 JS 库，将 Base64 扩展到了2048个字符，从而使得二进制数据，可以转成非常短的字符串。
 
-7、[HTTPie](https://httpie.io/app)
+6、**积木头像**
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102706.webp)
 
-API 调试工具 HTTPie 推出的网页版。
+一个微信小程序（搜索“积木头像”），可以生成 notion 风格头像，支持各个部位的定制和背景色。([@bimohxh](https://github.com/ruanyf/weekly/issues/2705) 投稿)
 
-8、[TAURI](https://tauri.app/)
+7、[checkmake](https://github.com/mrtazz/checkmake)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061904.webp)
+一个检查 Makefile 文件有没有错误的工具。
 
-Electron 的替代品，用来制作跨平台的桌面应用，使用 Rust 语言开发。它采用各平台自带的 WebView，缺点是支持的 Web API 会比较少，优点是打包产物体积小。
+8、[Criterion](https://github.com/Snaipe/Criterion)
 
-9、[ReadySet Core](https://readyset.io/blog/readyset-core)
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022312.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061902.webp)
+C/C++ 的单元测试框架。
 
-一个免费的云服务，提供 SQL 缓存，可以放在数据库的前面，它会缓存每一条 SQL 查询。
+9、[DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote&hl=en_US&gl=US)
 
-10、[Tailwind DX](https://gimli.app/tailwinddx.html)
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032012.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061903.webp)
+一个安卓应用，内置 SSH 客户端，可以登陆服务器，以图形展示服务器的实时状态。
 
-Chrome 开发者工具的插件，用来增强 Tailwind CSS 的调试。
+10、[craiyon](https://www.craiyon.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102707.webp)
+
+开源 AI 绘图引擎 [DALL·E mini](https://github.com/borisdayma/dalle-mini) 改名后的样子，根据文本生成图像，免费使用。特点是速度比较快（不超过2分钟），效果也不错。
 
 
 ### 资源
 
 
-1、[Freehand 意绘](https://freehand.yunwooo.com/)
+1、[折纸教程](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102404.webp)
 
-Stable Diffusion 模型的一个中文化版本，简化了参数和操作步骤，方便中文用户使用。可以根据中文描述生成图片，不过可能因为资源不足，响应很慢。（[@TandK8600](https://github.com/ruanyf/weekly/issues/2678) 投稿）
+日本折纸大师藤本修三（1922–2015）写的五本折纸教程，现在由他后人放入公共领域，全部可以免费下载。
 
-2、[Four Tet](https://open.spotify.com/playlist/2uzbATYxs9V8YQi5lf89WG)
+下面就是藤本修三的一些折纸作品。如果家里有小朋友，可以用作手工教材。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072308.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102405.webp)
 
-Spotify 歌单，由[一个英国音乐制作人](https://pitchfork.com/thepitch/four-tet-on-his-155-hour-spotify-playlist-the-coolest-thing-on-streaming/)创建。他不停往里面添加歌曲，目前已经有1860首歌，可以播放155小时，不少是很古怪的音乐。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102406.webp)
 
-3、[AI 绘画资料](https://github.com/hua1995116/awesome-ai-painting)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102407.webp)
 
-这个中文仓库收集 AI 图片生成引擎的各种资料。（[@hua1995116](https://github.com/ruanyf/weekly/issues/2681) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102408.webp)
 
-4、[Famnom](https://www.famnom.com/)
+2、[AI 自拍](https://www.strmr.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072402.webp)
+用户向该网站上传5～10张自拍照，它就会用 AI 模型生成一张很帅的自拍。下图是原始素材和模型生成的自拍。
 
-一个食品营养数据库，可以查询食物热量，只支持英语查询。它的数据来自[美国农业部](https://fdc.nal.usda.gov/fdc-app.html)。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102606.webp)
 
-5、[谷歌拼图](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102607.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072816.webp)
+3、[TLS 1.3 图解](https://tls13.xargs.org/)
 
-谷歌推出的网页的拼图小游戏，支持多人一起拼。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080405.webp)
+
+作者使用图片，详细解释新版本的 TLS 1.3 协议的每个步骤和每个字节的含义。
+
+4、[Quick Reference](https://wangchujiang.com/reference/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102705.webp)
+
+该网站收集了各种编程语言和工具的速查表，带有[源码仓库](https://github.com/jaywcjlove/reference)。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/2704) 投稿）
+
+5、[图形和游戏开发的 3D 数学入门](https://gamemath.com/book/intro.html)（3D Math Primer for Graphics and Game Development）
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052306.webp)
+
+免费阅读的英文教程，介绍 3D 图形软件开发所需要的数学知识。
+
 
 <!-- End -->
