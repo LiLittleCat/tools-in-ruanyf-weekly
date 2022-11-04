@@ -10,117 +10,111 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>228</currentVersion> -->
+<!-- <currentVersion>229</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 228 期）：人类和人生的意义](https://github.com/ruanyf/weekly/blob/master/docs/issue-228.md)
+# [科技爱好者周刊（第 229 期）：手机充电问题的解决](https://github.com/ruanyf/weekly/blob/master/docs/issue-229.md)
 ### 工具
 
 
-1、[Turbopack](https://turbo.build/)
+1、[SourceHut](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022103103.webp)
 
-Vercel 公司发布新一代打包器 Turbopack，号称比 Webpack 快700倍，比 Vite 快10倍。
+SourceHut 可能是最值得信赖的代码托管服务。它最近更新了服务条款，宣布了两个变更。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102604.webp)
+1）删除托管的加密货币和区块链项目，“因为这些项目只用来收割穷人和非法交易。”
 
-而且，它还出自 Webpack 作者之手，Vercel 聘请了他来领导这个项目。
+2）关闭美国办公室，从此不要求用户遵守美国法律。
 
-Turopack 可以看作是 Rust 语言重写的 Webpack，目前还处于初期，后面有计划支持兼容 Webpack 插件。看来 Webpack 真的要退出历史舞台了。 ​​​
+2、[SQLite3 WASM](https://sqlite.org/wasm/doc/ckout/index.md)
 
-2、[Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110316.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050707.webp)
+SQLite 官方的 wasm 项目终于来了，方便了以后网页调用 SQLite 数据库。
 
-Linux 平台的一个变声器软件，可以把你的声音变成男声、女声、播音员等等。
+3、[ravynOS](https://ravynos.com/)
 
-3、[HyperUI](https://www.hyperui.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081810.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050711.webp)
+大家知道，MacOS 是基于 FreeBSD 开发的。 ravynOS 这个项目就是想创造一个尽可能像 MacOS 的 FreeBSD 分支，但是完全开源。
 
-一个 Tailwind CSS 组件库。如果你不清楚 Tailwind CSS 的那些类名应该怎么搭配，可以看看这个库。
+4、[Colorize Pictures](https://palette.fm/)
 
-4、[OneMark](https://onemark.neuxlab.cn/)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102708.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102701.webp)
+使用 AI 模型为黑白照片上色，有多种风格可以选择。另一个类似服务是 [DeOldify](https://github.com/jantic/DeOldify)（下图）。
 
-微软的免费笔记软件 OneNote 的 Markdown 插件，可以用 Markdown 语法输入笔记，参见[介绍文章](https://sspai.com/post/76228)。（[@WeiXinLee](https://github.com/ruanyf/weekly/issues/2699) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082301.webp)
 
-5、[base2048](https://github.com/qntm/base2048)
+5、[sttr](https://github.com/abhimanyu003/sttr)
 
-一个 JS 库，将 Base64 扩展到了2048个字符，从而使得二进制数据，可以转成非常短的字符串。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081820.webp)
 
-6、**积木头像**
+一个跨平台的命令行工具，用途是提供尽可能多的字符串相关操作，比如计算字数、MD5 哈希、提取 Email 地址等等。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102706.webp)
+6、[ntfy](https://ntfy.sh/)
 
-一个微信小程序（搜索“积木头像”），可以生成 notion 风格头像，支持各个部位的定制和背景色。([@bimohxh](https://github.com/ruanyf/weekly/issues/2705) 投稿)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081901.webp)
 
-7、[checkmake](https://github.com/mrtazz/checkmake)
+一个开源的 pub-sub 通知服务，你可以用它向手机和桌面电脑推送消息。类似的工具还有 [Gotify](https://gotify.net/)。
 
-一个检查 Makefile 文件有没有错误的工具。
+7、[NeatChart](https://neatchart.io/)
 
-8、[Criterion](https://github.com/Snaipe/Criterion)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022312.webp)
+一个 Windows 桌面软件，用来将 CSV 格式转成条形图，特色是底层使用了 Unreal Engine 5 引擎，视觉效果应该非常强大。
 
-C/C++ 的单元测试框架。
+8、[Crawlee](https://crawlee.dev/)
 
-9、[DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote&hl=en_US&gl=US)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032012.webp)
+一个 Node.js 的网页抓取和浏览器自动化库，底层包装了无头浏览器 Playwright，功能比较多。
 
-一个安卓应用，内置 SSH 客户端，可以登陆服务器，以图形展示服务器的实时状态。
+9、[Nolibox Creator](https://creator.nolibox.com/guest)
 
-10、[craiyon](https://www.craiyon.com/)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110307.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102707.webp)
-
-开源 AI 绘图引擎 [DALL·E mini](https://github.com/borisdayma/dalle-mini) 改名后的样子，根据文本生成图像，免费使用。特点是速度比较快（不超过2分钟），效果也不错。
+这个[开源项目](https://github.com/carefree0910/carefree-creator)为 Stable Diffusion 模型提供一个好用的 WebUI，各种参数都可以调整。
 
 
 ### 资源
 
 
-1、[折纸教程](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
+1、[刘拓的照片](https://mp.weixin.qq.com/s/CwJHo3iLOkOwGz--vFxYPg)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102404.webp)
+2021年10月26日，北京大学考古文博学院博士[刘拓](https://www.thehour.cn/news/551673.html)，在四川马尔康市甲扎尔甲山考察洞窟壁画时，不幸坠崖去世，终年31岁。
 
-日本折纸大师藤本修三（1922–2015）写的五本折纸教程，现在由他后人放入公共领域，全部可以免费下载。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110303.webp)
 
-下面就是藤本修三的一些折纸作品。如果家里有小朋友，可以用作手工教材。
+他生前探访过三十多个国家的古迹，其中包括伊拉克、阿富汗、叙利亚、巴勒斯坦、利比亚、也门、苏丹、沙特、伊朗等许多不容易到达的地方。他拍摄了上百万张照片，总计有十几个 TB，1.5万个目录。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110304.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102406.webp)
+在他逝世一周年的纪念日，他的家人和朋友将这些照片整理出来，放在网盘上，免费分享给需要它们的人。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102407.webp)
+> “刘拓深切地了解文物勘查的必要性与急迫性，以及这一过程的不可替代性，我们相信，那些因为他的努力在消失前被留存下来的影像被传承和研究的时候，他会一直被人记起。”
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102408.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110305.webp)
 
-2、[AI 自拍](https://www.strmr.com/)
+2、[新版 iCloud](https://beta.icloud.com/)
 
-用户向该网站上传5～10张自拍照，它就会用 AI 模型生成一张很帅的自拍。下图是原始素材和模型生成的自拍。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102606.webp)
+苹果上周发布了新版的云存储 iCloud 服务，现在没有苹果设备的人，也可以使用它了。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102607.webp)
+3、[Windows 11 加固指南](https://github.com/beerisgood/Windows11_Hardening)
 
-3、[TLS 1.3 图解](https://tls13.xargs.org/)
+这个英文仓库收集各种提高 Windows 11 安全性的措施。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080405.webp)
+4、[Flask 超级教程](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)（The Flask Mega-Tutorial）
 
-作者使用图片，详细解释新版本的 TLS 1.3 协议的每个步骤和每个字节的含义。
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053113.webp)
 
-4、[Quick Reference](https://wangchujiang.com/reference/)
+免费阅读的英文电子书，帮助读者学习如何使用 Python 和 Flask 框架创建 Web 应用程序。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102705.webp)
 
-该网站收集了各种编程语言和工具的速查表，带有[源码仓库](https://github.com/jaywcjlove/reference)。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/2704) 投稿）
-
-5、[图形和游戏开发的 3D 数学入门](https://gamemath.com/book/intro.html)（3D Math Primer for Graphics and Game Development）
-
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052306.webp)
+<!-- End -->
+205/bg2022052306.webp)
 
 免费阅读的英文教程，介绍 3D 图形软件开发所需要的数学知识。
 
