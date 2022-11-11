@@ -10,107 +10,107 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>229</currentVersion> -->
+<!-- <currentVersion>230</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 229 期）：手机充电问题的解决](https://github.com/ruanyf/weekly/blob/master/docs/issue-229.md)
+# [科技爱好者周刊（第 230 期）：电子产品的用电量](https://github.com/ruanyf/weekly/blob/master/docs/issue-230.md)
 ### 工具
 
 
-1、[SourceHut](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
+1、[Upscayl](https://github.com/upscayl/upscayl)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022103103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082909.webp)
 
-SourceHut 可能是最值得信赖的代码托管服务。它最近更新了服务条款，宣布了两个变更。
+一个开源软件，可以将图片从低分辨率变成高分辨率，变得更清晰。
 
-1）删除托管的加密货币和区块链项目，“因为这些项目只用来收割穷人和非法交易。”
+2、[CodeGeeX](https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html)
 
-2）关闭美国办公室，从此不要求用户遵守美国法律。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111006.webp)
 
-2、[SQLite3 WASM](https://sqlite.org/wasm/doc/ckout/index.md)
+一个国产的代码生成的人工智能工具，跟 GitHub Copilot 类似，可以将一种语言的代码翻译成另一种，并提供 VS Code 插件。（[@jues](https://github.com/ruanyf/weekly/issues/2717) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110316.webp)
+3、[Lama Cleaner](https://github.com/Sanster/lama-cleaner)
 
-SQLite 官方的 wasm 项目终于来了，方便了以后网页调用 SQLite 数据库。
+一个开源的 AI 工具，可以从图片上擦除任何不需要的物体。（[@willshion](https://github.com/ruanyf/weekly/issues/2721) 投稿）
 
-3、[ravynOS](https://ravynos.com/)
+4、[vtui-npm](https://github.com/webfansplz/vtui-npm)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081810.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111009.webp)
 
-大家知道，MacOS 是基于 FreeBSD 开发的。 ravynOS 这个项目就是想创造一个尽可能像 MacOS 的 FreeBSD 分支，但是完全开源。
+一个命令行工具，可以互动式搜索和安装各种 JS 的 npm 模块。（[@webfansplz](https://github.com/ruanyf/weekly/issues/2731) 投稿）
 
-4、[Colorize Pictures](https://palette.fm/)
+5、[watching-you](https://github.com/jj811208/watching-you)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111010.webp)
 
-使用 AI 模型为黑白照片上色，有多种风格可以选择。另一个类似服务是 [DeOldify](https://github.com/jantic/DeOldify)（下图）。
+一个 JS 动画库，可以设定所要观察的 DOM 元素，从而形成一种互动效果，好像页面正在注视用户的操作。（[@jj811208](https://github.com/ruanyf/weekly/issues/2729) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082301.webp)
+6、[Sonic](https://github.com/go-sonic/sonic/blob/master/doc/README_ZH.md)
 
-5、[sttr](https://github.com/abhimanyu003/sttr)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111011.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081820.webp)
+一个 Go 语言开发的博客平台，支持 Linux/Windows/MacOS，系统资源占用小，自带管理后台。（[@1379](https://github.com/ruanyf/weekly/issues/2736) 投稿）
 
-一个跨平台的命令行工具，用途是提供尽可能多的字符串相关操作，比如计算字数、MD5 哈希、提取 Email 地址等等。
+7、[Netease Recent Profile](https://github.com/zonemeen/netease-recent-profile)
 
-6、[ntfy](https://ntfy.sh/)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111012.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081901.webp)
+这个开源工具可以将你的网易云音乐的听歌记录生成一张 SVG 图片，插入网页。（[@zonemeen](https://github.com/ruanyf/weekly/issues/2735) 投稿）
 
-一个开源的 pub-sub 通知服务，你可以用它向手机和桌面电脑推送消息。类似的工具还有 [Gotify](https://gotify.net/)。
+8、[Bun](https://bun.sh/)
 
-7、[NeatChart](https://neatchart.io/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070604.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082001.webp)
+一个 JS/TS 的服务器运行环境，兼容 Node.js 的所有 API，完全是从头实现的，运行速度大大快于 Node.js。
 
-一个 Windows 桌面软件，用来将 CSV 格式转成条形图，特色是底层使用了 Unreal Engine 5 引擎，视觉效果应该非常强大。
+9、[IPFS 上传网关](https://ipfs-gateway.cloud/)
 
-8、[Crawlee](https://crawlee.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082305.webp)
+这个网站是 IPFS 的上传入口，它提供免费的存储空间。理论上，一旦上传到 IPFS，文件就永久存在于互联网，无法删除也无法修改。
 
-一个 Node.js 的网页抓取和浏览器自动化库，底层包装了无头浏览器 Playwright，功能比较多。
+10、[LocalStack](https://github.com/localstack/localstack)
 
-9、[Nolibox Creator](https://creator.nolibox.com/guest)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110307.webp)
-
-这个[开源项目](https://github.com/carefree0910/carefree-creator)为 Stable Diffusion 模型提供一个好用的 WebUI，各种参数都可以调整。
+一个开源的亚马逊云服务模拟品，你可以在本机架设离线服务，测试你的云程序。
 
 
 ### 资源
 
 
-1、[刘拓的照片](https://mp.weixin.qq.com/s/CwJHo3iLOkOwGz--vFxYPg)
+1、[Postgres 练习场](https://www.crunchydata.com/developers/tutorials)
 
-2021年10月26日，北京大学考古文博学院博士[刘拓](https://www.thehour.cn/news/551673.html)，在四川马尔康市甲扎尔甲山考察洞窟壁画时，不幸坠崖去世，终年31岁。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110303.webp)
+这个网站提供一个在线的 Postgres 数据库练习环境，可以在网页上加载数据库，执行 SQL 命令，参见[介绍文章](https://www.crunchydata.com/blog/learn-postgres-at-the-playground)。
 
-他生前探访过三十多个国家的古迹，其中包括伊拉克、阿富汗、叙利亚、巴勒斯坦、利比亚、也门、苏丹、沙特、伊朗等许多不容易到达的地方。他拍摄了上百万张照片，总计有十几个 TB，1.5万个目录。
+2、[IconGo](https://icongo.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110304.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111007.webp)
 
-在他逝世一周年的纪念日，他的家人和朋友将这些照片整理出来，放在网盘上，免费分享给需要它们的人。
+开源的图标搜索引擎。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/2724) 投稿）
 
-> “刘拓深切地了解文物勘查的必要性与急迫性，以及这一过程的不可替代性，我们相信，那些因为他的努力在消失前被留存下来的影像被传承和研究的时候，他会一直被人记起。”
+3、[SadServers](https://sadservers.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110305.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111008.webp)
 
-2、[新版 iCloud](https://beta.icloud.com/)
+一个[开源](https://github.com/fduran/sadservers)的 Linux 服务器管理题库。它会在浏览器里面创建服务器实例，让用户自己动手解决问题。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2726) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102901.webp)
+4、[全栈 Python](https://www.fullstackpython.com/)
 
-苹果上周发布了新版的云存储 iCloud 服务，现在没有苹果设备的人，也可以使用它了。
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022061606.webp)
 
-3、[Windows 11 加固指南](https://github.com/beerisgood/Windows11_Hardening)
+一本免费英文教程，适合已经学会 Python 语法的读者，参考它写一些真实应用（比如 Web 服务）。
 
-这个英文仓库收集各种提高 Windows 11 安全性的措施。
+5、[Unicode 混淆字符搜索](https://util.unicode.org/UnicodeJsps/confusables.jsp)
 
-4、[Flask 超级教程](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)（The Flask Mega-Tutorial）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053113.webp)
+很多 Unicode 字符的字形相近，容易混淆。这个工具可以搜索跟某个字符外形相似的其他字符，比如上图是不同的字符看上去都像是`c`。
 
-免费阅读的英文电子书，帮助读者学习如何使用 Python 和 Flask 框架创建 Web 应用程序。
+
+<!-- End -->
+使用 Python 和 Flask 框架创建 Web 应用程序。
 
 
 <!-- End -->
