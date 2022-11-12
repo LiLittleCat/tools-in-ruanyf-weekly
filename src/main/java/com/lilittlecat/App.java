@@ -1,17 +1,18 @@
 package com.lilittlecat;
 
+import cn.hutool.core.io.file.FileWriter;
 import cn.hutool.core.util.StrUtil;
-import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-import java.io.*;
+import java.io.File;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.charset.StandardCharsets;
 import java.util.Objects;
-import java.util.Properties;
 
 /**
  * @author LiLittleCat
@@ -33,7 +34,7 @@ public class App {
         try (
                 RandomAccessFile tools = new RandomAccessFile(dir + "/doc/工具.md", "rw");
                 RandomAccessFile resources = new RandomAccessFile(dir + "/doc/资源.md", "rw");
-                RandomAccessFile thisReadme = new RandomAccessFile(dir + "/README.md", "rw");
+                RandomAccessFile thisReadme = new RandomAccessFile(dir + "/README.md", "rw")
         ) {
             // Get current publish number
             OkHttpClient client = new OkHttpClient().newBuilder()
@@ -111,13 +112,17 @@ public class App {
                         + new String(toolsBuffer.array(), StandardCharsets.UTF_8)).getBytes(StandardCharsets.UTF_8)), 0);
                 resourcesChannel.write(ByteBuffer.wrap((currentResourcesContent
                         + new String(resourcesBuffer.array(), StandardCharsets.UTF_8)).getBytes(StandardCharsets.UTF_8)), 0);
+                toolsChannel.close();
+                resourcesChannel.close();
+                thisReadmeChannel.close();
                 // Update README.md
                 String begin = "<!-- Begin -->";
                 String end = "<!-- End -->";
                 oldReadme = oldReadme.replace("<currentVersion>" + oldNumber + "</currentVersion>",
                         "<currentVersion>" + currentPublishNumber + "</currentVersion>");
-                thisReadmeChannel.write(ByteBuffer.wrap((oldReadme.split(begin)[0] + begin + "\n" +
-                        currentReadmeContent + end + oldReadme.split(end)[1]).getBytes(StandardCharsets.UTF_8)), 0);
+                FileWriter fileWriter = FileWriter.create(new File(dir + "/README.md"));
+                fileWriter.write(oldReadme.split(begin)[0] + begin + "\n" +
+                        currentReadmeContent + end + oldReadme.split(end)[1]);
             }
 
         } catch (IOException e) {
