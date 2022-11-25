@@ -10,109 +10,103 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>231</currentVersion> -->
+<!-- <currentVersion>232</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](https://github.com/ruanyf/weekly/blob/master/docs/issue-231.md)
+# [科技爱好者周刊（第 232 期）：好用的平面设计软件](https://github.com/ruanyf/weekly/blob/master/docs/issue-232.md)
 ### 工具
 
 
-1、[VOCALOID 6](https://www.vocaloid.com/en/) 
+1、[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112410.webp)
 
-雅马哈公司发布的一个 AI 工具，会根据配乐和歌词自动演唱，也就是说，不需要歌手了。
+这是眼下最热门的 AI 作图模型，本周发布了[2.0版](https://stability.ai/blog/stable-diffusion-v2-release)。图片质量得到了提高，性能进行了优化。更重要的是，它只需要一个 GPU，家用 PC 就能运行。
 
-官方目前支持日文和英文，但是国内的公司已经开发出了中文声库，比如“星尘 infinity”声库。
+2、[Diffusion Bee](https://diffusionbee.com/)
 
-下面就是这个软件演唱的中文歌曲（[B 站](https://www.bilibili.com/video/BV1uP4y1g7c3/)，[Youtube](https://www.youtube.com/watch?v=GYSJYs7Blp0)），根本听不出是软件在唱歌。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091301.webp)
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=u336353v8te" allowFullScreen="true" width="600" height="400"></iframe>
+一个 MacOS 应用，将 Stable Diffusion 模型做成一个安装包，带有图形界面，号称是苹果电脑使用该模型的最容易方法。另有一个同类应用 [CHARL-E](https://www.charl-e.com/)，以及一个命令行应用 [ImaginAIry](https://github.com/brycedrennan/imaginAIry)。
 
-2、[Aerial](https://aerialscreensaver.github.io/)
+3、[SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090512.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112413.webp)
 
-一款免费的开源 Mac 屏幕保护程序，可以在电脑上播放 Apple tvOS 的屏保视频。
+谷歌发起的一个项目，任何人都可以提交芯片设计，由代工厂以130纳米制程做出来。它的主要目的是建立开源的芯片设计生态，取代目前的封闭生态，参见[介绍文章](https://asianometry.substack.com/p/googles-open-source-hardware-dreams)。
 
-3、[Sapling](https://sapling-scm.com/docs/introduction/getting-started/)
+4、[Grape](https://www.grape.codes/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111710.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091004.webp)
 
-Facebook（现在叫 Meta）内部使用的版本管理工具，最近[开源](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)了。它兼容 Git 协议，可以替代 git 的命令行客户端，用起来更简单和合理。
+这个工具提供一个 Web IDE，用于让用户演示代码操作。它可以把操作过程录制下来，像视频一样播放，但实际是一个小体积的脚本，便于分享和传播。
 
-4、[Draw Things: AI Generation](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820)
+5、[Tipi](https://github.com/meienberger/runtipi)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111112.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091101.webp)
 
-一个 iOS App，在苹果手机上（最好是最新型号）运行 Stable Diffusion 模型，根据文本描述生成图像，参见作者的[说明文章](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)。
+一个家庭服务器的管理界面，集成了许多服务（比如流媒体、代码托管、BT 下载等等）。只要点击一个服务，就会启动一个容器来运行它。
 
-5、[AutoCut](https://github.com/mli/autocut)
+6、[中科大测速网站](https://test.ustc.edu.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111727.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112402.webp)
 
-这是一个视频编辑软件，通过编辑字幕文件，完成视频剪切，适合课程/讲座类视频的编辑。如果视频没有字幕，也可以自动生成。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2743) 投稿）
+检测你的网速，代码[开源](https://github.com/bg6cq/speedtest)。（[@xcuYao](https://github.com/ruanyf/weekly/issues/2755) 投稿）
 
-6、[Aurora](https://github.com/linhaojun857/aurora)
+7、[PicHoro](https://github.com/Kuingsmile/PicHoro)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111724.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112403.webp)
 
-一个在校大学生开源的博客系统，后端基于 Java 的 Spring Boot，前端基于 Vue，自带管理后台。（[@linhaojun857](https://github.com/ruanyf/weekly/issues/2737) 投稿）
+手机端的图床管理和文件上传下载工具，用于将手机照片和文件上传到各种云存储服务，基于 Flutter。（[@Kuingsmile](https://github.com/ruanyf/weekly/issues/2756) 投稿）
 
-7、[MindShow.fun](https://www.mindshow.fun/)
+8、[ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111728.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091109.webp)
 
-免费的 Web 服务，根据大纲笔记的层级，自动生成幻灯片。可以选择主题和模板，直接在浏览器演示，也可以导出成 PDF。（[@huansixie6rj](https://github.com/ruanyf/weekly/issues/2744) 投稿）
+一个 SSH 服务器。用户使用 ssh 登陆时，它会自动启动一个容器，让用户登陆到这个容器里面，而不是登陆到底层机器，用户不会觉察。
 
-8、[xfrpc](https://github.com/liudf0716/xfrpc)
+9、[Ebook Reader](https://github.com/ttu-ttu/ebook-reader)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111729.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091110.webp)
 
-内网穿透工具 frp 的 C 语言客户端。原本的 frp 客户端使用 Go 语言，可执行文件较大，无法安装在路由器上，用 C 语言实现就可以了。（[@liudf0716](https://github.com/ruanyf/weekly/issues/2745) 投稿）
+一个开源的网页阅读器，用来阅读 EPUB 电子书。
 
-9、[Metaphor](https://metaphor.systems/)
+10、[wtf](https://github.com/dlenski/wtf)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111110.webp)
-
-一个搜索引擎，特点是使用 AI 的方式处理问题，所以可以搜索一些很奇怪的问题，比如“19世纪有什么类似马斯克那样的人物”。
-
-10、[Notesnook](https://notesnook.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090518.webp)
-
-一个开源的端对端加密的笔记服务，保证内容完全私密，即使泄漏也无法破解。它有 Web 端、桌面端、手机端。你可以用官方服务器，也可以自己架设服务器。
-
-11、**人生报告**
-
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111725.webp)
-
-一个微信小程序（微信搜索“人生报告”），将周刊224期介绍的 life-stats 改造成中文版。用户输入生日，它返回一些统计数字，比如心跳了多少次，睡了多少小时。（[@jonsonox](https://github.com/ruanyf/weekly/issues/2740) 投稿）
+一个 Python 命令行脚本，用来处理文本文件各种多余的空行空格，提供多种配置项。
 
 
 ### 资源
+ 
 
+1、[Lexica](https://lexica.art/)
 
-1、[QUIC 协议图解](https://quic.ulfheim.net/)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112409.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062201.webp)
+Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所生成的各种图片。
 
-前不久，HTTP/3 协议正式定案，基本就是照搬了谷歌的 QUIC 协议。本文使用图解，详细解释了 QUIC 的每一步、每个字节的含义。
+2、[INS](https://github.com/zhaoolee/ins)
 
-2、[Effective Shell](https://effective-shell.com/)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112411.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062211.webp)
+这个仓库收集各种有用有趣的工具，并且每天用 GitHub Actions 检查链接的可用性。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/2759) 投稿）
 
-一本免费的英文电子书，讲解命令行 Shell 的用法。
+3、[如何配置 NeoVim](https://mattermost.com/blog/how-to-install-and-set-up-neovim-for-code-editing/)
 
-3、[开源面对面](https://osf2f.net/)
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111726.webp)
+一篇详细的教程，教你如何配置 NeoVim 编辑器（Vim 编辑器的重构，使用 Lua 语言作为脚本引擎）。这是第一部分，还有[第二部分](https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/)。
 
-一档介绍开源软件的播客访谈节目。（[@LinuxSuRen](https://github.com/ruanyf/weekly/issues/2742) 投稿）
+4、[CodeGuessr](https://codeguessr.vercel.app/)
 
-4、[90年代鼠标效果](https://tholman.com/cursor-effects/)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112401.webp)
 
-这个仓库收集上个世纪90年代的各种鼠标效果，比如鼠标后面跟着一串小星星。
+一个代码小游戏。它从 GitHub 排名前100的仓库，随机返回一个文件，让你猜是哪一个仓库，参见[介绍文章](https://healeycodes.com/codeguessr)。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2754) 投稿）
+
+5、[物联网开发板模拟器](https://wokwi.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112404.webp)
+
+这个网站模拟各种物联网开发板，比如树莓派 Pico、Arduino、ESP32等。你在网页上输入项目代码，可以看到硬件的模拟执行结果。（[@mingpepe](https://github.com/ruanyf/weekly/issues/2757) 投稿）
 
 
 <!-- End -->
