@@ -10,103 +10,107 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>232</currentVersion> -->
+<!-- <currentVersion>233</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 232 期）：好用的平面设计软件](https://github.com/ruanyf/weekly/blob/master/docs/issue-232.md)
+# [科技爱好者周刊（第 233 期）：生活就像一个鱼缸](https://github.com/ruanyf/weekly/blob/master/docs/issue-233.md)
 ### 工具
 
 
-1、[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
+1、[Plasma Bigscreen](https://plasma-bigscreen.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112410.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091602.webp)
 
-这是眼下最热门的 AI 作图模型，本周发布了[2.0版](https://stability.ai/blog/stable-diffusion-v2-release)。图片质量得到了提高，性能进行了优化。更重要的是，它只需要一个 GPU，家用 PC 就能运行。
+一个 Linux 的桌面环境，专门为电视机打造，适合用遥控器操作。
 
-2、[Diffusion Bee](https://diffusionbee.com/)
+2、[Trianglify.io](https://trianglify.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092013.webp)
 
-一个 MacOS 应用，将 Stable Diffusion 模型做成一个安装包，带有图形界面，号称是苹果电脑使用该模型的最容易方法。另有一个同类应用 [CHARL-E](https://www.charl-e.com/)，以及一个命令行应用 [ImaginAIry](https://github.com/brycedrennan/imaginAIry)。
+一个网页工具，用来生成各种三角形拼接而成的背景图片。
 
-3、[SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)
+3、[VoceChat](https://voce.chat/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112413.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022113001.webp)
 
-谷歌发起的一个项目，任何人都可以提交芯片设计，由代工厂以130纳米制程做出来。它的主要目的是建立开源的芯片设计生态，取代目前的封闭生态，参见[介绍文章](https://asianometry.substack.com/p/googles-open-source-hardware-dreams)。
+一个可以自己部署的国产开源聊天软件，服务端非常小，只有 15MB。官方提供网页客户端和手机 App。（[@zerosoul](https://github.com/ruanyf/weekly/issues/2762) 投稿）
 
-4、[Grape](https://www.grape.codes/)
+4、[gPodder](https://gpodder.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092101.webp)
 
-这个工具提供一个 Web IDE，用于让用户演示代码操作。它可以把操作过程录制下来，像视频一样播放，但实际是一个小体积的脚本，便于分享和传播。
+一个开源的播客客户端，用来订阅和收听播客。
 
-5、[Tipi](https://github.com/meienberger/runtipi)
+5、[quicklink](https://github.com/GoogleChromeLabs/quicklink)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053107.webp)
 
-一个家庭服务器的管理界面，集成了许多服务（比如流媒体、代码托管、BT 下载等等）。只要点击一个服务，就会启动一个容器来运行它。
+Chrome 浏览器团队推出的一个 JS 库，可以加快打开链接的速度。
 
-6、[中科大测速网站](https://test.ustc.edu.cn/)
+它的仓库主页有详细的原理解释，写得非常好，我觉得比这个库本身还有价值。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112402.webp)
+6、[Xournal++](https://xournalpp.github.io/)
 
-检测你的网速，代码[开源](https://github.com/bg6cq/speedtest)。（[@xcuYao](https://github.com/ruanyf/weekly/issues/2755) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053114.webp)
 
-7、[PicHoro](https://github.com/Kuingsmile/PicHoro)
+一个笔记软件，可以通过手写板和触摸笔，手写笔记，以及对 PDF 文件加评注。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112403.webp)
+7、[GitNoter](https://github.com/git-noter/gitnoter)
 
-手机端的图床管理和文件上传下载工具，用于将手机照片和文件上传到各种云存储服务，基于 Flutter。（[@Kuingsmile](https://github.com/ruanyf/weekly/issues/2756) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060302.webp)
 
-8、[ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
+一个开源的 Web 笔记应用，用户的笔记保存在自己的 GitHub 仓库。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091109.webp)
+8、[Dub](https://github.com/steven-tey/dub)
 
-一个 SSH 服务器。用户使用 ssh 登陆时，它会自动启动一个容器，让用户登陆到这个容器里面，而不是登陆到底层机器，用户不会觉察。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092204.webp)
 
-9、[Ebook Reader](https://github.com/ttu-ttu/ebook-reader)
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091110.webp)
+9、[Peregrine](https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/)
 
-一个开源的网页阅读器，用来阅读 EPUB 电子书。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092301.webp)
 
-10、[wtf](https://github.com/dlenski/wtf)
+一个语音引擎，从文本生成语音。最大特点是带有丰富的语气，甚至说话时可以带有笑意。官网声称，它的机器语音跟人类语音无法区分。
 
-一个 Python 命令行脚本，用来处理文本文件各种多余的空行空格，提供多种配置项。
+10、[Project Shasta](https://pages.adobe.com/shasta/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092406.webp)
+
+Adobe 公司推出的一个 AI 语音引擎。你对这个引擎说一段话，它会还原出文本，然后你修改文本，引擎就按照修改后的文本，重新生成语音。也就是说，你可以编辑自己的语音。
 
 
 ### 资源
- 
 
-1、[Lexica](https://lexica.art/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112409.webp)
+1、[月球直播](https://www.youtube.com/watch?v=SHLDluKhuU8)
 
-Stable Diffusion 模型的搜索引擎，可以搜索这个 AI 作图模型所生成的各种图片。
+美国的猎户座飞船，正在 Youtube 24小时直播月球。
 
-2、[INS](https://github.com/zhaoolee/ins)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112411.webp)
+这次是无人飞行，大概12月11日返回地球。下一次就是载人绕月飞行，计划是2024年上半年。
 
-这个仓库收集各种有用有趣的工具，并且每天用 GitHub Actions 检查链接的可用性。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/2759) 投稿）
+中国的天宫空间站，不知为何不搞24小时直播，摄像头对着地球就行了。
 
-3、[如何配置 NeoVim](https://mattermost.com/blog/how-to-install-and-set-up-neovim-for-code-editing/)
+2、[AI 生成的《圣经》艺术](https://www.openbible.info/labs/ai-bible-art/)
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022041706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090201.webp)
 
-一篇详细的教程，教你如何配置 NeoVim 编辑器（Vim 编辑器的重构，使用 Lua 语言作为脚本引擎）。这是第一部分，还有[第二部分](https://mattermost.com/blog/turning-neovim-into-a-full-fledged-code-editor-with-lua/)。
+这个网站突出奇想，把《圣经》的句子输入 AI 模型生成插图，然后放上网。
 
-4、[CodeGuessr](https://codeguessr.vercel.app/)
+这也启发我们，文学名著（比如《西游记》、《三国演义》）以后可以用 AI 生成插图。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112401.webp)
+3、[有趣的论文](https://cfenollosa.com/funnypapers/index.html)
 
-一个代码小游戏。它从 GitHub 排名前100的仓库，随机返回一个文件，让你猜是哪一个仓库，参见[介绍文章](https://healeycodes.com/codeguessr)。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2754) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090504.webp)
 
-5、[物联网开发板模拟器](https://wokwi.com/)
+这个网页收集那些看上去没用、但很有趣的论文，比如研究企鹅如何控制排便的距离（上图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112404.webp)
+4、[《塞尔达旷野之息》街景地图](https://nassimsoftware.github.io/zeldabotwstreetview/)
 
-这个网站模拟各种物联网开发板，比如树莓派 Pico、Arduino、ESP32等。你在网页上输入项目代码，可以看到硬件的模拟执行结果。（[@mingpepe](https://github.com/ruanyf/weekly/issues/2757) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090513.webp)
+
+这个网站将游戏《塞尔达旷野之息》的地图，以谷歌地图的形式呈现，而且某些位置有街景视图，好像在参观游戏里面的海拉鲁大陆一样。
 
 
 <!-- End -->
