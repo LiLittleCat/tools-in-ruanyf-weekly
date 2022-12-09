@@ -10,107 +10,83 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>233</currentVersion> -->
+<!-- <currentVersion>234</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 233 期）：生活就像一个鱼缸](https://github.com/ruanyf/weekly/blob/master/docs/issue-233.md)
+# [科技爱好者周刊（第 234 期）：AI 聊天有多强？](https://github.com/ruanyf/weekly/blob/master/docs/issue-234.md)
 ### 工具
 
 
-1、[Plasma Bigscreen](https://plasma-bigscreen.org/)
+1、[WordPress WASM](https://github.com/adamziel/wordpress-wasm)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092606.webp)
 
-一个 Linux 的桌面环境，专门为电视机打造，适合用遥控器操作。
+一个很有趣的项目，把 PHP 编译成 WASM 文件，然后让 WordPress 运行在里面。
 
-2、[Trianglify.io](https://trianglify.io/)
+也就是说，WordPress 完全运行在前端，没有 PHP 服务器。
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092013.webp)
+2、[Djot](https://djot.net/)
 
-一个网页工具，用来生成各种三角形拼接而成的背景图片。
+这是 Markdown 格式的升级版，修正了一些不合理和难用的地方。我很喜欢这个格式，但愿能够推广开来。
 
-3、[VoceChat](https://voce.chat/)
+作者 John MacFarlane 是加州大学的哲学教授，也是程序员。他的主要项目是文档工具 Pandoc，他还参与了 CommonMark 标准的制定。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022113001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120601.webp)
 
-一个可以自己部署的国产开源聊天软件，服务端非常小，只有 15MB。官方提供网页客户端和手机 App。（[@zerosoul](https://github.com/ruanyf/weekly/issues/2762) 投稿）
+3、[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
 
-4、[gPodder](https://gpodder.github.io/)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092607.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092101.webp)
+一个替代 Chrome 内置翻译功能的浏览器插件，调用 Google 或者 Yandex 的翻译 API。
 
-一个开源的播客客户端，用来订阅和收听播客。
+4、[Halo](https://halo.run/)
 
-5、[quicklink](https://github.com/GoogleChromeLabs/quicklink)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120804.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053107.webp)
+一款好用强大的开源建站工具，基于 Spring，最近发布了2.0版，在 GitHub 有 24k+ 星，查看 [Demo](https://demo.halo.run/)。（[@wan92hen](https://github.com/ruanyf/weekly/issues/2773) 投稿）
 
-Chrome 浏览器团队推出的一个 JS 库，可以加快打开链接的速度。
+5、[Apache Superset](https://superset.apache.org/)
 
-它的仓库主页有详细的原理解释，写得非常好，我觉得比这个库本身还有价值。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120805.webp)
 
-6、[Xournal++](https://xournalpp.github.io/)
+一个数据探索和数据可视化工具，可以与各种数据源很好地集成。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2775) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053114.webp)
+6、[vtui-repl](https://github.com/webfansplz/vtui-repl)
 
-一个笔记软件，可以通过手写板和触摸笔，手写笔记，以及对 PDF 文件加评注。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120806.webp)
 
-7、[GitNoter](https://github.com/git-noter/gitnoter)
+一个 Node.js 工具，在命令行显示两个方框，一个输入代码，一个显示结果。（[@webfansplz](https://github.com/ruanyf/weekly/issues/2776) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060302.webp)
+7、[Enhance](https://enhance.dev/docs/)
 
-一个开源的 Web 笔记应用，用户的笔记保存在自己的 GitHub 仓库。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092701.webp)
 
-8、[Dub](https://github.com/steven-tey/dub)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092204.webp)
-
-一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接。
-
-9、[Peregrine](https://play.ht/blog/introducing-truly-realistic-text-to-speech-with-emotion-and-laughter/)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092301.webp)
-
-一个语音引擎，从文本生成语音。最大特点是带有丰富的语气，甚至说话时可以带有笑意。官网声称，它的机器语音跟人类语音无法区分。
-
-10、[Project Shasta](https://pages.adobe.com/shasta/)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092406.webp)
-
-Adobe 公司推出的一个 AI 语音引擎。你对这个引擎说一段话，它会还原出文本，然后你修改文本，引擎就按照修改后的文本，重新生成语音。也就是说，你可以编辑自己的语音。
+一个 Node.js 网站框架，特点是结构简单，一个 HTML 页面就是一个路由。
 
 
 ### 资源
 
 
-1、[月球直播](https://www.youtube.com/watch?v=SHLDluKhuU8)
+1、[Canva 中文字体](https://mp.weixin.qq.com/s/dDCQxLhxj3tciMWEW2JeqQ)
 
-美国的猎户座飞船，正在 Youtube 24小时直播月球。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120703.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112701.webp)
+平面设计软件 Canva 推出了四款中文字体，可以免费使用（包括商用）。
 
-这次是无人飞行，大概12月11日返回地球。下一次就是载人绕月飞行，计划是2024年上半年。
+2、[LeetCode 解题指南](https://github.com/doocs/leetcode)
 
-中国的天宫空间站，不知为何不搞24小时直播，摄像头对着地球就行了。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120808.webp)
 
-2、[AI 生成的《圣经》艺术](https://www.openbible.info/labs/ai-bible-art/)
+这个仓库收集整理了各种算法题的解题指南，包含多种语言的实现。（[@acbin](https://github.com/ruanyf/weekly/issues/2780) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090201.webp)
+3、[函数式编程术语](https://github.com/hemanth/functional-programming-jargon#point-free-style)
 
-这个网站突出奇想，把《圣经》的句子输入 AI 模型生成插图，然后放上网。
+函数式编程有很多术语，这个仓库收集这些术语，一一配上 JavaScript 示例，给予解释。它是英文版的，但是有[中译](https://github.com/shfshanyue/fp-jargon-zh)。
 
-这也启发我们，文学名著（比如《西游记》、《三国演义》）以后可以用 AI 生成插图。
+4、[Defensive CSS](https://defensivecss.dev/)
 
-3、[有趣的论文](https://cfenollosa.com/funnypapers/index.html)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070611.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090504.webp)
-
-这个网页收集那些看上去没用、但很有趣的论文，比如研究企鹅如何控制排便的距离（上图）。
-
-4、[《塞尔达旷野之息》街景地图](https://nassimsoftware.github.io/zeldabotwstreetview/)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090513.webp)
-
-这个网站将游戏《塞尔达旷野之息》的地图，以谷歌地图的形式呈现，而且某些位置有街景视图，好像在参观游戏里面的海拉鲁大陆一样。
+这个网站收集各种防御性的 CSS 技巧，防止客户端出现各种破坏 CSS 显示的情况。
 
 
 <!-- End -->
