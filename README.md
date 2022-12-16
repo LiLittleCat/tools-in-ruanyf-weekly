@@ -10,83 +10,87 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>234</currentVersion> -->
+<!-- <currentVersion>235</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 234 期）：AI 聊天有多强？](https://github.com/ruanyf/weekly/blob/master/docs/issue-234.md)
+# [科技爱好者周刊（第 235 期）：青年失业率与选择创业](https://github.com/ruanyf/weekly/blob/master/docs/issue-235.md)
 ### 工具
 
 
-1、[WordPress WASM](https://github.com/adamziel/wordpress-wasm)
+1、[CasaOS](https://casaos.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092606.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100202.webp)
 
-一个很有趣的项目，把 PHP 编译成 WASM 文件，然后让 WordPress 运行在里面。
+一个用于家庭内网的监控面板，可以启动各种 Docker 服务。
 
-也就是说，WordPress 完全运行在前端，没有 PHP 服务器。
+2、[ChatGPT Dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 
-2、[Djot](https://djot.net/)
+只需要简单几步配置，就能够将 ChatGPT 集成到钉钉群聊当中。用户需要有 OpenAI API 密钥。（[@eryajf](https://github.com/ruanyf/weekly/issues/2803) 投稿）
 
-这是 Markdown 格式的升级版，修正了一些不合理和难用的地方。我很喜欢这个格式，但愿能够推广开来。
+3、[spider-admin-pro](https://github.com/mouday/spider-admin-pro)
 
-作者 John MacFarlane 是加州大学的哲学教授，也是程序员。他的主要项目是文档工具 Pandoc，他还参与了 CommonMark 标准的制定。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121504.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120601.webp)
+爬虫工具 Scrapy 的一个管理面板。（[@mouday](https://github.com/ruanyf/weekly/issues/2790) 投稿）
 
-3、[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
+4、[gpt-commit-summarizer](https://github.com/KanHarI/gpt-commit-summarizer)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092607.webp)
+一个 GitHub Action 脚本，向仓库提交代码时，它会使用 AI 分析，自动生成本次提交的主要内容，参见[介绍文章](https://medium.com/@knaan.harpaz/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375)。用户需要有 OpenAI API 密钥。
 
-一个替代 Chrome 内置翻译功能的浏览器插件，调用 Google 或者 Yandex 的翻译 API。
+5、[vscode-markdown-github](https://github.com/lzm0x219/vscode-markdown-github)
 
-4、[Halo](https://halo.run/)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121505.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120804.webp)
+VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效果进行渲染。（[@lzm0x219](https://github.com/ruanyf/weekly/issues/2804) 投稿）
 
-一款好用强大的开源建站工具，基于 Spring，最近发布了2.0版，在 GitHub 有 24k+ 星，查看 [Demo](https://demo.halo.run/)。（[@wan92hen](https://github.com/ruanyf/weekly/issues/2773) 投稿）
+6、[wCaptcha](https://wcaptcha.pingflash.com)
 
-5、[Apache Superset](https://superset.apache.org/)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121507.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120805.webp)
+一个 wCaptcha 工具，使用工作量证明来区分客户端是不是机器人。客户必须进行一个数学计算，大约花费几秒钟的时间，wCaptcha。（[@greensea](https://github.com/ruanyf/weekly/issues/2797) 投稿）
 
-一个数据探索和数据可视化工具，可以与各种数据源很好地集成。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2775) 投稿）
+7、[Go Captcha](https://github.com/wenlng/go-captcha)
 
-6、[vtui-repl](https://github.com/webfansplz/vtui-repl)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121508.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120806.webp)
+一个 Go 库，用于生成用户验证测试，无需键盘手动输入，支持 PC 端及移动端，参见 [Demo](http://47.104.180.148:8081/go_captcha_demo/)。（[@wenlng](https://github.com/ruanyf/weekly/issues/2808) 投稿）
 
-一个 Node.js 工具，在命令行显示两个方框，一个输入代码，一个显示结果。（[@webfansplz](https://github.com/ruanyf/weekly/issues/2776) 投稿）
+8、[SigNoz](https://signoz.io/)
 
-7、[Enhance](https://enhance.dev/docs/)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100203.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092701.webp)
+一个开源工具，可以监控各种云服务的运行状况和延迟。
 
-一个 Node.js 网站框架，特点是结构简单，一个 HTML 页面就是一个路由。
+9、[分形花园](https://www.fractal.garden/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101008.webp)
+
+一个开源程序，可以生成并展示各种美丽的分形图案。
 
 
 ### 资源
 
 
-1、[Canva 中文字体](https://mp.weixin.qq.com/s/dDCQxLhxj3tciMWEW2JeqQ)
+1、[hello](https://beta.sayhello.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120908.webp)
 
-平面设计软件 Canva 推出了四款中文字体，可以免费使用（包括商用）。
+一个专门为程序员开发的搜索引擎，可以用自然语言输入你的问题，比如“PHP 的 hello world 示例”，它会直接给出答案。
 
-2、[LeetCode 解题指南](https://github.com/doocs/leetcode)
+2、[Geo Traceroute](https://geotraceroute.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120808.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121506.webp)
 
-这个仓库收集整理了各种算法题的解题指南，包含多种语言的实现。（[@acbin](https://github.com/ruanyf/weekly/issues/2780) 投稿）
+用户指定 HTTP 请求的发出地和目的地，这个网站会在谷歌地球上显示路由的跳转路径。（[@meq1986](https://github.com/ruanyf/weekly/issues/2807) 投稿）
 
-3、[函数式编程术语](https://github.com/hemanth/functional-programming-jargon#point-free-style)
+3、[Python 为什么？](https://github.com/chinesehuazhou/python-whydo)
 
-函数式编程有很多术语，这个仓库收集这些术语，一一配上 JavaScript 示例，给予解释。它是英文版的，但是有[中译](https://github.com/shfshanyue/fp-jargon-zh)。
+这个中文仓库是一系列 Python 科普文章，由作者自己撰写或翻译。（[@chinesehuazhou](https://github.com/ruanyf/weekly/issues/2798) 投稿）
 
-4、[Defensive CSS](https://defensivecss.dev/)
+4、[IPDetective](https://ipdetective.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070611.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091402.webp)
 
-这个网站收集各种防御性的 CSS 技巧，防止客户端出现各种破坏 CSS 显示的情况。
+这个服务号称可以检测 IP 地址是否来自机房，或者是否属于机器人。它提供 API 调用和 Web 查询，有免费层。
 
 
 <!-- End -->
