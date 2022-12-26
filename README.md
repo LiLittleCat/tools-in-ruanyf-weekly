@@ -10,87 +10,87 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>235</currentVersion> -->
+<!-- <currentVersion>236</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 235 期）：青年失业率与选择创业](https://github.com/ruanyf/weekly/blob/master/docs/issue-235.md)
+# [科技爱好者周刊（第 236 期）：中国的阳光地带](https://github.com/ruanyf/weekly/blob/master/docs/issue-236.md)
 ### 工具
 
 
-1、[CasaOS](https://casaos.io/)
+1、[tremor](https://www.tremor.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101103.webp)
 
-一个用于家庭内网的监控面板，可以启动各种 Docker 服务。
+一个专门制作控制面板的 React 组件库。
 
-2、[ChatGPT Dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
+2、[GPTAnywhere](https://chrome.google.com/webstore/detail/gptanywhere/pklibapjplkpanekidgnckgjablljhni)
 
-只需要简单几步配置，就能够将 ChatGPT 集成到钉钉群聊当中。用户需要有 OpenAI API 密钥。（[@eryajf](https://github.com/ruanyf/weekly/issues/2803) 投稿）
+一个浏览器插件，只要点击工具栏，就可以跟 ChatGPT 对话。它需要 OpenAI 账号。
 
-3、[spider-admin-pro](https://github.com/mouday/spider-admin-pro)
+3、[Obsidian Canvas](https://obsidian.md/canvas)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122104.webp)
 
-爬虫工具 Scrapy 的一个管理面板。（[@mouday](https://github.com/ruanyf/weekly/issues/2790) 投稿）
+开源笔记软件 Obsidian 本周发布新功能，可以在画布上画出思维图。
 
-4、[gpt-commit-summarizer](https://github.com/KanHarI/gpt-commit-summarizer)
+4、[Enhance Speech](https://podcast.adobe.com/enhance)
 
-一个 GitHub Action 脚本，向仓库提交代码时，它会使用 AI 分析，自动生成本次提交的主要内容，参见[介绍文章](https://medium.com/@knaan.harpaz/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375)。用户需要有 OpenAI API 密钥。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121904.webp)
 
-5、[vscode-markdown-github](https://github.com/lzm0x219/vscode-markdown-github)
+Adobe 公司推出的一个工具，用来增强语音效果，使得普通的录音变得像在专业录音室录制的。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121505.webp)
+5、[One Tab Group](https://www.onetab.group/)
 
-VSCode 的 Markdown 渲染插件，特点是完全按照 GitHub 的 Markdown 效果进行渲染。（[@lzm0x219](https://github.com/ruanyf/weekly/issues/2804) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122111.webp)
 
-6、[wCaptcha](https://wcaptcha.pingflash.com)
+一个浏览器插件，有效地管理浏览器标签页，支持云同步。（[@xiaoluoboding](https://github.com/ruanyf/weekly/issues/2812) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121507.webp)
+6、[Forgejo](https://forgejo.org/)
 
-一个 wCaptcha 工具，使用工作量证明来区分客户端是不是机器人。客户必须进行一个数学计算，大约花费几秒钟的时间，wCaptcha。（[@greensea](https://github.com/ruanyf/weekly/issues/2797) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121603.webp)
 
-7、[Go Captcha](https://github.com/wenlng/go-captcha)
+著名 Git 托管软件 Gitea 最近成立了[商业公司](https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/)，导致社区分裂。一部分开发者出走，创立了 Forgejo 这个项目。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121508.webp)
+7、[Satori](https://github.com/vercel/satori)
 
-一个 Go 库，用于生成用户验证测试，无需键盘手动输入，支持 PC 端及移动端，参见 [Demo](http://47.104.180.148:8081/go_captcha_demo/)。（[@wenlng](https://github.com/ruanyf/weekly/issues/2808) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101102.webp)
 
-8、[SigNoz](https://signoz.io/)
+这个 JS 库可以把 HTML 和 CSS 代码转为 SVG 图形，很适合为组件生成缩略图。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100203.webp)
+8、[Agreper](https://github.com/Demindiro/agreper)
 
-一个开源工具，可以监控各种云服务的运行状况和延迟。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101101.webp)
 
-9、[分形花园](https://www.fractal.garden/)
+一个最简化的论坛程序，号称不需要 JS，使用 Python 写的。
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101008.webp)
+9、[Rmt.rs](https://github.com/AmineZouitine/rmt.rs)
 
-一个开源程序，可以生成并展示各种美丽的分形图案。
+一个命令行程序，可以用作`rm`命令的替代，用来删除文件。特点是有回收箱，删掉的文件可以恢复。
 
 
 ### 资源
 
 
-1、[hello](https://beta.sayhello.so/)
+1、[纸制日晷](https://www.sundialzone.com/zh/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120908.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091802.webp)
 
-一个专门为程序员开发的搜索引擎，可以用自然语言输入你的问题，比如“PHP 的 hello world 示例”，它会直接给出答案。
+日冕是古代的计时工具，这个网站教大家怎么做一个纸制日冕。
 
-2、[Geo Traceroute](https://geotraceroute.com/)
+2、[The Ruby Reference](https://rubyreferences.github.io/rubyref/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121506.webp)
+一本 Ruby 语言参考教程，免费在线阅读。
 
-用户指定 HTTP 请求的发出地和目的地，这个网站会在谷歌地球上显示路由的跳转路径。（[@meq1986](https://github.com/ruanyf/weekly/issues/2807) 投稿）
+3、[MacOS 默认壁纸下载](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 
-3、[Python 为什么？](https://github.com/chinesehuazhou/python-whydo)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071426.webp)
 
-这个中文仓库是一系列 Python 科普文章，由作者自己撰写或翻译。（[@chinesehuazhou](https://github.com/ruanyf/weekly/issues/2798) 投稿）
+这个网址提供 MacOS 所有版本的默认壁纸的 6K 清晰度下载。
 
-4、[IPDetective](https://ipdetective.io/)
+4、[The Algorithms](https://the-algorithms.com/zh_Hans)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092405.webp)
 
-这个服务号称可以检测 IP 地址是否来自机房，或者是否属于机器人。它提供 API 调用和 Web 查询，有免费层。
+这个网站收集 GitHub 上面的各种算法实现，按照种类和语言进行分类。
 
 
 <!-- End -->
