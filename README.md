@@ -10,87 +10,105 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>236</currentVersion> -->
+<!-- <currentVersion>237</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 236 期）：中国的阳光地带](https://github.com/ruanyf/weekly/blob/master/docs/issue-236.md)
+# [科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](https://github.com/ruanyf/weekly/blob/master/docs/issue-237.md)
 ### 工具
 
 
-1、[tremor](https://www.tremor.so/)
+1、[MiniSearch](https://github.com/lucaong/minisearch)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101103.webp)
+一个 JS 的全文搜索库，支持模糊搜索等很多功能。
 
-一个专门制作控制面板的 React 组件库。
+2、[YouChat](https://you.com/search?q=2023%E5%B9%B4%E6%98%A5%E8%8A%82%E6%98%AF%E5%93%AA%E4%B8%80%E5%A4%A9&fromSearchBar=true&tbm=youchat)
 
-2、[GPTAnywhere](https://chrome.google.com/webstore/detail/gptanywhere/pklibapjplkpanekidgnckgjablljhni)
+搜索引擎 You.com 引入了类似 ChatGPT 的 AI 聊天工具，可以无限制使用。
 
-一个浏览器插件，只要点击工具栏，就可以跟 ChatGPT 对话。它需要 OpenAI 账号。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122404.webp)
 
-3、[Obsidian Canvas](https://obsidian.md/canvas)
+我试了几个中文问题，回答都是错的，现阶段看来只能当作聊天玩具。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122104.webp)
+3、[Amazing AI](https://sindresorhus.com/amazing-ai)
 
-开源笔记软件 Obsidian 本周发布新功能，可以在画布上画出思维图。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122801.webp)
 
-4、[Enhance Speech](https://podcast.adobe.com/enhance)
+著名程序员 Sindre Sorhus 的作品，将 AI 绘图引擎 Stable Diffusion 搬到了 Mac 电脑（只支持 M1/M2 CPU）。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121904.webp)
+这里另有一个类似的 Mac 应用 [Gauss](https://github.com/justjake/Gauss)。
 
-Adobe 公司推出的一个工具，用来增强语音效果，使得普通的录音变得像在专业录音室录制的。
+4、[Le Git Graph](https://github.com/NirmalScaria/le-git-graph)
 
-5、[One Tab Group](https://www.onetab.group/)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101501.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122111.webp)
+Chrome 浏览器插件，在 GitHub 页面显示各个提交之间的图形关系。
 
-一个浏览器插件，有效地管理浏览器标签页，支持云同步。（[@xiaoluoboding](https://github.com/ruanyf/weekly/issues/2812) 投稿）
+5、[知了](https://github.com/mebtte/cicada)
 
-6、[Forgejo](https://forgejo.org/)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121603.webp)
+一个开源的 Web 音乐服务，需要自己架设在服务器或本地，可供多人使用，参见[介绍](https://mebtte.com/introducing_cicada)。（[@mebtte 投稿](https://github.com/ruanyf/weekly/issues/2817)）
 
-著名 Git 托管软件 Gitea 最近成立了[商业公司](https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/)，导致社区分裂。一部分开发者出走，创立了 Forgejo 这个项目。
+6、[Linen](https://github.com/Linen-dev/linen.dev)
 
-7、[Satori](https://github.com/vercel/satori)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101909.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101102.webp)
+一个社区软件，目标是成为 Slack 和 Discord 的替代品，目前只有 Web 版。
 
-这个 JS 库可以把 HTML 和 CSS 代码转为 SVG 图形，很适合为组件生成缩略图。
+7、[V2EX APP](https://github.com/liaoliao666/v2ex)
 
-8、[Agreper](https://github.com/Demindiro/agreper)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122905.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101101.webp)
+V2ex 论坛的第三方客户端，支持 iOS 和安卓。（[@alaskasquirrel](https://github.com/ruanyf/weekly/issues/2822) 投稿）
 
-一个最简化的论坛程序，号称不需要 JS，使用 Python 写的。
+8、[创业公司页面设计](https://console.makery.app/)
 
-9、[Rmt.rs](https://github.com/AmineZouitine/rmt.rs)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102004.webp)
 
-一个命令行程序，可以用作`rm`命令的替代，用来删除文件。特点是有回收箱，删掉的文件可以恢复。
+这个页面提供各种业务组件（公司图片、FAQ、联系方式等等），让你快速搭建一个创业公司网站的页面，查看效果。
+
+9、[DevDash](https://thedevdash.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081003.webp)
+
+命令行终端的仪表盘生成工具，高度可配置，既可以查看本机系统状况，也可以查看外部服务的状况。
 
 
 ### 资源
 
 
-1、[纸制日晷](https://www.sundialzone.com/zh/)
+1、[OpenVerse](https://wordpress.org/openverse/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092904.webp)
 
-日冕是古代的计时工具，这个网站教大家怎么做一个纸制日冕。
+一个图片和音频的搜索引擎，据说包含超过6亿件作品，都可以自由使用，不用付费。
 
-2、[The Ruby Reference](https://rubyreferences.github.io/rubyref/)
+2、[中国地铁信息概览](https://metrodb.org/index/beijing.html)
 
-一本 Ruby 语言参考教程，免费在线阅读。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122901.webp)
 
-3、[MacOS 默认壁纸下载](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+这个网站可视化显示全国各个城市的地铁概况，包括每日的客流量。（[@xcuYao](https://github.com/ruanyf/weekly/issues/2816) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071426.webp)
+3、[Green Wall](https://green-wall.vercel.app/)
 
-这个网址提供 MacOS 所有版本的默认壁纸的 6K 清晰度下载。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122902.webp)
 
-4、[The Algorithms](https://the-algorithms.com/zh_Hans)
+这个网站可以查看某个 GitHub 用户的历年活动日历，[代码开源](https://github.com/Codennnn/Green-Wall)。（[@Codennnn](https://github.com/ruanyf/weekly/issues/2814) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092405.webp)
+4、[Codenews](https://codenews.cc/)
 
-这个网站收集 GitHub 上面的各种算法实现，按照种类和语言进行分类。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122904.webp)
+
+一个国人分享技术工具的社区。（[@jqsl2012](https://github.com/ruanyf/weekly/issues/2824) 投稿）
+
+5、[ChatBCG](https://www.chatbcg.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122907.webp)
+
+这个网站输入关键词，自动生成 PPT 模板，号称使用 AI 把内容要点都填写好了（下图）。
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122906.webp)
+
+它好像可以理解中文输入，但是生成的 PPT 是英文。以后，PPT 都是 AI 生成的，就更没有价值了。
 
 
 <!-- End -->
