@@ -10,105 +10,71 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>237</currentVersion> -->
+<!-- <currentVersion>238</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](https://github.com/ruanyf/weekly/blob/master/docs/issue-237.md)
+# [科技爱好者周刊（第 238 期）：停止寻找的最佳时间](https://github.com/ruanyf/weekly/blob/master/docs/issue-238.md)
 ### 工具
 
 
-1、[MiniSearch](https://github.com/lucaong/minisearch)
+1、[Bolt.css](https://boltcss.com/)
 
-一个 JS 的全文搜索库，支持模糊搜索等很多功能。
+一个极简的 CSS 框架，不使用 class，只修饰 HTML 原生元素。
 
-2、[YouChat](https://you.com/search?q=2023%E5%B9%B4%E6%98%A5%E8%8A%82%E6%98%AF%E5%93%AA%E4%B8%80%E5%A4%A9&fromSearchBar=true&tbm=youchat)
+2、[zlib 搜索器](https://github.com/zlib-searcher/zlib-searcher)
 
-搜索引擎 You.com 引入了类似 ChatGPT 的 AI 聊天工具，可以无限制使用。
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123006.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122404.webp)
+一个 z-library 的搜索器，需要本地起服务，然后你就能在本地搜索 z-library 了，参考 [Demo1](https://zlib.knat.network/)、[Demo2](https://zlib.freedit.eu/)。
 
-我试了几个中文问题，回答都是错的，现阶段看来只能当作聊天玩具。
+3、[Auth.js](https://authjs.dev/)
 
-3、[Amazing AI](https://sindresorhus.com/amazing-ai)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122801.webp)
+这原来是 Next.js 的授权模块，最近改成了通用模块。它用来提供 Web 的登录服务，内置了很多身份验证服务。
 
-著名程序员 Sindre Sorhus 的作品，将 AI 绘图引擎 Stable Diffusion 搬到了 Mac 电脑（只支持 M1/M2 CPU）。
+4、[Mind FM](https://apps.apple.com/cn/app/mind-fm/id6443691710)
 
-这里另有一个类似的 Mac 应用 [Gauss](https://github.com/justjake/Gauss)。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010503.webp)
 
-4、[Le Git Graph](https://github.com/NirmalScaria/le-git-graph)
+一个背景音乐 iOS App，集成了 LoFi、脑波、古典乐、白噪音等。（[@ddiiiik](https://github.com/ruanyf/weekly/issues/2834) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101501.webp)
+5、[sapic](https://github.com/sapicd/sapic)
 
-Chrome 浏览器插件，在 GitHub 页面显示各个提交之间的图形关系。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010502.webp)
 
-5、[知了](https://github.com/mebtte/cicada)
+一个开源图床，需要自己架设，支持将图片存储到本地、又拍云、七牛云、阿里云、腾讯云、GitHub、Gitee(码云)、S3等。（[@staugur](https://github.com/ruanyf/weekly/issues/2833) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122903.webp)
+6、[steganography](https://github.com/7thSamurai/steganography)
 
-一个开源的 Web 音乐服务，需要自己架设在服务器或本地，可供多人使用，参见[介绍](https://mebtte.com/introducing_cicada)。（[@mebtte 投稿](https://github.com/ruanyf/weekly/issues/2817)）
-
-6、[Linen](https://github.com/Linen-dev/linen.dev)
-
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101909.webp)
-
-一个社区软件，目标是成为 Slack 和 Discord 的替代品，目前只有 Web 版。
-
-7、[V2EX APP](https://github.com/liaoliao666/v2ex)
-
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122905.webp)
-
-V2ex 论坛的第三方客户端，支持 iOS 和安卓。（[@alaskasquirrel](https://github.com/ruanyf/weekly/issues/2822) 投稿）
-
-8、[创业公司页面设计](https://console.makery.app/)
-
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102004.webp)
-
-这个页面提供各种业务组件（公司图片、FAQ、联系方式等等），让你快速搭建一个创业公司网站的页面，查看效果。
-
-9、[DevDash](https://thedevdash.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081003.webp)
-
-命令行终端的仪表盘生成工具，高度可配置，既可以查看本机系统状况，也可以查看外部服务的状况。
+C++ 写的图像加密命令，可以把一个 zip 压缩包嵌入 PNG 图像，完全看不出异样。
 
 
 ### 资源
 
 
-1、[OpenVerse](https://wordpress.org/openverse/)
+1、[Systemd 示例教程](https://systemd-by-example.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012604.webp)
 
-一个图片和音频的搜索引擎，据说包含超过6亿件作品，都可以自由使用，不用付费。
+这个网站通过许多例子，教你如何写 Systemd 配置文件，还可以在线运行你自己的 Systemd 配置文件，查看效果。
 
-2、[中国地铁信息概览](https://metrodb.org/index/beijing.html)
+2、[世界前100万名网站](https://github.com/zakird/crux-top-lists)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122901.webp)
+谷歌公司根据 Chrome 浏览器的数据，公开了世界前100万名网站排名。链接里的仓库提供这个名单的下载（CSV 文件）。
 
-这个网站可视化显示全国各个城市的地铁概况，包括每日的客流量。（[@xcuYao](https://github.com/ruanyf/weekly/issues/2816) 投稿）
+不过，因为 Chrome 浏览器在中国受限，它的中文网站排名不准。
 
-3、[Green Wall](https://green-wall.vercel.app/)
+3、[微软墓地](https://killedbymicrosoft.info/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032903.webp)
 
-这个网站可以查看某个 GitHub 用户的历年活动日历，[代码开源](https://github.com/Codennnn/Green-Wall)。（[@Codennnn](https://github.com/ruanyf/weekly/issues/2814) 投稿）
+这个网站收集了所有被微软公司关闭的自家产品。
 
-4、[Codenews](https://codenews.cc/)
+4、[MacOS 的 zsh 教程](https://scriptingosx.com/2019/06/moving-to-zsh/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072303.webp)
 
-一个国人分享技术工具的社区。（[@jqsl2012](https://github.com/ruanyf/weekly/issues/2824) 投稿）
-
-5、[ChatBCG](https://www.chatbcg.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122907.webp)
-
-这个网站输入关键词，自动生成 PPT 模板，号称使用 AI 把内容要点都填写好了（下图）。
-
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122906.webp)
-
-它好像可以理解中文输入，但是生成的 PPT 是英文。以后，PPT 都是 AI 生成的，就更没有价值了。
+zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS 的 zsh 系列教程，一共8个部分。
 
 
 <!-- End -->
