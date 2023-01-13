@@ -10,71 +10,95 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>238</currentVersion> -->
+<!-- <currentVersion>239</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 238 期）：停止寻找的最佳时间](https://github.com/ruanyf/weekly/blob/master/docs/issue-238.md)
+# [科技爱好者周刊（第 239 期）：未来两种人会增加](https://github.com/ruanyf/weekly/blob/master/docs/issue-239.md)
 ### 工具
 
 
-1、[Bolt.css](https://boltcss.com/)
+1、[FFmpeg.guide](https://ffmpeg.guide/)
 
-一个极简的 CSS 框架，不使用 class，只修饰 HTML 原生元素。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110314.webp)
 
-2、[zlib 搜索器](https://github.com/zlib-searcher/zlib-searcher)
+一个图形界面，用户拖曳生成线框，表示视频处理的各种命令节点。这个软件会根据节点线框，生成对应的 FFmpeg 命令。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123006.webp)
+2、[图像创建者](https://cn.bing.com/create)
 
-一个 z-library 的搜索器，需要本地起服务，然后你就能在本地搜索 z-library 了，参考 [Demo1](https://zlib.knat.network/)、[Demo2](https://zlib.freedit.eu/)。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011007.webp)
 
-3、[Auth.js](https://authjs.dev/)
+微软的搜索引擎 Bing，正式引入 AI 作图引擎 DALL-E2，根据搜索词生成图片。目前，网页已经可以访问了，但是产品还没有对外开放。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123101.webp)
+3、[中国亲戚关系计算器](https://passer-by.com/relationship/)
 
-这原来是 Next.js 的授权模块，最近改成了通用模块。它用来提供 Web 的登录服务，内置了很多身份验证服务。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011203.webp)
 
-4、[Mind FM](https://apps.apple.com/cn/app/mind-fm/id6443691710)
+一个[开源](https://github.com/mumuy/relationship)的 Web 应用，用来查询亲戚称呼，已收录80054条亲戚关系。（[@mumuy](https://github.com/ruanyf/weekly/issues/2842) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010503.webp)
+4、[Device Frames](https://deviceframes.com/)
 
-一个背景音乐 iOS App，集成了 LoFi、脑波、古典乐、白噪音等。（[@ddiiiik](https://github.com/ruanyf/weekly/issues/2834) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082409.webp)
 
-5、[sapic](https://github.com/sapicd/sapic)
+这个网站可以制作智能手机、平板电脑、笔记本的 3D 展示图片。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010502.webp)
+5、[Redbean in Docker](https://github.com/kissgyorgy/redbean-docker)
 
-一个开源图床，需要自己架设，支持将图片存储到本地、又拍云、七牛云、阿里云、腾讯云、GitHub、Gitee(码云)、S3等。（[@staugur](https://github.com/ruanyf/weekly/issues/2833) 投稿）
+一个 Docker 镜像，用作静态文件服务器，只有 500KB。你在它的基础上，把静态文件拷贝进去，做成新的 Docker 镜像，就等于有了单个可执行的网站文件。
 
-6、[steganography](https://github.com/7thSamurai/steganography)
+6、[Deprank](https://github.com/codemix/deprank)
 
-C++ 写的图像加密命令，可以把一个 zip 压缩包嵌入 PNG 图像，完全看不出异样。
+一个 JS 工具，按照重要性对本项目的所有脚本进行排序。原理是计算依赖关系，被依赖最多的脚本最重要。
+
+7、[Desklamp](https://desklamp.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070405.webp)
+
+一个 PDF 文件的笔记工具，可以用来管理 PDF 文件，同时保存笔记。现在只有 Web 版，据说很快会发布桌面版。
+
+8、[BlurHash](https://blurha.sh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110510.webp)
+
+这个工具可以提取图片的颜色分布，生成一个哈希字符串。网页就可以用这个哈希，生成图片的模糊缩略图。
+
+9、[Jc](https://kellyjonbrazil.github.io/jc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110512.webp)
+
+一个命令行工具，可以将常见命令（比如 top、ls 等）的输出转成 JSON、YAML 或 Dict 结构，便于提取信息。
+
+10、[QualityScaler](https://github.com/Djdefrag/QualityScaler)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110602.webp)
+
+一个 Windows 桌面软件，可以提升图片和视频的分辨率，让它们变得更清晰。
 
 
 ### 资源
 
 
-1、[Systemd 示例教程](https://systemd-by-example.com/)
+1、[学习 CSS](https://web.dev/learn/css/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102202.webp)
 
-这个网站通过许多例子，教你如何写 Systemd 配置文件，还可以在线运行你自己的 Systemd 配置文件，查看效果。
+Chrome 团队制作的 CSS 教程。
 
-2、[世界前100万名网站](https://github.com/zakird/crux-top-lists)
+2、[Iconbolt](https://www.iconbolt.com/)
 
-谷歌公司根据 Chrome 浏览器的数据，公开了世界前100万名网站排名。链接里的仓库提供这个名单的下载（CSV 文件）。
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021103.webp)
 
-不过，因为 Chrome 浏览器在中国受限，它的中文网站排名不准。
+一个 SVG 图标仓库，收集了6万多个图标，都可以免费使用。
 
-3、[微软墓地](https://killedbymicrosoft.info/)
+3、[HamZone 社区](https://bbs.hamzone.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011202.webp)
 
-这个网站收集了所有被微软公司关闭的自家产品。
+中国业余无线电爱好者交流社区。（[@Eminlin](https://github.com/ruanyf/weekly/issues/2844) 投稿）
 
-4、[MacOS 的 zsh 教程](https://scriptingosx.com/2019/06/moving-to-zsh/)（英文）
+4、[机器学习概念的可视化解释](https://mlu-explain.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052501.webp)
 
-zsh 已经替代 Bash，成为 Mac 电脑的默认 Shell。这是针对 MacOS 的 zsh 系列教程，一共8个部分。
+这个网站使用一系列短文，配上大量插图，解释机器学习的一些概念。
 
 
 <!-- End -->
