@@ -10,95 +10,107 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>239</currentVersion> -->
+<!-- <currentVersion>240</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 239 期）：未来两种人会增加](https://github.com/ruanyf/weekly/blob/master/docs/issue-239.md)
+# [科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-240.md)
 ### 工具
 
 
-1、[FFmpeg.guide](https://ffmpeg.guide/)
+1、[Open Props](https://open-props.style/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110314.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071107.webp)
 
-一个图形界面，用户拖曳生成线框，表示视频处理的各种命令节点。这个软件会根据节点线框，生成对应的 FFmpeg 命令。
+一个 CSS 自定义属性（CSS 变量）的库，提供了许多设置好的自定义属性，方便使用。
 
-2、[图像创建者](https://cn.bing.com/create)
+2、[ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011007.webp)
+AI 聊天软件 ChatGPT 的一个开源替代品，家用电脑就能跑。
 
-微软的搜索引擎 Bing，正式引入 AI 作图引擎 DALL-E2，根据搜索词生成图片。目前，网页已经可以访问了，但是产品还没有对外开放。
+3、[TDesign 小程序组件库](https://github.com/Tencent/tdesign-miniprogram)
 
-3、[中国亲戚关系计算器](https://passer-by.com/relationship/)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012111.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011203.webp)
+腾讯的设计系统 TDesign 适配微信小程序的组件库。（[@LeeJim](https://github.com/ruanyf/weekly/issues/2846) 投稿）
 
-一个[开源](https://github.com/mumuy/relationship)的 Web 应用，用来查询亲戚称呼，已收录80054条亲戚关系。（[@mumuy](https://github.com/ruanyf/weekly/issues/2842) 投稿）
+4、[JSON Crack](https://jsoncrack.com/)
 
-4、[Device Frames](https://deviceframes.com/)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082911.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082409.webp)
+可视化展示 JSON 数据的开源软件。
 
-这个网站可以制作智能手机、平板电脑、笔记本的 3D 展示图片。
+5、[dns-detector](https://github.com/sun0day/dns-detector)
 
-5、[Redbean in Docker](https://github.com/kissgyorgy/redbean-docker)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012112.webp)
 
-一个 Docker 镜像，用作静态文件服务器，只有 500KB。你在它的基础上，把静态文件拷贝进去，做成新的 Docker 镜像，就等于有了单个可执行的网站文件。
+一个基于 Node.js 的命令行工具，从 DNS 服务器获取某个网站的所有 IP 地址，逐一进行延迟测试。（[@sun0day](https://github.com/ruanyf/weekly/issues/2852) 投稿）
 
-6、[Deprank](https://github.com/codemix/deprank)
+6、[imglib](https://github.com/nackily/imglib)
 
-一个 JS 工具，按照重要性对本项目的所有脚本进行排序。原理是计算依赖关系，被依赖最多的脚本最重要。
+一个轻量级的 JAVA 图像处理库，简化对图像的常见处理。（[@nackily](https://github.com/ruanyf/weekly/issues/2851) 投稿）
 
-7、[Desklamp](https://desklamp.io/)
+7、[arti](https://blog.torproject.org/arti_100_released/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090302.webp)
 
-一个 PDF 文件的笔记工具，可以用来管理 PDF 文件，同时保存笔记。现在只有 Web 版，据说很快会发布桌面版。
+Tor 协议的 Rust 语言实现，希望替代原来的 C 语言实现。目前发布了1.0版，已经可以投入使用了。
 
-8、[BlurHash](https://blurha.sh/)
+8、[Space](https://www.jetbrains.com/space/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110510.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090401.webp)
 
-这个工具可以提取图片的颜色分布，生成一个哈希字符串。网页就可以用这个哈希，生成图片的模糊缩略图。
+JetBrains 公司推出的一款的 GitHub 竞品，具有托管代码、项目管理、文件存储、持续集成、IDE 融合等功能。
 
-9、[Jc](https://kellyjonbrazil.github.io/jc/)
+9、[Scifi Terminals](https://github.com/ldodds/scifi-terminals)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110512.webp)
+这是 [VHS 工具](https://github.com/charmbracelet/vhs)的脚本仓库，用它创建 GIF 动画图片，可以模拟科幻电影的命令行操作效果，参见[教程](https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/)。
 
-一个命令行工具，可以将常见命令（比如 top、ls 等）的输出转成 JSON、YAML 或 Dict 结构，便于提取信息。
+10、[Podman Desktop](https://podman-desktop.io/)
 
-10、[QualityScaler](https://github.com/Djdefrag/QualityScaler)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110602.webp)
+一个跨平台桌面应用，可以使用图形界面进行 Docker 容器管理。
 
-一个 Windows 桌面软件，可以提升图片和视频的分辨率，让它们变得更清晰。
+11、[GrapheneOS](https://grapheneos.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111102.webp)
+
+一个特别注重隐私的手机操作系统，基于安卓修改的。如果你不想被追踪，可以考虑这个系统，参见这篇[介绍文章](https://マリウス.com/reclaiming-mobile-privacy-with-grapheneos/)。
 
 
 ### 资源
 
 
-1、[学习 CSS](https://web.dev/learn/css/)
+1、[大金字塔内部漫游](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102803.webp)
 
-Chrome 团队制作的 CSS 教程。
+谷歌做的 3D 网站，对埃及大金字塔内部进行 3D 数字建模，用户可以用鼠标导航，一路在金字塔内部漫游，好像亲临现场一样。 
 
-2、[Iconbolt](https://www.iconbolt.com/)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102804.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022021103.webp)
+2、[Diode](https://www.withdiode.com/)
 
-一个 SVG 图标仓库，收集了6万多个图标，都可以免费使用。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110308.webp)
 
-3、[HamZone 社区](https://bbs.hamzone.cn/)
+这个网站可以模拟面包板的电路实验，用户可以可视化放置各种电子元件，查看模拟效果。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011202.webp)
+3、[加密数字货币新手指南](https://helpthisbook.com/sunny/the-newbies-guide-to-crypto)（The newbies guide to crypto）
 
-中国业余无线电爱好者交流社区。（[@Eminlin](https://github.com/ruanyf/weekly/issues/2844) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022060704.webp)
 
-4、[机器学习概念的可视化解释](https://mlu-explain.github.io/)
+一本通俗小册子，介绍加密数字货币的基本知识。
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052501.webp)
+4、[人工智能的编程范式](https://github.com/norvig/paip-lisp)（Paradigms of Artificial Intelligence Programming）
 
-这个网站使用一系列短文，配上大量插图，解释机器学习的一些概念。
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081505.webp)
+
+谷歌研究总监 Peter Norvig 的著名作品，出版于1992年，现在开源了。它的 AI 跟现在的 AI 实现不太一样，可以当作解决编程难题的读物。
+
+5、[Webfollow](https://webfollow.cc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012110.webp)
+
+一个国产的 RSS 订阅服务，每天将你订阅的 RSS 自动整理后，把内容发送到你的邮箱。（[@weekend-project-space](https://github.com/ruanyf/weekly/issues/2849) 投稿）
 
 
 <!-- End -->
