@@ -10,107 +10,103 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>241</currentVersion> -->
+<!-- <currentVersion>242</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 241 期）：中国的增长动力在内陆](https://github.com/ruanyf/weekly/blob/master/docs/issue-241.md)
+# [科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](https://github.com/ruanyf/weekly/blob/master/docs/issue-242.md)
 ### 工具
 
 
-1、[文章总结器](https://labs.kagi.com/ai/sum)（Universal Summarizer）
+1、[Convex](https://www.convex.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020812.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062210.webp)
 
-搜索引擎 Kagi 推出的一个神奇工具，输入网址，就能快速总结出该网址文章的大意，支持中文网址。
+一个类似 Firebase 的状态管理服务，前端状态可以存在它的服务器上，然后你的所有客户端都可以得到状态的实时更新。
 
-2、[寻隐](https://apps.apple.com/cn/app/id1664361663?platform=iphone)
+2、[兔年定制头像](https://www.xiaoli.vip/rabbit/)
 
-iOS 应用，使用 AI 模型，大幅增强 iPhone 的相册搜索能力，可以根据文字描述返回对应的照片，效果很好，参考[介绍文章](https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/)。
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020906.webp)
+上传照片，合成一张兔年头像，多种样式可选，代码[开源](https://github.com/xiaoli1999/custom-rabbitImage)。（[@xiaoli1999](https://github.com/ruanyf/weekly/issues/2898) 投稿）
 
-不过，这是收费软件，需要付费购买，且手机芯片不能低于 A13。另外，由于模型不同，这个是中文版，另有[英文版 Queryable](https://apps.apple.com/us/app/queryable/id1661598353?platform=iphone)。（[@mazzzystar](https://github.com/ruanyf/weekly/issues/2871) 投稿）
+3、[ElasticView](https://github.com/1340691923/ElasticView)
 
-3、[密码学工具](https://crypto-online.cn/playground/hash)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020402.webp)
+一款 ElasticSearch 的桌面客户端，用来监控 ES 状态和操作。（ [@lin2415016](https://github.com/ruanyf/weekly/issues/2887) 投稿）
 
-作者将常用的一些密码学工具的 Web 版，比如生成密钥、哈希、解密加密等等，做在了一起方便使用。（[@istommao](https://github.com/ruanyf/weekly/issues/2862) 投稿）
+4、[RATH](https://github.com/Kanaries/Rath)
 
-4、[商务邮件生成器](https://email-helper.vercel.app/)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021204.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020404.webp)
+开源的数据分析和数据可视化工具，只需要导入数据，它自动进行数据分析，找出规律，生成可视化视图。（[@AntoineYANG](https://github.com/ruanyf/weekly/issues/2892) 投稿）
 
-使用 OpenAI 自动生成商务邮件，只要提供邮件主题即可，支持中文，效果不错。（[@shengxinjing](https://github.com/ruanyf/weekly/issues/2866) 投稿）
+5、[tl-rtc-file-tool](https://im.iamtsm.cn/)
 
-5、[go-get-folder-size](https://github.com/markthree/go-get-folder-size)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021205.webp)
 
-一个 Node.js 库，可以递归获取一个文件夹的大小，采用 Go 语言编写，要比 Node.js 原生实现快得多。（[@markthree](https://github.com/ruanyf/weekly/issues/2865) 投稿）
+一个 Web 应用，演示了基于 WebRTC 的各种媒体流传输功能，代码[开源](https://github.com/iamtsm/tl-rtc-file)。（[@iamtsm](https://github.com/ruanyf/weekly/issues/2893) 投稿）
 
-6、[证件照小程序](https://github.com/liuxiaojun666/ID-Photo-miniapp-wechart)
+6、[EasyNode](https://github.com/chaos-zhu/easynode)
 
-一个开源的证件照生成的微信小程序，可以自动扣图，并更换服装和发型。（[@liuxiaojun666](https://github.com/ruanyf/weekly/issues/2872) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021206.webp)
 
-7、[Carbonyl](https://github.com/fathyb/carbonyl)
+简易的个人 Linux 服务器管理面板（基于Node.js），前后端都开源。（[@chaos-zhu](https://github.com/ruanyf/weekly/issues/2897) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020403.webp)
+7、[vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit)
 
-一个在命令行终端运行的浏览器，基于 Chromium，但是自己调用 Skia 图形库。也就是说，它不用新建窗口，就能图形展示网页，非常厉害，参见[介绍文章](https://fathy.fr/carbonyl)。（[@guotd](https://github.com/ruanyf/weekly/issues/2867) 投稿）
+VS Code 插件，使用 GPT 模型自动生成 Git 提交说明。（[@pwwang](https://github.com/ruanyf/weekly/issues/2890) 投稿）
 
-8、[帮小忙](https://tool.browser.qq.com/)
+8、[Tweek Calendar](https://tweek.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111904.webp)
 
-腾讯推出的网页小工具的集合网站。（[@Astrologist-MonaMegistus](https://github.com/ruanyf/weekly/issues/2880) 投稿）
+一个最简化的任务管理 Web App，非常简洁精美。
 
-9、[Abookmark](https://github.com/pfcao/abookmark)
+9、[BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111905.webp)
 
-浏览器插件，用来管理书签和 Tab 页。（[@pfcao](https://github.com/ruanyf/weekly/issues/2882) 投稿）
+一个开源的 MacOS 应用，可以精细调节苹果电脑的各种显示参数。
 
-10、[91化简](https://91huajian.cn/)
+10、[berty](https://berty.tech/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112201.webp)
 
-[开源](https://github.com/huajian-pro/resume-design)的简历制作网站。([@Hacker233](https://github.com/ruanyf/weekly/issues/2879) 投稿)
-
-11、[IDP](https://github.com/BaihaiAI/IDP)
-
-一个国产的 IDE，支持 Python 和 SQL，适用于数据工程师。（[@liminniu](https://github.com/ruanyf/weekly/issues/2873) 投稿）
+一个群聊应用，最大特点就是不需要互联网，通过低功耗蓝牙通信，很适合小范围内的现场广播。
 
 
 ### 资源
 
 
-1、[IPv4 地图](https://ipv4.dev.sarl/)
+1、[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)（第二版）
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062303.webp)
 
-这个网站以方块图的形式，展示 IPv4 的所有 IP 区段的归属，可以不断放大。
+免费的英文电子书，介绍加密货币的原理。
 
-2、[VimL 编程指北](https://github.com/lymslive/vimllearn)
+2、[satellite-track](https://jiangteng2019.github.io/satellite-track/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021203.webp)
 
-原创中文电子书，Vim 脚本语言教程。（[@QMHTMY](https://github.com/ruanyf/weekly/issues/2875) 投稿）
+基于 Web 的卫星轨道可视化项目，可以查看不同类别的卫星，代码[开源](https://github.com/jiangteng2019/satellite-track)。（[@jiangteng2019](https://github.com/ruanyf/weekly/issues/2888) 投稿）
 
-3、[GitHub Trends](https://github-trends.com/)
+3、[tabler-icons](https://tabler-icons.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020902.webp)
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042302.webp)
 
-可视化比较 GitHub 上的开源项目。（[@AttackOnMorty](https://github.com/ruanyf/weekly/issues/2876) 投稿）
+这个网站提供免费的图标，目前有1900多个，所有图标都是统一风格，简单美观。
 
-4、[Mastodon 实例搜索](https://instances.social/)
+4、[Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062905.webp)
 
-这个网站可以帮你搜索 Mastodon 网络（一种分布式社交网络）的实例。
+一份图文并茂的汇编语言英文介绍，针对零基础的初学者，半小时可以读完，并附有代码示例，以便进一步学习。
 
-5、[Float Toy](https://evanw.github.io/float-toy/)
+5、[快速涂鸦](https://quickdraw.withgoogle.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063003.webp)
 
-这个网页可视化展示浮点数的二进制构成，包括半精度、单精度和双精度。它的特点是，每个二进制位只要点击就变成相反值（0变成1，或者1变成0）。
+一个谷歌推出的小游戏。系统告诉你一个词语（比如自行车、眼镜、轮船……），让你在网页上把它画出来。人工智能会猜测你画的是什么，只要猜对了，就说明你画得很像。
 
 
 <!-- End -->
