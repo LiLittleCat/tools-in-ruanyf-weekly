@@ -10,103 +10,111 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>242</currentVersion> -->
+<!-- <currentVersion>243</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](https://github.com/ruanyf/weekly/blob/master/docs/issue-242.md)
+# [科技爱好者周刊（第 243 期）：与孔子 AI 聊天](https://github.com/ruanyf/weekly/blob/master/docs/issue-243.md)
 ### 工具
 
 
-1、[Convex](https://www.convex.dev/)
+1、[Popup translation](https://github.com/fzdwx/popup-translation)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062210.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021701.webp)
 
-一个类似 Firebase 的状态管理服务，前端状态可以存在它的服务器上，然后你的所有客户端都可以得到状态的实时更新。
+划词翻译工具。选中一个词以后，它会唤起一个本机的 WebView 窗口，在该窗口中返回翻译网站的结果。（[@fzdwx](https://github.com/ruanyf/weekly/issues/2903) 投稿）
 
-2、[兔年定制头像](https://www.xiaoli.vip/rabbit/)
+2、[夜视仪](https://github.com/luoxuhai/NightVision)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022006.webp)
 
-上传照片，合成一张兔年头像，多种样式可选，代码[开源](https://github.com/xiaoli1999/custom-rabbitImage)。（[@xiaoli1999](https://github.com/ruanyf/weekly/issues/2898) 投稿）
+iOS 免费应用，使用 iPhone 的激光镜头，在完全无光环境下扫描和检测距离，代码开源。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/2917) 投稿）
 
-3、[ElasticView](https://github.com/1340691923/ElasticView)
+3、[bing_wallpaper](https://github.com/xiqishow/bing_wallpaper)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021202.webp)
+微软的必应每天发布壁纸图片，这个脚本让 Mac 电脑定时随机从其中选择一张作为桌面。（[@xiqishow](https://github.com/ruanyf/weekly/issues/2924) 投稿）
 
-一款 ElasticSearch 的桌面客户端，用来监控 ES 状态和操作。（ [@lin2415016](https://github.com/ruanyf/weekly/issues/2887) 投稿）
+4、[paint-board](https://github.com/LHRUN/paint-board)
 
-4、[RATH](https://github.com/Kanaries/Rath)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022008.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021204.webp)
+一个开源的 Web 画板，基于 canvas。（[@LHRUN](https://github.com/ruanyf/weekly/issues/2926) 投稿）
 
-开源的数据分析和数据可视化工具，只需要导入数据，它自动进行数据分析，找出规律，生成可视化视图。（[@AntoineYANG](https://github.com/ruanyf/weekly/issues/2892) 投稿）
+5、[静态 Mastodon 服务器](https://github.com/rothgar/static-mastodon)
 
-5、[tl-rtc-file-tool](https://im.iamtsm.cn/)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022009.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021205.webp)
+Mastodon 是一个分布式社交网络，作者演示了只用静态文件，就可以让别人看到你的动态，参见[介绍文章](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)。（[@DejavuMoe](https://github.com/ruanyf/weekly/issues/2932) 投稿）
 
-一个 Web 应用，演示了基于 WebRTC 的各种媒体流传输功能，代码[开源](https://github.com/iamtsm/tl-rtc-file)。（[@iamtsm](https://github.com/ruanyf/weekly/issues/2893) 投稿）
+5、[soundraw.io](https://soundraw.io/)
 
-6、[EasyNode](https://github.com/chaos-zhu/easynode)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112422.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021206.webp)
+一个 AI 音乐生成器，用户指定需要什么样的音乐，它就会自动生成。这是一个收费服务，生成的音乐还挺好听的。
 
-简易的个人 Linux 服务器管理面板（基于Node.js），前后端都开源。（[@chaos-zhu](https://github.com/ruanyf/weekly/issues/2897) 投稿）
+5、[winkNLP](https://winkjs.org/wink-nlp/)
 
-7、[vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112502.webp)
 
-VS Code 插件，使用 GPT 模型自动生成 Git 提交说明。（[@pwwang](https://github.com/ruanyf/weekly/issues/2890) 投稿）
+一个 JS 库，提供易用的自然语言处理（nlp），不过目前只支持英语。
 
-8、[Tweek Calendar](https://tweek.so/)
+6、[CryptBoard.io](https://cryptboard.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112601.webp)
 
-一个最简化的任务管理 Web App，非常简洁精美。
+一个[开源](https://github.com/MihanEntalpo/cryptboard.io)的网络加密剪贴板。它为每个用户生成一对密钥，其他人只有拿到（你给他们的）公钥，才能看到你张贴的内容。
 
-9、[BetterDisplay](https://github.com/waydabber/BetterDisplay)
+7、[Hippotat](https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112604.webp)
 
-一个开源的 MacOS 应用，可以精细调节苹果电脑的各种显示参数。
+有些咖啡馆和旅馆的 Wifi，只允许连接外部服务器的80端口和443端口，不能使用其他端口，很不方便，作者就写了这个工具。
 
-10、[berty](https://berty.tech/)
+只要在你的服务器安装它的服务端，本地再运行客户端，就能在它之上运行各种工具，通过 Web 端口连接服务器的各种端口。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112201.webp)
+8、[NopeCHA](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 
-一个群聊应用，最大特点就是不需要互联网，通过低功耗蓝牙通信，很适合小范围内的现场广播。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112802.webp)
+
+一个 Chrome 插件，号称可以自动解开上图这样的 CAPTCHA 测试。
+
+9、[MathB.in](https://mathb.in/1)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092407.webp)
+
+一个数学公式的分享网站，你用 LaTex 和 Markdown 输入公式，它会生成一个网址，你可以分享给其他人。
 
 
 ### 资源
 
 
-1、[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)（第二版）
+1、[动手写编译器：互动讲解](https://citw.dev/tutorial/create-your-own-compiler)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112803.webp)
 
-免费的英文电子书，介绍加密货币的原理。
+这个网站教大家写一个最简单的编译器，每一步都有详细讲解，并有代码演示。
 
-2、[satellite-track](https://jiangteng2019.github.io/satellite-track/)
+2、[月球地图](https://ce2.greensea.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022007.webp)
 
-基于 Web 的卫星轨道可视化项目，可以查看不同类别的卫星，代码[开源](https://github.com/jiangteng2019/satellite-track)。（[@jiangteng2019](https://github.com/ruanyf/weekly/issues/2888) 投稿）
+使用嫦娥二号发布的全月影像图制作，分辨率可以达到7米，能够搜索和定位各种环形山、地名以及人造物体位置。（[@greensea](https://github.com/ruanyf/weekly/issues/2919) 投稿）
 
-3、[tabler-icons](https://tabler-icons.io/)
+3、[街景奇观](https://neal.fun/wonders-of-street-view/)（Wonders of Street View）
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022004.webp)
 
-这个网站提供免费的图标，目前有1900多个，所有图标都是统一风格，简单美观。
+这个网站收集了很多谷歌街景的有趣照片，每次随机展示一张。（[@kxxt](https://github.com/ruanyf/weekly/issues/2914) 投稿）
 
-4、[Some Assembly Required](https://github.com/hackclub/some-assembly-required)
+4、[handsome-css3-lib](https://www.handsome-css.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022005.webp)
 
-一份图文并茂的汇编语言英文介绍，针对零基础的初学者，半小时可以读完，并附有代码示例，以便进一步学习。
+这个网站收集各种 CSS 特效和组件。（[@ZiYi0414](https://github.com/ruanyf/weekly/issues/2907) 投稿）
 
-5、[快速涂鸦](https://quickdraw.withgoogle.com/)
+5、[这双运动鞋不存在](https://thissneakerdoesnotexist.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063026.webp)
 
-一个谷歌推出的小游戏。系统告诉你一个词语（比如自行车、眼镜、轮船……），让你在网页上把它画出来。人工智能会猜测你画的是什么，只要猜对了，就说明你画得很像。
+这个网站上的运动鞋，都是 AI 生成的，实际上并不存在。
 
 
 <!-- End -->
