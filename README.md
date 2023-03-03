@@ -10,111 +10,95 @@
 - [资源](doc/资源.md)
 
 ## 最新一期
-<!-- <currentVersion>243</currentVersion> -->
+<!-- <currentVersion>244</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 243 期）：与孔子 AI 聊天](https://github.com/ruanyf/weekly/blob/master/docs/issue-243.md)
+# [科技爱好者周刊（第 244 期）：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md)
 ### 工具
 
 
-1、[Popup translation](https://github.com/fzdwx/popup-translation)
+1、[kill-sticky](https://github.com/t-mart/kill-sticky)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023021701.webp)
+一个书签脚本，用于去除网页的粘性（sticky）元素。很多网站使用这种元素生成遮罩层，非常讨厌。类似的脚本还有 [unsticky](https://github.com/nothingless/unsticky)。
 
-划词翻译工具。选中一个词以后，它会唤起一个本机的 WebView 窗口，在该窗口中返回翻译网站的结果。（[@fzdwx](https://github.com/ruanyf/weekly/issues/2903) 投稿）
+2、[幕境](https://github.com/tangshimin/MuJing)
 
-2、[夜视仪](https://github.com/luoxuhai/NightVision)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022806.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022006.webp)
+英语学习软件，用户上传原版视频和字幕，软件会自动生成词库。以后播放视频时，遇到词库里面的单词，该词就会以弹幕形式自动展示释义。（[@tangshimin](https://github.com/ruanyf/weekly/issues/2936) 投稿）
 
-iOS 免费应用，使用 iPhone 的激光镜头，在完全无光环境下扫描和检测距离，代码开源。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/2917) 投稿）
+3、[轻快图床](https://github.com/ischenliang/quickly-picture-bed)
 
-3、[bing_wallpaper](https://github.com/xiqishow/bing_wallpaper)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022805.webp)
 
-微软的必应每天发布壁纸图片，这个脚本让 Mac 电脑定时随机从其中选择一张作为桌面。（[@xiqishow](https://github.com/ruanyf/weekly/issues/2924) 投稿）
+一个基于 Web 的图床系统。（[@it-chenliang](https://github.com/ruanyf/weekly/issues/2937) 投稿）
 
-4、[paint-board](https://github.com/LHRUN/paint-board)
+4、[Datasette](https://datasette.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022807.webp)
 
-一个开源的 Web 画板，基于 canvas。（[@LHRUN](https://github.com/ruanyf/weekly/issues/2926) 投稿）
+开源的数据探索工具，可以从各种数据源导入数据，然后自定义数据的查询和展示形式（图表、仪表盘、地图等等）。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2950) 投稿）
 
-5、[静态 Mastodon 服务器](https://github.com/rothgar/static-mastodon)
+5、[DrissionPage](https://github.com/g1879/DrissionPage)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022009.webp)
+一个基于 Python 的网页自动化工具，可以编写脚本操作浏览器。（[@g1879](https://github.com/ruanyf/weekly/issues/2946) 投稿）
 
-Mastodon 是一个分布式社交网络，作者演示了只用静态文件，就可以让别人看到你的动态，参见[介绍文章](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)。（[@DejavuMoe](https://github.com/ruanyf/weekly/issues/2932) 投稿）
+6、[git-hours](https://github.com/kimmobrunfeldt/git-hours)
 
-5、[soundraw.io](https://soundraw.io/)
+一个 JS 写的命令行工具，可以估计开发某个代码库花费的大致时间。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112422.webp)
+7、[Manticore Search](https://github.com/manticoresoftware/manticoresearch)
 
-一个 AI 音乐生成器，用户指定需要什么样的音乐，它就会自动生成。这是一个收费服务，生成的音乐还挺好听的。
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072904.webp)
 
-5、[winkNLP](https://winkjs.org/wink-nlp/)
+一个开源的全文搜索引擎，号称可以替代 Elasticsearch，支持中文。
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112502.webp)
+8、[Unsilence](https://github.com/lagmoellertim/unsilence)
 
-一个 JS 库，提供易用的自然语言处理（nlp），不过目前只支持英语。
+一个命令行工具，自动删除视频里面的无声片段，比较适合处理演讲、讲座视频。
 
-6、[CryptBoard.io](https://cryptboard.io/)
+9、[Tabler](https://github.com/tabler/tabler)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072905.webp)
 
-一个[开源](https://github.com/MihanEntalpo/cryptboard.io)的网络加密剪贴板。它为每个用户生成一对密钥，其他人只有拿到（你给他们的）公钥，才能看到你张贴的内容。
+一个基于 Bootstrap 的网页 UI 框架，专用于开发管理后台。
 
-7、[Hippotat](https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/)
+10、[Code Language Converter](https://codelanguageconverter.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093005.webp)
 
-有些咖啡馆和旅馆的 Wifi，只允许连接外部服务器的80端口和443端口，不能使用其他端口，很不方便，作者就写了这个工具。
+这个网站可以把一种语言的代码，转成另一种语言，比如把 JS 代码转 PHP 代码。它是收费服务，但是有免费额度。
 
-只要在你的服务器安装它的服务端，本地再运行客户端，就能在它之上运行各种工具，通过 Web 端口连接服务器的各种端口。
+11、[VueTube](https://github.com/VueTubeApp/VueTube)
 
-8、[NopeCHA](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112802.webp)
-
-一个 Chrome 插件，号称可以自动解开上图这样的 CAPTCHA 测试。
-
-9、[MathB.in](https://mathb.in/1)
-
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092407.webp)
-
-一个数学公式的分享网站，你用 LaTex 和 Markdown 输入公式，它会生成一个网址，你可以分享给其他人。
+网友自己开发的 Youtube 手机客户端，支持安卓和 iOS。
 
 
 ### 资源
 
 
-1、[动手写编译器：互动讲解](https://citw.dev/tutorial/create-your-own-compiler)
+1、[CSS Bed](https://www.cssbed.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091111.webp)
 
-这个网站教大家写一个最简单的编译器，每一步都有详细讲解，并有代码演示。
+这个网页收集并展示各种无类的极简化 CSS 框架。如果你想选一个简单的 CSS 框架，可以看看它。
 
-2、[月球地图](https://ce2.greensea.org/)
+2、[C 语言手册](https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html)（GNU C Language Manual）
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022007.webp)
+理查德·斯托曼最近编写的 C 语言教程，这是源码，[GitHub](https://github.com/VernonGrant/gnu-c-language-manual) 有转换好的 PDF 文件下载。
 
-使用嫦娥二号发布的全月影像图制作，分辨率可以达到7米，能够搜索和定位各种环形山、地名以及人造物体位置。（[@greensea](https://github.com/ruanyf/weekly/issues/2919) 投稿）
+3、[Atkinson Hyperlegible 字体](https://brailleinstitute.org/freefont)
 
-3、[街景奇观](https://neal.fun/wonders-of-street-view/)（Wonders of Street View）
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091201.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022004.webp)
+一种高辨识度的英文字体，容易混淆的字符都做了明显区别，比如 1 和 I、i 和 l。
 
-这个网站收集了很多谷歌街景的有趣照片，每次随机展示一张。（[@kxxt](https://github.com/ruanyf/weekly/issues/2914) 投稿）
+4、[Python 实用教程](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 
-4、[handsome-css3-lib](https://www.handsome-css.com/)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022005.webp)
-
-这个网站收集各种 CSS 特效和组件。（[@ZiYi0414](https://github.com/ruanyf/weekly/issues/2907) 投稿）
-
-5、[这双运动鞋不存在](https://thissneakerdoesnotexist.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063026.webp)
-
-这个网站上的运动鞋，都是 AI 生成的，实际上并不存在。
+一本简单实用的 Python 入门英文教程。
 
 
 <!-- End -->
