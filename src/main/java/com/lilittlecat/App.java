@@ -32,8 +32,8 @@ public class App {
     public void addContent() {
         String dir = System.getProperty("user.dir");
         try (
-                RandomAccessFile tools = new RandomAccessFile(dir + "/doc/工具.md", "rw");
-                RandomAccessFile resources = new RandomAccessFile(dir + "/doc/资源.md", "rw");
+                RandomAccessFile tools = new RandomAccessFile(dir + "/docs/tools.md", "rw");
+                RandomAccessFile resources = new RandomAccessFile(dir + "/docs/resources.md", "rw");
                 RandomAccessFile thisReadme = new RandomAccessFile(dir + "/README.md", "rw")
         ) {
             // Get current publish number

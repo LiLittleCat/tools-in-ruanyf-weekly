@@ -3,11 +3,17 @@
 ## 前言
 很喜欢阮一峰老师的 [科技爱好者周刊](https://github.com/ruanyf/weekly)，尤其是「工具」和「资源」部分内容，非常有趣且实用。 
 
-但是到目前为止周刊已经两百多期，苦于查找困难，特将其汇总于此，方便查阅。
+但是到目前为止周刊已经太多期，苦于查找困难，特将其汇总于此，方便查阅。
 
 ## 汇总
-- [工具](doc/工具.md)
-- [资源](doc/资源.md)
+由于汇总内容太多图片，使用 GitHub 打开 Markdown 文件时会造成加载缓慢，建议使用静态页面查看，或者下载到本地查看。
+
+静态页面：
+https://lilittlecat.com/tools-in-ruanyf-weekly/
+
+GitHub Markdown 文件地址：
+- [工具](docs/tools.md)
+- [资源](docs/resources.md)
 
 ## 最新一期
 <!-- <currentVersion>244</currentVersion> -->
