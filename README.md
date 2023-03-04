@@ -16,7 +16,7 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>243</currentVersion> -->
+<!-- <currentVersion>244</currentVersion> -->
 <!-- Begin -->
 # [科技爱好者周刊（第 244 期）：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md)
 ### 工具
