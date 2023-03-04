@@ -32,8 +32,8 @@ jobs:
           git config --local user.name "LiLittleCat"
           git pull
           git add README.md
-          git add doc/*
-          git commit -m "Update files"
+          git add docs/*
+          git commit -m "Update contents"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
