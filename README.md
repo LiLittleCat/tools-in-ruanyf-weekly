@@ -9,14 +9,14 @@
 由于汇总内容太多图片，使用 GitHub 打开 Markdown 文件时会造成加载缓慢，建议使用静态页面查看，或者下载到本地查看。
 
 静态页面：
-https://lilittlecat.com/tools-in-ruanyf-weekly/
+[https://lilittlecat.github.io/tools-in-ruanyf-weekly/](https://lilittlecat.github.io/tools-in-ruanyf-weekly/)
 
-GitHub Markdown 文件地址：
-- [工具](docs/tools.md)
-- [资源](docs/resources.md)
+源文件地址：
+- [工具](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/tools.md)
+- [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>244</currentVersion> -->
+<!-- <currentVersion>243</currentVersion> -->
 <!-- Begin -->
 # [科技爱好者周刊（第 244 期）：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md)
 ### 工具
