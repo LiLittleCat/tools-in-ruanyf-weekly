@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md#工具)
+
+
+1、[Catppuccin](https://github.com/catppuccin/catppuccin)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121404.webp)
+
+一套配色主题，特点是色彩柔和缤纷，不太亮不太暗，对于各种主要的应用软件都进行了适配。
+
+2、[SkyDroid](https://skydroid.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121406.webp)
+
+一个分布式的安卓应用商店，发布应用就是自己架一个服务器，把应用放上去，一个小时之内就会被全球索引。它的好处就是没人能下架你的应用。
+
+3、[Astro Air Blog](https://github.com/austin2035/astro-air-blog)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030601.webp)
+
+一个基于 Astro 的静态博客生成器，查看 [Demo](astro.yufengbiji.com)。（[@austin2035](https://github.com/ruanyf/weekly/issues/2967) 投稿）
+
+4、[nrm](https://github.com/Pana/nrm)
+
+一个命令行小工具，用来管理和切换 npm 仓库地址，类似的工具还有 [prm-cli](https://github.com/wangrongding/prm-cli)。（[@hqzh](https://github.com/ruanyf/weekly/issues/2964) 投稿）
+
+5、[image-flow](https://github.com/one-piece-official/ImageFlow)
+
+一个网页图片的动画特效的 React 组件，特效通过OpenGL ES 编写，在 GPU 执行。（[@csj5588](https://github.com/ruanyf/weekly/issues/2971) 投稿）
+
+6、[cloudping.info](https://www.cloudping.info/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100204.webp)
+
+这个网站可以测试你的机器 ping 世界各地的亚马逊云服务器的速度。
+
+7、[Seer](https://github.com/epasveer/seer)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100205.webp)
+
+调试工具 gdb 的图形界面。
+
+8、[室内装潢 AI](https://interiorai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100404.webp)
+
+你在这个网站上传一张房间照片，再选择一种装潢风格，AI 就会将房间修改成这种风格的装潢。虽然生成效果不算好，但是这个想法可取。
+
+9、[Sharing](https://github.com/parvardegr/sharing)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100705.webp)
+
+一个命令行工具，生成一个二维码，可以把本机文件分享给局域网内的手机。
+
+10、[Castopod](https://castopod.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100706.webp)
+
+一个开源的播客网站程序，你可以架设个人的 podcast 网站。
+
+
 ## [科技爱好者周刊（第 244 期）：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md#工具)
 
 

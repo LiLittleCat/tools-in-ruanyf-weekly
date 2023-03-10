@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md#资源)
+
+
+1、[世界互联网基础设施地图](https://www.infrapedia.com/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091501.webp)
+
+这个网站可以查看全世界的主干光纤线路和机房位置。
+
+2、[JavaScript 引擎列表](https://notes.eatonphil.com/javascript-implementations.html)
+
+这个网页做了一个 JavaScript 引擎的不完整列表。最著名的当然是下面三家，此外还有40多种引擎。
+
+> - Chrome 的 V8
+> - Safari 的 JavaScriptCore
+> - Firefox 的 SpiderMonkey
+
+3、[Dash Dash](https://dashdash.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050802.webp)
+
+这个网站将 Linux 文档（man 文档）重新格式化和排版，方便查找和阅读。
+
+4、[Perplexity](https://www.perplexity.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030708.webp)
+
+人工智能引擎，你向它提问，它告诉你答案，支持中文。
+
+
 ## [科技爱好者周刊（第 244 期）：大数据已死](https://github.com/ruanyf/weekly/blob/master/docs/issue-244.md#资源)
 
 
