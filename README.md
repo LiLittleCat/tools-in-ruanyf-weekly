@@ -16,97 +16,73 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>245</currentVersion> -->
+<!-- <currentVersion>246</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md)
+# [科技爱好者周刊（第 246 期）：永不丢失的网络身份](https://github.com/ruanyf/weekly/blob/master/docs/issue-246.md)
 ### 工具
 
 
-1、[Catppuccin](https://github.com/catppuccin/catppuccin)
+1、[Jami](https://jami.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122201.webp)
 
-一套配色主题，特点是色彩柔和缤纷，不太亮不太暗，对于各种主要的应用软件都进行了适配。
+一个开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等。
 
-2、[SkyDroid](https://skydroid.app/)
+2、[PhpWebStudy](https://www.macphpstudy.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031401.webp)
 
-一个分布式的安卓应用商店，发布应用就是自己架一个服务器，把应用放上去，一个小时之内就会被全球索引。它的好处就是没人能下架你的应用。
+MacOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重启、配置查看修改、日志排查等等（[@xpf0000](https://github.com/ruanyf/weekly/issues/2973) 投稿）
 
-3、[Astro Air Blog](https://github.com/austin2035/astro-air-blog)
+3、[Huntly](https://github.com/lcomplete/huntly)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031405.webp)
 
-一个基于 Astro 的静态博客生成器，查看 [Demo](astro.yufengbiji.com)。（[@austin2035](https://github.com/ruanyf/weekly/issues/2967) 投稿）
+一款自托管的信息管理工具，可以订阅 RSS 和自动保存浏览过的网页，支持多维度的分类和搜索。（[@lcomplete](https://github.com/ruanyf/weekly/issues/2977) 投稿）
 
-4、[nrm](https://github.com/Pana/nrm)
+4、[CircuitJS1](https://github.com/pfalstad/circuitjs1)
 
-一个命令行小工具，用来管理和切换 npm 仓库地址，类似的工具还有 [prm-cli](https://github.com/wangrongding/prm-cli)。（[@hqzh](https://github.com/ruanyf/weekly/issues/2964) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031403.webp)
 
-5、[image-flow](https://github.com/one-piece-official/ImageFlow)
+网页电路模拟器，可以添加电子元件、导出电路、分享 URL 等等。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2975) 投稿）
 
-一个网页图片的动画特效的 React 组件，特效通过OpenGL ES 编写，在 GPU 执行。（[@csj5588](https://github.com/ruanyf/weekly/issues/2971) 投稿）
+5、[RxEditor](https://github.com/rxdrag/rxeditor)
 
-6、[cloudping.info](https://www.cloudping.info/)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031404.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100204.webp)
+一款开源的可视化低代码前端工具，可以拖拽生成和编辑组件，目前仅支持 React，查看 [Demo](https://rxeditor.vercel.app/)。（[@rxdrag](https://github.com/ruanyf/weekly/issues/2976) 投稿）
 
-这个网站可以测试你的机器 ping 世界各地的亚马逊云服务器的速度。
+6、[Zarm](https://zarm.design/)
 
-7、[Seer](https://github.com/epasveer/seer)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031411.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100205.webp)
-
-调试工具 gdb 的图形界面。
-
-8、[室内装潢 AI](https://interiorai.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100404.webp)
-
-你在这个网站上传一张房间照片，再选择一种装潢风格，AI 就会将房间修改成这种风格的装潢。虽然生成效果不算好，但是这个想法可取。
-
-9、[Sharing](https://github.com/parvardegr/sharing)
-
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100705.webp)
-
-一个命令行工具，生成一个二维码，可以把本机文件分享给局域网内的手机。
-
-10、[Castopod](https://castopod.org/)
-
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100706.webp)
-
-一个开源的播客网站程序，你可以架设个人的 podcast 网站。
+基于 React 的企业级移动端 UI 组库。（[@dominicleo](https://github.com/ruanyf/weekly/issues/2982) 投稿）
 
 
 ### 资源
 
 
-1、[世界互联网基础设施地图](https://www.infrapedia.com/app)
+1、[useragents.me](https://www.useragents.me/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121803.webp)
 
-这个网站可以查看全世界的主干光纤线路和机房位置。
+这个网站提供各种最新版本浏览器的 User Agent 字符串。
 
-2、[JavaScript 引擎列表](https://notes.eatonphil.com/javascript-implementations.html)
+2、[webЯcade](https://www.webrcade.com/)
 
-这个网页做了一个 JavaScript 引擎的不完整列表。最著名的当然是下面三家，此外还有40多种引擎。
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092604.webp)
 
-> - Chrome 的 V8
-> - Safari 的 JavaScriptCore
-> - Firefox 的 SpiderMonkey
+一个[开源](https://github.com/webrcade/webrcade)网站，让你在网页玩老游戏机（任天堂、世嘉等）的游戏，可以自己上传游戏 ROM。
 
-3、[Dash Dash](https://dashdash.io/)
+3、[Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122211.webp)
 
-这个网站将 Linux 文档（man 文档）重新格式化和排版，方便查找和阅读。
+安卓团队编写的为期四天的 Rust 课程，从基本语法到高级主题，最后一天还会讲到 Rust 如何用于安卓开发。
 
-4、[Perplexity](https://www.perplexity.ai/)
+4、[汇编语言编程导论](https://github.com/pkivolowitz/asm_book)（A Gentle Introduction to Assembly Language Programming）
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023030708.webp)
-
-人工智能引擎，你向它提问，它告诉你答案，支持中文。
+一本英文的开源教程，向 C/C++ 学习者介绍 ARM 64 的汇编语言。
 
 
 <!-- End -->

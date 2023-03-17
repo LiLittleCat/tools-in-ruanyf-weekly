@@ -1,5 +1,45 @@
 # 工具
 
+## [科技爱好者周刊（第 246 期）：永不丢失的网络身份](https://github.com/ruanyf/weekly/blob/master/docs/issue-246.md#工具)
+
+
+1、[Jami](https://jami.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122201.webp)
+
+一个开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等。
+
+2、[PhpWebStudy](https://www.macphpstudy.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031401.webp)
+
+MacOS 系统 PHP 和 Web 开发环境管理工具，方便各软件的启动/重启、配置查看修改、日志排查等等（[@xpf0000](https://github.com/ruanyf/weekly/issues/2973) 投稿）
+
+3、[Huntly](https://github.com/lcomplete/huntly)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031405.webp)
+
+一款自托管的信息管理工具，可以订阅 RSS 和自动保存浏览过的网页，支持多维度的分类和搜索。（[@lcomplete](https://github.com/ruanyf/weekly/issues/2977) 投稿）
+
+4、[CircuitJS1](https://github.com/pfalstad/circuitjs1)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031403.webp)
+
+网页电路模拟器，可以添加电子元件、导出电路、分享 URL 等等。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/2975) 投稿）
+
+5、[RxEditor](https://github.com/rxdrag/rxeditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031404.webp)
+
+一款开源的可视化低代码前端工具，可以拖拽生成和编辑组件，目前仅支持 React，查看 [Demo](https://rxeditor.vercel.app/)。（[@rxdrag](https://github.com/ruanyf/weekly/issues/2976) 投稿）
+
+6、[Zarm](https://zarm.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031411.webp)
+
+基于 React 的企业级移动端 UI 组库。（[@dominicleo](https://github.com/ruanyf/weekly/issues/2982) 投稿）
+
+
 ## [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](https://github.com/ruanyf/weekly/blob/master/docs/issue-245.md#工具)
 
 
