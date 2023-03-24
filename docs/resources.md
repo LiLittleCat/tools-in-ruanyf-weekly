@@ -1,5 +1,41 @@
 # 资源
 
+## [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md#资源)
+
+
+1、[世界手机摄影奖](https://mobilephotoawards.com/12th-annual-mpa-winners-honorable-mentions/)
+
+第12届世界手机摄影奖的官网，展示了所有获奖作品，手机摄影的表现力真是越来越强了。
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031801.webp)
+
+上图是获奖作品之一的《窗外的加州》。
+
+2、[Open Prompt](https://openprompt.co/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032202.webp)
+
+该网站可以提交、保存、查看生成式 AI 引擎的常用提示语。类似项目另有 [ChatGPT-Prompt](https://github.com/f/awesome-chatgpt-prompts)。（[@timqian](https://github.com/ruanyf/weekly/issues/2997) 投稿）
+
+3、[周刊的非官方网站](https://ruanyf-weekly.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032205.webp)
+
+网友用 VitePress + Algolia 搭建的周刊网站，效果不错，[代码开源](https://github.com/plantree/ruanyf-weekly)。（[@plantree](https://github.com/ruanyf/weekly/issues/3000) 投稿）
+
+4、[oldwinter の 数字花园](https://github.com/oldwinter/knowledge-garden)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032001.webp)
+
+基于 Obsidian 笔记的个人站点，演示了如何将 Obsidian 笔记发布成个人网站，支持笔记页面之间互相引用和跳转。（[@oldwinter](https://github.com/ruanyf/weekly/issues/2988) 投稿）
+
+5、[Flowful](https://www.flowful.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071908.webp)
+
+一个播放舒缓背景音乐的网站，让你放松精神，注意力更专注。它的特点是，所有音乐都是软件生成的，同一首曲子可以一天24小时变化不中断。
+
+
 ## [科技爱好者周刊（第 246 期）：永不丢失的网络身份](https://github.com/ruanyf/weekly/blob/master/docs/issue-246.md#资源)
 
 
