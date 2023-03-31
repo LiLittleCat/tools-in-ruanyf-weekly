@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md#资源)
+
+
+1、[3D in CSS](https://garden.bradwoods.io/notes/css/3d)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011001.webp)
+
+这个网页提供互动演示，帮助理解 CSS 里面与 3D 有关的各项属性。
+
+2、[AI 研究所](https://www.aiyjs.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032902.webp)
+
+一个中文网站，收录 AI 相关工具。（[@xlys997](https://github.com/ruanyf/weekly/issues/3011) 投稿）
+
+3、[深度学习自己学](https://dataflowr.github.io/website/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032918.webp)
+
+该英文网站是一个原创的深度学习的自学教程站。
+
+4、[Web 应用 101](https://www.robinwieruch.de/web-applications/)
+
+这篇长文详细介绍 Web 应用是什么，理清各种概念，比如 SPA（单页应用）、SSR（服务器端渲染）、SSG（静态网站生成）。
+
+
 ## [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md#资源)
 
 

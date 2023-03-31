@@ -16,103 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>247</currentVersion> -->
+<!-- <currentVersion>248</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md)
+# [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md)
 ### 工具
 
 
-1、[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+1、[Microsoft Loop](https://loop.microsoft.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032206.webp)
+上周五，微软发布协作工具 Loop，可以免费使用。
 
-Adobe 公司本周推出的 AI 作图服务。
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032401.webp)
 
-同时微软[宣布](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)，搜索引擎 Bing 和浏览器 Edge 将集成 DALL-E 模型，允许用户进行 AI 作图。
+它属于 Microsoft 365 套件的一种，允许用户将各种 Office 组件（Word、Excel、PPT 等）插在一个文档里，进行协作，跟 Notion 很像，参见[官网介绍](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/22/new-microsoft-loop-app-is-built-for-modern-co-creation/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032207.webp)
+2、[Mafs](https://mafs.dev/)
 
-2、[Dioxus](https://dioxuslabs.com/)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122704.webp)
+一个基于 React 的互动式数学图形组件库。
 
-一个 Rust 语言的 UI 库，可以使用这个库，为各种设备（Web、桌面、手机、终端）制作用户界面。
+3、[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)
 
-3、[ChatGPT Box](https://github.com/josStorer/chatGPTBox)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032903.webp)
 
-浏览器插件，将 ChatGPT 与浏览器融合，同时对常用网站做了 ChatGPT 加强。（[@josStorer](https://github.com/ruanyf/weekly/issues/2991) 投稿）
+开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发。（[@orangelckc](https://github.com/ruanyf/weekly/issues/3010) 投稿）
 
-4、[Alock](https://github.com/luoxuhai/Alock)
+4、[Tartelet](https://github.com/shapehq/tartelet)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032917.webp)
 
-一个开源的 iOS 应用，彻底在 iPhone/iPad 上隐藏指定的 App。([@luoxuhai](https://github.com/ruanyf/weekly/issues/2996) 投稿)
+一个在本机运行 GitHub Actions 的工具，通过虚拟机来执行任务，只支持 MacOS 系统，详见[介绍文章](https://shape.dk/news/tartelet)。
 
-5、[microfeed](https://github.com/microfeed/microfeed)
+5、[RSS.cafe](https://rss.cafe/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032901.webp)
 
-一个部署在 Cloudflare 上面的轻量级 CMS（内容管理系统）。
+一个国产 RSS 阅读器，增加了知识管理、期刊订阅等特色功能。（[@zhi-wenzheng](https://github.com/ruanyf/weekly/issues/3007) 投稿）
 
-6、[Clipboard](https://github.com/Slackadays/Clipboard)
+6、[PodFind](https://github.com/mazzzystar/PodFind)
 
-一个命令行工具，用来将内容放入/取出系统剪贴板。
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032904.webp)
 
-7、[webrtc-ips](https://github.com/joeymalvinni/webrtc-ip)
+一个开源的播客文本搜索引擎，所有代码都是 GPT-4 生成的。（[@mazzzystar](https://github.com/ruanyf/weekly/issues/3015) 投稿）
 
-正常情况下，如果不借助服务器，客户端 JS 脚本无法获取用户 的 IP 地址。这个库使用 WebRTC，可以在客户端拿到用户的 IP 地址。
+7、[SQL Chat](https://www.sqlchat.ai/)
 
-8、[dprint](https://dprint.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032906.webp)
 
-一个通用的代码格式化工具，可以通过插件，对各种常用语言进行格式化处理，比如通过 Prettier 插件格式化 JS。
+一个 Web 应用，使用自然语言查询数据库，底层使用 OpenAI 的 API 将自然语言转成 SQL，支持 MySQL 和 PostgreSQL，[代码开源](https://github.com/bytebase/sqlchat)。（[@tianzhou](https://github.com/ruanyf/weekly/issues/3017) 投稿）
 
-9、[Sails](https://sailsjs.com/)
+8、[FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-![](https://cdn.beekka.com/blogimg/asset/202206/bg2022062112.webp)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032905.webp)
 
-Node.js 的后端 MVC 框架，GitHub 有2万多星。它内置了很多东西，比如数据库的 ORM、WebSocket、自动生成 REST API。
+一个开源的软件功能（feature）管理平台，支持灰度放量、AB 实验、实时配置变更等操作。（[@nanxijms](https://github.com/ruanyf/weekly/issues/3016) 投稿）
 
-10、[Restfox](https://restfox.dev/)
+9、[CubeTrek](https://cubetrek.com/static/join.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010402.webp)
 
-Postman 的 Web 开源替代品，完全在浏览器里面使用，用来调试 API。
+这个网站可以导入 GPS 轨迹，在地形图上显示，特别适合生成山地路线图。
+
+10、[ov](https://noborus.github.io/ov/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010405.webp)
+
+一个命令行的文本阅读器，用来替代`less`或`more`。
 
 
 ### 资源
 
 
-1、[世界手机摄影奖](https://mobilephotoawards.com/12th-annual-mpa-winners-honorable-mentions/)
+1、[3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 
-第12届世界手机摄影奖的官网，展示了所有获奖作品，手机摄影的表现力真是越来越强了。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031801.webp)
+这个网页提供互动演示，帮助理解 CSS 里面与 3D 有关的各项属性。
 
-上图是获奖作品之一的《窗外的加州》。
+2、[AI 研究所](https://www.aiyjs.com/)
 
-2、[Open Prompt](https://openprompt.co/)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032202.webp)
+一个中文网站，收录 AI 相关工具。（[@xlys997](https://github.com/ruanyf/weekly/issues/3011) 投稿）
 
-该网站可以提交、保存、查看生成式 AI 引擎的常用提示语。类似项目另有 [ChatGPT-Prompt](https://github.com/f/awesome-chatgpt-prompts)。（[@timqian](https://github.com/ruanyf/weekly/issues/2997) 投稿）
+3、[深度学习自己学](https://dataflowr.github.io/website/)
 
-3、[周刊的非官方网站](https://ruanyf-weekly.vercel.app/)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032918.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032205.webp)
+该英文网站是一个原创的深度学习的自学教程站。
 
-网友用 VitePress + Algolia 搭建的周刊网站，效果不错，[代码开源](https://github.com/plantree/ruanyf-weekly)。（[@plantree](https://github.com/ruanyf/weekly/issues/3000) 投稿）
+4、[Web 应用 101](https://www.robinwieruch.de/web-applications/)
 
-4、[oldwinter の 数字花园](https://github.com/oldwinter/knowledge-garden)
-
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032001.webp)
-
-基于 Obsidian 笔记的个人站点，演示了如何将 Obsidian 笔记发布成个人网站，支持笔记页面之间互相引用和跳转。（[@oldwinter](https://github.com/ruanyf/weekly/issues/2988) 投稿）
-
-5、[Flowful](https://www.flowful.app/)
-
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071908.webp)
-
-一个播放舒缓背景音乐的网站，让你放松精神，注意力更专注。它的特点是，所有音乐都是软件生成的，同一首曲子可以一天24小时变化不中断。
+这篇长文详细介绍 Web 应用是什么，理清各种概念，比如 SPA（单页应用）、SSR（服务器端渲染）、SSG（静态网站生成）。
 
 
 <!-- End -->

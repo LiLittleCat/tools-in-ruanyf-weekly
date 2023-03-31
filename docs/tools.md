@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md#工具)
+
+
+1、[Microsoft Loop](https://loop.microsoft.com)
+
+上周五，微软发布协作工具 Loop，可以免费使用。
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032401.webp)
+
+它属于 Microsoft 365 套件的一种，允许用户将各种 Office 组件（Word、Excel、PPT 等）插在一个文档里，进行协作，跟 Notion 很像，参见[官网介绍](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/22/new-microsoft-loop-app-is-built-for-modern-co-creation/)。
+
+2、[Mafs](https://mafs.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010301.webp)
+
+一个基于 React 的互动式数学图形组件库。
+
+3、[ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032903.webp)
+
+开源的跨平台 ChatGPT 桌面应用程序，使用 Tauri + Vue3 开发。（[@orangelckc](https://github.com/ruanyf/weekly/issues/3010) 投稿）
+
+4、[Tartelet](https://github.com/shapehq/tartelet)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032917.webp)
+
+一个在本机运行 GitHub Actions 的工具，通过虚拟机来执行任务，只支持 MacOS 系统，详见[介绍文章](https://shape.dk/news/tartelet)。
+
+5、[RSS.cafe](https://rss.cafe/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032901.webp)
+
+一个国产 RSS 阅读器，增加了知识管理、期刊订阅等特色功能。（[@zhi-wenzheng](https://github.com/ruanyf/weekly/issues/3007) 投稿）
+
+6、[PodFind](https://github.com/mazzzystar/PodFind)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032904.webp)
+
+一个开源的播客文本搜索引擎，所有代码都是 GPT-4 生成的。（[@mazzzystar](https://github.com/ruanyf/weekly/issues/3015) 投稿）
+
+7、[SQL Chat](https://www.sqlchat.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032906.webp)
+
+一个 Web 应用，使用自然语言查询数据库，底层使用 OpenAI 的 API 将自然语言转成 SQL，支持 MySQL 和 PostgreSQL，[代码开源](https://github.com/bytebase/sqlchat)。（[@tianzhou](https://github.com/ruanyf/weekly/issues/3017) 投稿）
+
+8、[FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032905.webp)
+
+一个开源的软件功能（feature）管理平台，支持灰度放量、AB 实验、实时配置变更等操作。（[@nanxijms](https://github.com/ruanyf/weekly/issues/3016) 投稿）
+
+9、[CubeTrek](https://cubetrek.com/static/join.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010402.webp)
+
+这个网站可以导入 GPS 轨迹，在地形图上显示，特别适合生成山地路线图。
+
+10、[ov](https://noborus.github.io/ov/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010405.webp)
+
+一个命令行的文本阅读器，用来替代`less`或`more`。
+
+
 ## [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](https://github.com/ruanyf/weekly/blob/master/docs/issue-247.md#工具)
 
 
