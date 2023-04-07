@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 249 期）：最成功的软件企业家](https://github.com/ruanyf/weekly/blob/master/docs/issue-249.md#资源)
+
+
+1、[RoboPianist](https://kevinzakka.github.io/robopianist-demo/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040106.webp)
+
+谷歌一项研究的演示，可以根据乐曲生成对应的弹奏指法，在网页上再现出来，非常厉害。
+
+2、[Arxiv Search](https://github.com/goodnlp/all-you-need-is-arxiv-search)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040608.webp)
+
+网友实现的论文预印本网站 Arxiv 的搜索引擎，支持关键词搜索，并提供最新论文的微信推送。（[@goodnlp](https://github.com/ruanyf/weekly/issues/3039) 投稿）
+
+3、[Scratch](https://scratch.mit.edu/about)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040107.webp)
+
+世界最大的儿童编程社区。
+
+4、[AI goes to the shrink](https://shrinkai.di.unimi.it/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032103.webp)
+
+这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。
+
+5、[Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)（第二版）
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011102.webp)
+
+一个面向初学者的 Lisp 英文教程。
+
+
 ## [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-248.md#资源)
 
 
