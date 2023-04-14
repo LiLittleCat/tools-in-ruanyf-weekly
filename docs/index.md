@@ -16,113 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>249</currentVersion> -->
+<!-- <currentVersion>250</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 249 期）：最成功的软件企业家](https://github.com/ruanyf/weekly/blob/master/docs/issue-249.md)
+# [科技爱好者周刊（第 250 期）：新技术的最大风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md)
 ### 工具
 
 
-1、[Vim 在线编辑器](https://www.vimonlineeditor.com/)
+1、[Alfred Home Security](https://alfred.camera/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010610.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011602.webp)
 
-这个网站在浏览器里面实现了 Vim 编辑器，而且加载自己的 .vimrc 配置文件。
+一个手机 App，让你的旧手机变成监控摄像头，效果不错，不过是收费软件。另有免费软件 [Live-Reporter](https://apps.apple.com/us/app/live-reporter-live-camera/id996017825) 和 [Haven](https://guardianproject.github.io/haven/) 也可以考虑。
 
-2、[Aleph Reader](https://www.noncelabs.xyz/aleph) 
+2、[OPS/OpenPromptStudio](https://moonvy.com/apps/ops/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041202.webp)
 
-一个 iOS 设备的 RSS 阅读器，使用 OpenAI 自动给文章添加标签，生成文章概要。（[@chezhe](https://github.com/ruanyf/weekly/issues/3019) 投稿）
+一个 AI 提示词的图形化 Web 管理软件，自动将中文输入译成英文，并对提示词进行分类标签管理。（[@xcuyao](https://github.com/ruanyf/weekly/issues/3044) 投稿）
 
-3、[delta](https://github.com/dandavison/delta)
+3、[Anonymous Chat Room](https://github.com/velor2012/anonymous-chat-room)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041203.webp)
 
-`git diff`命令的代码高亮器，可以安装不同的高亮样式。（[@mingpepe](https://github.com/ruanyf/weekly/issues/3025) 投稿）
+一个开源的 Web 聊天软件，可以进行文字、语音聊天，并支持语音录屏。（[@velor2012](https://github.com/ruanyf/weekly/issues/3045) 投稿）
 
-4、[Whisper Notes](https://apps.apple.com/cn/app/id6447090616?platform=iphone)
+4、[SQLkiller](https://www.sqlkiller.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040609.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041205.webp)
 
-一个免费的 iOS 应用，在手机上实现了离线 OpenAI Whisper 模型，可以将语音输入以极高的准确率转成文字。（[@mazzzystar](https://github.com/ruanyf/weekly/issues/3037) 投稿）
+使用 AI 自动生成 SQL 语句的工具，支持多种数据库。用户需要提供“表结构”，并用自然语言描述想要什么数据。（[@Benxzz](https://github.com/ruanyf/weekly/issues/3047) 投稿）
 
-5、[五彩插件](https://www.dotalk.cn/product/wucai)
+5、[PyGWalker](https://github.com/Kanaries/pygwalker)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040605.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041206.webp)
 
-浏览器插件，用于网页批注、记笔记，支持多终端同步。（[@makediff](https://github.com/ruanyf/weekly/issues/3033) 投稿）
+一个 Python 库，将 Pandas 数据帧（DataFrame）转成 Tableau 式的数据可视化互动界面。（[@jojocys](https://github.com/ruanyf/weekly/issues/3050) 投稿）
 
-6、[chatgpt-i18n](https://chatgpt-i18n.vercel.app/)
+6、[Domain Admin](https://github.com/mouday/domain-admin)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040607.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041204.webp)
 
-借助 ChatGPT，翻译 i18n 的 JSON 文件，只需数十秒即可完成多语言国际化。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/3035) 投稿）
+开源的 SSL 证书监控平台，证书到期自动发邮件提醒，支持 Docker 部署。（[@mouday](https://github.com/ruanyf/weekly/issues/3038) 投稿）
 
-7、[json-parser](https://github.com/Barenboim/json-parser)
+7、[x-crawl](https://github.com/coder-hxl/x-crawl)
 
-网友用 C 语言实现的 JSON 解析器，符合规范，性能好。（[@Barenboim](https://github.com/ruanyf/weekly/issues/3034) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041201.webp)
 
-8、[Tailscale Funnel](https://tailscale.com/kb/1223/tailscale-funnel/)
+一个 Node.js 爬虫库，用法灵活，功能较多，内置了 puppeteer。（[@coder-hxl](https://github.com/ruanyf/weekly/issues/3040) 投稿）
 
-Tailscale 公司新推出的一项服务，将内网的机器开放在公网上，供任意访问。
+8、[unblob](https://unblob.org/)
 
-9、[ShareGPT](https://sharegpt.com/)
+命令行工具，可以解开各种容器格式，查看里面的内容。目前支持30多种容器格式。
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040101.webp)
+9、[YakGPT](https://yakgpt.vercel.app/)
 
-这个网站可以分享 ChatGPT 的聊天结果。你需要安装一个浏览器插件，它会返回一个可分享的 URL。
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040109.webp)
 
-10、[cog-blip-2](https://replicate.com/andreasjansson/blip-2)
+ChatGPT 的非官方 UI，进行了很多优化，特色是支持麦克风的语音输入，不必手动打字。
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040102.webp)
+10、[CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot)
 
-BLIP 2 模型的一个应用。网页上传一张图片，就可以提问相关问题，比如照片景色是在哪里。
+Bash 命令自动生成。你在命令行描述想要的操作，它通过 OpenAI 返回对应的命令并执行。类似软件还有 [AI Shell](https://github.com/BuilderIO/ai-shell)。
 
-11、[FreedomGPT](https://freedom-gpt.netlify.app/)
+11、[Cheetah](https://github.com/leetcode-mafia/cheetah)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040111.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040614.webp)
 
-一个号称完全自由的 GPT 聊天模型，不带有任何内容审查和过滤机制，有 Web 版和桌面端。
-
-12、[AI 求职信生成器](https://www.careered.ai/tool/cover-letter)
-
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040209.webp)
-
-你在该网站上输入职位描述和你的简历，它会自动生成一封求职信。
+这个工具用于远程面试，它会把面试官的提问自动转成文字（Whisper 模型），传给 OpenAI，然后将结果显示在你的屏幕上。
 
 
 ### 资源
 
 
-1、[RoboPianist](https://kevinzakka.github.io/robopianist-demo/)
+1、[Java 编程教程](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011504.webp)
 
-谷歌一项研究的演示，可以根据乐曲生成对应的弹奏指法，在网页上再现出来，非常厉害。
+这个网站是新加坡南洋理工大学的一位老师的教案（英文），主要内容为新生的 Java 编程。
 
-2、[Arxiv Search](https://github.com/goodnlp/all-you-need-is-arxiv-search)
+2、[offsec.tools](https://offsec.tools/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040608.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012101.webp)
 
-网友实现的论文预印本网站 Arxiv 的搜索引擎，支持关键词搜索，并提供最新论文的微信推送。（[@goodnlp](https://github.com/ruanyf/weekly/issues/3039) 投稿）
+这个网站收集各种安全相关的软件工具，目前共有600多个。
 
-3、[Scratch](https://scratch.mit.edu/about)
+3、[Wonders of Street View](https://neal.fun/wonders-of-street-view/?v=b2wMrU)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040107.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012501.jpg)
 
-世界最大的儿童编程社区。
+这个网站收集谷歌街景的各种奇怪影像，随机展示。
 
-4、[AI goes to the shrink](https://shrinkai.di.unimi.it/)
+4、[nosignup.tools](https://www.nosignup.tools/)
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081705.webp)
 
-这个网站让 AI 随便生成一段文本，再将这段文本输入 Stable Diffusion 模型，生成配图。网页每10秒就自动刷新，相当于每10秒看一张完全由 AI 创造的图片。
+这个网站收集那些不需要注册、就可以使用的在线工具。
 
-5、[Learn Lisp The Hard Way](https://llthw.common-lisp.dev/)（第二版）
+5、[DNS0.EU](https://www.dns0.eu/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020805.webp)
 
-一个面向初学者的 Lisp 英文教程。
+欧盟新推出的欧洲公共 DNS 官网。
 
 
 <!-- End -->

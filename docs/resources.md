@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 250 期）：新技术的最大风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md#资源)
+
+
+1、[Java 编程教程](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011504.webp)
+
+这个网站是新加坡南洋理工大学的一位老师的教案（英文），主要内容为新生的 Java 编程。
+
+2、[offsec.tools](https://offsec.tools/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012101.webp)
+
+这个网站收集各种安全相关的软件工具，目前共有600多个。
+
+3、[Wonders of Street View](https://neal.fun/wonders-of-street-view/?v=b2wMrU)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012501.jpg)
+
+这个网站收集谷歌街景的各种奇怪影像，随机展示。
+
+4、[nosignup.tools](https://www.nosignup.tools/)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081705.webp)
+
+这个网站收集那些不需要注册、就可以使用的在线工具。
+
+5、[DNS0.EU](https://www.dns0.eu/)
+
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020805.webp)
+
+欧盟新推出的欧洲公共 DNS 官网。
+
+
 ## [科技爱好者周刊（第 249 期）：最成功的软件企业家](https://github.com/ruanyf/weekly/blob/master/docs/issue-249.md#资源)
 
 
