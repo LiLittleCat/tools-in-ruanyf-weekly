@@ -16,107 +16,111 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>250</currentVersion> -->
+<!-- <currentVersion>251</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 250 期）：新技术的最大风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md)
+# [科技爱好者周刊（第 251 期）：国产单板机值得推荐](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md)
 ### 工具
 
 
-1、[Alfred Home Security](https://alfred.camera/)
+1、[nango](https://www.nango.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020804.webp)
 
-一个手机 App，让你的旧手机变成监控摄像头，效果不错，不过是收费软件。另有免费软件 [Live-Reporter](https://apps.apple.com/us/app/live-reporter-live-camera/id996017825) 和 [Haven](https://guardianproject.github.io/haven/) 也可以考虑。
+一个[开源](https://github.com/NangoHQ/nango)的 Web 服务，自动获取和管理各种 OAuth 认证的 token，可以自己架设。
 
-2、[OPS/OpenPromptStudio](https://moonvy.com/apps/ops/)
+2、[docker-rollout](https://github.com/Wowu/docker-rollout)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041202.webp)
+这个工具可以不停机更新 Docker Compose 里面的某个服务。原理是同时新建两个实例，用已更新的实例替换未更新的实例。
 
-一个 AI 提示词的图形化 Web 管理软件，自动将中文输入译成英文，并对提示词进行分类标签管理。（[@xcuyao](https://github.com/ruanyf/weekly/issues/3044) 投稿）
+3、[Web LLM](https://mlc.ai/web-llm/)
 
-3、[Anonymous Chat Room](https://github.com/velor2012/anonymous-chat-room)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041601.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041203.webp)
+这个软件通过 WebGPU API，在浏览器里面运行 LLM 模型，可以离线运行，并且不限定模型。
 
-一个开源的 Web 聊天软件，可以进行文字、语音聊天，并支持语音录屏。（[@velor2012](https://github.com/ruanyf/weekly/issues/3045) 投稿）
+当然，它不能用来训练大模型，而且表现肯定不如 ChatGPT，但是能在浏览器里面运行，大大降低了自己架设 LLM 的门槛，而且非常适合一些离线任务（比如总结文档），详见这篇[测评](https://simonwillison.net/2023/Apr/16/web-llm/)。 
 
-4、[SQLkiller](https://www.sqlkiller.com/)
+4、[OpenAI 接口应用](https://github.com/KiritoCheng/openai-public)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041802.webp)
 
-使用 AI 自动生成 SQL 语句的工具，支持多种数据库。用户需要提供“表结构”，并用自然语言描述想要什么数据。（[@Benxzz](https://github.com/ruanyf/weekly/issues/3047) 投稿）
+使用 Express 搭建的 Node.js 应用，用来连接 OpenAI API 进行聊天。代码开源。这是前端代码，另有[后端代码](https://github.com/KiritoCheng/openai-server)。（[@KiritoCheng](https://github.com/ruanyf/weekly/issues/3055) 投稿）
 
-5、[PyGWalker](https://github.com/Kanaries/pygwalker)
+5、[Animated Drawings](https://github.com/facebookresearch/AnimatedDrawings)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041402.webp)
 
-一个 Python 库，将 Pandas 数据帧（DataFrame）转成 Tableau 式的数据可视化互动界面。（[@jojocys](https://github.com/ruanyf/weekly/issues/3050) 投稿）
+这个工具使用 AI 模型，将手绘的人物草图变成一段动画。
 
-6、[Domain Admin](https://github.com/mouday/domain-admin)
+6、[scrutiny](https://github.com/AnalogJ/scrutiny)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111403.webp)
 
-开源的 SSL 证书监控平台，证书到期自动发邮件提醒，支持 Docker 部署。（[@mouday](https://github.com/ruanyf/weekly/issues/3038) 投稿）
+实时检查硬盘 S.M.A.R.T 健康状态的工具，Docker 安装，自带 Web UI。
 
-7、[x-crawl](https://github.com/coder-hxl/x-crawl)
+7、[browsertunnel](https://github.com/veggiedefender/browsertunnel)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111405.webp)
 
-一个 Node.js 爬虫库，用法灵活，功能较多，内置了 puppeteer。（[@coder-hxl](https://github.com/ruanyf/weekly/issues/3040) 投稿）
+这个软件可以将用户信息，通过网页的 DNS 请求传回服务器。注意，不是 HTTP 请求，而是使用查询域名的 DNS 请求夹带额外信息。这种监视用户的方法，很难发现，也很难阻止。
 
-8、[unblob](https://unblob.org/)
+8、[Upbase](https://upbase.io/)
 
-命令行工具，可以解开各种容器格式，查看里面的内容。目前支持30多种容器格式。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111406.webp)
 
-9、[YakGPT](https://yakgpt.vercel.app/)
+一个网页应用，将项目管理、日程安排、聊天、文档等功能做到了一起，目标是成为团队协作的一站式工具。
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040109.webp)
+9、[Bot Aquarium](https://github.com/fafrd/aquarium)
 
-ChatGPT 的非官方 UI，进行了很多优化，特色是支持麦克风的语音输入，不必手动打字。
+一个 Linux 系统运行的虚拟机，特点是完全交给 OpenAI 控制。
 
-10、[CLI Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot)
+你描述想用虚拟机完成的任务，它把这段描述传给 OpenAI，并且自动执行返回的命令。等到虚拟机出来了执行结果（比如报错），它再自动把执行结果提交给 OpenAI，不断重复这个过程，直到任务完成。
 
-Bash 命令自动生成。你在命令行描述想要的操作，它通过 OpenAI 返回对应的命令并执行。类似软件还有 [AI Shell](https://github.com/BuilderIO/ai-shell)。
+10、[Autodoc](https://github.com/context-labs/autodoc)
 
-11、[Cheetah](https://github.com/leetcode-mafia/cheetah)
+使用 LLM 模型自动生成代码文档。作者的想法是将它加入持续构建，每次代码变更，就会同时自动更新文档。
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040614.webp)
+11、[SceneXplain](https://scenex.jina.ai/)
 
-这个工具用于远程面试，它会把面试官的提问自动转成文字（Whisper 模型），传给 OpenAI，然后将结果显示在你的屏幕上。
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040613.webp)
+
+用户上传一张图片，它会给出图片的详细文字描述，号称比其他模型效果好。
 
 
 ### 资源
 
 
-1、[Java 编程教程](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+1、[计算机程序的构造和解释（JavaScript 版）](https://sourceacademy.org/sicpjs/index)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020807.webp)
 
-这个网站是新加坡南洋理工大学的一位老师的教案（英文），主要内容为新生的 Java 编程。
+这是名著《SICP》（计算机程序的构造和解释）一书的官方 JavaScript 版，并且是麻省理工学院的官方版本，可以免费阅读，参见[介绍](https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/)。
 
-2、[offsec.tools](https://offsec.tools/)
+2、[WebGPU 基础知识](https://webgpufundamentals.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041603.webp)
 
-这个网站收集各种安全相关的软件工具，目前共有600多个。
+这个网站提供 WebGPU 开发知识的英文教程。
 
-3、[Wonders of Street View](https://neal.fun/wonders-of-street-view/?v=b2wMrU)
+3、[GPT Unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012501.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041404.webp)
 
-这个网站收集谷歌街景的各种奇怪影像，随机展示。
+这个网站每天让 GPT-4 画一只独角兽（SVG 格式），放上网页，从而记录下模型的进化。
 
-4、[nosignup.tools](https://www.nosignup.tools/)
+可以看到，即使是同一个模型处理同一个问题，每天返回的结果都是不一样的，上图是4月13日的结果。
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081705.webp)
+4、[Vercel AI Playground](https://play.vercel.ai/)
 
-这个网站收集那些不需要注册、就可以使用的在线工具。
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041903.webp)
 
-5、[DNS0.EU](https://www.dns0.eu/)
+Vercel 公司架设的 AI 实验页面，用户可以方便地选择不同的模型，比较它们的生成结果。
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020805.webp)
+5、[Playlist Genius](https://www.playlistgeniusai.com/)
 
-欧盟新推出的欧洲公共 DNS 官网。
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040201.webp)
+
+描述一下你想听的音乐，该网站会自动生成一张 Spotify 的歌单。
 
 
 <!-- End -->

@@ -1,5 +1,41 @@
 # 资源
 
+## [科技爱好者周刊（第 251 期）：国产单板机值得推荐](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md#资源)
+
+
+1、[计算机程序的构造和解释（JavaScript 版）](https://sourceacademy.org/sicpjs/index)
+
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020807.webp)
+
+这是名著《SICP》（计算机程序的构造和解释）一书的官方 JavaScript 版，并且是麻省理工学院的官方版本，可以免费阅读，参见[介绍](https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/)。
+
+2、[WebGPU 基础知识](https://webgpufundamentals.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041603.webp)
+
+这个网站提供 WebGPU 开发知识的英文教程。
+
+3、[GPT Unicorn](https://gpt-unicorn.adamkdean.co.uk/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041404.webp)
+
+这个网站每天让 GPT-4 画一只独角兽（SVG 格式），放上网页，从而记录下模型的进化。
+
+可以看到，即使是同一个模型处理同一个问题，每天返回的结果都是不一样的，上图是4月13日的结果。
+
+4、[Vercel AI Playground](https://play.vercel.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041903.webp)
+
+Vercel 公司架设的 AI 实验页面，用户可以方便地选择不同的模型，比较它们的生成结果。
+
+5、[Playlist Genius](https://www.playlistgeniusai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040201.webp)
+
+描述一下你想听的音乐，该网站会自动生成一张 Spotify 的歌单。
+
+
 ## [科技爱好者周刊（第 250 期）：新技术的最大风险](https://github.com/ruanyf/weekly/blob/master/docs/issue-250.md#资源)
 
 
