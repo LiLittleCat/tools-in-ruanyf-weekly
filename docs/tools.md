@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 252 期）：互联网创业变难了](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md#工具)
+
+
+1、[rety](https://rety.verou.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071602.webp)
+
+一个网页 JS 库，可以将打字编辑的过程录制下来，然后重新播放。非常适合演讲时，向听众展示代码输入。
+
+2、[知竹甘特图](https://www.yxsss.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042611.webp)
+
+在线甘特图工具，支持多人协作、人员视图、项目快照等功能。（[@lizhichao](https://github.com/ruanyf/weekly/issues/3062) 投稿）
+
+3、[ReceiveSMS](https://www.receivesms.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042702.webp)
+
+国外的手机接码平台。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3066) 投稿）
+
+4、[Word GPT Plus](https://github.com/Kuingsmile/word-GPT-Plus)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042704.webp)
+
+Microsoft Word 的插件，集成了 ChatGPT，用来生成、修改文本。（[@Kuingsmile](https://github.com/ruanyf/weekly/issues/3069) 投稿）
+
+5、[create-chart](https://github.com/food-billboard/create-chart)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042706.webp)
+
+一个基于 echarts 的可视化大屏设计器。（[@food-billboard](https://github.com/ruanyf/weekly/issues/3074) 投稿）
+
+6、[Typst](https://typst.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042708.webp)
+
+一个在线排版系统，跟 LaTeX 类似，可以实时查看渲染效果，主要用于学术出版物，代码[开源](https://github.com/typst/typst)。（[@wolfg1969](https://github.com/ruanyf/weekly/issues/3080) 投稿）
+
+7、[Wails](https://wails.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071707.webp)
+
+一个用来写跨平台桌面应用的 Go 框架，可以替代 Electron。跟 [Tauri](https://tauri.app/) 的作用类似，不同的是 Tauri 基于 Rust 语言，它基于 Go。
+
+8、[CSS 的机械装置](https://cohost.org/blackle/post/42994-div-style-pointer)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071712.webp)
+
+一个互动式的机械装置，很难相信它的互动效果完全用 CSS 实现，拉动左侧的绳柄，整个装置就动起来了。
+
+9、[Relight](https://clipdrop.co/relight)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091003.webp)
+
+这个网页工具可以调节照片的灯光。用户上传一张照片，它可以修改灯光，调节颜色、距离、亮度等等，还可以添加其他光源。
+
+10、[Unclutter](https://unclutter.it/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112407.webp)
+
+一个浏览器插件，可以网页的正文提取出来，以阅读模式展示，并且可以调整各种参数。这里还有一个[类似的工具](https://reader-next.pages.dev/)。
+
+
 ## [科技爱好者周刊（第 251 期）：国产单板机值得推荐](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md#工具)
 
 

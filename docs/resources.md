@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 252 期）：互联网创业变难了](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md#资源)
+
+
+1、[亚马逊网络服务 AWS 指南](https://github.com/open-guides/og-aws)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112707.webp)
+
+这个英文仓库对 AWS 的每种产品，都给出简单的介绍和使用窍门。
+
+2、[LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
+
+LangChain 是大型语言模型（LLM）的编程框架，这个仓库是网友写的中文教程。（[@liaokongVFX](https://github.com/ruanyf/weekly/issues/3061) 投稿）
+
+3、[AI 法律助手](https://law-cn-ai.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042701.webp)
+
+作者将中国法律法规喂给 ChatGPT，做成的法律问答引擎，[代码开源](https://github.com/lvwzhen/law-cn-ai)。（[@lvwzhen](https://github.com/ruanyf/weekly/issues/3064) 投稿）
+
+4、[MultiTranslate](https://www.multitranslate.xyz/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042703.webp)
+
+一个翻译网站，可以比较多个翻译引擎的结果，还支持粤语翻译。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3067) 投稿）
+
+5、[PromptBoom](https://www.promptboom.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042707.webp)
+
+免费使用、不需要注册的 ChatGPT 网站。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3068) 投稿）
+
+
 ## [科技爱好者周刊（第 251 期）：国产单板机值得推荐](https://github.com/ruanyf/weekly/blob/master/docs/issue-251.md#资源)
 
 
