@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 253 期）：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md#资源)
+
+
+1、[面向开发人员的 ChatGPT 提示工程](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023043004.webp)
+
+吴恩达与 OpenAI 合作的免费英文课程，教大家怎么编写 ChatGPT 提示，做出一个自己的聊天机器人。
+
+2、[Next.js 和 React 完整指南](https://www.bilibili.com/read/cv20992052)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050403.webp)
+
+Udemy 高分付费课程的中文字幕版。（[@lyf61](https://github.com/ruanyf/weekly/issues/3093) 投稿）
+
+3、[图解 QUIC 连接（中文版）](https://cangsdarm.github.io/illustrate/quic)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050404.webp)
+
+解释 QUIC 协议通信的每个字节的含义，[原始英文版](https://quic.xargs.org/)的翻译。（[@cangSDARM](https://github.com/ruanyf/weekly/issues/3094) 投稿）
+
+4、[Musico](https://www.musi-co.com/listen/streams)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093004.webp)
+
+一个自动生成音乐的 AI 模型，它的官网可以收听这个模型生成的音乐。
+
+
 ## [科技爱好者周刊（第 252 期）：互联网创业变难了](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md#资源)
 
 

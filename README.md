@@ -16,103 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>252</currentVersion> -->
+<!-- <currentVersion>253</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 252 期）：互联网创业变难了](https://github.com/ruanyf/weekly/blob/master/docs/issue-252.md)
+# [科技爱好者周刊（第 253 期）：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md)
 ### 工具
 
 
-1、[rety](https://rety.verou.me/)
+1、[stagit](https://git.codemadness.org/stagit/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121903.webp)
 
-一个网页 JS 库，可以将打字编辑的过程录制下来，然后重新播放。非常适合演讲时，向听众展示代码输入。
+这个软件可以将 Git 仓库转为一个静态网站，为每个文件、每次提交生成一个页面。
 
-2、[知竹甘特图](https://www.yxsss.com/)
+2、[元标签生成器](https://websitemetadata.com/meta-tags-generator)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042611.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101001.webp)
 
-在线甘特图工具，支持多人协作、人员视图、项目快照等功能。（[@lizhichao](https://github.com/ruanyf/weekly/issues/3062) 投稿）
+很多社交媒体对于外部 URL，会显示一个卡片，上面有标题、缩略图和页面简要内容。这些信息来自网页里面的元标签，这个工具可以帮助你生成这些元标签。
 
-3、[ReceiveSMS](https://www.receivesms.io/)
+3、[CJK 字体识别](https://github.com/JeffersonQin/YuzuMarker.FontDetection)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050402.webp)
 
-国外的手机接码平台。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3066) 投稿）
+上传一张东亚文字的图片，这个开源工具可以识别这些文字用了什么字体。（[@JeffersonQin](https://github.com/ruanyf/weekly/issues/3090) 投稿）
 
-4、[Word GPT Plus](https://github.com/Kuingsmile/word-GPT-Plus)
+4、[microblog.pub](https://microblog.pub/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101007.webp)
 
-Microsoft Word 的插件，集成了 ChatGPT，用来生成、修改文本。（[@Kuingsmile](https://github.com/ruanyf/weekly/issues/3069) 投稿）
+一个自托管的开源微博网站，只能一个人使用（即没有多用户），支持 ActivityPub 协议。
 
-5、[create-chart](https://github.com/food-billboard/create-chart)
+5、[Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121804.webp)
 
-一个基于 echarts 的可视化大屏设计器。（[@food-billboard](https://github.com/ruanyf/weekly/issues/3074) 投稿）
+一个终端窗口的 Markdown 文件渲染器，适合用来在终端下阅读 Markdown 文件。
 
-6、[Typst](https://typst.app/)
+6、[HorusPass](https://horuspass.com/send)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022501.webp)
 
-一个在线排版系统，跟 LaTeX 类似，可以实时查看渲染效果，主要用于学术出版物，代码[开源](https://github.com/typst/typst)。（[@wolfg1969](https://github.com/ruanyf/weekly/issues/3080) 投稿）
+这个网站为用户输入的文本，生成一个用于分享的 URL。但是，这个 URL 只能打开一次，第二次访问就会不存在，有点像“阅后即焚”。
 
-7、[Wails](https://wails.io/)
+7、[Progress-up](https://progress-up.live/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022701.webp)
 
-一个用来写跨平台桌面应用的 Go 框架，可以替代 Electron。跟 [Tauri](https://tauri.app/) 的作用类似，不同的是 Tauri 基于 Rust 语言，它基于 Go。
+一个带有上传进度显示的网页多文件上传 JS 库。
 
-8、[CSS 的机械装置](https://cohost.org/blackle/post/42994-div-style-pointer)
+8、[snappify](https://snappify.com/editor)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071712.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120903.webp)
 
-一个互动式的机械装置，很难相信它的互动效果完全用 CSS 实现，拉动左侧的绳柄，整个装置就动起来了。
+一个将代码片段生成截图的工具。
 
-9、[Relight](https://clipdrop.co/relight)
+9、[RustDesk](https://rustdesk.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022091003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121003.webp)
 
-这个网页工具可以调节照片的灯光。用户上传一张照片，它可以修改灯光，调节颜色、距离、亮度等等，还可以添加其他光源。
+一个开源的远程桌面软件，让你远程操作其他电脑的桌面，有各种操作系统的客户端。
 
-10、[Unclutter](https://unclutter.it/)
+10、[LosslessCut](https://mifi.no/losslesscut/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121403.webp)
 
-一个浏览器插件，可以网页的正文提取出来，以阅读模式展示，并且可以调整各种参数。这里还有一个[类似的工具](https://reader-next.pages.dev/)。
+一个视频编辑器，最大特点是不进行重新编码，按照原视频的格式进行剪切连接，因此速度极快。
 
 
 ### 资源
 
 
-1、[亚马逊网络服务 AWS 指南](https://github.com/open-guides/og-aws)
+1、[面向开发人员的 ChatGPT 提示工程](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023043004.webp)
 
-这个英文仓库对 AWS 的每种产品，都给出简单的介绍和使用窍门。
+吴恩达与 OpenAI 合作的免费英文课程，教大家怎么编写 ChatGPT 提示，做出一个自己的聊天机器人。
 
-2、[LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
+2、[Next.js 和 React 完整指南](https://www.bilibili.com/read/cv20992052)
 
-LangChain 是大型语言模型（LLM）的编程框架，这个仓库是网友写的中文教程。（[@liaokongVFX](https://github.com/ruanyf/weekly/issues/3061) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050403.webp)
 
-3、[AI 法律助手](https://law-cn-ai.vercel.app/)
+Udemy 高分付费课程的中文字幕版。（[@lyf61](https://github.com/ruanyf/weekly/issues/3093) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042701.webp)
+3、[图解 QUIC 连接（中文版）](https://cangsdarm.github.io/illustrate/quic)
 
-作者将中国法律法规喂给 ChatGPT，做成的法律问答引擎，[代码开源](https://github.com/lvwzhen/law-cn-ai)。（[@lvwzhen](https://github.com/ruanyf/weekly/issues/3064) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050404.webp)
 
-4、[MultiTranslate](https://www.multitranslate.xyz/)
+解释 QUIC 协议通信的每个字节的含义，[原始英文版](https://quic.xargs.org/)的翻译。（[@cangSDARM](https://github.com/ruanyf/weekly/issues/3094) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042703.webp)
+4、[Musico](https://www.musi-co.com/listen/streams)
 
-一个翻译网站，可以比较多个翻译引擎的结果，还支持粤语翻译。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3067) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093004.webp)
 
-5、[PromptBoom](https://www.promptboom.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042707.webp)
-
-免费使用、不需要注册的 ChatGPT 网站。（[@williamwoodhq](https://github.com/ruanyf/weekly/issues/3068) 投稿）
+一个自动生成音乐的 AI 模型，它的官网可以收听这个模型生成的音乐。
 
 
 <!-- End -->
