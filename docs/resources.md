@@ -1,5 +1,45 @@
 # 资源
 
+## [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md#资源)
+
+
+1、[鸟巢大战](https://twitter.com/AntrimLens/status/1653399062001905666)
+
+一位国外网友在自家谷仓，架设了一个鸟巢，立刻就有一对寒鸦住了进来。
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050702.webp)
+
+过了几年，一对猫头鹰把寒鸦撵了出来，占了鸟巢，还在里面产了鸟蛋。寒鸦决心报复，双方展开了一场大战。
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050703.webp)
+
+这个网友在鸟巢内外都放了摄像头，图文解说这场“鸟巢大战”，很精彩。
+
+2、[AI 工具网址导航站](https://ai.nancheng.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051006.webp)
+
+网友收集的 AI 工具合集。（[@Jordonwang](https://github.com/ruanyf/weekly/issues/3102) 投稿）
+
+3、[机器学习图解](https://illustrated-machine-learning.github.io/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010609.webp)
+
+这个英文网站提供机器学习的图解教程，内容还挺多的。
+
+4、[HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011101.webp)
+
+Web Components 的英文入门教程，源码[开源](https://github.com/davatron5000/htmlwithsuperpowers)。
+
+5、[电路课程](https://www.allaboutcircuits.com/textbook/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011106.webp)
+
+这个网站提供免费的电子学教程，英文的。
+
+
 ## [科技爱好者周刊（第 253 期）：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md#资源)
 
 

@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md#工具)
+
+
+1、[Instant Logo Design](https://instantlogodesign.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102206.webp)
+
+输入产品或公司的英文名称，这个网站可以自动生成几十款 Logo，供你选择。
+
+2、[Accessibility](https://github.com/ranbuch/accessibility)
+
+一个 JS 库，用来增强网页的可用性。只要插入这个库，网页就会出现一个工具栏，让用户自己选择增大字体、加深对比色、增大间隔、朗读文本等等。
+
+3、[沉浸式翻译](https://immersive-translate.owenyoung.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051007.webp)
+
+浏览器的双语翻译插件，可以指定翻译引擎（10多种可选），并可以翻译 pdf、epub 电子书。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/3100) 投稿）
+
+4、[ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051001.webp)
+
+开源的浏览器 LLM 模型，只要访问作者已经部署的网页，就能使用，所有数据都在本地训练。（[@Ryan-yang125](https://github.com/ruanyf/weekly/issues/3104) 投稿）
+
+注意，用户需要满足三个使用条件。
+
+> - Chrome 113 以上浏览器。 
+> - 下载训练数据约 4GB（只需下载一次）。
+> - 显卡最好有 6.4GB 以上显存。
+
+5、[1Panel](https://1panel.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051005.webp)
+
+开源的 Linux 服务器运维面板。（[@maninhill](https://github.com/ruanyf/weekly/issues/3098) 投稿）
+
+6、[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051004.webp)
+
+Python 图形界面框架 PyQt 的组件库。（[@zhiyiYo](https://github.com/ruanyf/weekly/issues/3097) 投稿）
+
+7、[VizGPT](https://github.com/ObservedObserver/viz-gpt)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051010.webp)
+
+一个对话式的可视化图表生成工具，用户使用自然语言告诉 AI 生成什么样的图表，可以多轮调整。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/3108) 投稿）
+
+8、[Vue DevTools](https://github.com/webfansplz/vite-plugin-vue-devtools)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051009.webp)
+
+网友实现的 Vue 开发者工具。（[@webfansplz](https://github.com/ruanyf/weekly/issues/3107) 投稿）
+
+9、[Dify.AI](https://dify.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051011.webp)
+
+一个开发者工具，帮你快速生成基于 AI 的应用。（[@Panmuse](https://github.com/ruanyf/weekly/issues/3110) 投稿）
+
+10、[dnrm](https://github.com/markthree/dnrm)
+
+deno 实现的 npm 镜像源切换工具，每次切换都在 100ms 内，速度超级快。（[@markthree](https://github.com/ruanyf/weekly/issues/3111) 投稿）
+
+
 ## [科技爱好者周刊（第 253 期）：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md#工具)
 
 

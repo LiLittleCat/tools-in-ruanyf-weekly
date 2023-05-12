@@ -16,99 +16,113 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>253</currentVersion> -->
+<!-- <currentVersion>254</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 253 期）：训练材料用完之日](https://github.com/ruanyf/weekly/blob/master/docs/issue-253.md)
+# [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md)
 ### 工具
 
 
-1、[stagit](https://git.codemadness.org/stagit/)
+1、[Instant Logo Design](https://instantlogodesign.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102206.webp)
 
-这个软件可以将 Git 仓库转为一个静态网站，为每个文件、每次提交生成一个页面。
+输入产品或公司的英文名称，这个网站可以自动生成几十款 Logo，供你选择。
 
-2、[元标签生成器](https://websitemetadata.com/meta-tags-generator)
+2、[Accessibility](https://github.com/ranbuch/accessibility)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101001.webp)
+一个 JS 库，用来增强网页的可用性。只要插入这个库，网页就会出现一个工具栏，让用户自己选择增大字体、加深对比色、增大间隔、朗读文本等等。
 
-很多社交媒体对于外部 URL，会显示一个卡片，上面有标题、缩略图和页面简要内容。这些信息来自网页里面的元标签，这个工具可以帮助你生成这些元标签。
+3、[沉浸式翻译](https://immersive-translate.owenyoung.com/)
 
-3、[CJK 字体识别](https://github.com/JeffersonQin/YuzuMarker.FontDetection)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051007.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050402.webp)
+浏览器的双语翻译插件，可以指定翻译引擎（10多种可选），并可以翻译 pdf、epub 电子书。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/3100) 投稿）
 
-上传一张东亚文字的图片，这个开源工具可以识别这些文字用了什么字体。（[@JeffersonQin](https://github.com/ruanyf/weekly/issues/3090) 投稿）
+4、[ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web)
 
-4、[microblog.pub](https://microblog.pub/)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101007.webp)
+开源的浏览器 LLM 模型，只要访问作者已经部署的网页，就能使用，所有数据都在本地训练。（[@Ryan-yang125](https://github.com/ruanyf/weekly/issues/3104) 投稿）
 
-一个自托管的开源微博网站，只能一个人使用（即没有多用户），支持 ActivityPub 协议。
+注意，用户需要满足三个使用条件。
 
-5、[Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown)
+> - Chrome 113 以上浏览器。 
+> - 下载训练数据约 4GB（只需下载一次）。
+> - 显卡最好有 6.4GB 以上显存。
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121804.webp)
+5、[1Panel](https://1panel.cn/)
 
-一个终端窗口的 Markdown 文件渲染器，适合用来在终端下阅读 Markdown 文件。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051005.webp)
 
-6、[HorusPass](https://horuspass.com/send)
+开源的 Linux 服务器运维面板。（[@maninhill](https://github.com/ruanyf/weekly/issues/3098) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022501.webp)
+6、[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
-这个网站为用户输入的文本，生成一个用于分享的 URL。但是，这个 URL 只能打开一次，第二次访问就会不存在，有点像“阅后即焚”。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051004.webp)
 
-7、[Progress-up](https://progress-up.live/)
+Python 图形界面框架 PyQt 的组件库。（[@zhiyiYo](https://github.com/ruanyf/weekly/issues/3097) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202302/bg2023022701.webp)
+7、[VizGPT](https://github.com/ObservedObserver/viz-gpt)
 
-一个带有上传进度显示的网页多文件上传 JS 库。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051010.webp)
 
-8、[snappify](https://snappify.com/editor)
+一个对话式的可视化图表生成工具，用户使用自然语言告诉 AI 生成什么样的图表，可以多轮调整。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/3108) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120903.webp)
+8、[Vue DevTools](https://github.com/webfansplz/vite-plugin-vue-devtools)
 
-一个将代码片段生成截图的工具。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051009.webp)
 
-9、[RustDesk](https://rustdesk.com/)
+网友实现的 Vue 开发者工具。（[@webfansplz](https://github.com/ruanyf/weekly/issues/3107) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121003.webp)
+9、[Dify.AI](https://dify.ai/)
 
-一个开源的远程桌面软件，让你远程操作其他电脑的桌面，有各种操作系统的客户端。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051011.webp)
 
-10、[LosslessCut](https://mifi.no/losslesscut/)
+一个开发者工具，帮你快速生成基于 AI 的应用。（[@Panmuse](https://github.com/ruanyf/weekly/issues/3110) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022121403.webp)
+10、[dnrm](https://github.com/markthree/dnrm)
 
-一个视频编辑器，最大特点是不进行重新编码，按照原视频的格式进行剪切连接，因此速度极快。
+deno 实现的 npm 镜像源切换工具，每次切换都在 100ms 内，速度超级快。（[@markthree](https://github.com/ruanyf/weekly/issues/3111) 投稿）
 
 
 ### 资源
 
 
-1、[面向开发人员的 ChatGPT 提示工程](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+1、[鸟巢大战](https://twitter.com/AntrimLens/status/1653399062001905666)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023043004.webp)
+一位国外网友在自家谷仓，架设了一个鸟巢，立刻就有一对寒鸦住了进来。
 
-吴恩达与 OpenAI 合作的免费英文课程，教大家怎么编写 ChatGPT 提示，做出一个自己的聊天机器人。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050702.webp)
 
-2、[Next.js 和 React 完整指南](https://www.bilibili.com/read/cv20992052)
+过了几年，一对猫头鹰把寒鸦撵了出来，占了鸟巢，还在里面产了鸟蛋。寒鸦决心报复，双方展开了一场大战。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050703.webp)
 
-Udemy 高分付费课程的中文字幕版。（[@lyf61](https://github.com/ruanyf/weekly/issues/3093) 投稿）
+这个网友在鸟巢内外都放了摄像头，图文解说这场“鸟巢大战”，很精彩。
 
-3、[图解 QUIC 连接（中文版）](https://cangsdarm.github.io/illustrate/quic)
+2、[AI 工具网址导航站](https://ai.nancheng.fun/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051006.webp)
 
-解释 QUIC 协议通信的每个字节的含义，[原始英文版](https://quic.xargs.org/)的翻译。（[@cangSDARM](https://github.com/ruanyf/weekly/issues/3094) 投稿）
+网友收集的 AI 工具合集。（[@Jordonwang](https://github.com/ruanyf/weekly/issues/3102) 投稿）
 
-4、[Musico](https://www.musi-co.com/listen/streams)
+3、[机器学习图解](https://illustrated-machine-learning.github.io/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022093004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010609.webp)
 
-一个自动生成音乐的 AI 模型，它的官网可以收听这个模型生成的音乐。
+这个英文网站提供机器学习的图解教程，内容还挺多的。
+
+4、[HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011101.webp)
+
+Web Components 的英文入门教程，源码[开源](https://github.com/davatron5000/htmlwithsuperpowers)。
+
+5、[电路课程](https://www.allaboutcircuits.com/textbook/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011106.webp)
+
+这个网站提供免费的电子学教程，英文的。
 
 
 <!-- End -->
