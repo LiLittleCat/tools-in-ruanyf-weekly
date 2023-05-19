@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md#资源)
+
+
+1、[Data Viz Project](https://datavizproject.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053106.webp)
+
+这个网站收集数据可视化的各种图形，给出详细的解释和示例。
+
+2、[Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) 
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051606.webp)
+
+这个 awesome 仓库收集 ChatGPT 的各种资源。
+
+3、[Spring 中文文档](https://springdoc.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051802.webp)
+
+网友整理的 Spring 框架中文文档。（[@KevinBlandy](https://github.com/ruanyf/weekly/issues/3112) 投稿）
+
+4、[维基大学](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102716.webp)
+
+维基百科的官方项目，志愿者在这个网站制作各种主题的开放课程，已经有很多课程了。
+
+5、[PrintableSearch](https://www.printablesearch.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041704.webp)
+
+一个搜索引擎，查找最热门的免费 3D 打印模型。
+
+
 ## [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md#资源)
 
 

@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md#工具)
+
+
+1、[Astrodon](https://github.com/astrodon/astrodon)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081606.webp)
+
+一个使用 Deno 的跨平台桌面应用开发工具，类似于 Electron，但底层是移植到 JavaScript 环境的 Tauri 框架。
+
+2、[HuggingChat](https://huggingface.co/chat)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051202.webp)
+
+AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用。
+
+3、[Chat with any PDF](https://damngood.tools/tools/chat-pdf)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051207.webp)
+
+上传一个 PDF 文件，就能跟该文件交谈，让它回答相关问题。
+
+目前好像不支持中文 PDF 文件，但是支持用中文提问和回答。类似工具还有 [ScholarTurbo](https://scholarturbo.com/)。
+
+4、[Nature 编程语言](https://github.com/nature-lang/nature)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051801.webp)
+
+网友发明的一种编程语言，语法追求简洁优雅、符合直觉。（[@weiwenhao](https://github.com/ruanyf/weekly/issues/3117) 投稿）
+
+5、[LaWGPT](https://github.com/pengxiao-song/LawGPT)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051813.webp)
+
+基于中文法律知识的开源大语言模型，很适合用于司法考试。（[@pengxiao-song](https://github.com/ruanyf/weekly/issues/3116) 投稿）
+
+6、[mblog](https://github.com/kingwrcy/mblog-backend)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051814.webp)
+
+网友开发的基于 Java + MySQL 的多用户微博系统。（[@kingwrcy](https://github.com/ruanyf/weekly/issues/3121) 投稿）
+
+7、[wallpaper-box](https://github.com/wangrongding/wallpaper-box)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051815.webp)
+
+一个基于 Electron 的桌面壁纸客户端，支持壁纸管理、动态壁纸、动态托盘图标等功能。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3118) 投稿）
+
+8、[Pho](https://github.com/fregie/pho)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051816.webp)
+
+一个开源的安卓相册应用，可以将照片同步到多种协议（smb、webdav、nfs）的网络储存。（[@fregie](https://github.com/ruanyf/weekly/issues/3122) 投稿）
+
+9、[哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051817.webp)
+
+一个浏览器扩展，列出 BiliBili 视频字幕内容，用户点击就可以跳转到相应的视频位置。（[@IndieKKY](https://github.com/ruanyf/weekly/issues/3123) 投稿）
+
+10、[stitching](https://github.com/lukasalexanderweber/stitching)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081607.webp)
+
+一个 Python 软件包，用于将多幅照片合成一幅。
+
+
 ## [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md#工具)
 
 

@@ -16,113 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>254</currentVersion> -->
+<!-- <currentVersion>255</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 254 期）：人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md)
+# [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md)
 ### 工具
 
 
-1、[Instant Logo Design](https://instantlogodesign.com/)
+1、[Astrodon](https://github.com/astrodon/astrodon)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081606.webp)
 
-输入产品或公司的英文名称，这个网站可以自动生成几十款 Logo，供你选择。
+一个使用 Deno 的跨平台桌面应用开发工具，类似于 Electron，但底层是移植到 JavaScript 环境的 Tauri 框架。
 
-2、[Accessibility](https://github.com/ranbuch/accessibility)
+2、[HuggingChat](https://huggingface.co/chat)
 
-一个 JS 库，用来增强网页的可用性。只要插入这个库，网页就会出现一个工具栏，让用户自己选择增大字体、加深对比色、增大间隔、朗读文本等等。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051202.webp)
 
-3、[沉浸式翻译](https://immersive-translate.owenyoung.com/)
+AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051007.webp)
+3、[Chat with any PDF](https://damngood.tools/tools/chat-pdf)
 
-浏览器的双语翻译插件，可以指定翻译引擎（10多种可选），并可以翻译 pdf、epub 电子书。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/3100) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051207.webp)
 
-4、[ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web)
+上传一个 PDF 文件，就能跟该文件交谈，让它回答相关问题。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051001.webp)
+目前好像不支持中文 PDF 文件，但是支持用中文提问和回答。类似工具还有 [ScholarTurbo](https://scholarturbo.com/)。
 
-开源的浏览器 LLM 模型，只要访问作者已经部署的网页，就能使用，所有数据都在本地训练。（[@Ryan-yang125](https://github.com/ruanyf/weekly/issues/3104) 投稿）
+4、[Nature 编程语言](https://github.com/nature-lang/nature)
 
-注意，用户需要满足三个使用条件。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051801.webp)
 
-> - Chrome 113 以上浏览器。 
-> - 下载训练数据约 4GB（只需下载一次）。
-> - 显卡最好有 6.4GB 以上显存。
+网友发明的一种编程语言，语法追求简洁优雅、符合直觉。（[@weiwenhao](https://github.com/ruanyf/weekly/issues/3117) 投稿）
 
-5、[1Panel](https://1panel.cn/)
+5、[LaWGPT](https://github.com/pengxiao-song/LawGPT)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051813.webp)
 
-开源的 Linux 服务器运维面板。（[@maninhill](https://github.com/ruanyf/weekly/issues/3098) 投稿）
+基于中文法律知识的开源大语言模型，很适合用于司法考试。（[@pengxiao-song](https://github.com/ruanyf/weekly/issues/3116) 投稿）
 
-6、[PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+6、[mblog](https://github.com/kingwrcy/mblog-backend)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051814.webp)
 
-Python 图形界面框架 PyQt 的组件库。（[@zhiyiYo](https://github.com/ruanyf/weekly/issues/3097) 投稿）
+网友开发的基于 Java + MySQL 的多用户微博系统。（[@kingwrcy](https://github.com/ruanyf/weekly/issues/3121) 投稿）
 
-7、[VizGPT](https://github.com/ObservedObserver/viz-gpt)
+7、[wallpaper-box](https://github.com/wangrongding/wallpaper-box)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051010.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051815.webp)
 
-一个对话式的可视化图表生成工具，用户使用自然语言告诉 AI 生成什么样的图表，可以多轮调整。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/3108) 投稿）
+一个基于 Electron 的桌面壁纸客户端，支持壁纸管理、动态壁纸、动态托盘图标等功能。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3118) 投稿）
 
-8、[Vue DevTools](https://github.com/webfansplz/vite-plugin-vue-devtools)
+8、[Pho](https://github.com/fregie/pho)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051009.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051816.webp)
 
-网友实现的 Vue 开发者工具。（[@webfansplz](https://github.com/ruanyf/weekly/issues/3107) 投稿）
+一个开源的安卓相册应用，可以将照片同步到多种协议（smb、webdav、nfs）的网络储存。（[@fregie](https://github.com/ruanyf/weekly/issues/3122) 投稿）
 
-9、[Dify.AI](https://dify.ai/)
+9、[哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051011.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051817.webp)
 
-一个开发者工具，帮你快速生成基于 AI 的应用。（[@Panmuse](https://github.com/ruanyf/weekly/issues/3110) 投稿）
+一个浏览器扩展，列出 BiliBili 视频字幕内容，用户点击就可以跳转到相应的视频位置。（[@IndieKKY](https://github.com/ruanyf/weekly/issues/3123) 投稿）
 
-10、[dnrm](https://github.com/markthree/dnrm)
+10、[stitching](https://github.com/lukasalexanderweber/stitching)
 
-deno 实现的 npm 镜像源切换工具，每次切换都在 100ms 内，速度超级快。（[@markthree](https://github.com/ruanyf/weekly/issues/3111) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081607.webp)
+
+一个 Python 软件包，用于将多幅照片合成一幅。
 
 
 ### 资源
 
 
-1、[鸟巢大战](https://twitter.com/AntrimLens/status/1653399062001905666)
+1、[Data Viz Project](https://datavizproject.com/)
 
-一位国外网友在自家谷仓，架设了一个鸟巢，立刻就有一对寒鸦住了进来。
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053106.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050702.webp)
+这个网站收集数据可视化的各种图形，给出详细的解释和示例。
 
-过了几年，一对猫头鹰把寒鸦撵了出来，占了鸟巢，还在里面产了鸟蛋。寒鸦决心报复，双方展开了一场大战。
+2、[Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) 
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051606.webp)
 
-这个网友在鸟巢内外都放了摄像头，图文解说这场“鸟巢大战”，很精彩。
+这个 awesome 仓库收集 ChatGPT 的各种资源。
 
-2、[AI 工具网址导航站](https://ai.nancheng.fun/)
+3、[Spring 中文文档](https://springdoc.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051802.webp)
 
-网友收集的 AI 工具合集。（[@Jordonwang](https://github.com/ruanyf/weekly/issues/3102) 投稿）
+网友整理的 Spring 框架中文文档。（[@KevinBlandy](https://github.com/ruanyf/weekly/issues/3112) 投稿）
 
-3、[机器学习图解](https://illustrated-machine-learning.github.io/index.html)
+4、[维基大学](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010609.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102716.webp)
 
-这个英文网站提供机器学习的图解教程，内容还挺多的。
+维基百科的官方项目，志愿者在这个网站制作各种主题的开放课程，已经有很多课程了。
 
-4、[HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
+5、[PrintableSearch](https://www.printablesearch.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041704.webp)
 
-Web Components 的英文入门教程，源码[开源](https://github.com/davatron5000/htmlwithsuperpowers)。
-
-5、[电路课程](https://www.allaboutcircuits.com/textbook/)
-
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011106.webp)
-
-这个网站提供免费的电子学教程，英文的。
+一个搜索引擎，查找最热门的免费 3D 打印模型。
 
 
 <!-- End -->
