@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 256 期）：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md#资源)
+
+
+1、[LangChain 和 LlamaIndex 项目](https://leanpub.com/langchain/read)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052002.webp)
+
+英文电子书，介绍这两个重要的 AI 开源项目的用法，对于自己架设 AI 模型很有帮助，免费阅读。
+
+2、[bing 必应壁纸数据库](https://github.com/mouday/wallpaper-database)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052301.webp)
+
+网友提供从必应壁纸抓取的数据。（[@mouday](https://github.com/ruanyf/weekly/issues/3126) 投稿）
+
+3、[强化学习 100 题](https://p100.koki-saitoh.com/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052519.webp)
+
+日本的 AI 畅销书作者斋藤康毅为他的深度学习系列书籍创建的专题网站，最近推出了中文版，可用来对强化学习知识查漏补缺。（[@RiverTwilight](https://github.com/ruanyf/weekly/issues/3143) 投稿）
+
+4、[OpenWrt 固件定制](https://supes.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041908.webp)
+
+网友开发的路由器 Openwrt 系统定制网站，代码[开源](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)。
+
+
 ## [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md#资源)
 
 

@@ -16,107 +16,101 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>255</currentVersion> -->
+<!-- <currentVersion>256</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](https://github.com/ruanyf/weekly/blob/master/docs/issue-255.md)
+# [科技爱好者周刊（第 256 期）：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md)
 ### 工具
 
 
-1、[Astrodon](https://github.com/astrodon/astrodon)
+1、[Convoy](https://github.com/frain-dev/convoy) 
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081606.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040108.webp)
 
-一个使用 Deno 的跨平台桌面应用开发工具，类似于 Electron，但底层是移植到 JavaScript 环境的 Tauri 框架。
+开源的 Webhooks 网关，自带管理后台，具有重试、速率限制、静态 IP、熔断等大量功能。
 
-2、[HuggingChat](https://huggingface.co/chat)
+2、[AME Wizard](https://ameliorated.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040119.webp)
 
-AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型，免费使用。
+一个修改 Windows 11 配置的工具。特点是可以根据使用场景，从它的网站下载对应的配置文件，然后运行该文件就完成配置。
 
-3、[Chat with any PDF](https://damngood.tools/tools/chat-pdf)
+3、[RunApi](https://www.showdoc.com.cn/runapi/30291)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051207.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052302.webp)
 
-上传一个 PDF 文件，就能跟该文件交谈，让它回答相关问题。
+国内公司开发的一个跨平台桌面软件，用于 API 接口开发测试，类似于 Postman。（[@star7th](https://github.com/ruanyf/weekly/issues/3128) 投稿） 
 
-目前好像不支持中文 PDF 文件，但是支持用中文提问和回答。类似工具还有 [ScholarTurbo](https://scholarturbo.com/)。
+4、[Shaku](https://github.com/JSerZANP/shaku)
 
-4、[Nature 编程语言](https://github.com/nature-lang/nature)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051801.webp)
+一个 Markdown 页面的增强渲染工具，可以基于代码块里面的注释，将代码渲染成指定样式（上图），详见[介绍文章](https://jser.dev/2023-05-14-introducing-shaku/)。（[@DongHY1](https://github.com/ruanyf/weekly/issues/3133) 投稿）
 
-网友发明的一种编程语言，语法追求简洁优雅、符合直觉。（[@weiwenhao](https://github.com/ruanyf/weekly/issues/3117) 投稿）
+5、[eslint-plugin-check-file](https://github.com/DukeLuo/eslint-plugin-check-file)
 
-5、[LaWGPT](https://github.com/pengxiao-song/LawGPT)
+一个 ESLint 插件，检查文件名是否符合指定规则。（[@DukeLuo](https://github.com/ruanyf/weekly/issues/3132) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051813.webp)
+6、[Soft Serve](https://github.com/charmbracelet/soft-serve)
 
-基于中文法律知识的开源大语言模型，很适合用于司法考试。（[@pengxiao-song](https://github.com/ruanyf/weekly/issues/3116) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040202.webp)
 
-6、[mblog](https://github.com/kingwrcy/mblog-backend)
+只需在命令行执行一条命令，就能自己搭建 Git 服务器，简单易用，但是不带 Web 界面。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051814.webp)
+7、[JShelter](https://jshelter.org/)
 
-网友开发的基于 Java + MySQL 的多用户微博系统。（[@kingwrcy](https://github.com/ruanyf/weekly/issues/3121) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040403.webp)
 
-7、[wallpaper-box](https://github.com/wangrongding/wallpaper-box)
+一个浏览器扩展，指定你要关闭哪些浏览器 API，主要用来防止被追踪。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051815.webp)
+8、[Tails](https://tails.boum.org/index.en.html)
 
-一个基于 Electron 的桌面壁纸客户端，支持壁纸管理、动态壁纸、动态托盘图标等功能。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3118) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010701.webp)
 
-8、[Pho](https://github.com/fregie/pho)
+一个融合了 Debian 和 Tor 的操作系统，放到 U 盘里面，插入 USB 接口就能用，可以很好地保护隐私。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051816.webp)
+9、[Just](https://just.systems/)
 
-一个开源的安卓相册应用，可以将照片同步到多种协议（smb、webdav、nfs）的网络储存。（[@fregie](https://github.com/ruanyf/weekly/issues/3122) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011002.webp)
 
-9、[哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle)
+一个命令运行器，类似于 Make，但不具备构建功能。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051817.webp)
+它允许把一个项目的所有命令行命令，都写在一个文件里面，并可以指定命令之间的依赖关系，还可以跨平台使用。
 
-一个浏览器扩展，列出 BiliBili 视频字幕内容，用户点击就可以跳转到相应的视频位置。（[@IndieKKY](https://github.com/ruanyf/weekly/issues/3123) 投稿）
+10、[Dora.ai](https://www.dora.run/)
 
-10、[stitching](https://github.com/lukasalexanderweber/stitching)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052521.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081607.webp)
+国人开发的一个 AI 工具，给出文本描述就能生成网页，还能添加 3D 互动。目前处于测试阶段，需要排队登记内测资格。
 
-一个 Python 软件包，用于将多幅照片合成一幅。
+[Product Hunt 的投票中](https://www.producthunt.com/posts/dora-ai-alpha)，暂时排在第一，作者到周刊讨论区求票了。（[@CharlesLiuyx](https://github.com/ruanyf/weekly/issues/3144) 投稿）
 
 
 ### 资源
 
 
-1、[Data Viz Project](https://datavizproject.com/)
+1、[LangChain 和 LlamaIndex 项目](https://leanpub.com/langchain/read)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022053106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052002.webp)
 
-这个网站收集数据可视化的各种图形，给出详细的解释和示例。
+英文电子书，介绍这两个重要的 AI 开源项目的用法，对于自己架设 AI 模型很有帮助，免费阅读。
 
-2、[Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) 
+2、[bing 必应壁纸数据库](https://github.com/mouday/wallpaper-database)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051606.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052301.webp)
 
-这个 awesome 仓库收集 ChatGPT 的各种资源。
+网友提供从必应壁纸抓取的数据。（[@mouday](https://github.com/ruanyf/weekly/issues/3126) 投稿）
 
-3、[Spring 中文文档](https://springdoc.cn/)
+3、[强化学习 100 题](https://p100.koki-saitoh.com/zh-CN)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052519.webp)
 
-网友整理的 Spring 框架中文文档。（[@KevinBlandy](https://github.com/ruanyf/weekly/issues/3112) 投稿）
+日本的 AI 畅销书作者斋藤康毅为他的深度学习系列书籍创建的专题网站，最近推出了中文版，可用来对强化学习知识查漏补缺。（[@RiverTwilight](https://github.com/ruanyf/weekly/issues/3143) 投稿）
 
-4、[维基大学](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+4、[OpenWrt 固件定制](https://supes.top/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102716.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041908.webp)
 
-维基百科的官方项目，志愿者在这个网站制作各种主题的开放课程，已经有很多课程了。
-
-5、[PrintableSearch](https://www.printablesearch.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041704.webp)
-
-一个搜索引擎，查找最热门的免费 3D 打印模型。
+网友开发的路由器 Openwrt 系统定制网站，代码[开源](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)。
 
 
 <!-- End -->
