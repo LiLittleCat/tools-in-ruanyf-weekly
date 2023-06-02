@@ -16,101 +16,105 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>256</currentVersion> -->
+<!-- <currentVersion>257</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 256 期）：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md)
+# [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md)
 ### 工具
 
 
-1、[Convoy](https://github.com/frain-dev/convoy) 
+1、[Csv2ImageApp](https://github.com/fummicc1/csv2img)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011906.webp)
 
-开源的 Webhooks 网关，自带管理后台，具有重试、速率限制、静态 IP、熔断等大量功能。
+这个开源工具可以将 CSV 文件转成图片。
 
-2、[AME Wizard](https://ameliorated.io/)
+2、[SAMIST](https://github.com/dibrale/samist)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040119.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052702.webp)
 
-一个修改 Windows 11 配置的工具。特点是可以根据使用场景，从它的网站下载对应的配置文件，然后运行该文件就完成配置。
+一个 Python 桌面程序，为 Meta 公司的 [AI 模型 SAM](https://segment-anything.com/) 提供了图形界面，可以提取照片里面的物体。
 
-3、[RunApi](https://www.showdoc.com.cn/runapi/30291)
+3、[Git-Sim](https://initialcommit.com/blog/git-sim)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012301.webp)
 
-国内公司开发的一个跨平台桌面软件，用于 API 接口开发测试，类似于 Postman。（[@star7th](https://github.com/ruanyf/weekly/issues/3128) 投稿） 
+一个命令行工具，可以生成图片或动画，显示某个 Git 命令对当前仓库的影响。
 
-4、[Shaku](https://github.com/JSerZANP/shaku)
+4、[Read Something](https://github.com/ReadSomething/ReadSomething)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060114.webp)
 
-一个 Markdown 页面的增强渲染工具，可以基于代码块里面的注释，将代码渲染成指定样式（上图），详见[介绍文章](https://jser.dev/2023-05-14-introducing-shaku/)。（[@DongHY1](https://github.com/ruanyf/weekly/issues/3133) 投稿）
+一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Mardown 转换等功能。（[@zhongyiio](https://github.com/ruanyf/weekly/issues/3162) 投稿）
 
-5、[eslint-plugin-check-file](https://github.com/DukeLuo/eslint-plugin-check-file)
+5、[MIB](https://github.com/QC2168/mib)
 
-一个 ESLint 插件，检查文件名是否符合指定规则。（[@DukeLuo](https://github.com/ruanyf/weekly/issues/3132) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060108.webp)
 
-6、[Soft Serve](https://github.com/charmbracelet/soft-serve)
+一款开源的 Windows 桌面应用，将安卓手机备份到桌面电脑，支持增量备份。（[@QC2168](https://github.com/ruanyf/weekly/issues/3148) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040202.webp)
+6、[Rubic](https://rubic.jaskang.vip/)
 
-只需在命令行执行一条命令，就能自己搭建 Git 服务器，简单易用，但是不带 Web 界面。
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060110.webp)
 
-7、[JShelter](https://jshelter.org/)
+一个响应式小程序开发框架，采用跟 Vue3 一样的编程模型。（[@JasKang](https://github.com/ruanyf/weekly/issues/3150) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040403.webp)
+7、[SQLucky](https://github.com/tenie/SQLucky)
 
-一个浏览器扩展，指定你要关闭哪些浏览器 API，主要用来防止被追踪。
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060112.webp)
 
-8、[Tails](https://tails.boum.org/index.en.html)
+一款开源的数据库可视化操作工具，基于 Java，用来平替同类付费软件。（[@tenie](https://github.com/ruanyf/weekly/issues/3154) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010701.webp)
+8、[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)
 
-一个融合了 Debian 和 Tor 的操作系统，放到 U 盘里面，插入 USB 接口就能用，可以很好地保护隐私。
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060111.webp)
 
-9、[Just](https://just.systems/)
+一款开源的 ChatGPT 聊天客户端，基于 Flutter，支持手机和桌面所有平台。（[@bravekingzhang](https://github.com/ruanyf/weekly/issues/3151) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011002.webp)
+9、[IceCubesApp](https://github.com/Dimillian/IceCubesApp)
 
-一个命令运行器，类似于 Make，但不具备构建功能。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012502.webp)
 
-它允许把一个项目的所有命令行命令，都写在一个文件里面，并可以指定命令之间的依赖关系，还可以跨平台使用。
+开源的社交媒体 Mastodon 的 iOS 客户端，功能比较多，还在不断开发中。
 
-10、[Dora.ai](https://www.dora.run/)
+10、[Juice Shop](https://github.com/juice-shop/juice-shop)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052521.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012503.webp)
 
-国人开发的一个 AI 工具，给出文本描述就能生成网页，还能添加 3D 互动。目前处于测试阶段，需要排队登记内测资格。
-
-[Product Hunt 的投票中](https://www.producthunt.com/posts/dora-ai-alpha)，暂时排在第一，作者到周刊讨论区求票了。（[@CharlesLiuyx](https://github.com/ruanyf/weekly/issues/3144) 投稿）
+一个用作安全训练的 Web 应用，里面包含了最常用的10种安全漏洞，供练习者破解。
 
 
 ### 资源
 
 
-1、[LangChain 和 LlamaIndex 项目](https://leanpub.com/langchain/read)
+1、[Fluent 2](https://fluent2.microsoft.design/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052804.webp)
 
-英文电子书，介绍这两个重要的 AI 开源项目的用法，对于自己架设 AI 模型很有帮助，免费阅读。
+微软发布新的设计风格 Fluent 2，不仅用于 Windows，还提供用于 Web 和 iOS 的组件。
 
-2、[bing 必应壁纸数据库](https://github.com/mouday/wallpaper-database)
+2、[计算机专业学习路线](https://hackway.org/docs/cs/intro)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060109.webp)
 
-网友提供从必应壁纸抓取的数据。（[@mouday](https://github.com/ruanyf/weekly/issues/3126) 投稿）
+据说站长是北大学生，参考美国名校的计算机培养方案，整理的计算机专业学习路线。（[@Stein283036](https://github.com/ruanyf/weekly/issues/3149) 投稿）
 
-3、[强化学习 100 题](https://p100.koki-saitoh.com/zh-CN)
+3、[Docker and Kubernetes 完整开发指南](https://www.bilibili.com/read/cv21266100)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052519.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060113.webp)
 
-日本的 AI 畅销书作者斋藤康毅为他的深度学习系列书籍创建的专题网站，最近推出了中文版，可用来对强化学习知识查漏补缺。（[@RiverTwilight](https://github.com/ruanyf/weekly/issues/3143) 投稿）
+Udemy 视频课程，搬运到了 B 站，有中文字幕。通过 Node.js 项目，循序渐进学习 Docker 和 Kubernetes。（[@lyf61](https://github.com/ruanyf/weekly/issues/3156) 投稿）
 
-4、[OpenWrt 固件定制](https://supes.top/)
+4、[从头实现一个数据库](https://build-your-own.org/database/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041908.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042409.webp)
 
-网友开发的路由器 Openwrt 系统定制网站，代码[开源](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)。
+介绍数据库原理的英文电子书，前半部分可以免费阅读。作者还另著有一本[《自己实现 Redis》](https://build-your-own.org/redis/)。
+
+5、[LLM University](https://docs.cohere.com/docs/llmu)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052602.webp)
+
+介绍 LLM（大规模语言模型）的免费教程网站。
 
 
 <!-- End -->

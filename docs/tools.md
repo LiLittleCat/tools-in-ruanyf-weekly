@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md#工具)
+
+
+1、[Csv2ImageApp](https://github.com/fummicc1/csv2img)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011906.webp)
+
+这个开源工具可以将 CSV 文件转成图片。
+
+2、[SAMIST](https://github.com/dibrale/samist)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052702.webp)
+
+一个 Python 桌面程序，为 Meta 公司的 [AI 模型 SAM](https://segment-anything.com/) 提供了图形界面，可以提取照片里面的物体。
+
+3、[Git-Sim](https://initialcommit.com/blog/git-sim)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012301.webp)
+
+一个命令行工具，可以生成图片或动画，显示某个 Git 命令对当前仓库的影响。
+
+4、[Read Something](https://github.com/ReadSomething/ReadSomething)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060114.webp)
+
+一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Mardown 转换等功能。（[@zhongyiio](https://github.com/ruanyf/weekly/issues/3162) 投稿）
+
+5、[MIB](https://github.com/QC2168/mib)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060108.webp)
+
+一款开源的 Windows 桌面应用，将安卓手机备份到桌面电脑，支持增量备份。（[@QC2168](https://github.com/ruanyf/weekly/issues/3148) 投稿）
+
+6、[Rubic](https://rubic.jaskang.vip/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060110.webp)
+
+一个响应式小程序开发框架，采用跟 Vue3 一样的编程模型。（[@JasKang](https://github.com/ruanyf/weekly/issues/3150) 投稿）
+
+7、[SQLucky](https://github.com/tenie/SQLucky)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060112.webp)
+
+一款开源的数据库可视化操作工具，基于 Java，用来平替同类付费软件。（[@tenie](https://github.com/ruanyf/weekly/issues/3154) 投稿）
+
+8、[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060111.webp)
+
+一款开源的 ChatGPT 聊天客户端，基于 Flutter，支持手机和桌面所有平台。（[@bravekingzhang](https://github.com/ruanyf/weekly/issues/3151) 投稿）
+
+9、[IceCubesApp](https://github.com/Dimillian/IceCubesApp)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012502.webp)
+
+开源的社交媒体 Mastodon 的 iOS 客户端，功能比较多，还在不断开发中。
+
+10、[Juice Shop](https://github.com/juice-shop/juice-shop)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012503.webp)
+
+一个用作安全训练的 Web 应用，里面包含了最常用的10种安全漏洞，供练习者破解。
+
+
 ## [科技爱好者周刊（第 256 期）：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md#工具)
 
 

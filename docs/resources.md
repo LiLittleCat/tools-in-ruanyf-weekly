@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md#资源)
+
+
+1、[Fluent 2](https://fluent2.microsoft.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052804.webp)
+
+微软发布新的设计风格 Fluent 2，不仅用于 Windows，还提供用于 Web 和 iOS 的组件。
+
+2、[计算机专业学习路线](https://hackway.org/docs/cs/intro)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060109.webp)
+
+据说站长是北大学生，参考美国名校的计算机培养方案，整理的计算机专业学习路线。（[@Stein283036](https://github.com/ruanyf/weekly/issues/3149) 投稿）
+
+3、[Docker and Kubernetes 完整开发指南](https://www.bilibili.com/read/cv21266100)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060113.webp)
+
+Udemy 视频课程，搬运到了 B 站，有中文字幕。通过 Node.js 项目，循序渐进学习 Docker 和 Kubernetes。（[@lyf61](https://github.com/ruanyf/weekly/issues/3156) 投稿）
+
+4、[从头实现一个数据库](https://build-your-own.org/database/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042409.webp)
+
+介绍数据库原理的英文电子书，前半部分可以免费阅读。作者还另著有一本[《自己实现 Redis》](https://build-your-own.org/redis/)。
+
+5、[LLM University](https://docs.cohere.com/docs/llmu)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052602.webp)
+
+介绍 LLM（大规模语言模型）的免费教程网站。
+
+
 ## [科技爱好者周刊（第 256 期）：最酷的乐高作品](https://github.com/ruanyf/weekly/blob/master/docs/issue-256.md#资源)
 
 
