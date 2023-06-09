@@ -16,105 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>257</currentVersion> -->
+<!-- <currentVersion>258</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md)
+# [科技爱好者周刊（第 258 期）：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md)
 ### 工具
 
 
-1、[Csv2ImageApp](https://github.com/fummicc1/csv2img)
+1、[Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011501.webp)
 
-这个开源工具可以将 CSV 文件转成图片。
+一个运行 macOS 虚拟机的 Docker 镜像。
 
-2、[SAMIST](https://github.com/dibrale/samist)
+2、[Tabby](https://github.com/TabbyML/tabby)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052702.webp)
+GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并且离线使用。它还提供 Web 界面，根据指令生成代码。
 
-一个 Python 桌面程序，为 Meta 公司的 [AI 模型 SAM](https://segment-anything.com/) 提供了图形界面，可以提取照片里面的物体。
+3、[undb](https://github.com/undb-xyz/undb)
 
-3、[Git-Sim](https://initialcommit.com/blog/git-sim)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060708.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012301.webp)
+一个无代码数据库操作界面，数据保存在一个文件里面。（[@nichenqin](https://github.com/ruanyf/weekly/issues/3172) 投稿）
 
-一个命令行工具，可以生成图片或动画，显示某个 Git 命令对当前仓库的影响。
+4、[jelBAN.js](https://github.com/Fcmam5/jelban-js)
 
-4、[Read Something](https://github.com/ReadSomething/ReadSomething)
+一个 JS 库，用来过滤 Email 地址，包括一次性地址和邮箱的地址别名。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060114.webp)
+5、[Herowand Editor](https://editor.herowand.com/)
 
-一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Mardown 转换等功能。（[@zhongyiio](https://github.com/ruanyf/weekly/issues/3162) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041703.webp)
 
-5、[MIB](https://github.com/QC2168/mib)
+一个网页工具，可以将 JSON、XML、YAML、TOML 格式的数据可视化展示。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060108.webp)
+6、[sqlite-gui](https://github.com/little-brother/sqlite-gui)
 
-一款开源的 Windows 桌面应用，将安卓手机备份到桌面电脑，支持增量备份。（[@QC2168](https://github.com/ruanyf/weekly/issues/3148) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041904.webp)
 
-6、[Rubic](https://rubic.jaskang.vip/)
+一个 Windows 系统的轻量级 SQLite 编辑器。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060110.webp)
+7、[val town](https://www.val.town/)
 
-一个响应式小程序开发框架，采用跟 Vue3 一样的编程模型。（[@JasKang](https://github.com/ruanyf/weekly/issues/3150) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042004.webp)
 
-7、[SQLucky](https://github.com/tenie/SQLucky)
+该网站是免费的云函数运行环境。用户在网页输入云函数，该网站可以自动运行这个函数。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060112.webp)
+8、[stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
 
-一款开源的数据库可视化操作工具，基于 Java，用来平替同类付费软件。（[@tenie](https://github.com/ruanyf/weekly/issues/3154) 投稿）
+用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。
 
-8、[flutter_chatgpt](https://github.com/bravekingzhang/flutter_chat_box)
+9、[Helix](https://helix-editor.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060111.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090702.webp)
 
-一款开源的 ChatGPT 聊天客户端，基于 Flutter，支持手机和桌面所有平台。（[@bravekingzhang](https://github.com/ruanyf/weekly/issues/3151) 投稿）
+一个现代版 Vim 编辑器，完全用 Rust 语言重写了。它跟 NeoVim 的主要不同是，它把一些主要的插件都做进去了，不用安装插件。
 
-9、[IceCubesApp](https://github.com/Dimillian/IceCubesApp)
+10、[Chitchatter](https://chitchatter.im/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090703.webp)
 
-开源的社交媒体 Mastodon 的 iOS 客户端，功能比较多，还在不断开发中。
+一个开源的点对点网页聊天应用，聊天内容不经过服务器，可以自己搭建，分享房间号给其他人。
 
-10、[Juice Shop](https://github.com/juice-shop/juice-shop)
+11、[Aether](https://getaether.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090806.webp)
 
-一个用作安全训练的 Web 应用，里面包含了最常用的10种安全漏洞，供练习者破解。
+一个点对点的桌面软件，用来搭建私人社区，一组用户可以用它交换内容，一个人发帖，其他人都可以看到，不需要服务器。
 
 
 ### 资源
 
 
-1、[Fluent 2](https://fluent2.microsoft.design/)
+1、[Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122703.webp)
 
-微软发布新的设计风格 Fluent 2，不仅用于 Windows，还提供用于 Web 和 iOS 的组件。
+这个仓库收集了作者原创的大量 IT 海报，比如上图是 ASCII 码的海报。
 
-2、[计算机专业学习路线](https://hackway.org/docs/cs/intro)
+2、[Passkeys.io](https://www.passkeys.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060109.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060501.webp)
 
-据说站长是北大学生，参考美国名校的计算机培养方案，整理的计算机专业学习路线。（[@Stein283036](https://github.com/ruanyf/weekly/issues/3149) 投稿）
+不需要密码的 Passkey 登录演示网站，桌面电脑使用物理密钥，手机使用指纹或脸部认证。
 
-3、[Docker and Kubernetes 完整开发指南](https://www.bilibili.com/read/cv21266100)
+3、[让 ChatGPT 总结 Hacker News](https://hackernews.betacat.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060113.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060707.webp)
 
-Udemy 视频课程，搬运到了 B 站，有中文字幕。通过 Node.js 项目，循序渐进学习 Docker 和 Kubernetes。（[@lyf61](https://github.com/ruanyf/weekly/issues/3156) 投稿）
+这个网站每天抓取“黑客新闻”首页的热门文章，再使用 ChatGPT 总结出每篇文章的主要内容，用来节省浏览时间，参见[介绍文章](https://blog.betacat.io/post/2023/06/summarize-hacker-news-by-chatgpt/)。（[@polyrabbit](https://github.com/ruanyf/weekly/issues/3171) 投稿）
 
-4、[从头实现一个数据库](https://build-your-own.org/database/)
+4、[学习生成式 AI](https://www.cloudskillsboost.google/paths/118)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042409.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060503.webp)
 
-介绍数据库原理的英文电子书，前半部分可以免费阅读。作者还另著有一本[《自己实现 Redis》](https://build-your-own.org/redis/)。
-
-5、[LLM University](https://docs.cohere.com/docs/llmu)
-
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052602.webp)
-
-介绍 LLM（大规模语言模型）的免费教程网站。
+谷歌云推出的生成式 AI 免费英文课程。
 
 
 <!-- End -->

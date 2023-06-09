@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 258 期）：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md#工具)
+
+
+1、[Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011501.webp)
+
+一个运行 macOS 虚拟机的 Docker 镜像。
+
+2、[Tabby](https://github.com/TabbyML/tabby)
+
+GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并且离线使用。它还提供 Web 界面，根据指令生成代码。
+
+3、[undb](https://github.com/undb-xyz/undb)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060708.webp)
+
+一个无代码数据库操作界面，数据保存在一个文件里面。（[@nichenqin](https://github.com/ruanyf/weekly/issues/3172) 投稿）
+
+4、[jelBAN.js](https://github.com/Fcmam5/jelban-js)
+
+一个 JS 库，用来过滤 Email 地址，包括一次性地址和邮箱的地址别名。
+
+5、[Herowand Editor](https://editor.herowand.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041703.webp)
+
+一个网页工具，可以将 JSON、XML、YAML、TOML 格式的数据可视化展示。
+
+6、[sqlite-gui](https://github.com/little-brother/sqlite-gui)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041904.webp)
+
+一个 Windows 系统的轻量级 SQLite 编辑器。
+
+7、[val town](https://www.val.town/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042004.webp)
+
+该网站是免费的云函数运行环境。用户在网页输入云函数，该网站可以自动运行这个函数。
+
+8、[stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
+
+用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。
+
+9、[Helix](https://helix-editor.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090702.webp)
+
+一个现代版 Vim 编辑器，完全用 Rust 语言重写了。它跟 NeoVim 的主要不同是，它把一些主要的插件都做进去了，不用安装插件。
+
+10、[Chitchatter](https://chitchatter.im/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090703.webp)
+
+一个开源的点对点网页聊天应用，聊天内容不经过服务器，可以自己搭建，分享房间号给其他人。
+
+11、[Aether](https://getaether.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090806.webp)
+
+一个点对点的桌面软件，用来搭建私人社区，一组用户可以用它交换内容，一个人发帖，其他人都可以看到，不需要服务器。
+
+
 ## [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md#工具)
 
 

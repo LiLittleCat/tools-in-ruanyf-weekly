@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 258 期）：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md#资源)
+
+
+1、[Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122703.webp)
+
+这个仓库收集了作者原创的大量 IT 海报，比如上图是 ASCII 码的海报。
+
+2、[Passkeys.io](https://www.passkeys.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060501.webp)
+
+不需要密码的 Passkey 登录演示网站，桌面电脑使用物理密钥，手机使用指纹或脸部认证。
+
+3、[让 ChatGPT 总结 Hacker News](https://hackernews.betacat.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060707.webp)
+
+这个网站每天抓取“黑客新闻”首页的热门文章，再使用 ChatGPT 总结出每篇文章的主要内容，用来节省浏览时间，参见[介绍文章](https://blog.betacat.io/post/2023/06/summarize-hacker-news-by-chatgpt/)。（[@polyrabbit](https://github.com/ruanyf/weekly/issues/3171) 投稿）
+
+4、[学习生成式 AI](https://www.cloudskillsboost.google/paths/118)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060503.webp)
+
+谷歌云推出的生成式 AI 免费英文课程。
+
+
 ## [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-257.md#资源)
 
 
