@@ -16,99 +16,105 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>258</currentVersion> -->
+<!-- <currentVersion>259</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 258 期）：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md)
+# [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md)
 ### 工具
 
 
-1、[Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+1、[Mosh](https://mosh.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042008.webp)
 
-一个运行 macOS 虚拟机的 Docker 镜像。
+SSH 替代品，用来登陆服务器。最大特点是会话不会因为丢线而中断。下次连接或者换台机器连接，还能进入前一次会话。
 
-2、[Tabby](https://github.com/TabbyML/tabby)
+2、[Ezno](https://github.com/kaleidawave/ezno)
 
-GitHub Copilot 的开源替代品，AI 代码助手，可以自己架设，并且离线使用。它还提供 Web 界面，根据指令生成代码。
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060906.webp)
 
-3、[undb](https://github.com/undb-xyz/undb)
+一个用 Rust 语言写的 TypeScript 编译器，目标是作为官方 tsc 的替代品。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060708.webp)
+3、[Bark](https://github.com/suno-ai/bark)
 
-一个无代码数据库操作界面，数据保存在一个文件里面。（[@nichenqin](https://github.com/ruanyf/weekly/issues/3172) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042101.webp)
 
-4、[jelBAN.js](https://github.com/Fcmam5/jelban-js)
+一个语音生成引擎，效果不错，可以在朗读的同时，发出大笑、叹息和哭泣，还可以生成音乐。
 
-一个 JS 库，用来过滤 Email 地址，包括一次性地址和邮箱的地址别名。
+4、[trzsz-ssh](https://github.com/trzsz/trzsz-ssh)
 
-5、[Herowand Editor](https://editor.herowand.com/)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061506.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041703.webp)
+用 Go 实现的 ssh 客户端，可以记住登陆过的服务器，内置支持上传和下载文件。（[@lonnywong](https://github.com/ruanyf/weekly/issues/3180) 投稿）
 
-一个网页工具，可以将 JSON、XML、YAML、TOML 格式的数据可视化展示。
+5、[STDF](https://github.com/dufu1991/stdf)
 
-6、[sqlite-gui](https://github.com/little-brother/sqlite-gui)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061503.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041904.webp)
+基于 Svelte 与 Tailwind 的移动页面组件库。（[@dufu1991](https://github.com/ruanyf/weekly/issues/3175) 投稿）
 
-一个 Windows 系统的轻量级 SQLite 编辑器。
+6、[code-inspector](https://github.com/zh-lx/code-inspector)
 
-7、[val town](https://www.val.town/)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061504.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042004.webp)
+一个 Vue 的开发者工具，点击页面上的某个元素，它自动打开代码编辑器，定位到对应的代码位置。（[@zh-lx](https://github.com/ruanyf/weekly/issues/3178) 投稿）
 
-该网站是免费的云函数运行环境。用户在网页输入云函数，该网站可以自动运行这个函数。
+7、[Tiny Player](https://tiny-player.vercel.app/)
 
-8、[stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061505.webp)
 
-用户提供两张图片，这个工具使用开源的 Stable Diffusion 模型，生成一段视频，内容是图片 A 逐渐变成图片 B。
+极简的网页视频播放器，支持硬解/软解，可以自定义各种控件样式。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3174) 投稿）
 
-9、[Helix](https://helix-editor.com/)
+8、[BrutalityExtractor](https://github.com/hxz393/BrutalityExtractor)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061507.webp)
 
-一个现代版 Vim 编辑器，完全用 Rust 语言重写了。它跟 NeoVim 的主要不同是，它把一些主要的插件都做进去了，不用安装插件。
+Windows 解压软件，针对多核 CPU 和高速固态硬盘优化，实现多进程同时解压，比普通解压软件速度快。（[@hxz393](https://github.com/ruanyf/weekly/issues/3181) 投稿）
 
-10、[Chitchatter](https://chitchatter.im/)
+9、[highlight.io](https://github.com/highlight/highlight)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042201.webp)
 
-一个开源的点对点网页聊天应用，聊天内容不经过服务器，可以自己搭建，分享房间号给其他人。
+一个前端页面报错的监控平台，需要自己搭建，类似于 sentry，但是功能更强大一些。
 
-11、[Aether](https://getaether.net/)
+10、[Keyv](https://keyvhq.js.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042404.webp)
 
-一个点对点的桌面软件，用来搭建私人社区，一组用户可以用它交换内容，一个人发帖，其他人都可以看到，不需要服务器。
+一个键值对存储的操作库，提供简单的操作方法，支持多种数据库（MySQL、PostgreSQL、SQLite、Redis等等）作为后端。
+
+11、[Jellylade](https://app.jellylade.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042602.webp)
+
+一个美化网页截图的 Web 工具。
 
 
 ### 资源
 
 
-1、[Posters](https://github.com/corkami/pics/blob/master/binary/README.md)
+1、[中国高等院校三千所](https://laosheng.top/fuwu/yuanxiao)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061502.webp)
 
-这个仓库收集了作者原创的大量 IT 海报，比如上图是 ASCII 码的海报。
+这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/3173) 投稿）
 
-2、[Passkeys.io](https://www.passkeys.io/)
+2、[提示工程入门](https://www.promptingguide.ai/)（Prompt Engineering Guide）
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060301.webp)
 
-不需要密码的 Passkey 登录演示网站，桌面电脑使用物理密钥，手机使用指纹或脸部认证。
+一本人工智能和提示工程的入门电子书。
 
-3、[让 ChatGPT 总结 Hacker News](https://hackernews.betacat.io/)
+3、[GitHub Actions 示例教程](https://www.actionsbyexample.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012504.webp)
 
-这个网站每天抓取“黑客新闻”首页的热门文章，再使用 ChatGPT 总结出每篇文章的主要内容，用来节省浏览时间，参见[介绍文章](https://blog.betacat.io/post/2023/06/summarize-hacker-news-by-chatgpt/)。（[@polyrabbit](https://github.com/ruanyf/weekly/issues/3171) 投稿）
+通过10个详细注释的示例，解释怎么使用 GitHub Actions。
 
-4、[学习生成式 AI](https://www.cloudskillsboost.google/paths/118)
+4、[编译器设计入门](https://www3.nd.edu/~dthain/compilerbook/)（Introduction to Compilers and Language Design）
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052305.webp)
 
-谷歌云推出的生成式 AI 免费英文课程。
+一本免费阅读的英文教科书，介绍编译器设计的基本知识。内容很新，2021年才完稿。
 
 
 <!-- End -->

@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md#资源)
+
+
+1、[中国高等院校三千所](https://laosheng.top/fuwu/yuanxiao)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061502.webp)
+
+这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/3173) 投稿）
+
+2、[提示工程入门](https://www.promptingguide.ai/)（Prompt Engineering Guide）
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060301.webp)
+
+一本人工智能和提示工程的入门电子书。
+
+3、[GitHub Actions 示例教程](https://www.actionsbyexample.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012504.webp)
+
+通过10个详细注释的示例，解释怎么使用 GitHub Actions。
+
+4、[编译器设计入门](https://www3.nd.edu/~dthain/compilerbook/)（Introduction to Compilers and Language Design）
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052305.webp)
+
+一本免费阅读的英文教科书，介绍编译器设计的基本知识。内容很新，2021年才完稿。
+
+
 ## [科技爱好者周刊（第 258 期）：卡马克的猫](https://github.com/ruanyf/weekly/blob/master/docs/issue-258.md#资源)
 
 
