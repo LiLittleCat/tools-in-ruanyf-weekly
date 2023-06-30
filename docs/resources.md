@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md#资源)
+
+
+1、[Odd One Out](https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051805.webp)
+
+谷歌做的一个小游戏，四张图片有一张是 AI 生成的，请你挑出来。
+
+2、[Intel 8086 CPU 在线模拟器](https://yjdoc2.github.io/8086-emulator-web/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062201.webp)
+
+你可以在这个网页上，直接写汇编指令，编译后执行，查看 CPU 寄存器、指针、状态位、内存等等。可以用来学习汇编语言和 CPU 运行原理。（[@meq1986](https://github.com/ruanyf/weekly/issues/3190) 投稿）
+
+3、[国际乐谱库](https://imslp.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051809.webp)
+
+这个网站收集全世界公开领域的乐谱。
+
+4、[手机博物馆](https://www.mobilephonemuseum.com/catalogue)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041902.webp)
+
+该网站是一个老手机的搜索引擎。
+
+
 ## [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md#资源)
 
 

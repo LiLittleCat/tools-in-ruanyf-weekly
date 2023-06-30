@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md#工具)
+
+
+1、[Tushan](https://github.com/msgbyte/tushan)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062202.webp)
+
+一个基于 React 的前端框架，用来搭建网站的管理后台。（[@moonrailgun](https://github.com/ruanyf/weekly/issues/3194) 投稿）
+
+2、[SafeLine（雷池）](https://github.com/chaitin/safeline)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062804.webp)
+
+开源的 WAF（应用程序防火墙），挡在网站之前对 Web 流量进行安全清洗。（[@naocanmonster](https://github.com/ruanyf/weekly/issues/3207) 投稿）
+
+3、[Vue Skia](https://github.com/rustq/vue-skia)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062203.webp)
+
+一个基于 Skia 的 2D 网页图形渲染库，底层使用 Rust 语言实现，前端使用 Vue 语言。你可以把它看作 SVG 的替代方案。（[@meloalright](https://github.com/ruanyf/weekly/issues/3199) 投稿）
+
+4、[ReviewGPT](https://reviewgpt.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062803.webp)
+
+为你的文章进行打分、评价，提出修改意见，甚至还可以扮演莎士比亚、金庸等知名作家，帮助你重新撰写。（[@lvwzhen](https://github.com/ruanyf/weekly/issues/3206) 投稿）
+
+5、[Light Chaser](https://github.com/xiaopujun/light-chaser)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062801.webp)
+
+数据可视化大屏设计器，基于 React + Mobx。（[@xiaopujun](https://github.com/ruanyf/weekly/issues/3202) 投稿）
+
+6、[语音转字幕工具](https://godlucky.net/whisperapp/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062805.webp)
+
+仅需浏览器，AI 自动生成语音字幕，免费且可本地离线运行。（[@ZSMX](https://github.com/ruanyf/weekly/issues/3211) 投稿）
+
+7、[AI 面试助手](https://interview.sofasay.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062807.webp)
+
+只需职位、职位描述以及简历信息，就可以开始模拟面试，AI 扮演面试官角色提问。（[@cocomany](https://github.com/ruanyf/weekly/issues/3213) 投稿）
+
+8、[ArtQR 智绘二维码](https://hysli.io/#/projectManagement)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062806.webp)
+
+一键将二维码变成一幅可扫码的画。（[@yangchuansheng](https://github.com/ruanyf/weekly/issues/3209) 投稿）
+
+9、[ibis](https://github.com/themsaid/ibis)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120302.webp)
+
+这个工具可以将 Markdown 文稿转成 PDF 电子书。
+
+10、[OrbStack](https://orbstack.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042802.webp)
+
+Mac 应用软件，在图形界面管理 Docker 容器，据称速度比官方的 Docker Desktop 快得多。
+
+
 ## [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md#工具)
 
 

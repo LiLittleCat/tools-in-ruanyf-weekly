@@ -16,105 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>259</currentVersion> -->
+<!-- <currentVersion>260</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](https://github.com/ruanyf/weekly/blob/master/docs/issue-259.md)
+# [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md)
 ### 工具
 
 
-1、[Mosh](https://mosh.org/)
+1、[Tushan](https://github.com/msgbyte/tushan)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062202.webp)
 
-SSH 替代品，用来登陆服务器。最大特点是会话不会因为丢线而中断。下次连接或者换台机器连接，还能进入前一次会话。
+一个基于 React 的前端框架，用来搭建网站的管理后台。（[@moonrailgun](https://github.com/ruanyf/weekly/issues/3194) 投稿）
 
-2、[Ezno](https://github.com/kaleidawave/ezno)
+2、[SafeLine（雷池）](https://github.com/chaitin/safeline)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062804.webp)
 
-一个用 Rust 语言写的 TypeScript 编译器，目标是作为官方 tsc 的替代品。
+开源的 WAF（应用程序防火墙），挡在网站之前对 Web 流量进行安全清洗。（[@naocanmonster](https://github.com/ruanyf/weekly/issues/3207) 投稿）
 
-3、[Bark](https://github.com/suno-ai/bark)
+3、[Vue Skia](https://github.com/rustq/vue-skia)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062203.webp)
 
-一个语音生成引擎，效果不错，可以在朗读的同时，发出大笑、叹息和哭泣，还可以生成音乐。
+一个基于 Skia 的 2D 网页图形渲染库，底层使用 Rust 语言实现，前端使用 Vue 语言。你可以把它看作 SVG 的替代方案。（[@meloalright](https://github.com/ruanyf/weekly/issues/3199) 投稿）
 
-4、[trzsz-ssh](https://github.com/trzsz/trzsz-ssh)
+4、[ReviewGPT](https://reviewgpt.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062803.webp)
 
-用 Go 实现的 ssh 客户端，可以记住登陆过的服务器，内置支持上传和下载文件。（[@lonnywong](https://github.com/ruanyf/weekly/issues/3180) 投稿）
+为你的文章进行打分、评价，提出修改意见，甚至还可以扮演莎士比亚、金庸等知名作家，帮助你重新撰写。（[@lvwzhen](https://github.com/ruanyf/weekly/issues/3206) 投稿）
 
-5、[STDF](https://github.com/dufu1991/stdf)
+5、[Light Chaser](https://github.com/xiaopujun/light-chaser)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062801.webp)
 
-基于 Svelte 与 Tailwind 的移动页面组件库。（[@dufu1991](https://github.com/ruanyf/weekly/issues/3175) 投稿）
+数据可视化大屏设计器，基于 React + Mobx。（[@xiaopujun](https://github.com/ruanyf/weekly/issues/3202) 投稿）
 
-6、[code-inspector](https://github.com/zh-lx/code-inspector)
+6、[语音转字幕工具](https://godlucky.net/whisperapp/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062805.webp)
 
-一个 Vue 的开发者工具，点击页面上的某个元素，它自动打开代码编辑器，定位到对应的代码位置。（[@zh-lx](https://github.com/ruanyf/weekly/issues/3178) 投稿）
+仅需浏览器，AI 自动生成语音字幕，免费且可本地离线运行。（[@ZSMX](https://github.com/ruanyf/weekly/issues/3211) 投稿）
 
-7、[Tiny Player](https://tiny-player.vercel.app/)
+7、[AI 面试助手](https://interview.sofasay.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061505.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062807.webp)
 
-极简的网页视频播放器，支持硬解/软解，可以自定义各种控件样式。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3174) 投稿）
+只需职位、职位描述以及简历信息，就可以开始模拟面试，AI 扮演面试官角色提问。（[@cocomany](https://github.com/ruanyf/weekly/issues/3213) 投稿）
 
-8、[BrutalityExtractor](https://github.com/hxz393/BrutalityExtractor)
+8、[ArtQR 智绘二维码](https://hysli.io/#/projectManagement)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061507.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062806.webp)
 
-Windows 解压软件，针对多核 CPU 和高速固态硬盘优化，实现多进程同时解压，比普通解压软件速度快。（[@hxz393](https://github.com/ruanyf/weekly/issues/3181) 投稿）
+一键将二维码变成一幅可扫码的画。（[@yangchuansheng](https://github.com/ruanyf/weekly/issues/3209) 投稿）
 
-9、[highlight.io](https://github.com/highlight/highlight)
+9、[ibis](https://github.com/themsaid/ibis)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120302.webp)
 
-一个前端页面报错的监控平台，需要自己搭建，类似于 sentry，但是功能更强大一些。
+这个工具可以将 Markdown 文稿转成 PDF 电子书。
 
-10、[Keyv](https://keyvhq.js.org/)
+10、[OrbStack](https://orbstack.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042802.webp)
 
-一个键值对存储的操作库，提供简单的操作方法，支持多种数据库（MySQL、PostgreSQL、SQLite、Redis等等）作为后端。
-
-11、[Jellylade](https://app.jellylade.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042602.webp)
-
-一个美化网页截图的 Web 工具。
+Mac 应用软件，在图形界面管理 Docker 容器，据称速度比官方的 Docker Desktop 快得多。
 
 
 ### 资源
 
 
-1、[中国高等院校三千所](https://laosheng.top/fuwu/yuanxiao)
+1、[Odd One Out](https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051805.webp)
 
-这个网站收集中国大专院校名单和网址，按照中管、部本、省本、专科的顺序形成中国高校层级图谱。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/3173) 投稿）
+谷歌做的一个小游戏，四张图片有一张是 AI 生成的，请你挑出来。
 
-2、[提示工程入门](https://www.promptingguide.ai/)（Prompt Engineering Guide）
+2、[Intel 8086 CPU 在线模拟器](https://yjdoc2.github.io/8086-emulator-web/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062201.webp)
 
-一本人工智能和提示工程的入门电子书。
+你可以在这个网页上，直接写汇编指令，编译后执行，查看 CPU 寄存器、指针、状态位、内存等等。可以用来学习汇编语言和 CPU 运行原理。（[@meq1986](https://github.com/ruanyf/weekly/issues/3190) 投稿）
 
-3、[GitHub Actions 示例教程](https://www.actionsbyexample.com/)
+3、[国际乐谱库](https://imslp.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051809.webp)
 
-通过10个详细注释的示例，解释怎么使用 GitHub Actions。
+这个网站收集全世界公开领域的乐谱。
 
-4、[编译器设计入门](https://www3.nd.edu/~dthain/compilerbook/)（Introduction to Compilers and Language Design）
+4、[手机博物馆](https://www.mobilephonemuseum.com/catalogue)
 
-![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052305.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041902.webp)
 
-一本免费阅读的英文教科书，介绍编译器设计的基本知识。内容很新，2021年才完稿。
+该网站是一个老手机的搜索引擎。
 
 
 <!-- End -->
