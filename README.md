@@ -16,99 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>260</currentVersion> -->
+<!-- <currentVersion>262</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md)
+# [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md)
 ### 工具
 
 
-1、[Tushan](https://github.com/msgbyte/tushan)
+1、[jianmu（建木）](https://jianmu.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070404.webp)
 
-一个基于 React 的前端框架，用来搭建网站的管理后台。（[@moonrailgun](https://github.com/ruanyf/weekly/issues/3194) 投稿）
+开源 CI/CD 工具，可视化编排 DevOps 流程。（[@lxitgto](https://github.com/ruanyf/weekly/issues/3233) 投稿）
 
-2、[SafeLine（雷池）](https://github.com/chaitin/safeline)
+2、[Milky Warp](https://github.com/hugoattal/milky-warp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070402.webp)
 
-开源的 WAF（应用程序防火墙），挡在网站之前对 Web 流量进行安全清洗。（[@naocanmonster](https://github.com/ruanyf/weekly/issues/3207) 投稿）
+一个桌面程序，对任意桌面区域产生放大镜效果。
 
-3、[Vue Skia](https://github.com/rustq/vue-skia)
+3、[ICP Query](https://github.com/yuedanlabs/icp-query-extension)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070401.webp)
 
-一个基于 Skia 的 2D 网页图形渲染库，底层使用 Rust 语言实现，前端使用 Vue 语言。你可以把它看作 SVG 的替代方案。（[@meloalright](https://github.com/ruanyf/weekly/issues/3199) 投稿）
+开源的 Chrome 浏览器插件，显示网站 ICP 备案、Whois、DNS、服务器位置及运营商信息。（[@yuedanlabs](https://github.com/ruanyf/weekly/issues/3223) 投稿）
 
-4、[ReviewGPT](https://reviewgpt.net/)
+4、[艺码](https://yima.me/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070403.webp)
 
-为你的文章进行打分、评价，提出修改意见，甚至还可以扮演莎士比亚、金庸等知名作家，帮助你重新撰写。（[@lvwzhen](https://github.com/ruanyf/weekly/issues/3206) 投稿）
+根据文字描述，将二维码转成一幅可扫描的图像的网页工具。（[@Cobb9527](https://github.com/ruanyf/weekly/issues/3226) 投稿）
 
-5、[Light Chaser](https://github.com/xiaopujun/light-chaser)
+5、[Language Reactor](https://www.languagereactor.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050701.webp)
 
-数据可视化大屏设计器，基于 React + Mobx。（[@xiaopujun](https://github.com/ruanyf/weekly/issues/3202) 投稿）
+浏览器插件，可以在 Netflix 和 Youtube 视频上，同时显示两种语言的字幕，方便学习外语。
 
-6、[语音转字幕工具](https://godlucky.net/whisperapp/)
+6、[Directus](https://github.com/directus/directus)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050905.webp)
 
-仅需浏览器，AI 自动生成语音字幕，免费且可本地离线运行。（[@ZSMX](https://github.com/ruanyf/weekly/issues/3211) 投稿）
+这个工具运行在各种数据库之上，自动为数据库生成 REST +  GraphQL API，使得它们可以网络访问操作，并自带一个 Web 仪表盘。
 
-7、[AI 面试助手](https://interview.sofasay.com/)
+7、[CheerpJ](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051003.webp)
 
-只需职位、职位描述以及简历信息，就可以开始模拟面试，AI 扮演面试官角色提问。（[@cocomany](https://github.com/ruanyf/weekly/issues/3213) 投稿）
+一个实验性工具，将 JVM 解释器搬上网页，让 Java 代码可以直接在网页运行。
 
-8、[ArtQR 智绘二维码](https://hysli.io/#/projectManagement)
+8、[SailboatUI](https://sailboatui.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123103.webp)
 
-一键将二维码变成一幅可扫码的画。（[@yangchuansheng](https://github.com/ruanyf/weekly/issues/3209) 投稿）
+一个基于 Tailwind CSS 的 UI 组件库，目前有超过150个组件。
 
-9、[ibis](https://github.com/themsaid/ibis)
+9、[komorebi](https://github.com/LGUG2Z/komorebi)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101201.webp)
 
-这个工具可以将 Markdown 文稿转成 PDF 电子书。
+Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口。
 
-10、[OrbStack](https://orbstack.dev/)
+10、[WezTerm](https://wezfurlong.org/wezterm/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042802.webp)
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042503.webp)
 
-Mac 应用软件，在图形界面管理 Docker 容器，据称速度比官方的 Docker Desktop 快得多。
+一个跨平台的终端模拟器，采用 GPU 加速，在显示上面有一定的性能优势。
+
+另外，再推荐一个终端模拟器 [Hyper](https://hyper.is/)，它基于 Electron，使用 HTML/CSS/JS 构建，充分利用了网页技术。
 
 
 ### 资源
 
 
-1、[Odd One Out](https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw)
+1、[WebAuthn.wtf](https://webauthn.wtf/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050803.webp)
 
-谷歌做的一个小游戏，四张图片有一张是 AI 生成的，请你挑出来。
+新的、不需要密码的网站登录协议 WebAuthn 的综合介绍。
 
-2、[Intel 8086 CPU 在线模拟器](https://yjdoc2.github.io/8086-emulator-web/)
+2、[mess with DNS](https://messwithdns.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050906.webp)
 
-你可以在这个网页上，直接写汇编指令，编译后执行，查看 CPU 寄存器、指针、状态位、内存等等。可以用来学习汇编语言和 CPU 运行原理。（[@meq1986](https://github.com/ruanyf/weekly/issues/3190) 投稿）
+一个 DNS 游乐场，为每个访问者提供一个免费子域名，你可以对它设置各种 DNS 记录，进行练习。
 
-3、[国际乐谱库](https://imslp.org/)
+3、[68k.news](http://68k.news/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051809.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040208.webp)
 
-这个网站收集全世界公开领域的乐谱。
+这个网站将谷歌新闻转成文本版，可以快速浏览。
 
-4、[手机博物馆](https://www.mobilephonemuseum.com/catalogue)
+4、[Pirate Weather](https://pirateweather.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023041902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011105.webp)
 
-该网站是一个老手机的搜索引擎。
+一个免费的天气 API，每月可调用2万次。
+
+5、[APIVault](https://apivault.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052502.webp)
+
+这个网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API。
 
 
 <!-- End -->

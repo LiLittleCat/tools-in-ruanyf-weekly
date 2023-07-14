@@ -26,8 +26,8 @@ import java.util.Objects;
  * @since 2022/8/25
  */
 public class App {
-    public static final String URL = "https://raw.fastgit.org/ruanyf/weekly/master/docs/issue-NUMBER.md";
-    public static final String README_URL = "https://raw.fastgit.org/ruanyf/weekly/master/README.md";
+    public static final String URL = "https://raw.githubusercontent.com/ruanyf/weekly/master/docs/issue-NUMBER.md";
+    public static final String README_URL = "https://raw.githubusercontent.com/ruanyf/weekly/master/README.md";
     public static final String GITHUB_URL = "https://github.com/ruanyf/weekly/blob/master/docs/issue-NUMBER.md";
 
     public static void main(String[] args) {

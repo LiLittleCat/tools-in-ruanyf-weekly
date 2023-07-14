@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md#工具)
+
+
+1、[jianmu（建木）](https://jianmu.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070404.webp)
+
+开源 CI/CD 工具，可视化编排 DevOps 流程。（[@lxitgto](https://github.com/ruanyf/weekly/issues/3233) 投稿）
+
+2、[Milky Warp](https://github.com/hugoattal/milky-warp)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070402.webp)
+
+一个桌面程序，对任意桌面区域产生放大镜效果。
+
+3、[ICP Query](https://github.com/yuedanlabs/icp-query-extension)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070401.webp)
+
+开源的 Chrome 浏览器插件，显示网站 ICP 备案、Whois、DNS、服务器位置及运营商信息。（[@yuedanlabs](https://github.com/ruanyf/weekly/issues/3223) 投稿）
+
+4、[艺码](https://yima.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070403.webp)
+
+根据文字描述，将二维码转成一幅可扫描的图像的网页工具。（[@Cobb9527](https://github.com/ruanyf/weekly/issues/3226) 投稿）
+
+5、[Language Reactor](https://www.languagereactor.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050701.webp)
+
+浏览器插件，可以在 Netflix 和 Youtube 视频上，同时显示两种语言的字幕，方便学习外语。
+
+6、[Directus](https://github.com/directus/directus)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050905.webp)
+
+这个工具运行在各种数据库之上，自动为数据库生成 REST +  GraphQL API，使得它们可以网络访问操作，并自带一个 Web 仪表盘。
+
+7、[CheerpJ](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051003.webp)
+
+一个实验性工具，将 JVM 解释器搬上网页，让 Java 代码可以直接在网页运行。
+
+8、[SailboatUI](https://sailboatui.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123103.webp)
+
+一个基于 Tailwind CSS 的 UI 组件库，目前有超过150个组件。
+
+9、[komorebi](https://github.com/LGUG2Z/komorebi)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101201.webp)
+
+Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口。
+
+10、[WezTerm](https://wezfurlong.org/wezterm/)
+
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042503.webp)
+
+一个跨平台的终端模拟器，采用 GPU 加速，在显示上面有一定的性能优势。
+
+另外，再推荐一个终端模拟器 [Hyper](https://hyper.is/)，它基于 Electron，使用 HTML/CSS/JS 构建，充分利用了网页技术。
+
+
 ## [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md#工具)
 
 

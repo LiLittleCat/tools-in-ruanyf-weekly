@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md#资源)
+
+
+1、[WebAuthn.wtf](https://webauthn.wtf/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050803.webp)
+
+新的、不需要密码的网站登录协议 WebAuthn 的综合介绍。
+
+2、[mess with DNS](https://messwithdns.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050906.webp)
+
+一个 DNS 游乐场，为每个访问者提供一个免费子域名，你可以对它设置各种 DNS 记录，进行练习。
+
+3、[68k.news](http://68k.news/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040208.webp)
+
+这个网站将谷歌新闻转成文本版，可以快速浏览。
+
+4、[Pirate Weather](https://pirateweather.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011105.webp)
+
+一个免费的天气 API，每月可调用2万次。
+
+5、[APIVault](https://apivault.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052502.webp)
+
+这个网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API。
+
+
 ## [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](https://github.com/ruanyf/weekly/blob/master/docs/issue-260.md#资源)
 
 
