@@ -31,9 +31,7 @@ jobs:
           git config --local user.email "luoyukongchan@outlook.com"
           git config --local user.name "LiLittleCat"
           git pull
-          git add README.md
-          git add docs/*
-          git commit -m "Update contents"
+          git diff --quiet && git diff --staged --quiet || (git add . && git commit -m "Update contents")
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
