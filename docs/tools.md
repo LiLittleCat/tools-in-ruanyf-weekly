@@ -1,5 +1,123 @@
 # 工具
 
+## [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md#工具)
+
+
+1、[hiSHtory](https://github.com/ddworken/hishtory)
+
+一个强大的 Shell 操作历史的搜索工具，可以替代 Bash 内置的 ctrl-r 搜索。
+
+2、[talk](https://github.com/vasanthv/talk)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122401.webp)
+
+一个开源的 Web 应用，基于 WebRTC 技术的多人群聊软件，支持视频、音频和文字聊天。
+
+3、[TinyVG](https://tinyvg.tech/)
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032101.webp)
+
+SVG 图片格式的二进制版本，可以大大缩小 SVG 文件体积。
+
+4、[Gitstars](https://github.com/cfour-hi/gitstars) 
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072007.webp)
+
+一个开源的在线服务，用来管理你在 GitHub 打过星标的项目（收藏的项目）。（[@cfour-hi](https://github.com/ruanyf/weekly/issues/3286) 投稿）
+
+5、[迅排设计](https://github.com/palxiao/poster-design)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072006.webp)
+
+开源的在线海报图片设计器。（[@palxiao](https://github.com/ruanyf/weekly/issues/3284) 投稿）
+
+6、[Spring Startup Ananlyzer](https://github.com/linyimin0812/spring-startup-analyzer)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071904.webp)
+
+Spring 性能分析工具，收集启动过程数据，生成交互式分析报告。（[@linyimin0812](https://github.com/ruanyf/weekly/issues/3280) 投稿）
+
+7、[WebAV](https://github.com/hughfenghen/WebAV)
+
+Chrome 94 开放了 WebCodecs API，意味着 JS 也能处理音视频了。这是一个实验性项目，尝试提供简单易用的 API 在浏览器中处理音视频数据。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/3282) 投稿）
+
+8、[kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071901.webp)
+
+一款轻量级的 Kafka 可视化管理平台。（[@xxd763795151](https://github.com/ruanyf/weekly/issues/3272) 投稿）
+
+9、[killport](https://github.com/jkfran/killport)
+
+一个 Rust 语言写的命令行程序，可以杀死占用指定端口的进程。
+
+10、[Sniffnet](https://github.com/GyulyVGC/sniffnet)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051903.webp)
+
+一个跨平台桌面应用，用来追踪监控网络流量，并以可视化的方式呈现。
+
+
+## [科技爱好者周刊（第 262 期）：告别密码](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md#工具)
+
+
+1、[Connect-Web](https://connect.build/)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022080504.webp)
+
+一个 TypeScript 库，用于从浏览器调用 RPC 服务器，参见[介绍文章](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)。
+
+2、[xBrowserSync](https://www.xbrowsersync.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122212.webp)
+
+一个浏览器的同步插件，最大特点是跨浏览器同步，比如安卓的 Chrome 同步了桌面的 Firefox。
+
+3、[I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)
+
+VS Code 插件，使用 AI 自动生成代码提交的 Commit 摘要，你就不必自己写了。它需要 OpenAI API Key。（[@mefengl](https://github.com/ruanyf/weekly/issues/3248) 投稿）
+
+4、[React1s](https://github.com/aaamoon/react1s)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071317.webp)
+
+浏览器插件，本地开发 React 项目时，点击页面元素，就会跳转到编辑器的对应组件位置。（[@aaamoon](https://github.com/ruanyf/weekly/issues/3268) 投稿）
+
+5、[TGSCAN](https://github.com/tgscan-dev/tgscan)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071314.webp)
+
+开源的 Telegram 搜索引擎。（[@HandelDev](https://github.com/ruanyf/weekly/issues/3263) 投稿）
+
+6、[LeaferJS](https://www.leaferjs.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071312.webp)
+
+一个国产的 Canvas 2D 图形渲染引擎，追求极致性能。（[@leaferjs](https://github.com/ruanyf/weekly/issues/3246) 投稿）
+
+7、[AltTab](https://github.com/lwouis/alt-tab-macos)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051203.webp)
+
+这个软件可以让 Mac 电脑具备 Windows 的 alt + tab 键的功能，方便地切换各个窗口。
+
+8、[Rsync time backup](https://github.com/laurent22/rsync-time-backup)
+
+一个命令行工具，类似于苹果的 Time Machine 备份工具，对文件和目录进行增量备份，以后可以恢复到任意时点。它支持跨平台使用。
+
+9、[XState](https://xstate.js.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051501.webp)
+
+一个 JS 库，实现了有限状态机，设计得很简洁，可以用来学习有限状态机。
+
+10、[hat-syslog](https://github.com/hat-open/hat-syslog)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051602.webp)
+
+Linux 系统日志 Syslog 的图形操作工具。
+
+
 ## [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md#工具)
 
 

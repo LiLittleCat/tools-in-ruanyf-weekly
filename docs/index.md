@@ -16,107 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>261</currentVersion> -->
+<!-- <currentVersion>263</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md)
+# [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md)
 ### 工具
 
 
-1、[jianmu（建木）](https://jianmu.dev/)
+1、[hiSHtory](https://github.com/ddworken/hishtory)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070404.webp)
+一个强大的 Shell 操作历史的搜索工具，可以替代 Bash 内置的 ctrl-r 搜索。
 
-开源 CI/CD 工具，可视化编排 DevOps 流程。（[@lxitgto](https://github.com/ruanyf/weekly/issues/3233) 投稿）
+2、[talk](https://github.com/vasanthv/talk)
 
-2、[Milky Warp](https://github.com/hugoattal/milky-warp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122401.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070402.webp)
+一个开源的 Web 应用，基于 WebRTC 技术的多人群聊软件，支持视频、音频和文字聊天。
 
-一个桌面程序，对任意桌面区域产生放大镜效果。
+3、[TinyVG](https://tinyvg.tech/)
 
-3、[ICP Query](https://github.com/yuedanlabs/icp-query-extension)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070401.webp)
+SVG 图片格式的二进制版本，可以大大缩小 SVG 文件体积。
 
-开源的 Chrome 浏览器插件，显示网站 ICP 备案、Whois、DNS、服务器位置及运营商信息。（[@yuedanlabs](https://github.com/ruanyf/weekly/issues/3223) 投稿）
+4、[Gitstars](https://github.com/cfour-hi/gitstars) 
 
-4、[艺码](https://yima.me/)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072007.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070403.webp)
+一个开源的在线服务，用来管理你在 GitHub 打过星标的项目（收藏的项目）。（[@cfour-hi](https://github.com/ruanyf/weekly/issues/3286) 投稿）
 
-根据文字描述，将二维码转成一幅可扫描的图像的网页工具。（[@Cobb9527](https://github.com/ruanyf/weekly/issues/3226) 投稿）
+5、[迅排设计](https://github.com/palxiao/poster-design)
 
-5、[Language Reactor](https://www.languagereactor.com/)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072006.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050701.webp)
+开源的在线海报图片设计器。（[@palxiao](https://github.com/ruanyf/weekly/issues/3284) 投稿）
 
-浏览器插件，可以在 Netflix 和 Youtube 视频上，同时显示两种语言的字幕，方便学习外语。
+6、[Spring Startup Ananlyzer](https://github.com/linyimin0812/spring-startup-analyzer)
 
-6、[Directus](https://github.com/directus/directus)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050905.webp)
+Spring 性能分析工具，收集启动过程数据，生成交互式分析报告。（[@linyimin0812](https://github.com/ruanyf/weekly/issues/3280) 投稿）
 
-这个工具运行在各种数据库之上，自动为数据库生成 REST +  GraphQL API，使得它们可以网络访问操作，并自带一个 Web 仪表盘。
+7、[WebAV](https://github.com/hughfenghen/WebAV)
 
-7、[CheerpJ](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
+Chrome 94 开放了 WebCodecs API，意味着 JS 也能处理音视频了。这是一个实验性项目，尝试提供简单易用的 API 在浏览器中处理音视频数据。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/3282) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051003.webp)
+8、[kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui)
 
-一个实验性工具，将 JVM 解释器搬上网页，让 Java 代码可以直接在网页运行。
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071901.webp)
 
-8、[SailboatUI](https://sailboatui.com/)
+一款轻量级的 Kafka 可视化管理平台。（[@xxd763795151](https://github.com/ruanyf/weekly/issues/3272) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123103.webp)
+9、[killport](https://github.com/jkfran/killport)
 
-一个基于 Tailwind CSS 的 UI 组件库，目前有超过150个组件。
+一个 Rust 语言写的命令行程序，可以杀死占用指定端口的进程。
 
-9、[komorebi](https://github.com/LGUG2Z/komorebi)
+10、[Sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051903.webp)
 
-Windows 系统的窗口管理器，自动在桌面编排多个应用程序窗口。
-
-10、[WezTerm](https://wezfurlong.org/wezterm/)
-
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042503.webp)
-
-一个跨平台的终端模拟器，采用 GPU 加速，在显示上面有一定的性能优势。
-
-另外，再推荐一个终端模拟器 [Hyper](https://hyper.is/)，它基于 Electron，使用 HTML/CSS/JS 构建，充分利用了网页技术。
+一个跨平台桌面应用，用来追踪监控网络流量，并以可视化的方式呈现。
 
 
 ### 资源
 
 
-1、[WebAuthn.wtf](https://webauthn.wtf/)
+1、[Triviance](https://triviance.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042502.webp)
 
-新的、不需要密码的网站登录协议 WebAuthn 的综合介绍。
+使用 ChatGPT 生成的智力测验的题库，超过100万题，都是四选一的选择题，还分成不同的主题。
 
-2、[mess with DNS](https://messwithdns.net/)
+2、[FastGPT](https://labs.kagi.com/fastgpt)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071601.webp)
 
-一个 DNS 游乐场，为每个访问者提供一个免费子域名，你可以对它设置各种 DNS 记录，进行练习。
+新兴搜索引擎 Kagi 推出的 GPT 聊天，免费使用，响应很快，支持中文。
 
-3、[68k.news](http://68k.news/)
+3、[ToolAI](https://www.toolai.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023040208.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071903.webp)
 
-这个网站将谷歌新闻转成文本版，可以快速浏览。
+AI 网站目录，收录了全球5000个 AI 网站。（[@littledot2020](https://github.com/ruanyf/weekly/issues/3276) 投稿）
 
-4、[Pirate Weather](https://pirateweather.net/)
+4、[Python 数据分析（第三版）](https://wesmckinney.com/book/)（Python for Data Analysis）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070305.webp)
 
-一个免费的天气 API，每月可调用2万次。
-
-5、[APIVault](https://apivault.dev/)
-
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052502.webp)
-
-这个网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API。
+一本英文教材，最新的第三版，讲授 Python 数据分析的初步知识，免费阅读。
 
 
 <!-- End -->

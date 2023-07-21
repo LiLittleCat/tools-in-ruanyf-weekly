@@ -1,5 +1,67 @@
 # 资源
 
+## [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md#资源)
+
+
+1、[Triviance](https://triviance.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042502.webp)
+
+使用 ChatGPT 生成的智力测验的题库，超过100万题，都是四选一的选择题，还分成不同的主题。
+
+2、[FastGPT](https://labs.kagi.com/fastgpt)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071601.webp)
+
+新兴搜索引擎 Kagi 推出的 GPT 聊天，免费使用，响应很快，支持中文。
+
+3、[ToolAI](https://www.toolai.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071903.webp)
+
+AI 网站目录，收录了全球5000个 AI 网站。（[@littledot2020](https://github.com/ruanyf/weekly/issues/3276) 投稿）
+
+4、[Python 数据分析（第三版）](https://wesmckinney.com/book/)（Python for Data Analysis）
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070305.webp)
+
+一本英文教材，最新的第三版，讲授 Python 数据分析的初步知识，免费阅读。
+
+
+## [科技爱好者周刊（第 262 期）：告别密码](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md#资源)
+
+
+1、[美国无线电频谱表](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
+
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020809.webp)
+
+美国政府发布的无线电频谱表，可视化展示美国的所有频段分配，直接下载 [PDF 文件](https://ntia.gov/sites/default/files/publications/january_2016_spectrum_wall_chart_0.pdf)。
+
+2、[编写你自己的 React、ProseMirror 和 Redux](https://nytimes.github.io/oak-byo-react-prosemirror-redux/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020811.webp)
+
+《纽约时报》技术团队编写的培训教程，指导新人自己实现前端的 React 等基础库。
+
+3、[StockAI.Trade](https://stockai.trade/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071315.webp)
+
+基于 ChatGPT 的 AI 选股工具（仅限中国 A 股）。（[@yvonuk](https://github.com/ruanyf/weekly/issues/3265) 投稿）
+
+4、[GifCities](https://gifcities.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022082303.webp)
+
+上个世纪的 GeoCities 平台存有海量的 Gif 小动画。这个网站有所有这些文件的存档，并提供搜索。
+
+5、[FlagWaver](https://krikienoid.github.io/flagwaver/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111201.webp)
+
+这个网页模拟旗帜飘扬的效果，你可以上传自己的图片作为旗帜，然后定制各种参数。
+
+
 ## [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-262.md#资源)
 
 
