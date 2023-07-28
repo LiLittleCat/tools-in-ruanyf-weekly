@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md#资源)
+
+
+1、[Starlink 卫星覆盖图](https://satellitemap.space/)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042907.webp)
+
+该网站实时显示 Starlink 卫星的位置，目前有4000多颗。
+
+2、[GhostlyStock](https://www.ghostlystock.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100101.webp)
+
+这个网站是 AI 图片的搜索引擎，搜到的所有图片都是人工智能生成的。
+
+想法是好的，但是图片有点少，搜索效果不理想。
+
+3、[ChatGPT 中文在线](https://codenews.cc/chatgpt)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072709.webp)
+
+ChatGPT 的使用页面，并且收集了相关资源。（[@jqsl2012](https://github.com/ruanyf/weekly/issues/3307) 投稿）
+
+4、[全球音乐体育大全](https://github.com/ruanyf/weekly/issues/3287)
+
+家里的娃学习打击乐，经常需要到 Youtube 平台搜索一些曲子，观看学习。作者就写了这个微信小程序，可以搜索和下载。（[@rmrf](https://github.com/ruanyf/weekly/issues/3287) 投稿）
+
+5、[GPYTHON](https://gpython.aibang.run/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072712.webp)
+
+AI 辅助的 Python 学习网站，在线练习编码。（[@stanxing](https://github.com/ruanyf/weekly/issues/3308) 投稿）
+
+
 ## [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](https://github.com/ruanyf/weekly/blob/master/docs/issue-263.md#资源)
 
 
