@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md#工具)
+
+
+1、[Vanilla](https://open.vanillaforums.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111401.webp)
+
+PHP 的论坛程序，功能强大，也很美观。
+
+2、[GitHub 名片](https://github-business-card.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111402.webp)
+
+这个网页可以根据 GitHub 主页，生成用户的 GitHub 名片。
+
+3、[Equal UI](https://equal-ui.github.io/Equal/)
+
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020501.webp)
+
+基于 Tailwind CSS 的一套 Vue 3 组件库。
+
+4、[emaction](https://github.com/emaction/emaction.frontend)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080210.webp)
+
+一个 Web Component，生成类似 GitHub 的 Emoji 反馈栏。（[@tiezhudotwang](https://github.com/ruanyf/weekly/issues/3309) 投稿）
+
+5、[ChatHub](https://github.com/chathub-dev/chathub)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080211.webp)
+
+浏览器插件，在一个页面中同时使用多个 GPT （ChatGPT、new Bing Chat、Google Bard、Claude 等）。（[@wong2](https://github.com/ruanyf/weekly/issues/3310) 投稿）
+
+6、[Whistle 客户端](https://github.com/avwo/whistle-client)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080212.webp)
+
+一个基于 Whistle (命令行版本) + Electron 的跨平台桌面程序，用来调试各种网络请求，查看流量细节。（[@ATQQ](https://github.com/ruanyf/weekly/issues/3312) 投稿）
+
+7、[Erin](https://erin-homepage.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080304.webp)
+
+Chrome 浏览器插件，将标签显示为类似 MacOS 底部 Dock 图标栏的风格。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3318) 投稿）
+
+8、[AI Code Translator](https://aicodeconvert.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080305.webp)
+
+该网站可以将一种语言的程序，转换成另一种语言。用户也可以描述想要什么程序，它来生成代码。（[@JustAIGithub](https://github.com/ruanyf/weekly/issues/3322) 投稿）
+
+9、[Slashbase](https://github.com/slashbaseide/slashbase)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110902.webp)
+
+一个基于浏览器的数据库操作 IDE，有点类似 PHPMyAdmin，但使用 Go 语言编写，并且支持 PostgreSQL 和 MongoDB。
+
+10、[YouPlot](https://github.com/red-data-tools/YouPlot)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011302.webp)
+
+一个命令行工具，可以在终端显示图形。
+
+11、[PrettyPolly](https://www.prettypolly.app/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080310.webp)
+
+学习外语时，最好有一个对话环境，可以练习口语，这个 AI 应用就解决了这个问题。
+
+它目前提供26种语言（包括中文、日文和韩文），你在网页上选择一种，就可以与 AI 进行口语练习了。感觉以后国内的外语培训产业，都要被 AI 取代了。
+
+
 ## [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md#工具)
 
 

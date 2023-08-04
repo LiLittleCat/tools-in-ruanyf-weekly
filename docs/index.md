@@ -16,103 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>264</currentVersion> -->
+<!-- <currentVersion>265</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md)
+# [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md)
 ### 工具
 
 
-1、[Aimless.js](https://github.com/ChrisCavs/aimless.js)
+1、[Vanilla](https://open.vanillaforums.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052221.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111401.webp)
 
-一个生成各种随机值的 JS 库。
+PHP 的论坛程序，功能强大，也很美观。
 
-2、[Primo](https://primocms.org/)
+2、[GitHub 名片](https://github-business-card.vercel.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111402.webp)
 
-一个开源的内容管理系统（CMS），作为 WordPress 的替代品而开发，基于 JavaScript 的 Svelte 框架。
+这个网页可以根据 GitHub 主页，生成用户的 GitHub 名片。
 
-3、[Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)
+3、[Equal UI](https://equal-ui.github.io/Equal/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052510.webp)
+![](https://cdn.beekka.com/blogimg/asset/202302/bg2023020501.webp)
 
-一个浏览器插件，显示当前页面的所有重定向跳转。
+基于 Tailwind CSS 的一套 Vue 3 组件库。
 
-4、[Clang.js](https://github.com/luoxuhai/clang.js)
+4、[emaction](https://github.com/emaction/emaction.frontend)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080210.webp)
 
-在浏览器直接运行 C/C++ 代码。（[@luoxuhai](https://github.com/ruanyf/weekly/issues/3297) 投稿）
+一个 Web Component，生成类似 GitHub 的 Emoji 反馈栏。（[@tiezhudotwang](https://github.com/ruanyf/weekly/issues/3309) 投稿）
 
-5、[mess-reader](https://github.com/ppz-pro/mess-reader)
+5、[ChatHub](https://github.com/chathub-dev/chathub)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080211.webp)
 
-一个网页的 Epub 阅读器，可以离线使用。（[@daGaiGuanYu](https://github.com/ruanyf/weekly/issues/3302) 投稿）
+浏览器插件，在一个页面中同时使用多个 GPT （ChatGPT、new Bing Chat、Google Bard、Claude 等）。（[@wong2](https://github.com/ruanyf/weekly/issues/3310) 投稿）
 
-6、[Automa](https://www.automa.site/)
+6、[Whistle 客户端](https://github.com/avwo/whistle-client)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072710.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080212.webp)
 
-Chrome 浏览器插件，用来设置任务自动化。另外，Chrome 有内置的[用户行为录制](https://developer.chrome.com/docs/devtools/recorder/)。（[@dllen](https://github.com/ruanyf/weekly/issues/3301) 投稿）
+一个基于 Whistle (命令行版本) + Electron 的跨平台桌面程序，用来调试各种网络请求，查看流量细节。（[@ATQQ](https://github.com/ruanyf/weekly/issues/3312) 投稿）
 
-7、[Rickrack](https://eigenmiao.com/yanhuo)（焰火十二卷）
+7、[Erin](https://erin-homepage.vercel.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072711.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080304.webp)
 
-开源的调色板软件，提供多种色彩搭配功能，适用于各种设计场景。（[@eigenmiao](https://github.com/ruanyf/weekly/issues/3306) 投稿）
+Chrome 浏览器插件，将标签显示为类似 MacOS 底部 Dock 图标栏的风格。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3318) 投稿）
 
-8、[iFrame Resizer](http://davidjbradshaw.github.io/iframe-resizer/)
+8、[AI Code Translator](https://aicodeconvert.com/)
 
-一个控制 iframe 窗口的 JS 库，可以根据加载网页的内容，调整 iframe 窗口的高度和宽度，并提供许多其他功能。
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080305.webp)
 
-9、[Standard Ebooks](https://github.com/standardebooks/tools)
+该网站可以将一种语言的程序，转换成另一种语言。用户也可以描述想要什么程序，它来生成代码。（[@JustAIGithub](https://github.com/ruanyf/weekly/issues/3322) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011103.webp)
+9、[Slashbase](https://github.com/slashbaseide/slashbase)
 
-Epub 电子书生成工具，参见[教程](https://standardebooks.org/contribute/producing-an-ebook-step-by-step)。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110902.webp)
 
-10、[Tablane](https://tablane.net/)
+一个基于浏览器的数据库操作 IDE，有点类似 PHPMyAdmin，但使用 Go 语言编写，并且支持 PostgreSQL 和 MongoDB。
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011206.webp)
+10、[YouPlot](https://github.com/red-data-tools/YouPlot)
 
-一个[开源](https://github.com/Tablane/tablane)的 Web 软件，用来进行任务管理。它实际上是一个列表管理软件，任何可以表示成列表的东西，都可以用它管理。
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011302.webp)
+
+一个命令行工具，可以在终端显示图形。
+
+11、[PrettyPolly](https://www.prettypolly.app/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080310.webp)
+
+学习外语时，最好有一个对话环境，可以练习口语，这个 AI 应用就解决了这个问题。
+
+它目前提供26种语言（包括中文、日文和韩文），你在网页上选择一种，就可以与 AI 进行口语练习了。感觉以后国内的外语培训产业，都要被 AI 取代了。
 
 
 ### 资源
 
 
-1、[Starlink 卫星覆盖图](https://satellitemap.space/)
+1、[JavaScript 框架的历史](https://programmingsoup.com/history-of-javascript-frameworks)
 
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042907.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051204.webp)
 
-该网站实时显示 Starlink 卫星的位置，目前有4000多颗。
+一本英文小册子，介绍 JavaScript 的发展历史，从最早的 Prototype.js、Dojo、Mootools、YUI 一直到最新的微前端框架、Islands 框架。
 
-2、[GhostlyStock](https://www.ghostlystock.com/)
+2、[学习 Makefile](https://makefiletutorial.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051601.webp)
 
-这个网站是 AI 图片的搜索引擎，搜到的所有图片都是人工智能生成的。
+Make 命令的一个英文教程。
 
-想法是好的，但是图片有点少，搜索效果不理想。
+3、[NixOS 与 Flakes 新手指南](https://nixos-and-flakes.thiscute.world/zh/)
 
-3、[ChatGPT 中文在线](https://codenews.cc/chatgpt)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080213.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072709.webp)
+中文的开源书籍，帮助新人快速上手使用 NixOS。（[@ryan4yin](https://github.com/ruanyf/weekly/issues/3315) 投稿）
 
-ChatGPT 的使用页面，并且收集了相关资源。（[@jqsl2012](https://github.com/ruanyf/weekly/issues/3307) 投稿）
+4、 [SwiftUI 100 视频教程](https://www.hackingwithswift.com/100/swiftui)
 
-4、[全球音乐体育大全](https://github.com/ruanyf/weekly/issues/3287)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061702.webp)
 
-家里的娃学习打击乐，经常需要到 Youtube 平台搜索一些曲子，观看学习。作者就写了这个微信小程序，可以搜索和下载。（[@rmrf](https://github.com/ruanyf/weekly/issues/3287) 投稿）
-
-5、[GPYTHON](https://gpython.aibang.run/)
-
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072712.webp)
-
-AI 辅助的 Python 学习网站，在线练习编码。（[@stanxing](https://github.com/ruanyf/weekly/issues/3308) 投稿）
+一个外网的 SwiftUI 系列视频教程，共有100讲。
 
 
 <!-- End -->

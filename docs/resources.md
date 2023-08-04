@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md#资源)
+
+
+1、[JavaScript 框架的历史](https://programmingsoup.com/history-of-javascript-frameworks)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051204.webp)
+
+一本英文小册子，介绍 JavaScript 的发展历史，从最早的 Prototype.js、Dojo、Mootools、YUI 一直到最新的微前端框架、Islands 框架。
+
+2、[学习 Makefile](https://makefiletutorial.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051601.webp)
+
+Make 命令的一个英文教程。
+
+3、[NixOS 与 Flakes 新手指南](https://nixos-and-flakes.thiscute.world/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080213.webp)
+
+中文的开源书籍，帮助新人快速上手使用 NixOS。（[@ryan4yin](https://github.com/ruanyf/weekly/issues/3315) 投稿）
+
+4、 [SwiftUI 100 视频教程](https://www.hackingwithswift.com/100/swiftui)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061702.webp)
+
+一个外网的 SwiftUI 系列视频教程，共有100讲。
+
+
 ## [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](https://github.com/ruanyf/weekly/blob/master/docs/issue-264.md#资源)
 
 
