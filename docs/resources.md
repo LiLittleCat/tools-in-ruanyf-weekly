@@ -1,5 +1,41 @@
 # 资源
 
+## [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](https://github.com/ruanyf/weekly/blob/master/docs/issue-266.md#资源)
+
+
+1、[Claude 2 国内镜像](https://www.claudeai.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081004.webp)
+
+Anthropic 公司 AI 模型“Claude 2”的非官方国内镜像，可以免费使用，与官网体验一致。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3338) 投稿）
+
+2、[AI 导航](https://ai.dreamthere.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081006.webp)
+
+该网站收集了各种 AI 站点，并进行了分类。（[@zllz5230](https://github.com/ruanyf/weekly/issues/3352) 投稿）
+
+3、[图解 LangChain 的功能模块](https://www.bilibili.com/read/cv25333824)（中文视频）
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080906.webp)
+
+LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲解它的架构。（[@webup](https://github.com/ruanyf/weekly/issues/3332) 投稿）
+
+4、[狄更斯插图库](https://www.charlesdickensillustration.org/)（Charles Dickens Illustrated Gallery）
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062001.webp)
+
+这个网站收集了英国伟大小说家狄更斯的作品插图。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062002.webp)
+
+5、[React graph gallery](https://www.react-graph-gallery.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062404.webp)
+
+这个网站提供各种可视化图表（散点图、直方图、折线图等等），你选中自己想要的，它会展示如何用 React + D3.js 实现这个图。
+
+
 ## [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](https://github.com/ruanyf/weekly/blob/master/docs/issue-265.md#资源)
 
 
