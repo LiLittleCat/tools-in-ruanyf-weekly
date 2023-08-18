@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 267 期）：5G 的春天要来了](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md#资源)
+
+
+1、[高校校徽字体图标库](https://github.com/lovefc/china_school_badge)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081206.webp)
+
+这个仓库收集了全国200多所高校的校徽，制作成字体图标。（[@lovefc](https://github.com/ruanyf/weekly/issues/3362) 投稿）
+
+2、[TypeScript 小书](https://github.com/gibbok/typescript-book)（The Concise TypeScript Book）
+
+一个简要的 TypeScript 英文教程。
+
+3、[Workout.lol](https://workout.lol/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071007.webp)
+
+一个有趣的网站，你先选择健身器械，然后选择要锻炼哪一块肌肉，它就告诉你应该用什么姿势锻炼（视频和图解）。
+
+4、[Name by AI（AI 起名）](https://www.namedbyai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071302.webp)
+
+回答一些问题，该网站就会帮你起一个英文名字。
+
+
 ## [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](https://github.com/ruanyf/weekly/blob/master/docs/issue-266.md#资源)
 
 

@@ -16,109 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>266</currentVersion> -->
+<!-- <currentVersion>267</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](https://github.com/ruanyf/weekly/blob/master/docs/issue-266.md)
+# [科技爱好者周刊（第 267 期）：5G 的春天要来了](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md)
 ### 工具
 
 
-1、[TypeCell](https://www.typecell.org/)
+1、[Novel](https://github.com/steven-tey/novel)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061701.webp)
 
-一个 TypeScript 互动式网页环境，可以在网页文档上直接查看代码运行结果，类似于 Jupyter 笔记本，适合内嵌 TypeScript 代码的文档。
+一个类似 notion 那样的“所见即所得”的网页编辑器，支持 AI 生成内容。
 
-2、[小抽屉](https://play.google.com/store/apps/details?id=com.mydobby.pandora)
+2、[trurl](https://github.com/curl/trurl)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080601.webp)
+curl 的作者 Daniel Stenberg 新写的命令行工具，用来解析和操作 URL。
 
-安卓 App，可以实现屏幕翻译，方便使用外国 App。（[@tuesda](https://github.com/ruanyf/weekly/issues/3328) 投稿）
+3、[WingetUI](http://www.marticliment.com/wingetui/)
 
-3、[FoodCa](https://apps.apple.com/cn/app/foodca-ai%E5%8A%A0%E6%8C%81%E7%9A%84%E9%A3%9F%E7%89%A9%E7%83%AD%E9%87%8F%E9%80%9F%E6%9F%A5%E4%B8%8E%E8%AE%B0%E5%BD%95%E5%B7%A5%E5%85%B7/id6451112435)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080905.webp)
+Windows 命令行包管理器 Winget 的 非官方 UI 界面。
 
-一个 iOS 应用，基于 chatGPT，实现口语化的输入来记录食物热量，例如“我吃了三颗葡萄”。（[@wdkwdkwdk](https://github.com/ruanyf/weekly/issues/3330) 投稿）
+4、[Bytebase](https://www.oschina.net/p/bytebase)
 
-4、[抖音聊天（PC 版）](https://imdesktop.douyin.com/)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081607.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080904.webp)
+国产的数据库数据结构（schema）管理工具，基于 Web 界面，需要自己部署，支持各种主流数据库。（[@shandbb](https://github.com/ruanyf/weekly/issues/3367) 投稿）
 
-抖音推出的 PC 端聊天软件。（[@stefanJi](https://github.com/ruanyf/weekly/issues/3329) 投稿）
+5、[DevPod](https://devpod.sh/)
 
-5、[麦默笔记](https://github.com/usememos/memos)（memos）
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081003.webp)
+一个桌面软件，让本地 IDE 的运行结果自动保存到远程，类似于自己搭建 GitHub 的 CodeSpace，支持各种后端（包括 SSH 和云主机）。
 
-基于 Web 的个人笔记软件，需要自己搭建服务，可以实现与其他站点的聚合。（[@pmxiao](https://github.com/ruanyf/weekly/issues/3349) 投稿）
+6、[Anime.js](https://animejs.com/)
 
-6、[mdBook](https://github.com/rust-lang/mdBook)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062301.webp)
 
-制作电子书的命令行工具，从 Markdown 生成 PDF 和 EPUB 文件，参见[教程](https://mp.weixin.qq.com/s?__biz=MzIyNDQ2MTQwOQ==&mid=2247493433&idx=1&sn=8a6f2c9975f34b9e2e7be62479f24478&chksm=e80c3037df7bb9212d320ca3fff025a81347fbc163add2a0456ea5a522ab6a836755af84ccb6&token=1949573976&lang=zh_CN#rd)。（[@mzhren](https://github.com/ruanyf/weekly/issues/3350) 投稿）
+一个轻量级 JavaScript 动画库，具有简单但强大的 API。
 
-7、[PDDON](https://pddon.com/)
+7、[Mailpit](https://github.com/axllent/mailpit)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062402.webp)
 
-一款[开源](https://github.com/pddon/pddon-win)的在线画图工具，提供低代码和 AI 智能辅助工具。（[@pddon](https://github.com/ruanyf/weekly/issues/3351) 投稿）
+一个电子邮件测试工具，用来验证你的应用发送邮件是否正常，可以拦截邮件，并自带 SMTP 测试工具。
 
-8、[Ruff](https://github.com/astral-sh/ruff)
+8、[OpenResume](https://github.com/xitanggg/open-resume)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061510.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062601.webp)
 
-Rust 语言写的 Python Linter，用来检查 Python 代码是否风格正确，运行速度非常快。
+一个开源的简历生成器，还支持将现有的简历导入。
 
-9、[ReactPy](https://reactpy.dev/docs/index.html)
+9、[Glitch Text Gernerator](https://glitchtext.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061511.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081703.webp)
 
-使用 Python 实现的 React 框架，让你用 Python 写前端 HTML 页面。
+为字符加上毛刺效果的网页工具。（[@maojindao55](https://github.com/ruanyf/weekly/issues/3373) 投稿）
 
-10、[Wasmer](https://wasmer.io/)
+10、[Fresns](https://fresns.cn)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112408.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081704.webp)
 
-一个命令行工具，直接在命令行下运行 wasm 模块，参见[介绍文章](https://wasmer.io/posts/announcing-wasmer-3.0)。
-
-11、[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
-
-这个工具是俄罗斯程序员写的，旨在绕过该国的“深度包检测”（DPI），只适用于 Windows。
+一款开源的 PHP 应用，可以根据需要作为论坛、社交网络、CMS 系统等使用。（[@jevantang](https://github.com/ruanyf/weekly/issues/3374) 投稿）
 
 
 ### 资源
 
 
-1、[Claude 2 国内镜像](https://www.claudeai.ai/)
+1、[高校校徽字体图标库](https://github.com/lovefc/china_school_badge)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081206.webp)
 
-Anthropic 公司 AI 模型“Claude 2”的非官方国内镜像，可以免费使用，与官网体验一致。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3338) 投稿）
+这个仓库收集了全国200多所高校的校徽，制作成字体图标。（[@lovefc](https://github.com/ruanyf/weekly/issues/3362) 投稿）
 
-2、[AI 导航](https://ai.dreamthere.cn/)
+2、[TypeScript 小书](https://github.com/gibbok/typescript-book)（The Concise TypeScript Book）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081006.webp)
+一个简要的 TypeScript 英文教程。
 
-该网站收集了各种 AI 站点，并进行了分类。（[@zllz5230](https://github.com/ruanyf/weekly/issues/3352) 投稿）
+3、[Workout.lol](https://workout.lol/)
 
-3、[图解 LangChain 的功能模块](https://www.bilibili.com/read/cv25333824)（中文视频）
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071007.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080906.webp)
+一个有趣的网站，你先选择健身器械，然后选择要锻炼哪一块肌肉，它就告诉你应该用什么姿势锻炼（视频和图解）。
 
-LangChain 是目前最流行的生成式 AI 编程框架，作者用一张图讲解它的架构。（[@webup](https://github.com/ruanyf/weekly/issues/3332) 投稿）
+4、[Name by AI（AI 起名）](https://www.namedbyai.com/)
 
-4、[狄更斯插图库](https://www.charlesdickensillustration.org/)（Charles Dickens Illustrated Gallery）
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062001.webp)
-
-这个网站收集了英国伟大小说家狄更斯的作品插图。
-
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062002.webp)
-
-5、[React graph gallery](https://www.react-graph-gallery.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062404.webp)
-
-这个网站提供各种可视化图表（散点图、直方图、折线图等等），你选中自己想要的，它会展示如何用 React + D3.js 实现这个图。
+回答一些问题，该网站就会帮你起一个英文名字。
 
 
 <!-- End -->
