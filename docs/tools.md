@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md#工具)
+
+
+1、[Simple Statistics](http://simplestatistics.org/) 
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062814.webp)
+
+一个统计学的 JS 库，提供基本的统计函数。
+
+2、[豆包](https://www.doubao.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081903.webp)
+
+字节推出的 ChatGPT 类产品，免费使用。
+
+3、[TrackerControl](https://github.com/TrackerControl/tracker-control-android)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082011.webp)
+
+一个手机 App，用来监控手机软件对于用户行为的数据收集（即跟踪行为）。（[@cheanus](https://github.com/ruanyf/weekly/issues/3381) 投稿）
+
+4、[DCNews](https://github.com/121812/dcnews)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082012.webp)
+
+一个开源的 Go 应用，将微信群的聊天消息，自动同步到预设的 Discord 频道。（[@121812](https://github.com/ruanyf/weekly/issues/3382) 投稿）
+
+5、[Walrus](https://github.com/seal-io/walrus)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082303.webp)
+
+一个开源的应用管理平台，让开发人员无需了解底层平台的细节，即可自助进行部署、管理和交付。（[@Aleegra](https://github.com/ruanyf/weekly/issues/3385) 投稿）
+
+6、[GFPGAN](https://github.com/TencentARC/GFPGAN)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082304.webp)
+
+腾讯开源的旧照片 AI 修复，查看 [Demo](https://replicate.com/tencentarc/gfpgan)。（[@Y024](https://github.com/ruanyf/weekly/issues/3387) 投稿）
+
+7、[铜钟](https://tonzhon.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082305.webp)
+
+一个主打“听歌”功能的 Web App，有丰富的音乐资源、简洁的 UI 和方便的交互，[代码开源](https://github.com/enzeberg/tonzhon-music)。（[@enzeberg](https://github.com/ruanyf/weekly/issues/3392) 投稿）
+
+8、[auto-animate](https://github.com/formkit/auto-animate)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082402.webp)
+
+一个网页动画库，可以为网页应用添加平滑的过渡，支持各种主流框架。（[@GenerQAQ](https://github.com/ruanyf/weekly/issues/3398) 投稿）
+
+9、[background-removal-js](https://github.com/imgly/background-removal-js)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062903.webp)
+
+一个去除图片背景的 JS 库。
+
+10、[scrcpy](https://github.com/Genymobile/scrcpy)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042908.webp)
+
+一个跨平台的桌面应用，映射安卓手机的屏幕到电脑桌面，允许使用鼠标和键盘控制手机。
+
+
 ## [科技爱好者周刊（第 267 期）：5G 的春天要来了](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md#工具)
 
 

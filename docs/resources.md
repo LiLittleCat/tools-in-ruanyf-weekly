@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md#资源)
+
+
+1、[WordPress Playground](https://developer.wordpress.org/playground/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071501.webp)
+
+WordPress 官方推出的练习场，可以在浏览器里面新建一个 WordPress 实例，用来测试插件或样式主题。
+
+2、[Periodic Table Cli](https://github.com/spirometaxas/periodic-table-cli)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071701.webp)
+
+一个命令行的元素周期表，还可以互动。
+
+3、[写给开发者的数据库技巧](https://sqlfordevs.com/ebook)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120303.webp)
+
+一本免费英文电子书，介绍一些高级的 SQL 语句的用法。
+
+4、[面试押题王](https://yatiwang.chat/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082401.webp)
+
+输入应聘的岗位描述，它通过 AI 自动生成面试问题和答案。不过，题库里面的技术类面试题比较少。（[@vickwv](https://github.com/ruanyf/weekly/issues/3397) 投稿）
+
+
 ## [科技爱好者周刊（第 267 期）：5G 的春天要来了](https://github.com/ruanyf/weekly/blob/master/docs/issue-267.md#资源)
 
 
