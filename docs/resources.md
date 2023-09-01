@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md#资源)
+
+
+1、[电子邮件加密指南（中文版）](https://emailselfdefense.fsf.org/zh-hans/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072301.webp)
+
+自由软件基金会发布的详细操作步骤，如何在各种平台上对邮件使用 GnuPG 加密。
+
+2、[Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083106.webp)
+
+该仓库收集各种生成式 AI 的教程。（[@zht1130](https://github.com/ruanyf/weekly/issues/3422) 投稿）
+
+3、[Iconbuddy](https://iconbuddy.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072403.webp)
+
+一个很好用的图标搜索引擎，收入了10万+的图标，可以定制和下载每个图标。
+
+4、[Learn C++](https://www.learncpp.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010401.webp)
+
+这个英文网站提供免费的 C++ 课程。
+
+
 ## [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md#资源)
 
 

@@ -16,99 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>268</currentVersion> -->
+<!-- <currentVersion>269</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](https://github.com/ruanyf/weekly/blob/master/docs/issue-268.md)
+# [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md)
 ### 工具
 
 
-1、[Simple Statistics](http://simplestatistics.org/) 
+1、[youki](https://github.com/containers/youki)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062814.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023063002.webp)
 
-一个统计学的 JS 库，提供基本的统计函数。
+一个用 Rust 语言写的 Docker 镜像运行器。
 
-2、[豆包](https://www.doubao.com/)
+2、[Tabserve](https://tabserve.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023070101.webp)
 
-字节推出的 ChatGPT 类产品，免费使用。
+一个有趣的网络应用，浏览器只要访问它的网站，就能建立一个反向代理，让公网可以访问你的当前计算机（即 localhost）。
 
-3、[TrackerControl](https://github.com/TrackerControl/tracker-control-android)
+3、[React18 JSON View](https://github.com/YYsuni/react18-json-view)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082011.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082509.webp)
 
-一个手机 App，用来监控手机软件对于用户行为的数据收集（即跟踪行为）。（[@cheanus](https://github.com/ruanyf/weekly/issues/3381) 投稿）
+一个展示 JSON 数据的 React 组件。（[@YYsuni](https://github.com/ruanyf/weekly/issues/3400) 投稿）
 
-4、[DCNews](https://github.com/121812/dcnews)
+4、[dtrx](https://github.com/dtrx-py/dtrx)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082012.webp)
+一个基于 Python 的命令行工具，可以解开大部分压缩格式。相当于只装一个工具，就能解开各种压缩包。（[@lengyijun](https://github.com/ruanyf/weekly/issues/3401) 投稿）
 
-一个开源的 Go 应用，将微信群的聊天消息，自动同步到预设的 Discord 频道。（[@121812](https://github.com/ruanyf/weekly/issues/3382) 投稿）
+5、[Transmate](https://transmate.ai/)
 
-5、[Walrus](https://github.com/seal-io/walrus)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082510.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082303.webp)
+浏览器插件，利用 ChatGPT 批量翻译各种格式的文档。（[@isuperwm](https://github.com/ruanyf/weekly/issues/3405) 投稿） 
 
-一个开源的应用管理平台，让开发人员无需了解底层平台的细节，即可自助进行部署、管理和交付。（[@Aleegra](https://github.com/ruanyf/weekly/issues/3385) 投稿）
+6、[examor](https://github.com/codeacme17/examor)
 
-6、[GFPGAN](https://github.com/TencentARC/GFPGAN)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082611.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082304.webp)
+这个工具允许用户上传文档，它会根据这些文档生成各种问答题，可以用来面试、教学和复习。它代码开源，需要用户自己搭建服务。（[@codeacme17](https://github.com/ruanyf/weekly/issues/3408) 投稿）
 
-腾讯开源的旧照片 AI 修复，查看 [Demo](https://replicate.com/tencentarc/gfpgan)。（[@Y024](https://github.com/ruanyf/weekly/issues/3387) 投稿）
+7、[极速图片压缩器](https://www.ticompressor.com/online/)
 
-7、[铜钟](https://tonzhon.com/)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082305.webp)
+一款图片压缩软件，有在线版和 Windows 桌面版。（[@Dreamer365](https://github.com/ruanyf/weekly/issues/3417) 投稿）
 
-一个主打“听歌”功能的 Web App，有丰富的音乐资源、简洁的 UI 和方便的交互，[代码开源](https://github.com/enzeberg/tonzhon-music)。（[@enzeberg](https://github.com/ruanyf/weekly/issues/3392) 投稿）
+8、[漫画工厂](https://huggingface.co/spaces/jbilcke-hf/comic-factory)
 
-8、[auto-animate](https://github.com/formkit/auto-animate)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083105.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082402.webp)
+一个 AI 引擎，输入剧情自动产生多种风格漫画（日式、美式等等）。（[@Y024](https://github.com/ruanyf/weekly/issues/3420) 投稿）
 
-一个网页动画库，可以为网页应用添加平滑的过渡，支持各种主流框架。（[@GenerQAQ](https://github.com/ruanyf/weekly/issues/3398) 投稿）
+9、[DB-GPT](http://dev.dbgpt.site/)
 
-9、[background-removal-js](https://github.com/imgly/background-removal-js)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083107.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062903.webp)
+用户上传 Excel 文件，该[开源](https://github.com/eosphoros-ai/DB-GPT/)工具让你与文件聊天，向它发出指令。（[@csunny](https://github.com/ruanyf/weekly/issues/3423) 投稿）
 
-一个去除图片背景的 JS 库。
+10、[use autojump in vscode](https://marketplace.visualstudio.com/items?itemName=webxmsj.autojump)
 
-10、[scrcpy](https://github.com/Genymobile/scrcpy)
-
-![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042908.webp)
-
-一个跨平台的桌面应用，映射安卓手机的屏幕到电脑桌面，允许使用鼠标和键盘控制手机。
+VSCode 插件，用户可以使用快捷键，跳转到指定目录，类似于 z、autojump、zoxide 等命令行工具。（[@webxmsj](https://github.com/ruanyf/weekly/issues/3419) 投稿）
 
 
 ### 资源
 
 
-1、[WordPress Playground](https://developer.wordpress.org/playground/)
+1、[电子邮件加密指南（中文版）](https://emailselfdefense.fsf.org/zh-hans/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072301.webp)
 
-WordPress 官方推出的练习场，可以在浏览器里面新建一个 WordPress 实例，用来测试插件或样式主题。
+自由软件基金会发布的详细操作步骤，如何在各种平台上对邮件使用 GnuPG 加密。
 
-2、[Periodic Table Cli](https://github.com/spirometaxas/periodic-table-cli)
+2、[Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083106.webp)
 
-一个命令行的元素周期表，还可以互动。
+该仓库收集各种生成式 AI 的教程。（[@zht1130](https://github.com/ruanyf/weekly/issues/3422) 投稿）
 
-3、[写给开发者的数据库技巧](https://sqlfordevs.com/ebook)
+3、[Iconbuddy](https://iconbuddy.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072403.webp)
 
-一本免费英文电子书，介绍一些高级的 SQL 语句的用法。
+一个很好用的图标搜索引擎，收入了10万+的图标，可以定制和下载每个图标。
 
-4、[面试押题王](https://yatiwang.chat/)
+4、[Learn C++](https://www.learncpp.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023010401.webp)
 
-输入应聘的岗位描述，它通过 AI 自动生成面试问题和答案。不过，题库里面的技术类面试题比较少。（[@vickwv](https://github.com/ruanyf/weekly/issues/3397) 投稿）
+这个英文网站提供免费的 C++ 课程。
 
 
 <!-- End -->
