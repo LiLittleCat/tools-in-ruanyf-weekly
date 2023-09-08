@@ -1,5 +1,73 @@
 # 工具
 
+## [科技爱好者周刊（第 270 期）：“精益开发”的精益是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md#工具)
+
+
+1、[Gitstars](https://github.com/cfour-hi/gitstars)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090109.webp)
+
+一个在线工具，用来管理你打过星的 GitHub 项目。（[@dllen](https://github.com/ruanyf/weekly/issues/3428) 投稿）
+
+2、[Figma.Pub](https://figma.pub/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090111.webp)
+
+为 figma 设计稿生成可自动更新的图片链接，支持 jpg 、png 、svg 格式和 scale 参数。（[@airyland](https://github.com/ruanyf/weekly/issues/3431) 投稿）
+
+3、[MusicFree 桌面版](https://github.com/maotoumao/MusicFreeDesktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090601.webp)
+
+一个开源的音乐播放器，通过插件支持各种音源，参见[示例插件库](https://github.com/maotoumao/MusicFreePlugins)。（[@maotoumao](https://github.com/ruanyf/weekly/issues/3451) 投稿）
+
+4、[NiceShots](https://apps.apple.com/cn/app/niceshots/id6450619697)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090602.webp)
+
+一个 iOS App，用来美化手机截图，可以实现带手机壳效果。（[@JimmyByte](https://github.com/ruanyf/weekly/issues/3452) 投稿）
+
+5、[TabX](https://github.com/Developer27149/tabX)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090207.webp)
+
+一个 Chrome 插件，用来管理 Tab 页。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3441) 投稿）
+
+6、[AI 小镇](https://github.com/get-convex/ai-town)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090401.webp)
+
+一个开源的网页游戏，人物都是 AI 驱动的，用户加入这个虚拟小镇，就可以跟这些角色互动。（[@dllen](https://github.com/ruanyf/weekly/issues/3442) 投稿）
+
+7、[Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090403.webp)
+
+开源的安卓手机的开屏广告自动跳过助手。（[@Lyeragain](https://github.com/ruanyf/weekly/issues/3402#issuecomment-1704958856) 投稿）
+
+8、[MagicNotch](https://apps.apple.com/cn/app/magicnotch-elegant-shortcut/id6447055708?mt=12)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090404.webp)
+
+一款 MacOS 刘海屏工具，将快捷键藏在刘海里面，鼠标移入时显示。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/3445) 投稿）
+
+9、[文件桥](https://github.com/ppz-pro/file-bridge)
+
+一个简单的 JS 脚本，用来架设静态文件服务器。A 电脑在网页上打开一个本地文件目录，B 电脑就能下载里面的文件，两者不必在同一局域网。（[@daGaiGuanYu](https://github.com/ruanyf/weekly/issues/3449) 投稿）
+
+10、[Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090709.webp)
+
+不必登录，将英语音频转成文本的在线工具。（[@Y024](https://github.com/ruanyf/weekly/issues/3457) 投稿）
+
+11、[StableDiffusion XL 体验站](https://www.stablediffusionai.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090708.webp)
+
+SDXL 是 Stable Diffusion 最新发布的画图模型。这是网友架设的体验站，不需要登陆也不需要付费，直接体验文生图。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3455) 投稿）
+
+
 ## [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md#工具)
 
 

@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 270 期）：“精益开发”的精益是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md#资源)
+
+
+1、[Hello 算法](https://github.com/krahets/hello-algo)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090110.webp)
+
+一本开源的中文电子书籍，介绍数据结构与算法，配有动画图解。（[@Y024](https://github.com/ruanyf/weekly/issues/3430) 投稿）
+
+2、[AIHub](https://www.aihub.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090108.webp)
+
+该网站收集各种 AI 工具和资源。（[@liuluanping](https://github.com/ruanyf/weekly/issues/3427) 投稿）
+
+3、[Web 音视频系列](https://hughfenghen.github.io/tag/WebAV/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090112.webp)
+
+一组系列文章，介绍如何在浏览器中处理音视频。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/3434) 投稿）
+
+4、[yesicon](https://yesicon.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090206.webp)
+
+中文的图标搜索引擎，作者利用 ChatGPT 翻译了 Iconify 的 18 万个图标名。（[@dongnaebi](https://github.com/ruanyf/weekly/issues/3440) 投稿）
+
+5、[Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090603.webp)
+
+这个仓库收集各种垂直领域的大语言模型。（[@wuyifan18](https://github.com/ruanyf/weekly/issues/3453) 投稿）
+
+
 ## [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](https://github.com/ruanyf/weekly/blob/master/docs/issue-269.md#资源)
 
 
