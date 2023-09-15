@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md#资源)
+
+
+1、[permission.site](https://permission.site/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080203.webp)
+
+该网站演示各种 Web API 的用户授权。
+
+2、[Prisma 数据库教程](https://www.prisma.io/dataguide)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091106.webp)
+
+JS 语言著名的数据库工具包 Prisma，官网上面有一个数据库教程（英文），讲解数据库基本概念和 ORM 关系模型的用法，内容不错。
+
+3、[现代 CSS 解决方案](https://moderncss.dev/)（Modern CSS Solutions）
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061802.webp)
+
+CSS 高级教程，讲解新的 CSS 语法如何解决一些传统问题，一共有30多课。
+
+4、[EarTrainX](https://www.eartrainx.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091102.webp)
+
+该网站提供音乐初学者的各种听音练习，训练辨识旋律的能力。（[@xzzxy0413](https://github.com/ruanyf/weekly/issues/3467) 投稿）
+
+5、[写作只能塑造真实的自己](https://github.com/Macin20/why-we-write)
+
+网友做的一本小册子，收录了著名作家谈写作的文章。他用 LaTex 排版，然后编译成 PDF 文件。（[@Macin20](https://github.com/ruanyf/weekly/issues/3459) 投稿）
+
+
 ## [科技爱好者周刊（第 270 期）：“精益开发”的精益是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md#资源)
 
 

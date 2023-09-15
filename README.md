@@ -16,109 +16,109 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>270</currentVersion> -->
+<!-- <currentVersion>271</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 270 期）：“精益开发”的精益是什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-270.md)
+# [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md)
 ### 工具
 
 
-1、[Gitstars](https://github.com/cfour-hi/gitstars)
+1、[echoserver](https://echoserver.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090109.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052101.webp)
 
-一个在线工具，用来管理你打过星的 GitHub 项目。（[@dllen](https://github.com/ruanyf/weekly/issues/3428) 投稿）
+一个免费服务，你可以定制这台服务器返回的 HTTP 数据头，适合用来测试。
 
-2、[Figma.Pub](https://figma.pub/)
+2、[DocuSign](https://github.com/docusealco/docuseal)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090111.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072101.webp)
 
-为 figma 设计稿生成可自动更新的图片链接，支持 jpg 、png 、svg 格式和 scale 参数。（[@airyland](https://github.com/ruanyf/weekly/issues/3431) 投稿）
+创建、填写、签名数字文档的在线工具，代码开源。
 
-3、[MusicFree 桌面版](https://github.com/maotoumao/MusicFreeDesktop)
+3、[g](https://github.com/Equationzhao/g)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090907.webp)
 
-一个开源的音乐播放器，通过插件支持各种音源，参见[示例插件库](https://github.com/maotoumao/MusicFreePlugins)。（[@maotoumao](https://github.com/ruanyf/weekly/issues/3451) 投稿）
+Go 语言写的 ls 命令替代品，跨平台。（[@Equationzhao](https://github.com/ruanyf/weekly/issues/3465) 投稿）
 
-4、[NiceShots](https://apps.apple.com/cn/app/niceshots/id6450619697)
+4、[Github Old Feed](https://github.com/wangrongding/github-old-feed)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091301.webp)
 
-一个 iOS App，用来美化手机截图，可以实现带手机壳效果。（[@JimmyByte](https://github.com/ruanyf/weekly/issues/3452) 投稿）
+一个油猴脚本，恢复 GitHub 首页的旧版 feed，查看自己关注的人的动态。（[@wangrongding](https://github.com/ruanyf/weekly/issues/3478) 投稿）
 
-5、[TabX](https://github.com/Developer27149/tabX)
+5、[LoremGenie](https://loremgenie.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090207.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091105.webp)
 
-一个 Chrome 插件，用来管理 Tab 页。（[@Developer27149](https://github.com/ruanyf/weekly/issues/3441) 投稿）
+Figma 插件，快速生成用来占位的数据文字，插入设计稿。（[@guojiangnian](https://github.com/ruanyf/weekly/issues/3473) 投稿）
 
-6、[AI 小镇](https://github.com/get-convex/ai-town)
+6、[NoteAI](https://noteai.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091404.webp)
 
-一个开源的网页游戏，人物都是 AI 驱动的，用户加入这个虚拟小镇，就可以跟这些角色互动。（[@dllen](https://github.com/ruanyf/weekly/issues/3442) 投稿）
+用户在该网站输入问题，它会用 AI 从搜索引擎返回的网页结果里面，总结出答案。
 
-7、[Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+7、[Idify](https://github.com/zhbhun/idify)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091409.webp)
 
-开源的安卓手机的开屏广告自动跳过助手。（[@Lyeragain](https://github.com/ruanyf/weekly/issues/3402#issuecomment-1704958856) 投稿）
+一个开源软件，将用户上传的人像照，转成证件照，全部使用前端代码，数据不会上传。（[@zhbhun](https://github.com/ruanyf/weekly/issues/3481) 投稿）
 
-8、[MagicNotch](https://apps.apple.com/cn/app/magicnotch-elegant-shortcut/id6447055708?mt=12)
+8、[Plane](https://github.com/makeplane/plane)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023053103.webp)
 
-一款 MacOS 刘海屏工具，将快捷键藏在刘海里面，鼠标移入时显示。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/3445) 投稿）
+一个基于 Web 的开源项目管理工具，JIRA 的替代品。
 
-9、[文件桥](https://github.com/ppz-pro/file-bridge)
+9、[Octos](https://github.com/underpig1/octos)
 
-一个简单的 JS 脚本，用来架设静态文件服务器。A 电脑在网页上打开一个本地文件目录，B 电脑就能下载里面的文件，两者不必在同一局域网。（[@daGaiGuanYu](https://github.com/ruanyf/weekly/issues/3449) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072303.webp)
 
-10、[Whisper Web](https://huggingface.co/spaces/Xenova/whisper-web)
+一个开源的 Windows 桌面软件，用来创建和管理 HTML、CSS 和 JS 做的实时交互式壁纸。
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090709.webp)
+10、[作文批改](https://www.essay.art/)
 
-不必登录，将英语音频转成文本的在线工具。（[@Y024](https://github.com/ruanyf/weekly/issues/3457) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091411.webp)
 
-11、[StableDiffusion XL 体验站](https://www.stablediffusionai.ai/)
+使用 GPT4 对雅思作文和托福作文判分和批改。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3483) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090708.webp)
+11、[RustRover](https://www.jetbrains.com/rust/)
 
-SDXL 是 Stable Diffusion 最新发布的画图模型。这是网友架设的体验站，不需要登陆也不需要付费，直接体验文生图。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3455) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091410.webp)
+
+JetBrains 公司最新推出的 Rust 语言 IDE，目前免费使用。
 
 
 ### 资源
 
 
-1、[Hello 算法](https://github.com/krahets/hello-algo)
+1、[permission.site](https://permission.site/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090110.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080203.webp)
 
-一本开源的中文电子书籍，介绍数据结构与算法，配有动画图解。（[@Y024](https://github.com/ruanyf/weekly/issues/3430) 投稿）
+该网站演示各种 Web API 的用户授权。
 
-2、[AIHub](https://www.aihub.cn/)
+2、[Prisma 数据库教程](https://www.prisma.io/dataguide)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091106.webp)
 
-该网站收集各种 AI 工具和资源。（[@liuluanping](https://github.com/ruanyf/weekly/issues/3427) 投稿）
+JS 语言著名的数据库工具包 Prisma，官网上面有一个数据库教程（英文），讲解数据库基本概念和 ORM 关系模型的用法，内容不错。
 
-3、[Web 音视频系列](https://hughfenghen.github.io/tag/WebAV/)
+3、[现代 CSS 解决方案](https://moderncss.dev/)（Modern CSS Solutions）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090112.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061802.webp)
 
-一组系列文章，介绍如何在浏览器中处理音视频。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/3434) 投稿）
+CSS 高级教程，讲解新的 CSS 语法如何解决一些传统问题，一共有30多课。
 
-4、[yesicon](https://yesicon.app/)
+4、[EarTrainX](https://www.eartrainx.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091102.webp)
 
-中文的图标搜索引擎，作者利用 ChatGPT 翻译了 Iconify 的 18 万个图标名。（[@dongnaebi](https://github.com/ruanyf/weekly/issues/3440) 投稿）
+该网站提供音乐初学者的各种听音练习，训练辨识旋律的能力。（[@xzzxy0413](https://github.com/ruanyf/weekly/issues/3467) 投稿）
 
-5、[Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM)
+5、[写作只能塑造真实的自己](https://github.com/Macin20/why-we-write)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090603.webp)
-
-这个仓库收集各种垂直领域的大语言模型。（[@wuyifan18](https://github.com/ruanyf/weekly/issues/3453) 投稿）
+网友做的一本小册子，收录了著名作家谈写作的文章。他用 LaTex 排版，然后编译成 PDF 文件。（[@Macin20](https://github.com/ruanyf/weekly/issues/3459) 投稿）
 
 
 <!-- End -->
