@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md#资源)
+
+
+1、[古代地球](https://dinosaurpictures.org/ancient-earth/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050801.webp)
+
+这个网站允许你查看各个地质年代的地球全景图，最早可以回溯到7.5亿年前。
+
+2、[HDR 转 SDR 实践之旅](https://juejin.cn/post/7205908717886865469)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091805.webp)
+
+一组中文的[系列文章](https://juejin.cn/column/7206577654933471292)，介绍将 HDR （高动态）视频转成 SDR （标准动态）的相关知识，并有[安卓实现的示例库](https://github.com/JonaNorman/HDRSample)。（[@JonaNorman](https://github.com/ruanyf/weekly/issues/3494) 投稿）
+
+3、[财报 AI](https://finchat.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092105.webp)
+
+这个网站可以解析上市公司财报（包含美股、港股、沪深 A 股），并支持对财报内容提问，类似工具还有 [BeeBee AI](https://beebee.ai/)。（[@Y024](https://github.com/ruanyf/weekly/issues/3495) 投稿）
+
+4、[穿透 Laravel](http://www.idocloud.net/pttl/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092107.webp)
+
+一份中文的学习资料，介绍 PHP 框架 Laravel 的底层实现细节，[代码开源](https://github.com/youngtrix/pierce_through_the_laravel)。（[@youngtrix](https://github.com/ruanyf/weekly/issues/3504) 投稿）
+
+
 ## [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md#资源)
 
 

@@ -1,5 +1,61 @@
 # 工具
 
+## [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md#工具)
+
+
+1、[Linkwarden](https://github.com/linkwarden/linkwarden)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080107.webp)
+
+一个开源的桌面程序，用来管理网络书签。
+
+2、[v0](https://v0.dev/)
+
+Vercel 推出的一个实验性产品，使用 AI 网页生成网页。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091510.webp)
+
+你用文字描述想要什么页面，它会给出三个 UI 设计，让你选一个，然后生成该页面的 React + Tailwind CSS 实现，并允许不断微调。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091511.webp)
+
+官网有很多作品展示，其中有几个相当可以（上图）。它应该是目前最强的 AI 网页生成器。现在还处于 Alpha 阶段，使用资格需要排队等待开通。（[@James-Lam](https://github.com/ruanyf/weekly/issues/3486) 投稿）
+
+3、[Extension Manager](https://github.com/JasonGrass/auto-extension-manager)
+
+一个浏览器插件，用来管理浏览器安装的各种插件，弥补系统自带的扩展管理器的不足。（[@JasonGrass](https://github.com/ruanyf/weekly/issues/3500) 投稿）
+
+4、[讯飞星火认知大模型](https://passport.xfyun.cn/login)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092106.webp)
+
+讯飞公司的 AI 大模型，可以根据提示生成 PPT 和简历，以及文档问答。（[@huiyanghu12](https://github.com/ruanyf/weekly/issues/3502) 投稿）
+
+5、[Subdomain Center](https://www.subdomain.center/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091602.webp)
+
+该网站可以查询一个域名有多少个子域名，点击查询框后，通过可以直接改地址栏的 URL 来查询。它的[代码开源](https://github.com/ARPSyndicate/puncia)。
+
+6、[Sqids](https://sqids.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080202.webp)
+
+一个生成短字母 ID 的库，有各种主要语言的版本。
+
+7、[Webrecorder](https://webrecorder.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080204.webp)
+
+一个工具包，用来保存交互式网页，做到离线时也能尽可能准确地重现它。
+
+8、[Reflex](https://github.com/reflex-dev/reflex)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080301.webp)
+
+一个 Python 语言的前端 UI 框架，适合不想用 JavaScript 写前端网页的 Python 程序员。
+
+
 ## [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](https://github.com/ruanyf/weekly/blob/master/docs/issue-271.md#工具)
 
 
