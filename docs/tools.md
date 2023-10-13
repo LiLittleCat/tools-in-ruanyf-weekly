@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md#工具)
+
+
+1、[Gitness](https://github.com/harness/gitness)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092205.webp)
+
+最新出现的 GitHub 开源替代品，用于自己架设服务，托管代码。
+
+2、[Dexie.js](https://github.com/dexie/Dexie.js)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080901.webp)
+
+浏览器原生数据库 IndexedDB 的包装库，提供易于操作的 API。
+
+3、[WeOCR](https://ocr.plantree.me/ocr)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092504.webp)
+
+一个图片文字识别的 OCR 网站，可以离线使用。（[@plantree](https://github.com/ruanyf/weekly/issues/3517) 投稿）
+
+4、[小鹿查单词](https://apps.apple.com/app/id6447361715)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092214.webp)
+
+一个苹果设备的 App，用于语音查单词，你读一遍每个字母（比如 h-e-l-l-o），它就显示单词的意思。（[@haozes](https://github.com/ruanyf/weekly/issues/3509) 投稿）
+
+5、[DevToys](https://devtoys.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100805.webp)
+
+一款 Windows 的小工具集合，收入了开发者会用到的许多小工具。（[@dllen](https://github.com/ruanyf/weekly/issues/3533) 投稿）
+
+6、[Sutando](https://sutando.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100806.webp)
+
+一个 Node.js 的 ORM 库，用来操作关系型数据库。（[@kiddyuchina](https://github.com/ruanyf/weekly/issues/3534) 投稿）
+
+7、[Inke](https://github.com/yesmore/inke)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101004.webp)
+
+Notion 风格的开源 Web 笔记本，集成了 AI 自动补全（需要 OpenAI Key）。（[@yesmore](https://github.com/ruanyf/weekly/issues/3545) 投稿）
+
+8、[FastBootstrap](https://fastbootstrap.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100506.webp)
+
+Atlassian 公司基于 Bootstrap v5.2 开发的一套 UI 开源组件库。
+
+9、[Jailer](https://github.com/Wisser/Jailer)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080902.webp)
+
+一个跨平台的桌面软件，用来浏览关系型数据库的关系模型。
+
+
 ## [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md#工具)
 
 

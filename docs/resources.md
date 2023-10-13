@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md#资源)
+
+
+1、[Consensus](https://consensus.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081803.webp)
+
+一个基于 AI 的科学论文搜索引擎，你问一个问题，它可以从论文中提取答案（英文的），很适合做文献综述。
+
+2、[ROM 代码提取](https://github.com/travisgoodspeed/gbrom-tutorial)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092411.webp)
+
+这个仓库是一个叹为观止的演示，通过 ROM 芯片的显微照片，确定里面固件的代码，即从照片还原二进制代码。
+
+3、[Lepton AI](https://www.lepton.ai/playground)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100503.webp)
+
+这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。
+
+4、[AnyBT](https://anybt.eth.limo/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092409.webp)
+
+一个新出现的磁力链接搜索引擎。
+
+
 ## [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md#资源)
 
 

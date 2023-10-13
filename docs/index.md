@@ -16,91 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>272</currentVersion> -->
+<!-- <currentVersion>273</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-272.md)
+# [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md)
 ### 工具
 
 
-1、[Linkwarden](https://github.com/linkwarden/linkwarden)
+1、[Gitness](https://github.com/harness/gitness)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080107.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092205.webp)
 
-一个开源的桌面程序，用来管理网络书签。
+最新出现的 GitHub 开源替代品，用于自己架设服务，托管代码。
 
-2、[v0](https://v0.dev/)
+2、[Dexie.js](https://github.com/dexie/Dexie.js)
 
-Vercel 推出的一个实验性产品，使用 AI 网页生成网页。
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091510.webp)
+浏览器原生数据库 IndexedDB 的包装库，提供易于操作的 API。
 
-你用文字描述想要什么页面，它会给出三个 UI 设计，让你选一个，然后生成该页面的 React + Tailwind CSS 实现，并允许不断微调。
+3、[WeOCR](https://ocr.plantree.me/ocr)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091511.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092504.webp)
 
-官网有很多作品展示，其中有几个相当可以（上图）。它应该是目前最强的 AI 网页生成器。现在还处于 Alpha 阶段，使用资格需要排队等待开通。（[@James-Lam](https://github.com/ruanyf/weekly/issues/3486) 投稿）
+一个图片文字识别的 OCR 网站，可以离线使用。（[@plantree](https://github.com/ruanyf/weekly/issues/3517) 投稿）
 
-3、[Extension Manager](https://github.com/JasonGrass/auto-extension-manager)
+4、[小鹿查单词](https://apps.apple.com/app/id6447361715)
 
-一个浏览器插件，用来管理浏览器安装的各种插件，弥补系统自带的扩展管理器的不足。（[@JasonGrass](https://github.com/ruanyf/weekly/issues/3500) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092214.webp)
 
-4、[讯飞星火认知大模型](https://passport.xfyun.cn/login)
+一个苹果设备的 App，用于语音查单词，你读一遍每个字母（比如 h-e-l-l-o），它就显示单词的意思。（[@haozes](https://github.com/ruanyf/weekly/issues/3509) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092106.webp)
+5、[DevToys](https://devtoys.app/)
 
-讯飞公司的 AI 大模型，可以根据提示生成 PPT 和简历，以及文档问答。（[@huiyanghu12](https://github.com/ruanyf/weekly/issues/3502) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100805.webp)
 
-5、[Subdomain Center](https://www.subdomain.center/)
+一款 Windows 的小工具集合，收入了开发者会用到的许多小工具。（[@dllen](https://github.com/ruanyf/weekly/issues/3533) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091602.webp)
+6、[Sutando](https://sutando.org/)
 
-该网站可以查询一个域名有多少个子域名，点击查询框后，通过可以直接改地址栏的 URL 来查询。它的[代码开源](https://github.com/ARPSyndicate/puncia)。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100806.webp)
 
-6、[Sqids](https://sqids.org/)
+一个 Node.js 的 ORM 库，用来操作关系型数据库。（[@kiddyuchina](https://github.com/ruanyf/weekly/issues/3534) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080202.webp)
+7、[Inke](https://github.com/yesmore/inke)
 
-一个生成短字母 ID 的库，有各种主要语言的版本。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101004.webp)
 
-7、[Webrecorder](https://webrecorder.net/)
+Notion 风格的开源 Web 笔记本，集成了 AI 自动补全（需要 OpenAI Key）。（[@yesmore](https://github.com/ruanyf/weekly/issues/3545) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080204.webp)
+8、[FastBootstrap](https://fastbootstrap.com/)
 
-一个工具包，用来保存交互式网页，做到离线时也能尽可能准确地重现它。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100506.webp)
 
-8、[Reflex](https://github.com/reflex-dev/reflex)
+Atlassian 公司基于 Bootstrap v5.2 开发的一套 UI 开源组件库。
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080301.webp)
+9、[Jailer](https://github.com/Wisser/Jailer)
 
-一个 Python 语言的前端 UI 框架，适合不想用 JavaScript 写前端网页的 Python 程序员。
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080902.webp)
+
+一个跨平台的桌面软件，用来浏览关系型数据库的关系模型。
 
 
 ### 资源
 
 
-1、[古代地球](https://dinosaurpictures.org/ancient-earth/)
+1、[Consensus](https://consensus.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081803.webp)
 
-这个网站允许你查看各个地质年代的地球全景图，最早可以回溯到7.5亿年前。
+一个基于 AI 的科学论文搜索引擎，你问一个问题，它可以从论文中提取答案（英文的），很适合做文献综述。
 
-2、[HDR 转 SDR 实践之旅](https://juejin.cn/post/7205908717886865469)
+2、[ROM 代码提取](https://github.com/travisgoodspeed/gbrom-tutorial)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092411.webp)
 
-一组中文的[系列文章](https://juejin.cn/column/7206577654933471292)，介绍将 HDR （高动态）视频转成 SDR （标准动态）的相关知识，并有[安卓实现的示例库](https://github.com/JonaNorman/HDRSample)。（[@JonaNorman](https://github.com/ruanyf/weekly/issues/3494) 投稿）
+这个仓库是一个叹为观止的演示，通过 ROM 芯片的显微照片，确定里面固件的代码，即从照片还原二进制代码。
 
-3、[财报 AI](https://finchat.io/)
+3、[Lepton AI](https://www.lepton.ai/playground)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100503.webp)
 
-这个网站可以解析上市公司财报（包含美股、港股、沪深 A 股），并支持对财报内容提问，类似工具还有 [BeeBee AI](https://beebee.ai/)。（[@Y024](https://github.com/ruanyf/weekly/issues/3495) 投稿）
+这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。
 
-4、[穿透 Laravel](http://www.idocloud.net/pttl/index.html)
+4、[AnyBT](https://anybt.eth.limo/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092107.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092409.webp)
 
-一份中文的学习资料，介绍 PHP 框架 Laravel 的底层实现细节，[代码开源](https://github.com/youngtrix/pierce_through_the_laravel)。（[@youngtrix](https://github.com/ruanyf/weekly/issues/3504) 投稿）
+一个新出现的磁力链接搜索引擎。
 
 
 <!-- End -->
