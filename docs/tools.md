@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md#工具)
+
+
+1、[Mycelite](https://github.com/mycelial/mycelite)
+
+一个 SQLite 扩展，用来从一个 SQLite 实例同步到另一个，适合从本地向服务端同步数据。
+
+2、[Pictode](https://github.com/JessYan0913/pictode)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101901.webp)
+
+一个开源的网页绘图编辑器。（[@JessYan0913](https://github.com/ruanyf/weekly/issues/3567) 投稿）
+
+3、[Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062813.webp)
+
+一个开源的安卓代码编辑器，在手机上开发代码。
+
+4、[LocalSend](https://localsend.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101903.webp)
+
+一款开源的跨平台文件传送软件，不需要互联网连接，依靠共享 Wifi 分享文件。
+
+5、[Uninstallr](https://uninstalr.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081902.webp)
+
+一个免费的 Windows 卸载程序，号称可以准确、完整地卸载各种 Windows 软件，残留最少，参见[作者自述](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)。
+
+6、[Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n)
+
+它使用 GitHub Actions 和 ChatGPT，将仓库里面的 Markdown 文件翻译成其他语言，适合制作网站的国际化版本。（[@linyuxuanlin](https://github.com/ruanyf/weekly/issues/3564) 投稿）
+
+7、[在线 ffmpeg](https://ffmpeg-online.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101610.webp)
+
+网页版的 ffmpeg，可以离线在网页上执行 ffmpeg 命令行，来编辑视频。
+
+8、[little-rat](https://github.com/dnakov/little-rat)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082302.webp)
+
+一个 Chrome 插件，用来统计并关闭其他插件发出的 HTTP 请求，可以了解插件是否在偷偷上传数据。
+
+9、[Fooocus](https://github.com/lllyasviel/Fooocus)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081304.webp)
+
+一个桌面应用，可以在离线条件下，通过文本生成图片。
+
+10、[try](https://github.com/binpash/try)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062508.webp)
+
+一个 Linux 沙盒程序，让你在更改系统（比如安装程序或运行脚本）之前，先在沙盒中运行命令并检查效果。
+
+
 ## [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md#工具)
 
 

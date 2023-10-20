@@ -16,93 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>273</currentVersion> -->
+<!-- <currentVersion>274</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md)
+# [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md)
 ### 工具
 
 
-1、[Gitness](https://github.com/harness/gitness)
+1、[Mycelite](https://github.com/mycelial/mycelite)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092205.webp)
+一个 SQLite 扩展，用来从一个 SQLite 实例同步到另一个，适合从本地向服务端同步数据。
 
-最新出现的 GitHub 开源替代品，用于自己架设服务，托管代码。
+2、[Pictode](https://github.com/JessYan0913/pictode)
 
-2、[Dexie.js](https://github.com/dexie/Dexie.js)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080901.webp)
+一个开源的网页绘图编辑器。（[@JessYan0913](https://github.com/ruanyf/weekly/issues/3567) 投稿）
 
-浏览器原生数据库 IndexedDB 的包装库，提供易于操作的 API。
+3、[Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-3、[WeOCR](https://ocr.plantree.me/ocr)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062813.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092504.webp)
+一个开源的安卓代码编辑器，在手机上开发代码。
 
-一个图片文字识别的 OCR 网站，可以离线使用。（[@plantree](https://github.com/ruanyf/weekly/issues/3517) 投稿）
+4、[LocalSend](https://localsend.org/)
 
-4、[小鹿查单词](https://apps.apple.com/app/id6447361715)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092214.webp)
+一款开源的跨平台文件传送软件，不需要互联网连接，依靠共享 Wifi 分享文件。
 
-一个苹果设备的 App，用于语音查单词，你读一遍每个字母（比如 h-e-l-l-o），它就显示单词的意思。（[@haozes](https://github.com/ruanyf/weekly/issues/3509) 投稿）
+5、[Uninstallr](https://uninstalr.com/)
 
-5、[DevToys](https://devtoys.app/)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100805.webp)
+一个免费的 Windows 卸载程序，号称可以准确、完整地卸载各种 Windows 软件，残留最少，参见[作者自述](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)。
 
-一款 Windows 的小工具集合，收入了开发者会用到的许多小工具。（[@dllen](https://github.com/ruanyf/weekly/issues/3533) 投稿）
+6、[Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n)
 
-6、[Sutando](https://sutando.org/)
+它使用 GitHub Actions 和 ChatGPT，将仓库里面的 Markdown 文件翻译成其他语言，适合制作网站的国际化版本。（[@linyuxuanlin](https://github.com/ruanyf/weekly/issues/3564) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100806.webp)
+7、[在线 ffmpeg](https://ffmpeg-online.vercel.app/)
 
-一个 Node.js 的 ORM 库，用来操作关系型数据库。（[@kiddyuchina](https://github.com/ruanyf/weekly/issues/3534) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101610.webp)
 
-7、[Inke](https://github.com/yesmore/inke)
+网页版的 ffmpeg，可以离线在网页上执行 ffmpeg 命令行，来编辑视频。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101004.webp)
+8、[little-rat](https://github.com/dnakov/little-rat)
 
-Notion 风格的开源 Web 笔记本，集成了 AI 自动补全（需要 OpenAI Key）。（[@yesmore](https://github.com/ruanyf/weekly/issues/3545) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082302.webp)
 
-8、[FastBootstrap](https://fastbootstrap.com/)
+一个 Chrome 插件，用来统计并关闭其他插件发出的 HTTP 请求，可以了解插件是否在偷偷上传数据。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100506.webp)
+9、[Fooocus](https://github.com/lllyasviel/Fooocus)
 
-Atlassian 公司基于 Bootstrap v5.2 开发的一套 UI 开源组件库。
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081304.webp)
 
-9、[Jailer](https://github.com/Wisser/Jailer)
+一个桌面应用，可以在离线条件下，通过文本生成图片。
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080902.webp)
+10、[try](https://github.com/binpash/try)
 
-一个跨平台的桌面软件，用来浏览关系型数据库的关系模型。
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062508.webp)
+
+一个 Linux 沙盒程序，让你在更改系统（比如安装程序或运行脚本）之前，先在沙盒中运行命令并检查效果。
 
 
 ### 资源
 
 
-1、[Consensus](https://consensus.app/)
+1、[谷歌编程竞赛试题](https://zibada.guru/gcj/)（Google Coding Competitions）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060304.webp)
 
-一个基于 AI 的科学论文搜索引擎，你问一个问题，它可以从论文中提取答案（英文的），很适合做文献综述。
+这个网站提供谷歌编程竞赛历年的真题。
 
-2、[ROM 代码提取](https://github.com/travisgoodspeed/gbrom-tutorial)
+2、[数据库的数据库](https://dbdb.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092411.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083002.webp)
 
-这个仓库是一个叹为观止的演示，通过 ROM 芯片的显微照片，确定里面固件的代码，即从照片还原二进制代码。
+这个网站收集各种数据库的资料，目前一共有900多个数据库。
 
-3、[Lepton AI](https://www.lepton.ai/playground)
+3、[顶级域名统计](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100503.webp)
+这个仓库提供所有顶级域名的排名，按照各个域名的网站数量为序。
 
-这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。
+4、[Nix start](https://gitlab.com/engmark/nix-start)
 
-4、[AnyBT](https://anybt.eth.limo/)
+软件包管理工具 Nix 的入门教程。
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092409.webp)
+5、[Flash 博物馆](https://flashmuseum.org/)
 
-一个新出现的磁力链接搜索引擎。
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072914.webp)
+
+该网站收集各种以前的 Flash 作品，并自带播放器，可以在线播放。
 
 
 <!-- End -->

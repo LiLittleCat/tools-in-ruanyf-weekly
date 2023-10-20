@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md#资源)
+
+
+1、[谷歌编程竞赛试题](https://zibada.guru/gcj/)（Google Coding Competitions）
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060304.webp)
+
+这个网站提供谷歌编程竞赛历年的真题。
+
+2、[数据库的数据库](https://dbdb.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083002.webp)
+
+这个网站收集各种数据库的资料，目前一共有900多个数据库。
+
+3、[顶级域名统计](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+
+这个仓库提供所有顶级域名的排名，按照各个域名的网站数量为序。
+
+4、[Nix start](https://gitlab.com/engmark/nix-start)
+
+软件包管理工具 Nix 的入门教程。
+
+5、[Flash 博物馆](https://flashmuseum.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072914.webp)
+
+该网站收集各种以前的 Flash 作品，并自带播放器，可以在线播放。
+
+
 ## [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](https://github.com/ruanyf/weekly/blob/master/docs/issue-273.md#资源)
 
 
