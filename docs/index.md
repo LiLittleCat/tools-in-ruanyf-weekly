@@ -16,97 +16,113 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>274</currentVersion> -->
+<!-- <currentVersion>275</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md)
+# [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md)
 ### 工具
 
 
-1、[Mycelite](https://github.com/mycelial/mycelite)
+1、[oxc](https://github.com/web-infra-dev/oxc/)
 
-一个 SQLite 扩展，用来从一个 SQLite 实例同步到另一个，适合从本地向服务端同步数据。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102201.webp)
 
-2、[Pictode](https://github.com/JessYan0913/pictode)
+一个 JavaScript 工具包，包含了多个工具（解析器、代码压缩、格式美化、类型检查等），使用 Rust 语言开发，运行速度快。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101901.webp)
+2、[TinaCMS](https://tina.io/)
 
-一个开源的网页绘图编辑器。（[@JessYan0913](https://github.com/ruanyf/weekly/issues/3567) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102404.webp)
 
-3、[Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+一个网站 CMS（内容管理系统），特别之处是它的内容不放在数据库，而是放在 Git 仓库，也可以用于 Git 仓库的网页编辑器。 
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062813.webp)
+3、[Writerside](https://www.jetbrains.com/writerside/)
 
-一个开源的安卓代码编辑器，在手机上开发代码。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102405.webp)
 
-4、[LocalSend](https://localsend.org/)
+JetBrains 公司新推出的桌面软件，用来编写代码文档，写出来的文档保存在 Git 仓库。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101903.webp)
+4、[EuBackend](https://gitee.com/zhaoeryu/eu-backend)
 
-一款开源的跨平台文件传送软件，不需要互联网连接，依靠共享 Wifi 分享文件。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102302.webp)
 
-5、[Uninstallr](https://uninstalr.com/)
+一套开源的 Java SpringBoot + Vue 网站开发平台，可以基于它的前端和后端开发网站。（[@zhaoeryu](https://github.com/ruanyf/weekly/issues/3579) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081902.webp)
+5、[EmuDeck](https://www.emudeck.com/)
 
-一个免费的 Windows 卸载程序，号称可以准确、完整地卸载各种 Windows 软件，残留最少，参见[作者自述](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050102.webp)
 
-6、[Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n)
+Steam Deck 掌机的游戏模拟器工具，让你在这个掌机上模拟其他平台，玩那些平台的游戏，后面还会适配安卓、Windows。
 
-它使用 GitHub Actions 和 ChatGPT，将仓库里面的 Markdown 文件翻译成其他语言，适合制作网站的国际化版本。（[@linyuxuanlin](https://github.com/ruanyf/weekly/issues/3564) 投稿）
+6、[Secretive](https://github.com/maxgoedjen/secretive)
 
-7、[在线 ffmpeg](https://ffmpeg-online.vercel.app/)
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031408.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101610.webp)
+Mac 电脑的 SSH 密钥管理工具，支持使用 Touch ID 或 Apple Watch 进行身份验证，通过后才能访问密钥。
 
-网页版的 ffmpeg，可以离线在网页上执行 ffmpeg 命令行，来编辑视频。
+7、[tRPC](https://github.com/trpc-group/trpc)
 
-8、[little-rat](https://github.com/dnakov/little-rat)
+腾讯内部使用的一款程序远程通信框架，类似于谷歌的 gRPC，首期开源 Go 和 C++ 实现，参见[介绍文章](https://mp.weixin.qq.com/s/ODEBU6fSTZ0ixgnQxeamTg)。（[@ryantang1991](https://github.com/ruanyf/weekly/issues/3584) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082302.webp)
+8、[Atuin](https://atuin.sh/)
 
-一个 Chrome 插件，用来统计并关闭其他插件发出的 HTTP 请求，可以了解插件是否在偷偷上传数据。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050609.webp)
 
-9、[Fooocus](https://github.com/lllyasviel/Fooocus)
+命令行工具，将 Shell 操作历史写入 SQLite 数据库，方便统计和复用。
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081304.webp)
+9、[BackgroundRemover](https://github.com/nadermx/backgroundremover)
 
-一个桌面应用，可以在离线条件下，通过文本生成图片。
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050611.webp)
 
-10、[try](https://github.com/binpash/try)
+去除图像和视频的背景，它是命令行工具，方便批量处理和脚本编程。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062508.webp)
+10、[pear-rec](https://github.com/027xiguapi/pear-rec/)
 
-一个 Linux 沙盒程序，让你在更改系统（比如安装程序或运行脚本）之前，先在沙盒中运行命令并检查效果。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102607.webp)
+
+一个开源的 Electron 应用，可以截图、录屏、录音等。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/3587) 投稿）
+
+11、[TwitterShots](https://twittershots.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102608.webp)
+
+一个网页工具，生成推文的截图。（[@0xinhua](https://github.com/ruanyf/weekly/issues/3588) 投稿）
 
 
 ### 资源
 
 
-1、[谷歌编程竞赛试题](https://zibada.guru/gcj/)（Google Coding Competitions）
+1、[特殊 HTTP 标头字段](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/special-http-headers)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060304.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073101.webp)
 
-这个网站提供谷歌编程竞赛历年的真题。
+这个页面介绍一些不常见的 HTTP 标头字段。
 
-2、[数据库的数据库](https://dbdb.io/)
+2、[瑞安航空（Roblox 版）](https://www.robloxryanair.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102401.webp)
 
-这个网站收集各种数据库的资料，目前一共有900多个数据库。
+虚拟空间 Roblox 里面的瑞安航空官网，看上去跟现实世界的版本一样，让玩家在游戏里面访问。
 
-3、[顶级域名统计](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102402.webp)
 
-这个仓库提供所有顶级域名的排名，按照各个域名的网站数量为序。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102403.webp)
 
-4、[Nix start](https://gitlab.com/engmark/nix-start)
+3、[PyFlo](https://pyflo.net/)
 
-软件包管理工具 Nix 的入门教程。
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073102.webp)
 
-5、[Flash 博物馆](https://flashmuseum.org/)
+Python 初学者教程（英文），教程的目录就是一张流程图，每个节点是一个章节。
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072914.webp)
+4、[BASIC 计算机游戏的重新实现](https://github.com/coding-horror/basic-computer-games)
 
-该网站收集各种以前的 Flash 作品，并自带播放器，可以在线播放。
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080106.webp)
+
+这个仓库将上个世纪的一些经典 BASIC 游戏，使用其他语言实现，适合作为趣味的编程练习。
+
+5、[CSS Loaders](https://css-loaders.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090701.webp)
+
+该网站收集各种 CSS 的页面加载特效。
 
 
 <!-- End -->

@@ -1,5 +1,43 @@
 # 资源
 
+## [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md#资源)
+
+
+1、[特殊 HTTP 标头字段](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/special-http-headers)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073101.webp)
+
+这个页面介绍一些不常见的 HTTP 标头字段。
+
+2、[瑞安航空（Roblox 版）](https://www.robloxryanair.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102401.webp)
+
+虚拟空间 Roblox 里面的瑞安航空官网，看上去跟现实世界的版本一样，让玩家在游戏里面访问。
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102402.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102403.webp)
+
+3、[PyFlo](https://pyflo.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073102.webp)
+
+Python 初学者教程（英文），教程的目录就是一张流程图，每个节点是一个章节。
+
+4、[BASIC 计算机游戏的重新实现](https://github.com/coding-horror/basic-computer-games)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080106.webp)
+
+这个仓库将上个世纪的一些经典 BASIC 游戏，使用其他语言实现，适合作为趣味的编程练习。
+
+5、[CSS Loaders](https://css-loaders.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090701.webp)
+
+该网站收集各种 CSS 的页面加载特效。
+
+
 ## [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](https://github.com/ruanyf/weekly/blob/master/docs/issue-274.md#资源)
 
 
