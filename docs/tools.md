@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md#工具)
+
+
+1、[Alexandria](https://github.com/btpf/Alexandria)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083004.webp)
+
+一个开源的 Windows/Linux 的桌面软件，用来阅读各种电子书籍。
+
+2、[YouTube Dubbing](https://www.youtube-dubbing.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103101.webp)
+
+一个 Chrome 插件，可以将 YouTube 视频的英文语音，转成中文语音。（[@dyc87112](https://github.com/ruanyf/weekly/issues/3592) 投稿）
+
+3、[pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110205.webp)
+
+一个 Windows 应用，跟上一个软件作用相似，可以将本地视频文件的语音，翻译成另一种语言，比如英文旁白改成机器语音合成的中文。
+
+该工具只用了 CPU，没有用到 GPU，也没有用到任何商业接口，无需付费。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3600) 投稿）
+
+4、[tailspin](https://github.com/bensadeh/tailspin)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110215.webp)
+
+一个命令行工具，实时高亮显示日志文件。
+
+5、[WO Mic](https://wolicheng.com/womic/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110206.webp)
+
+这个 App 可以将旧手机变成麦克风，把音频信号传入电脑或其他设备，无线、USB 线传输皆可。（[@GXY2017](https://github.com/ruanyf/weekly/issues/3602) 投稿）
+
+6、[Olive](https://olivevideoeditor.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042504.webp)
+
+一个跨平台的视频编辑器，据说简单好用，适合快速编辑生成短视频。类似的视频编辑器还有 [Shotcut](https://shotcut.org/)、[Pitivi](https://pitivi.org/)，主要适合 Linux 平台。
+
+7、[tldraw](https://www.tldraw.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110103.webp)
+
+一个 Web 白板工具，支持多人实时协作。
+
+8、[Rspark](https://www.rspack.dev/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103103.webp)
+
+一个 Rust 语言写的 JS 脚本打包器，速度很快，支持从 Webpack 移植。（[@hardfist](https://github.com/ruanyf/weekly/issues/3596) 投稿）
+
+9、[Fantastic-admin](https://github.com/fantastic-admin/basic)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103102.webp)
+
+一款开箱即用的 Vue3 中后台管理系统框架。（[@hooray](https://github.com/ruanyf/weekly/issues/3595) 投稿）
+
+10、[ScratchCard](https://github.com/1587315093/scratch-card)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103104.webp)
+
+一个刮刮卡的 React 组件。（[@1587315093](https://github.com/1587315093/scratch-card) 投稿）
+
+
 ## [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md#工具)
 
 

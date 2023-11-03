@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md#资源)
+
+
+1、[伦敦的树](https://apps.london.gov.uk/street-trees/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090712.webp)
+
+伦敦市政府的官方网站，在地图上标出了该市的每一棵树。点击后，显示这棵树的详细数据和谷歌地图照片。
+
+2、[颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
+
+作者患有颈椎病和腰椎间盘突出，现在已经康复。他收集康复资料，做成这个资料仓库。（[@AnsonZnl](https://github.com/ruanyf/weekly/issues/3598) 投稿）
+
+3、[深入架构原理与实践](https://www.thebyte.com.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102702.webp)
+
+中文原创书籍，介绍互联网服务架构，集中在网络、集群以及服务治理、FinOps 这三个主题。（[@isno](https://github.com/ruanyf/weekly/issues/3589) 投稿）
+
+4、[Html 和 CSS 教程](https://internetingishard.netlify.app/html-and-css/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091107.webp)
+
+针对初学者的网页开发入门教程（英文），特点是有大量图解。
+
+5、[MAC 地址查询](https://maclookup.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091203.webp)
+
+该网站通过网卡 MAC 地址，可以查到厂商和网卡信息。
+
+
 ## [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md#资源)
 
 

@@ -16,113 +16,105 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>275</currentVersion> -->
+<!-- <currentVersion>276</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](https://github.com/ruanyf/weekly/blob/master/docs/issue-275.md)
+# [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md)
 ### 工具
 
 
-1、[oxc](https://github.com/web-infra-dev/oxc/)
+1、[Alexandria](https://github.com/btpf/Alexandria)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083004.webp)
 
-一个 JavaScript 工具包，包含了多个工具（解析器、代码压缩、格式美化、类型检查等），使用 Rust 语言开发，运行速度快。
+一个开源的 Windows/Linux 的桌面软件，用来阅读各种电子书籍。
 
-2、[TinaCMS](https://tina.io/)
+2、[YouTube Dubbing](https://www.youtube-dubbing.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103101.webp)
 
-一个网站 CMS（内容管理系统），特别之处是它的内容不放在数据库，而是放在 Git 仓库，也可以用于 Git 仓库的网页编辑器。 
+一个 Chrome 插件，可以将 YouTube 视频的英文语音，转成中文语音。（[@dyc87112](https://github.com/ruanyf/weekly/issues/3592) 投稿）
 
-3、[Writerside](https://www.jetbrains.com/writerside/)
+3、[pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110205.webp)
 
-JetBrains 公司新推出的桌面软件，用来编写代码文档，写出来的文档保存在 Git 仓库。
+一个 Windows 应用，跟上一个软件作用相似，可以将本地视频文件的语音，翻译成另一种语言，比如英文旁白改成机器语音合成的中文。
 
-4、[EuBackend](https://gitee.com/zhaoeryu/eu-backend)
+该工具只用了 CPU，没有用到 GPU，也没有用到任何商业接口，无需付费。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3600) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102302.webp)
+4、[tailspin](https://github.com/bensadeh/tailspin)
 
-一套开源的 Java SpringBoot + Vue 网站开发平台，可以基于它的前端和后端开发网站。（[@zhaoeryu](https://github.com/ruanyf/weekly/issues/3579) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110215.webp)
 
-5、[EmuDeck](https://www.emudeck.com/)
+一个命令行工具，实时高亮显示日志文件。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050102.webp)
+5、[WO Mic](https://wolicheng.com/womic/index.html)
 
-Steam Deck 掌机的游戏模拟器工具，让你在这个掌机上模拟其他平台，玩那些平台的游戏，后面还会适配安卓、Windows。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110206.webp)
 
-6、[Secretive](https://github.com/maxgoedjen/secretive)
+这个 App 可以将旧手机变成麦克风，把音频信号传入电脑或其他设备，无线、USB 线传输皆可。（[@GXY2017](https://github.com/ruanyf/weekly/issues/3602) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202303/bg2023031408.webp)
+6、[Olive](https://olivevideoeditor.org/)
 
-Mac 电脑的 SSH 密钥管理工具，支持使用 Touch ID 或 Apple Watch 进行身份验证，通过后才能访问密钥。
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042504.webp)
 
-7、[tRPC](https://github.com/trpc-group/trpc)
+一个跨平台的视频编辑器，据说简单好用，适合快速编辑生成短视频。类似的视频编辑器还有 [Shotcut](https://shotcut.org/)、[Pitivi](https://pitivi.org/)，主要适合 Linux 平台。
 
-腾讯内部使用的一款程序远程通信框架，类似于谷歌的 gRPC，首期开源 Go 和 C++ 实现，参见[介绍文章](https://mp.weixin.qq.com/s/ODEBU6fSTZ0ixgnQxeamTg)。（[@ryantang1991](https://github.com/ruanyf/weekly/issues/3584) 投稿）
+7、[tldraw](https://www.tldraw.com/)
 
-8、[Atuin](https://atuin.sh/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050609.webp)
+一个 Web 白板工具，支持多人实时协作。
 
-命令行工具，将 Shell 操作历史写入 SQLite 数据库，方便统计和复用。
+8、[Rspark](https://www.rspack.dev/zh/)
 
-9、[BackgroundRemover](https://github.com/nadermx/backgroundremover)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050611.webp)
+一个 Rust 语言写的 JS 脚本打包器，速度很快，支持从 Webpack 移植。（[@hardfist](https://github.com/ruanyf/weekly/issues/3596) 投稿）
 
-去除图像和视频的背景，它是命令行工具，方便批量处理和脚本编程。
+9、[Fantastic-admin](https://github.com/fantastic-admin/basic)
 
-10、[pear-rec](https://github.com/027xiguapi/pear-rec/)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102607.webp)
+一款开箱即用的 Vue3 中后台管理系统框架。（[@hooray](https://github.com/ruanyf/weekly/issues/3595) 投稿）
 
-一个开源的 Electron 应用，可以截图、录屏、录音等。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/3587) 投稿）
+10、[ScratchCard](https://github.com/1587315093/scratch-card)
 
-11、[TwitterShots](https://twittershots.com/)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102608.webp)
-
-一个网页工具，生成推文的截图。（[@0xinhua](https://github.com/ruanyf/weekly/issues/3588) 投稿）
+一个刮刮卡的 React 组件。（[@1587315093](https://github.com/1587315093/scratch-card) 投稿）
 
 
 ### 资源
 
 
-1、[特殊 HTTP 标头字段](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/special-http-headers)
+1、[伦敦的树](https://apps.london.gov.uk/street-trees/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090712.webp)
 
-这个页面介绍一些不常见的 HTTP 标头字段。
+伦敦市政府的官方网站，在地图上标出了该市的每一棵树。点击后，显示这棵树的详细数据和谷歌地图照片。
 
-2、[瑞安航空（Roblox 版）](https://www.robloxryanair.com/)
+2、[颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102401.webp)
+作者患有颈椎病和腰椎间盘突出，现在已经康复。他收集康复资料，做成这个资料仓库。（[@AnsonZnl](https://github.com/ruanyf/weekly/issues/3598) 投稿）
 
-虚拟空间 Roblox 里面的瑞安航空官网，看上去跟现实世界的版本一样，让玩家在游戏里面访问。
+3、[深入架构原理与实践](https://www.thebyte.com.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102403.webp)
+中文原创书籍，介绍互联网服务架构，集中在网络、集群以及服务治理、FinOps 这三个主题。（[@isno](https://github.com/ruanyf/weekly/issues/3589) 投稿）
 
-3、[PyFlo](https://pyflo.net/)
+4、[Html 和 CSS 教程](https://internetingishard.netlify.app/html-and-css/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023073102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091107.webp)
 
-Python 初学者教程（英文），教程的目录就是一张流程图，每个节点是一个章节。
+针对初学者的网页开发入门教程（英文），特点是有大量图解。
 
-4、[BASIC 计算机游戏的重新实现](https://github.com/coding-horror/basic-computer-games)
+5、[MAC 地址查询](https://maclookup.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023080106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091203.webp)
 
-这个仓库将上个世纪的一些经典 BASIC 游戏，使用其他语言实现，适合作为趣味的编程练习。
-
-5、[CSS Loaders](https://css-loaders.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090701.webp)
-
-该网站收集各种 CSS 的页面加载特效。
+该网站通过网卡 MAC 地址，可以查到厂商和网卡信息。
 
 
 <!-- End -->
