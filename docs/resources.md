@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md#资源)
+
+
+1、[巴塞罗那超级计算中心](https://my.matterport.com/show/?m=oj5FSKsTt7o)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110801.webp)
+
+一个浏览器中访问的 3D 全景展示。
+
+2、[Replicate](https://replicate.com/explore)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110708.webp)
+
+Replicate 提供数千个 AI 模型的云服务，可以在他们的网站上使用，也可以 API 调用，比如 stability-ai 的 [sdxl “文生图”模型](https://replicate.com/stability-ai/sdxl)。
+
+3、[中国五级行政区划查询](https://map.ruiduobao.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110401.webp)
+
+该网站可以查询中国34个省份，2800多个县，60多万个行政村历年的行政管辖范围和所属关系变化，[源码](https://github.com/ruiduobao/gaode_MAP_CUN)开源。（[@ruiduobao](https://github.com/ruanyf/weekly/issues/3605) 投稿）
+
+4、[TIL](https://github.com/jbranchaud/til)（今天我学到的）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110704.webp)
+
+一个开源笔记库。大家可以学习他做笔记的方式，内容按主题分类，放在 GitHub 上面。
+
+
 ## [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md#资源)
 
 

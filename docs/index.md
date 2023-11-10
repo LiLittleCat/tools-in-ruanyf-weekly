@@ -16,105 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>276</currentVersion> -->
+<!-- <currentVersion>277</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md)
+# [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md)
 ### 工具
 
 
-1、[Alexandria](https://github.com/btpf/Alexandria)
+1、[SSHFS](https://github.com/deadbeefsociety/sshfs)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023083004.webp)
+这个工具使用 SSH 协议，将远程服务器挂载成本地目录。
 
-一个开源的 Windows/Linux 的桌面软件，用来阅读各种电子书籍。
+2、[inshellisense](https://github.com/microsoft/inshellisense)
 
-2、[YouTube Dubbing](https://www.youtube-dubbing.com/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103101.webp)
+微软推出的命令行自动补全工具。
 
-一个 Chrome 插件，可以将 YouTube 视频的英文语音，转成中文语音。（[@dyc87112](https://github.com/ruanyf/weekly/issues/3592) 投稿）
+3、[KDesign](https://kingdee.design/)
 
-3、[pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110402.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110205.webp)
+金蝶的企业级产品设计系统，包括设计规范、设计资源、前端组件库。（[@quanzhiyuan](https://github.com/ruanyf/weekly/issues/3606) 投稿）
 
-一个 Windows 应用，跟上一个软件作用相似，可以将本地视频文件的语音，翻译成另一种语言，比如英文旁白改成机器语音合成的中文。
+4、[react-exercise-playground](https://github.com/fewismuch/react-playground)
 
-该工具只用了 CPU，没有用到 GPU，也没有用到任何商业接口，无需付费。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3600) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110714.webp)
 
-4、[tailspin](https://github.com/bensadeh/tailspin)
+一个开源的 React 练习场（playground）。（[@fewismuch](https://github.com/ruanyf/weekly/issues/3609) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110215.webp)
+5、[ChatGPT 中文网页版](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-一个命令行工具，实时高亮显示日志文件。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110717.webp)
 
-5、[WO Mic](https://wolicheng.com/womic/index.html)
+一个开源的 ChatGPT 中文网页版，做得非常精致，可以自己部署。这里是 [Demo](https://chatgpt.gitapp.cn/)。（[@geeeeeeeek](https://github.com/ruanyf/weekly/issues/3611) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110206.webp)
+6、[Caravaggio](https://caravaggio.ramielcreations.com/)
 
-这个 App 可以将旧手机变成麦克风，把音频信号传入电脑或其他设备，无线、USB 线传输皆可。（[@GXY2017](https://github.com/ruanyf/weekly/issues/3602) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102802.webp)
 
-6、[Olive](https://olivevideoeditor.org/)
+一个图像处理服务器，可以根据 URL 参数将原图转换成不同大小、格式等，适合用作图像 CDN 的源服务器。
 
-![](https://cdn.beekka.com/blogimg/asset/220204/bg2022042504.webp)
+7、[Soul](https://github.com/thevahidal/soul)
 
-一个跨平台的视频编辑器，据说简单好用，适合快速编辑生成短视频。类似的视频编辑器还有 [Shotcut](https://shotcut.org/)、[Pitivi](https://pitivi.org/)，主要适合 Linux 平台。
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022103101.webp)
 
-7、[tldraw](https://www.tldraw.com/)
+一个 JS 库，可以为 SQLite 数据库添加 HTTP 服务，自动提供 RESTful 接口。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110103.webp)
+8、[Aegis](https://getaegis.app/)
 
-一个 Web 白板工具，支持多人实时协作。
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110302.webp)
 
-8、[Rspark](https://www.rspack.dev/zh/)
+一个开源的安卓双因素认证的密码管理器。它的最大特点是可以导入导出数据，其他密码管理器好像都没有这个功能。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103103.webp)
+9、[LazyVim](https://www.lazyvim.org/)
 
-一个 Rust 语言写的 JS 脚本打包器，速度很快，支持从 Webpack 移植。（[@hardfist](https://github.com/ruanyf/weekly/issues/3596) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071705.webp)
 
-9、[Fantastic-admin](https://github.com/fantastic-admin/basic)
+neovim 的一套配置文件，让其快速变成一个 IDE。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103102.webp)
+10、[Glance](https://github.com/novoselrok/glance)
 
-一款开箱即用的 Vue3 中后台管理系统框架。（[@hooray](https://github.com/ruanyf/weekly/issues/3595) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071905.webp)
 
-10、[ScratchCard](https://github.com/1587315093/scratch-card)
-
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103104.webp)
-
-一个刮刮卡的 React 组件。（[@1587315093](https://github.com/1587315093/scratch-card) 投稿）
+一个很有意思的工具，使用 AI 找出代码最重要的部分，高亮显示。
 
 
 ### 资源
 
 
-1、[伦敦的树](https://apps.london.gov.uk/street-trees/)
+1、[巴塞罗那超级计算中心](https://my.matterport.com/show/?m=oj5FSKsTt7o)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090712.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110801.webp)
 
-伦敦市政府的官方网站，在地图上标出了该市的每一棵树。点击后，显示这棵树的详细数据和谷歌地图照片。
+一个浏览器中访问的 3D 全景展示。
 
-2、[颈椎病腰突康复指南](https://github.com/AnsonZnl/RehabilitationGuide)
+2、[Replicate](https://replicate.com/explore)
 
-作者患有颈椎病和腰椎间盘突出，现在已经康复。他收集康复资料，做成这个资料仓库。（[@AnsonZnl](https://github.com/ruanyf/weekly/issues/3598) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110708.webp)
 
-3、[深入架构原理与实践](https://www.thebyte.com.cn/)
+Replicate 提供数千个 AI 模型的云服务，可以在他们的网站上使用，也可以 API 调用，比如 stability-ai 的 [sdxl “文生图”模型](https://replicate.com/stability-ai/sdxl)。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102702.webp)
+3、[中国五级行政区划查询](https://map.ruiduobao.com/)
 
-中文原创书籍，介绍互联网服务架构，集中在网络、集群以及服务治理、FinOps 这三个主题。（[@isno](https://github.com/ruanyf/weekly/issues/3589) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110401.webp)
 
-4、[Html 和 CSS 教程](https://internetingishard.netlify.app/html-and-css/)
+该网站可以查询中国34个省份，2800多个县，60多万个行政村历年的行政管辖范围和所属关系变化，[源码](https://github.com/ruiduobao/gaode_MAP_CUN)开源。（[@ruiduobao](https://github.com/ruanyf/weekly/issues/3605) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091107.webp)
+4、[TIL](https://github.com/jbranchaud/til)（今天我学到的）
 
-针对初学者的网页开发入门教程（英文），特点是有大量图解。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110704.webp)
 
-5、[MAC 地址查询](https://maclookup.app/)
-
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091203.webp)
-
-该网站通过网卡 MAC 地址，可以查到厂商和网卡信息。
+一个开源笔记库。大家可以学习他做笔记的方式，内容按主题分类，放在 GitHub 上面。
 
 
 <!-- End -->

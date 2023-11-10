@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md#工具)
+
+
+1、[SSHFS](https://github.com/deadbeefsociety/sshfs)
+
+这个工具使用 SSH 协议，将远程服务器挂载成本地目录。
+
+2、[inshellisense](https://github.com/microsoft/inshellisense)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110702.webp)
+
+微软推出的命令行自动补全工具。
+
+3、[KDesign](https://kingdee.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110402.webp)
+
+金蝶的企业级产品设计系统，包括设计规范、设计资源、前端组件库。（[@quanzhiyuan](https://github.com/ruanyf/weekly/issues/3606) 投稿）
+
+4、[react-exercise-playground](https://github.com/fewismuch/react-playground)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110714.webp)
+
+一个开源的 React 练习场（playground）。（[@fewismuch](https://github.com/ruanyf/weekly/issues/3609) 投稿）
+
+5、[ChatGPT 中文网页版](https://github.com/Yidadaa/ChatGPT-Next-Web)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110717.webp)
+
+一个开源的 ChatGPT 中文网页版，做得非常精致，可以自己部署。这里是 [Demo](https://chatgpt.gitapp.cn/)。（[@geeeeeeeek](https://github.com/ruanyf/weekly/issues/3611) 投稿）
+
+6、[Caravaggio](https://caravaggio.ramielcreations.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102802.webp)
+
+一个图像处理服务器，可以根据 URL 参数将原图转换成不同大小、格式等，适合用作图像 CDN 的源服务器。
+
+7、[Soul](https://github.com/thevahidal/soul)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022103101.webp)
+
+一个 JS 库，可以为 SQLite 数据库添加 HTTP 服务，自动提供 RESTful 接口。
+
+8、[Aegis](https://getaegis.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110302.webp)
+
+一个开源的安卓双因素认证的密码管理器。它的最大特点是可以导入导出数据，其他密码管理器好像都没有这个功能。
+
+9、[LazyVim](https://www.lazyvim.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071705.webp)
+
+neovim 的一套配置文件，让其快速变成一个 IDE。
+
+10、[Glance](https://github.com/novoselrok/glance)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071905.webp)
+
+一个很有意思的工具，使用 AI 找出代码最重要的部分，高亮显示。
+
+
 ## [科技爱好者周刊（第 276 期）：内容行业的衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-276.md#工具)
 
 
