@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md#工具)
+
+
+1、[ShortbreadAI](https://shortbread.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100701.webp)
+
+这个网站让你方便地生成漫画。
+
+2、[ripsecrets](https://github.com/sirwart/ripsecrets)
+
+这个工具用于检查代码仓库，有没有泄漏密钥。它可以配置在 CI/CD 流程里面自动运行。
+
+3、[EmojiGen](https://emoji.fly.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090904.webp)
+
+根据文字提示生成 Emoji 图案。
+
+4、[screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111609.webp)
+
+一个开源的 Web 应用，用户上传一张网页截图，它会通过 OpenAI，给出该网页的 HTML/Tailwind/JS 代码实现。
+
+5、[PageSpyWeb](https://github.com/HuolalaTech/page-spy-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111206.webp)
+
+一个开源的远程调试工具，提供类似浏览器控制台的界面，进行远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/3616) 投稿）
+
+6、[IPS](https://github.com/sjzar/ips)
+
+一个命令行工具， 查询和处理 IP 地理位置数据库。（[@sjzar](https://github.com/ruanyf/weekly/issues/3631) 投稿）
+
+7、[GWS](https://github.com/lxzan/gws)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111324.webp)
+
+一个开源的高性能 WebSocket 实现，包括服务器和客户端，用 Go 语言编写。（[@lxzan](https://github.com/ruanyf/weekly/issues/3623) 投稿）
+
+8、[ChatGot](https://start.chatgot.io/login)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111325.webp)
+
+在一个窗口内，同时跟多个模型互动，可以让 GPT 输出文字，然后用 @midjourney 生成图片。（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
+
+9、[网页 AI 评审](https://uxaudit.vercel.app/)
+
+这个 Web 工具对用户提供的网址，进行 AI 评审，给出页面的设计问题和改进建议。
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111013.webp)
+
+它是免费的，但是用户多的时候，会停止服务。如果 AI 表现好，以后设计稿评审和代码评审都可以交给它了。
+
+10、[AITDK](https://aitdk.com/zh-CN/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111205.webp)
+
+用户输入文章的主题，该网页工具会自动生成 SEO 友好的标题、描述、关键词和常见问题解答。（[@typewe](https://github.com/ruanyf/weekly/issues/3614) 投稿）
+
+
 ## [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md#工具)
 
 

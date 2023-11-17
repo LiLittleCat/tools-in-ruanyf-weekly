@@ -1,5 +1,44 @@
 # 资源
 
+## [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md#资源)
+
+
+1、**GPT 在线目录**
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111207.webp)
+
+基于 GPT 的工具越来越多了，下面的网站将这些工具整理在一起，做成一个在线目录，方便查找。
+
+- [GPTsHunter](https://www.gptshunter.com/)（[@airyland](https://github.com/ruanyf/weekly/issues/3617) 投稿）
+- [AwesomeGPTs](https://awesomegpts.pro/)（[@GregoryZeng](https://github.com/ruanyf/weekly/issues/3619) 投稿）
+- [BestGPTs](https://bestgpts.app/)（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
+- [GPTs Works](https://gpts.works/)（[@idoubi](https://github.com/ruanyf/weekly/issues/3629) 投稿）
+- [GPTs Today](https://gptstoday.com/)（[@KarnaughK](https://github.com/ruanyf/weekly/issues/3635) 投稿）
+- [GPTs-store](https://gpts-store.net/)（[@RunnningDogg](https://github.com/ruanyf/weekly/issues/3637) 投稿）
+
+2、[Bubble](https://github.com/LHRUN/bubble)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111323.webp)
+
+该仓库收集各种可以放在 GitHub Profile 和 Readme 上面的小组件。（[@LHRUN](https://github.com/ruanyf/weekly/issues/3620) 投稿）
+
+3、[Bing 图像创建器](https://www.bing.com/images/create)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111505.webp)
+
+微软官方的 AI 文生图服务。
+
+4、[YesChat.ai](https://www.yeschat.ai/zh-CN)
+
+该网站提供最新 AI 模型（GPT4V、Dalle3、Claude 2）的免费体验，不过每天有次数限制。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3632) 投稿）
+
+5、[机器学习入门教程](https://github.com/microsoft/ML-For-Beginners)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111606.webp)
+
+微软官方推出的机器学习的入门教程（英文）。
+
+
 ## [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md#资源)
 
 

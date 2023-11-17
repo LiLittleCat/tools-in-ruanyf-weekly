@@ -16,97 +16,108 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>277</currentVersion> -->
+<!-- <currentVersion>278</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-277.md)
+# [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md)
 ### 工具
 
 
-1、[SSHFS](https://github.com/deadbeefsociety/sshfs)
+1、[ShortbreadAI](https://shortbread.ai/)
 
-这个工具使用 SSH 协议，将远程服务器挂载成本地目录。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100701.webp)
 
-2、[inshellisense](https://github.com/microsoft/inshellisense)
+这个网站让你方便地生成漫画。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110702.webp)
+2、[ripsecrets](https://github.com/sirwart/ripsecrets)
 
-微软推出的命令行自动补全工具。
+这个工具用于检查代码仓库，有没有泄漏密钥。它可以配置在 CI/CD 流程里面自动运行。
 
-3、[KDesign](https://kingdee.design/)
+3、[EmojiGen](https://emoji.fly.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090904.webp)
 
-金蝶的企业级产品设计系统，包括设计规范、设计资源、前端组件库。（[@quanzhiyuan](https://github.com/ruanyf/weekly/issues/3606) 投稿）
+根据文字提示生成 Emoji 图案。
 
-4、[react-exercise-playground](https://github.com/fewismuch/react-playground)
+4、[screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110714.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111609.webp)
 
-一个开源的 React 练习场（playground）。（[@fewismuch](https://github.com/ruanyf/weekly/issues/3609) 投稿）
+一个开源的 Web 应用，用户上传一张网页截图，它会通过 OpenAI，给出该网页的 HTML/Tailwind/JS 代码实现。
 
-5、[ChatGPT 中文网页版](https://github.com/Yidadaa/ChatGPT-Next-Web)
+5、[PageSpyWeb](https://github.com/HuolalaTech/page-spy-web)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110717.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111206.webp)
 
-一个开源的 ChatGPT 中文网页版，做得非常精致，可以自己部署。这里是 [Demo](https://chatgpt.gitapp.cn/)。（[@geeeeeeeek](https://github.com/ruanyf/weekly/issues/3611) 投稿）
+一个开源的远程调试工具，提供类似浏览器控制台的界面，进行远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/3616) 投稿）
 
-6、[Caravaggio](https://caravaggio.ramielcreations.com/)
+6、[IPS](https://github.com/sjzar/ips)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102802.webp)
+一个命令行工具， 查询和处理 IP 地理位置数据库。（[@sjzar](https://github.com/ruanyf/weekly/issues/3631) 投稿）
 
-一个图像处理服务器，可以根据 URL 参数将原图转换成不同大小、格式等，适合用作图像 CDN 的源服务器。
+7、[GWS](https://github.com/lxzan/gws)
 
-7、[Soul](https://github.com/thevahidal/soul)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111324.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202210/bg2022103101.webp)
+一个开源的高性能 WebSocket 实现，包括服务器和客户端，用 Go 语言编写。（[@lxzan](https://github.com/ruanyf/weekly/issues/3623) 投稿）
 
-一个 JS 库，可以为 SQLite 数据库添加 HTTP 服务，自动提供 RESTful 接口。
+8、[ChatGot](https://start.chatgot.io/login)
 
-8、[Aegis](https://getaegis.app/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111325.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022110302.webp)
+在一个窗口内，同时跟多个模型互动，可以让 GPT 输出文字，然后用 @midjourney 生成图片。（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
 
-一个开源的安卓双因素认证的密码管理器。它的最大特点是可以导入导出数据，其他密码管理器好像都没有这个功能。
+9、[网页 AI 评审](https://uxaudit.vercel.app/)
 
-9、[LazyVim](https://www.lazyvim.org/)
+这个 Web 工具对用户提供的网址，进行 AI 评审，给出页面的设计问题和改进建议。
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111013.webp)
 
-neovim 的一套配置文件，让其快速变成一个 IDE。
+它是免费的，但是用户多的时候，会停止服务。如果 AI 表现好，以后设计稿评审和代码评审都可以交给它了。
 
-10、[Glance](https://github.com/novoselrok/glance)
+10、[AITDK](https://aitdk.com/zh-CN/)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111205.webp)
 
-一个很有意思的工具，使用 AI 找出代码最重要的部分，高亮显示。
+用户输入文章的主题，该网页工具会自动生成 SEO 友好的标题、描述、关键词和常见问题解答。（[@typewe](https://github.com/ruanyf/weekly/issues/3614) 投稿）
 
 
 ### 资源
 
 
-1、[巴塞罗那超级计算中心](https://my.matterport.com/show/?m=oj5FSKsTt7o)
+1、**GPT 在线目录**
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111207.webp)
 
-一个浏览器中访问的 3D 全景展示。
+基于 GPT 的工具越来越多了，下面的网站将这些工具整理在一起，做成一个在线目录，方便查找。
 
-2、[Replicate](https://replicate.com/explore)
+- [GPTsHunter](https://www.gptshunter.com/)（[@airyland](https://github.com/ruanyf/weekly/issues/3617) 投稿）
+- [AwesomeGPTs](https://awesomegpts.pro/)（[@GregoryZeng](https://github.com/ruanyf/weekly/issues/3619) 投稿）
+- [BestGPTs](https://bestgpts.app/)（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
+- [GPTs Works](https://gpts.works/)（[@idoubi](https://github.com/ruanyf/weekly/issues/3629) 投稿）
+- [GPTs Today](https://gptstoday.com/)（[@KarnaughK](https://github.com/ruanyf/weekly/issues/3635) 投稿）
+- [GPTs-store](https://gpts-store.net/)（[@RunnningDogg](https://github.com/ruanyf/weekly/issues/3637) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110708.webp)
+2、[Bubble](https://github.com/LHRUN/bubble)
 
-Replicate 提供数千个 AI 模型的云服务，可以在他们的网站上使用，也可以 API 调用，比如 stability-ai 的 [sdxl “文生图”模型](https://replicate.com/stability-ai/sdxl)。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111323.webp)
 
-3、[中国五级行政区划查询](https://map.ruiduobao.com/)
+该仓库收集各种可以放在 GitHub Profile 和 Readme 上面的小组件。（[@LHRUN](https://github.com/ruanyf/weekly/issues/3620) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110401.webp)
+3、[Bing 图像创建器](https://www.bing.com/images/create)
 
-该网站可以查询中国34个省份，2800多个县，60多万个行政村历年的行政管辖范围和所属关系变化，[源码](https://github.com/ruiduobao/gaode_MAP_CUN)开源。（[@ruiduobao](https://github.com/ruanyf/weekly/issues/3605) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111505.webp)
 
-4、[TIL](https://github.com/jbranchaud/til)（今天我学到的）
+微软官方的 AI 文生图服务。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110704.webp)
+4、[YesChat.ai](https://www.yeschat.ai/zh-CN)
 
-一个开源笔记库。大家可以学习他做笔记的方式，内容按主题分类，放在 GitHub 上面。
+该网站提供最新 AI 模型（GPT4V、Dalle3、Claude 2）的免费体验，不过每天有次数限制。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3632) 投稿）
+
+5、[机器学习入门教程](https://github.com/microsoft/ML-For-Beginners)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111606.webp)
+
+微软官方推出的机器学习的入门教程（英文）。
 
 
 <!-- End -->
