@@ -16,108 +16,79 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>278</currentVersion> -->
+<!-- <currentVersion>279</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md)
+# [科技爱好者周刊（第 279 期）：网络社区的悲剧](https://github.com/ruanyf/weekly/blob/master/docs/issue-279.md)
 ### 工具
 
 
-1、[ShortbreadAI](https://shortbread.ai/)
+1、[vectorious](https://github.com/mateogianolio/vectorious)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060303.webp)
 
-这个网站让你方便地生成漫画。
+一个用于矩阵计算的 JS 库。
 
-2、[ripsecrets](https://github.com/sirwart/ripsecrets)
+2、[EpubPress](https://github.com/sunxen/EpubPressX)
 
-这个工具用于检查代码仓库，有没有泄漏密钥。它可以配置在 CI/CD 流程里面自动运行。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112001.webp)
 
-3、[EmojiGen](https://emoji.fly.dev/)
+Chrome 浏览器插件，可以将打开的多个网页制作成一本 epub 电子书。（[@sunxen](https://github.com/ruanyf/weekly/issues/3642) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090904.webp)
+3、[CV 声音克隆工具](https://github.com/jianchang512/clone-voice)
 
-根据文字提示生成 Emoji 图案。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112209.webp)
 
-4、[screenshot-to-code](https://github.com/abi/screenshot-to-code)
+该开源工具可以提取人类音色，将一段文字或另一个语音转成该音色的语音，相当于克隆了他人的声音。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111609.webp)
+支持中文、英文、日语、韩语4种语言，可在线从麦克风录制声音。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3652) 投稿）
 
-一个开源的 Web 应用，用户上传一张网页截图，它会通过 OpenAI，给出该网页的 HTML/Tailwind/JS 代码实现。
+4、[Elog](https://github.com/LetTTGACO/elog)
 
-5、[PageSpyWeb](https://github.com/HuolalaTech/page-spy-web)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112003.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111206.webp)
+该工具可以将写作平台（语雀/飞书/Notion/FlowUs）的内容，发布到博客平台（Hexo/Vitepress/Confluence/WordPress）等。（[@LetTTGACO](https://github.com/ruanyf/weekly/issues/3644) 投稿）
 
-一个开源的远程调试工具，提供类似浏览器控制台的界面，进行远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/3616) 投稿）
+5、[ConfigCenterComparer](https://github.com/hxz393/ConfigCenterComparer)
 
-6、[IPS](https://github.com/sjzar/ips)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112004.webp)
 
-一个命令行工具， 查询和处理 IP 地理位置数据库。（[@sjzar](https://github.com/ruanyf/weekly/issues/3631) 投稿）
+一款配置中心对比工具，可以比较不同配置中心的配置数据，只支持 Windows 平台。（[@hxz393](https://github.com/ruanyf/weekly/issues/3645) 投稿）
 
-7、[GWS](https://github.com/lxzan/gws)
+6、[GPTs URL](https://github.com/CH563/gtps-url)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111324.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112207.webp)
 
-一个开源的高性能 WebSocket 实现，包括服务器和客户端，用 Go 语言编写。（[@lxzan](https://github.com/ruanyf/weekly/issues/3623) 投稿）
+一个开源的 Web 应用，用来搭建网络资源的分类网站，基于 Astro 框架，参见 [Demo](https://www.gptsurl.com/)。（[@CH563](https://github.com/ruanyf/weekly/issues/3646) 投稿）
 
-8、[ChatGot](https://start.chatgot.io/login)
+7、[PPz's chrome filter](https://github.com/ppz-pro/chrome-filter)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111325.webp)
-
-在一个窗口内，同时跟多个模型互动，可以让 GPT 输出文字，然后用 @midjourney 生成图片。（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
-
-9、[网页 AI 评审](https://uxaudit.vercel.app/)
-
-这个 Web 工具对用户提供的网址，进行 AI 评审，给出页面的设计问题和改进建议。
-
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111013.webp)
-
-它是免费的，但是用户多的时候，会停止服务。如果 AI 表现好，以后设计稿评审和代码评审都可以交给它了。
-
-10、[AITDK](https://aitdk.com/zh-CN/)
-
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111205.webp)
-
-用户输入文章的主题，该网页工具会自动生成 SEO 友好的标题、描述、关键词和常见问题解答。（[@typewe](https://github.com/ruanyf/weekly/issues/3614) 投稿）
+一个极简的 Chrome 插件，让页面变为暗模式，只有11行 JS，可以用作入门示例。（[@daGaiGuanYu](https://github.com/ruanyf/weekly/issues/3654) 投稿）
 
 
 ### 资源
 
 
-1、**GPT 在线目录**
+1、[Deno 全指南](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111207.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092601.webp)
 
-基于 GPT 的工具越来越多了，下面的网站将这些工具整理在一起，做成一个在线目录，方便查找。
+一组系列文章，介绍 Deno 的基本用法，一共几十篇。
 
-- [GPTsHunter](https://www.gptshunter.com/)（[@airyland](https://github.com/ruanyf/weekly/issues/3617) 投稿）
-- [AwesomeGPTs](https://awesomegpts.pro/)（[@GregoryZeng](https://github.com/ruanyf/weekly/issues/3619) 投稿）
-- [BestGPTs](https://bestgpts.app/)（[@qinleilxl](https://github.com/ruanyf/weekly/issues/3624) 投稿）
-- [GPTs Works](https://gpts.works/)（[@idoubi](https://github.com/ruanyf/weekly/issues/3629) 投稿）
-- [GPTs Today](https://gptstoday.com/)（[@KarnaughK](https://github.com/ruanyf/weekly/issues/3635) 投稿）
-- [GPTs-store](https://gpts-store.net/)（[@RunnningDogg](https://github.com/ruanyf/weekly/issues/3637) 投稿）
+2、[VAVE BG](https://vavebg.com/)
 
-2、[Bubble](https://github.com/LHRUN/bubble)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111323.webp)
+一个壁纸仓库网站，所有壁纸都是 AI 生成的。
 
-该仓库收集各种可以放在 GitHub Profile 和 Readme 上面的小组件。（[@LHRUN](https://github.com/ruanyf/weekly/issues/3620) 投稿）
+3、[谷歌编程风格指南](https://google.github.io/styleguide/)
 
-3、[Bing 图像创建器](https://www.bing.com/images/create)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111607.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111505.webp)
+谷歌内部对各种语言的编程风格的要求。
 
-微软官方的 AI 文生图服务。
+4、[最好的讲座视频](https://news.ycombinator.com/item?id=34591291)
 
-4、[YesChat.ai](https://www.yeschat.ai/zh-CN)
-
-该网站提供最新 AI 模型（GPT4V、Dalle3、Claude 2）的免费体验，不过每天有次数限制。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3632) 投稿）
-
-5、[机器学习入门教程](https://github.com/microsoft/ML-For-Beginners)
-
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111606.webp)
-
-微软官方推出的机器学习的入门教程（英文）。
+Hacker News 论坛的一个讨论帖，请网友列举最好的讲座视频，不过都是英文的。
 
 
 <!-- End -->

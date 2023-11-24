@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 279 期）：网络社区的悲剧](https://github.com/ruanyf/weekly/blob/master/docs/issue-279.md#资源)
+
+
+1、[Deno 全指南](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092601.webp)
+
+一组系列文章，介绍 Deno 的基本用法，一共几十篇。
+
+2、[VAVE BG](https://vavebg.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112101.webp)
+
+一个壁纸仓库网站，所有壁纸都是 AI 生成的。
+
+3、[谷歌编程风格指南](https://google.github.io/styleguide/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111607.webp)
+
+谷歌内部对各种语言的编程风格的要求。
+
+4、[最好的讲座视频](https://news.ycombinator.com/item?id=34591291)
+
+Hacker News 论坛的一个讨论帖，请网友列举最好的讲座视频，不过都是英文的。
+
+
 ## [科技爱好者周刊（第 278 期）：棘手的 AI 版权](https://github.com/ruanyf/weekly/blob/master/docs/issue-278.md#资源)
 
 
