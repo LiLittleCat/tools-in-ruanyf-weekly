@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 280 期）：机器点餐与宅文化](https://github.com/ruanyf/weekly/blob/master/docs/issue-280.md#资源)
+
+
+1、[SDXL Turbo 体验站](https://sdxlturbo.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023113008.webp)
+
+免费使用 SDXL Turbo 模型，快速文生图，基本没有等待。（[@zengdamo](https://github.com/ruanyf/weekly/issues/3680) 投稿）
+
+2、[技术播客节](https://podfest.tech/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023113007.webp)
+
+12月4日~12月8日，在主要的中文博客网站，每天会集中上架一批不同技术主题的中文博客。（[@le0zh0u](https://github.com/ruanyf/weekly/issues/3683) 投稿）
+
+3、[ataiva.com](https://ataiva.com/archives/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100101.webp)
+
+一个英文的个人网站，里面有作者写的 Docker 和机器学习的系列教程。
+
+4、[生成式 AI 初学者教程](https://github.com/Microsoft/generative-ai-for-beginners)（Generative AI for Beginners）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112501.webp)
+
+微软推出的入门课程，介绍生成式 AI，一共12课。
+
+
 ## [科技爱好者周刊（第 279 期）：网络社区的悲剧](https://github.com/ruanyf/weekly/blob/master/docs/issue-279.md#资源)
 
 
