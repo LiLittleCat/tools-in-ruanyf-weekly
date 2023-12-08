@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 281 期）：新基建的政策选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md#资源)
+
+
+1、[周刊工具搜索引擎](https://www.apigpts.dev/tools)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120403.webp)
+
+网友整理了周刊过去介绍的所有工具软件，做了一个搜索引擎，提供语义搜索。（[@ahaapple](https://github.com/ruanyf/weekly/issues/3701) 投稿）
+
+2、[LLM 可视化](https://bbycroft.net/llm)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120415.webp)
+
+这个网站提供大型语言模型（LLM）原理讲解，每一步讲解都在右侧配上动画。
+
+3、[软件漏洞数据库](https://nvd.nist.gov/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100901.webp)
+
+美国的国家软件漏洞数据库，收入了各种软件漏洞，以及补丁情况，方便检索。
+
+4、[3D 植物](https://plant.max-richter.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120402.webp)
+
+一个在线的 3D 植物构建器，可以调节各种参数，生成一个 3D 模型。
+
+
 ## [科技爱好者周刊（第 280 期）：机器点餐与宅文化](https://github.com/ruanyf/weekly/blob/master/docs/issue-280.md#资源)
 
 

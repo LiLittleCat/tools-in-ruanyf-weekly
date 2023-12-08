@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 281 期）：新基建的政策选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md#工具)
+
+
+1、[Cloudscape](https://cloudscape.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072503.webp)
+
+一个 React 组件库，专为云产品设计的。
+
+2、[TinyLD](https://github.com/komodojp/tinyld)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072810.webp)
+
+一个 JS 库，用来判断一段文字是什么语言（汉语、英语、日语等等）。
+
+3、[VineJS](https://github.com/vinejs/vine)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061601.webp)
+
+一个 Node.js 的表单验证库，只用于后端，支持大量验证规则，验证速度快。
+
+4、[AI Image Captions](https://felix.link/apps/captions)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120501.webp)
+
+一个在线工具，可以为图片生成介绍词，用于社交媒体，可以指定语言、风格和长度。
+
+5、[Python Online Compiler](https://pythononlinecompiler.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061602.webp)
+
+一个在网页运行 Python 代码、显示运行结果的编译器，可以指定 Python 版本。
+
+6、[IP 工具箱](https://github.com/jason5ng32/MyIP/blob/main/README_CN.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120202.webp)
+
+一个开源的本地网站，集成了 IP 相关的各种查询。（[@wangyanan19](https://github.com/ruanyf/weekly/issues/3691) 投稿）
+
+7、[GoMusic](https://github.com/Bistutu/GoMusic)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120303.webp)
+
+音乐迁移助手，将网易云音乐、QQ 音乐的歌单，迁移至 Apple/Youtube/Spotify Music。（[@Bistutu](https://github.com/ruanyf/weekly/issues/3700) 投稿）
+
+8、[33 字幕](https://www.33subs.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120203.webp)
+
+一个 Win/Mac 桌面软件，用于识别/制作音频和视频文件的双语字幕。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/3693) 投稿）
+
+9、[Ai Cute Wallpapers](https://aicutewallpapers.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120201.webp)
+
+免费生成/下载 AI 壁纸。（[@huhan-123](https://github.com/ruanyf/weekly/issues/3686) 投稿）
+
+10、[vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120515.webp)
+
+Vue2 & Vue3 的拖拽组件。（[@Alfred-Skyblue](https://github.com/ruanyf/weekly/issues/3703) 投稿）
+
+
 ## [科技爱好者周刊（第 280 期）：机器点餐与宅文化](https://github.com/ruanyf/weekly/blob/master/docs/issue-280.md#工具)
 
 
