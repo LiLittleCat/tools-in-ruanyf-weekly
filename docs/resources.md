@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](https://github.com/ruanyf/weekly/blob/master/docs/issue-282.md#资源)
+
+
+1、[Mac 命令行命令](https://git.herrbischoff.com/awesome-macos-command-line/about/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120801.webp)
+
+这个网站收集各种有用的 Mac 命令行的命令。
+
+2、[现代统计学导论](https://openintro-ims2.netlify.app/)（Introduction to Modern Statistics）
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101403.webp)
+
+一本面向大学新生的统计学入门教材，免费阅读。
+
+3、[30天 Python 教程](https://github.com/Asabeneh/30-Days-Of-Python)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101618.webp)
+
+这个仓库是一个30天的 Python 入门课程，配有代码练习和视频。
+
+4、[最漂亮的网页游戏](https://news.ycombinator.com/item?id=37931804)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101902.webp)
+
+Hacker News 的一个讨论帖，里面列举许多非常漂亮的网页游戏。上图出自游戏[《短途旅行》](https://alexanderperrin.com.au/paper/shorttrip/)（Short Trip）。
+
+
 ## [科技爱好者周刊（第 281 期）：新基建的政策选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md#资源)
 
 

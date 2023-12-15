@@ -16,99 +16,101 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>281</currentVersion> -->
+<!-- <currentVersion>282</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 281 期）：新基建的政策选择](https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md)
+# [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](https://github.com/ruanyf/weekly/blob/master/docs/issue-282.md)
 ### 工具
 
 
-1、[Cloudscape](https://cloudscape.design/)
+1、[Imagine](https://imagine.meta.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120803.webp)
 
-一个 React 组件库，专为云产品设计的。
+Meta 公司推出的文生图工具，使用 Facebook 和 Instagram 的11亿张图片训练，现在可以免费使用。
 
-2、[TinyLD](https://github.com/komodojp/tinyld)
+2、[NotebookLM](https://notebooklm.google.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072810.webp)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120902.webp)
 
-一个 JS 库，用来判断一段文字是什么语言（汉语、英语、日语等等）。
+谷歌发布的 AI 笔记工具，用户上传文档，然后可以对文档提问，并且自动生成笔记，目前对美国用户免费开放。参见[谷歌的介绍文章](https://blog.google/technology/ai/notebooklm-new-features-availability/)。
 
-3、[VineJS](https://github.com/vinejs/vine)
+不过，它好像只支持上传英文的 PDF 文件。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061601.webp)
+3、[Scalar API Reference](https://github.com/scalar/scalar)
 
-一个 Node.js 的表单验证库，只用于后端，支持大量验证规则，验证速度快。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101616.webp)
 
-4、[AI Image Captions](https://felix.link/apps/captions)
+一个开源工具，将 Swagger/OpenAPI 文件转成互动式 API 文档。
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120501.webp)
+4、[RoomGPT](https://github.com/Nutlope/roomGPT)
 
-一个在线工具，可以为图片生成介绍词，用于社交媒体，可以指定语言、风格和长度。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101701.webp)
 
-5、[Python Online Compiler](https://pythononlinecompiler.com/)
+一个开源软件，你上传一张房间照片，它使用 AI 重新设计你的房间。
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023061602.webp)
+5、[Comments](https://github.com/DongHY1/comments)
 
-一个在网页运行 Python 代码、显示运行结果的编译器，可以指定 Python 版本。
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121403.webp)
 
-6、[IP 工具箱](https://github.com/jason5ng32/MyIP/blob/main/README_CN.md)
+一个开源的网页评论系统，类似于 Vercel Comment，可以对页面的各个部分拉框评论。它采用 GitHub 的身份认证，数据放在 supabase。（[@DongHY1](https://github.com/ruanyf/weekly/issues/3743) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120202.webp)
+6、[GPT Assistant](https://github.com/ruanyf/weekly/issues/3725)
 
-一个开源的本地网站，集成了 IP 相关的各种查询。（[@wangyanan19](https://github.com/ruanyf/weekly/issues/3691) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120802.webp)
 
-7、[GoMusic](https://github.com/Bistutu/GoMusic)
+网友写的开源 GPT 安卓客户端，可以跟 AI 语音聊天，还可以发送图片到 GPT-4V，并基于安卓 WebView，让 GPT 访问任何网站。（[@Skythinker616](https://github.com/ruanyf/weekly/issues/3725) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120303.webp)
+7、[MD Video](https://www.wvovw.com/guide/what-is-wvovw.html)
 
-音乐迁移助手，将网易云音乐、QQ 音乐的歌单，迁移至 Apple/Youtube/Spotify Music。（[@Bistutu](https://github.com/ruanyf/weekly/issues/3700) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121301.webp)
 
-8、[33 字幕](https://www.33subs.com/)
+一个桌面软件，将 Markdown 文档转成一段短视频。（[@lqomg](https://github.com/ruanyf/weekly/issues/3736) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120203.webp)
+8、[CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
 
-一个 Win/Mac 桌面软件，用于识别/制作音频和视频文件的双语字幕。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/3693) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121302.webp)
 
-9、[Ai Cute Wallpapers](https://aicutewallpapers.com/)
+AI 编程助手，支持 VS Code、 IntelliJ IDEA、PyCharm、GoLand、WebStorm 等 IDE 编辑器，参见[介绍文章](https://github.com/CatsAndMice/blog/issues/72)。（[@CatsAndMice](https://github.com/ruanyf/weekly/issues/3731) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120201.webp)
+9、[bproxy](https://github.com/zobor/bproxy)
 
-免费生成/下载 AI 壁纸。（[@huhan-123](https://github.com/ruanyf/weekly/issues/3686) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121004.webp)
 
-10、[vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)
+一款抓包代理工具，可以拦截 HTTP 请求，配置文件是一个 JS 脚本。（[@zobor 投稿](https://github.com/ruanyf/weekly/issues/3728)）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120515.webp)
+10、[Trippy](https://trippy.cli.rs/)
 
-Vue2 & Vue3 的拖拽组件。（[@Alfred-Skyblue](https://github.com/ruanyf/weekly/issues/3703) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121005.webp)
+
+一个命令行工具，可以代替 traceroute 查看互联网通信的路径，分析网络状况。
 
 
 ### 资源
 
 
-1、[周刊工具搜索引擎](https://www.apigpts.dev/tools)
+1、[Mac 命令行命令](https://git.herrbischoff.com/awesome-macos-command-line/about/)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120801.webp)
 
-网友整理了周刊过去介绍的所有工具软件，做了一个搜索引擎，提供语义搜索。（[@ahaapple](https://github.com/ruanyf/weekly/issues/3701) 投稿）
+这个网站收集各种有用的 Mac 命令行的命令。
 
-2、[LLM 可视化](https://bbycroft.net/llm)
+2、[现代统计学导论](https://openintro-ims2.netlify.app/)（Introduction to Modern Statistics）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120415.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101403.webp)
 
-这个网站提供大型语言模型（LLM）原理讲解，每一步讲解都在右侧配上动画。
+一本面向大学新生的统计学入门教材，免费阅读。
 
-3、[软件漏洞数据库](https://nvd.nist.gov/)
+3、[30天 Python 教程](https://github.com/Asabeneh/30-Days-Of-Python)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101618.webp)
 
-美国的国家软件漏洞数据库，收入了各种软件漏洞，以及补丁情况，方便检索。
+这个仓库是一个30天的 Python 入门课程，配有代码练习和视频。
 
-4、[3D 植物](https://plant.max-richter.dev/)
+4、[最漂亮的网页游戏](https://news.ycombinator.com/item?id=37931804)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101902.webp)
 
-一个在线的 3D 植物构建器，可以调节各种参数，生成一个 3D 模型。
+Hacker News 的一个讨论帖，里面列举许多非常漂亮的网页游戏。上图出自游戏[《短途旅行》](https://alexanderperrin.com.au/paper/shorttrip/)（Short Trip）。
 
 
 <!-- End -->
