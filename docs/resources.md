@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](https://github.com/ruanyf/weekly/blob/master/docs/issue-284.md#资源)
+
+
+1、[周刊的 Chat 服务](https://www.ahavs.com/chat-ruanyifeng)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121916.webp)
+
+网友将周刊迄今的所有内容进行了向量化索引，提交给 ChatGPT，然后就可以跟周刊问答了。（[@ahaapple](https://github.com/ruanyf/weekly/issues/3767) 投稿）
+
+2、[News Minimalist](https://www.newsminimalist.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122004.webp)
+
+ChatGPT 选出的每日热点新闻。（[@Y024](https://github.com/ruanyf/weekly/issues/3768) 投稿）
+
+3、[SearchEmoji](https://searchemoji.app/zh-hans)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121802.webp)
+
+Emoji 搜索引擎，支持30种语言，[代码](https://github.com/rotick/searchemoji)开源。（[@dongnaebi](https://github.com/ruanyf/weekly/issues/3752) 投稿）
+
+4、[中文版黑客新闻](https://dizkaz.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121903.webp)
+
+作者用 Go 语言实现的黑客新闻的克隆版。（[@oodzchen](https://github.com/ruanyf/weekly/issues/3756) 投稿）
+
+5、[Solo 独立开发者社区](https://solo.xin/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121905.webp)
+
+针对独立开发者的交流、合作、分享的平台。（[@Baiang](https://github.com/ruanyf/weekly/issues/3759) 投稿）
+
+
 ## [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](https://github.com/ruanyf/weekly/blob/master/docs/issue-282.md#资源)
 
 
