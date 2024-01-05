@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-285.md#资源)
+
+
+1、[中国历朝代视频讲解](https://www.historyline.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010309.webp)
+
+一个[开源](https://github.com/liujuntao123/chines-history-video)网站，将 BiliBili 上面综合数据最高的一些中国历史视频，以时间轴的方式呈现。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/3836) 投稿）
+
+2、[YUERGS](https://hougiser.gitee.io/music-score/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010312.webp)
+
+作者为了解决自学吉他过程遇到的痛点，开发了这个网站，支持吉他谱滚动播放、吉他调音、查和弦、节拍器、扒歌等相关功能。（[@ly15927086342](https://github.com/ruanyf/weekly/issues/3834) 投稿）
+
+3、[文本编辑器实时协同的原理和实现](https://www.aadhav.me/posts/collaborative-editor)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081302.webp)
+
+文本编辑器如何支持多人实时编辑？本文以示例讲解原理。
+
+4、[世界上最大的纽约市照片](https://www.earthcam.net/projects/empirestatebuilding/gigapixelpanorama/2021/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111314.webp)
+
+360 度的纽约全景照片，达到了800亿像素，支持移动和缩放。
+
+5、[Beej 的网络概念指南](https://beej.us/guide/bgnet0/html/split/)（Beej's Guide to Network Concepts）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110901.webp)
+
+著名技术作者 Beej 新发布的计算机网络底层概念的英文教程。
+
+
 ## [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](https://github.com/ruanyf/weekly/blob/master/docs/issue-284.md#资源)
 
 
