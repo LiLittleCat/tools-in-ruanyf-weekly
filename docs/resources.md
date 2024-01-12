@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-286.md#资源)
+
+
+1、[linkhut](https://ln.ht/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011012.webp)
+
+一个社交化的书签网站，可以供个人保存网络书签。
+
+2、[AI Search](https://aoyo.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010603.webp)
+
+这是一个搜索引擎，除了搜索结果，它还会根据你选择的语言，给出搜索结果的总结。（[@aooyoo](https://github.com/ruanyf/weekly/issues/3848) 投稿）
+
+3、[齐思](https://news.miracleplus.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010911.webp)
+
+一个中文的每日科技新闻的集合网站，由 AI agent 在后面维护整理。（[@caoxuwen](https://github.com/ruanyf/weekly/issues/3861) 投稿）
+
+4、[Email.ML](https://email.ml/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010912.webp)
+
+一个极简的临时邮箱，支持多个域名地址，一小时有效，使用技术栈为 Cloudflare Workers + Nuxt。（[@ccbikai](https://github.com/ruanyf/weekly/issues/3870) 投稿）
+
+
 ## [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-285.md#资源)
 
 
