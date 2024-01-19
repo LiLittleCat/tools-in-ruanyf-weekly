@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md#资源)
+
+
+1、[review-2023](https://github.com/saveweb/review-2023)
+
+这个仓库收集国内网友的2023年个人总结。（[@Y024](https://github.com/ruanyf/weekly/issues/3909) 投稿）
+
+2、[机器学习的概率学](https://probml.github.io/pml-book/book2.html)（Probabilistic Machine Learning）
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081604.webp)
+
+一本免费下载的英文教材，介绍机器学习的概率知识。
+
+3、[CSS 网格互动指南](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)（An Interactive Guide to CSS Grid）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112305.webp)
+
+一份 CSS 网格（grid）的教程，包含大量的互动示例。
+
+4、[中国裁判文书网搜索](https://github.com/cncases/cases)
+
+这个仓库指导你，怎么对中国裁判文书网的材料（BT 下载后约 320GB）建立搜索。（[@cncases](https://github.com/ruanyf/weekly/issues/3902) 投稿）
+
+
 ## [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-286.md#资源)
 
 

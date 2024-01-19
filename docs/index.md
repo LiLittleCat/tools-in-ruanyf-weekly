@@ -16,141 +16,141 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>286</currentVersion> -->
+<!-- <currentVersion>287</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-286.md)
+# [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md)
 ### 工具
 
 
-1、[VisActor](https://visactor.io/)
+1、[Amazing AI](https://apps.apple.com/us/app/amazing-ai/id1660147028)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011301.webp)
 
-一个字节出品的前端数据可视化解决方案，分成图表库 [VChart](https://visactor.io/vchart) 和表格库 [VTable](https://visactor.io/vtable)。（[@airgeek](https://github.com/ruanyf/weekly/issues/3849) 投稿）
+著名程序员 Sindre Sorhus 推出的一款 mac 和 iPhone App，能够在本地运行 Stable Diffusion 模型，完成文生图。
 
-2、[h5player for tampermonkey](https://github.com/xxxily/h5player)
+2、[memory spy](https://memory-spy.wizardzines.com/)
 
-一个油猴脚本，为 H5 视频网站增强功能（多级播放速度、截图、画中画、调节亮度、饱和度、对比度等），支持各大主流视频网站。（[@xxxily](https://github.com/ruanyf/weekly/issues/3852) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052603.webp)
 
-3、[照片修复小小助手](https://github.com/shifu-group/inpaint_wechat)
+用户在这个网站上提交 C 程序，可以按行查看变量在内存的表示方式，比如整数、浮点数占用多少内存，详见[介绍文章](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010605.webp)
+3、[Penrose](https://github.com/penrose/penrose)
 
-一个开源的微信小程序，用来消除图片中指定的人和物，纯客户端实现，无服务端。（[@wangqmshf](https://github.com/ruanyf/weekly/issues/3853) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011501.webp)
 
-4、[Pacman 游戏复刻](https://github.com/mumuy/pacman)
+一个开源工具，可以根据文本指令，生成可视化图形，类似于 Mermaid 和 PlantUML，但是图形能力更强大。
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010902.webp)
+4、[IP-Adapter-FaceID AI](https://ipadapterfaceid.com/)
 
-开源的吃豆人游戏网页版复刻，[试玩 Demo](https://passer-by.com/pacman/)。（[@mumuy](https://github.com/ruanyf/weekly/issues/3855) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011308.webp)
 
-5、[UShare](https://share.aitimi.cn/)
+很多科技媒体都报道了 [IP-Adapter-FaceID](https://huggingface.co/h94/IP-Adapter-FaceID) 这个模型，可以克隆照片人物的脸部，然后通过文生图，将克隆的脸用于生成的图片。作者感觉这个模型效果不错，做了这个网站接入了该模型。（[@MuYiBo](https://github.com/ruanyf/weekly/issues/3888) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010903.webp)
+5、[Gitblog](https://gitblog.io/)
 
-一款生成代码和文本分享卡片的网页工具，可以设定字体和字型大小。（[@szmxx](https://github.com/ruanyf/weekly/issues/3856) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011310.webp)
 
-6、[mdcat](https://github.com/swsnr/mdcat)
+这个工具可以将 GitHub Issues 转成一个静态的博客网站，单个博客使用免费。（[@blackstorm](https://github.com/ruanyf/weekly/issues/3890) 投稿）
 
-一个`cat`命令的替代品，可以在命令行显示 Markdown 文件渲染后的内容。（[@lengyijun](https://github.com/ruanyf/weekly/issues/3859) 投稿）
+6、[Kamera](https://github.com/besscroft/kamera)
 
-7、[SuperCopy](https://github.com/ruanyf/weekly/issues/3862)（超级复制）
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011311.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010904.webp)
+一个开源的照片展示网站，点击可以查看 EXIF 信息，支持 Docker 一键部署。（[@besscroft](https://github.com/ruanyf/weekly/issues/3892) 投稿）
 
-一个浏览器插件，用来解除网页限制（比如禁用右键），然后复制网页内容。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/3862) 投稿）
+7、[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)
 
-8、[Vue DevTools Next](https://github.com/vuejs/devtools-next)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011309.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010905.webp)
+小程序使用 tailwindcss 的全面解决方案。（[@sonofmagic](https://github.com/ruanyf/weekly/issues/3889) 投稿）
 
-Vue 官方开发者工具的下一个迭代，旨在增强 Vue 开发者体验。（[@webfansplz](https://github.com/ruanyf/weekly/issues/3864) 投稿）
+8、[ICONCE](https://iconce.com/)
 
-9、[yft-design](https://yft.design/)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010906.webp)
+SVG 图标编辑生成工具。（[@yesmore](https://github.com/ruanyf/weekly/issues/3895) 投稿）
 
-基于 fabric.js 的名片编辑应用。（[@more-strive](https://github.com/ruanyf/weekly/issues/3865) 投稿）
+9、[STranslate](https://github.com/ruanyf/weekly/issues/3899)
 
-10、[ant-codeAI](https://github.com/sparrow-js/ant-codeAI/blob/main/README-zh_CN.md)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011503.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010907.webp)
+Windows 桌面软件，支持文本翻译和离线 OCR。（[@ZGGSONG](https://github.com/ruanyf/weekly/issues/3899) 投稿）
 
-通过 OpenAI、Gemini 等模型，生成 Web（React，Vue，Tailwind CSS）和 native（react native）代码。（[@sparrow-js](https://github.com/ruanyf/weekly/issues/3860) 投稿）
+10、[SmartExcel.cc](https://github.com/weijunext/smart-excel-ai)
 
-11、[paint-board](https://github.com/LHRUN/paint-board)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011307.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010908.webp)
+一个开源的 SaaS [程序示例](https://www.smartexcel.cc/)，演示登录和支付功能的实现。（[@weijunext](https://github.com/ruanyf/weekly/issues/3887) 投稿）
 
-一个开源的画板项目，汇聚了很多创意画笔，试用 [demo](https://songlh.top/paint-board/)。（[@LHRUN](https://github.com/ruanyf/weekly/issues/3867) 投稿）
+11、[vscode-eslint-disable](https://github.com/lvjiaxuan/vscode-eslint-disable)
 
-12、[Read Copilot](https://apps.apple.com/us/app/read-copilot-beyond-summarizer/id6449242676)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011306.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010909.webp)
+VS Code 插件，当某行代码在 VS Code 里面显示不符合 ESlint 规则时，允许使用快捷键，将这个（或这些）规则禁止。（[@lvjiaxuan](https://github.com/ruanyf/weekly/issues/3883) 投稿）
 
-一个苹果设备的阅读器 App，支持 RSS 和 Read It Later 功能，并可以用 AI 生成总结、文章大纲和翻译。（[@dongsuo](https://github.com/ruanyf/weekly/issues/3868) 投稿）
+12、[FigureToCartoon](https://ai-cartoon-figure.club/home)
 
-13、[海豹 D2C](https://music.163.com/st/seal/)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010910.webp)
+一键将图片转换成日漫风、3D 风、手绘风等等。（[@handsometong](https://github.com/ruanyf/weekly/issues/3901) 投稿）
 
-一款 Figma/MasterGo 的插件，将设计稿导出为 React、Vue、RN、微信小程序代码。（[@Kinasha](https://github.com/ruanyf/weekly/issues/3869) 投稿）
+13、[Gemini ChatUp](https://github.com/loo-y/GeminiChatUp)
 
-14、[vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011604.webp)
 
-VS Code 插件，为主流的前端框架提供代码提示（intellisense）。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/3873) 投稿）
+基于 Gemini Pro 和 Gemini Pro Vision API 的开源聊天应用。支持一键部署至 Vercel，需要 Gemini API Key。（[@loo-y](https://github.com/ruanyf/weekly/issues/3900) 投稿）
 
-15、[Screenshot Beautifier](https://github.com/CH563/shot-easy-website)
+14、[Imgae matting](https://github.com/ihmily/image-matting)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011605.webp)
 
-开源的页面截图美化工具，试用 Demo。（[@CH563](https://github.com/ruanyf/weekly/issues/3876) 投稿）
+基于开源模型的在线抠图，支持人像和物体抠图，可以 docker 运行 ，无需 GPU。（[@ihmily](https://github.com/ruanyf/weekly/issues) 投稿）
 
-16、[Apache Answer](https://answer.apache.org/)
+15、[优雅简历](https://www.elegantresume.pro/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011702.webp)
 
-一款基于 Golang 和 ReactJS 的开源问答平台软件，帮你快速建立问答社区，也可用来搭建社区论坛、支持中心、知识库等。（[@PrimmaAnna](https://github.com/ruanyf/weekly/issues/3877) 投稿）
+免费的在线简历生成工具，集成 ChatGPT，可以让 AI 修改、定制简历。（[@WilliamLoveSoccer](https://github.com/ruanyf/weekly/issues/3907) 投稿）
 
-17、[Yazi](https://github.com/sxyazi/yazi/)
+16、[GPUPixel](https://github.com/pixpark/gpupixel/blob/main/README_cn.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011703.webp)
 
-一款运行在终端里面的文件管理器，跨平台，支持图片预览，使用 Rust 语言开发，速度快。（[@lengyijun](https://github.com/ruanyf/weekly/issues/3879) 投稿）
+C++11 编写的图像和视频处理库，内置美颜滤镜，适合为直播提供美颜，目前支持 iOS、Mac、Android。（[@gezhaoyou](https://github.com/ruanyf/weekly/issues/3908) 投稿）
 
-18、[AI 换脸](https://www.changeface.online/)
+17、[Gemini-OpenAI-Proxy]( https://github.com/zuisong/gemini-openai-proxy)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011102.webp)
+这个工具可以起一个服务，将 OpenAI 的 API 调用转为 Gemini Pro API 的 API 调用，从而可以使用现有的 ChatGPT 客户端，体验 Gemini Pro。（[@zuisong](https://github.com/ruanyf/weekly/issues/3910) 投稿）
 
-上传图片和视频，可以对里面的人物进行换脸。（[@CNHarrySun](https://github.com/ruanyf/weekly/issues/3882) 投稿）
+18、[Calendar Remark](https://github.com/xyxc0673/calendar-remark)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011707.webp)
+
+这个工具可以标记日历，并生成分享图，适合说明私有的日程安排（比如公司活动），参见[介绍文章](https://xym.craft.me/qxAl6skGDFeVsR)和 [Demo](https://calendar.xym.im/)。（[@xyxc0673](https://github.com/ruanyf/weekly/issues/3911) 投稿）
 
 
 ### 资源
 
 
-1、[linkhut](https://ln.ht/)
+1、[review-2023](https://github.com/saveweb/review-2023)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011012.webp)
+这个仓库收集国内网友的2023年个人总结。（[@Y024](https://github.com/ruanyf/weekly/issues/3909) 投稿）
 
-一个社交化的书签网站，可以供个人保存网络书签。
+2、[机器学习的概率学](https://probml.github.io/pml-book/book2.html)（Probabilistic Machine Learning）
 
-2、[AI Search](https://aoyo.ai/)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081604.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010603.webp)
+一本免费下载的英文教材，介绍机器学习的概率知识。
 
-这是一个搜索引擎，除了搜索结果，它还会根据你选择的语言，给出搜索结果的总结。（[@aooyoo](https://github.com/ruanyf/weekly/issues/3848) 投稿）
+3、[CSS 网格互动指南](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)（An Interactive Guide to CSS Grid）
 
-3、[齐思](https://news.miracleplus.com/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010911.webp)
+一份 CSS 网格（grid）的教程，包含大量的互动示例。
 
-一个中文的每日科技新闻的集合网站，由 AI agent 在后面维护整理。（[@caoxuwen](https://github.com/ruanyf/weekly/issues/3861) 投稿）
+4、[中国裁判文书网搜索](https://github.com/cncases/cases)
 
-4、[Email.ML](https://email.ml/)
-
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010912.webp)
-
-一个极简的临时邮箱，支持多个域名地址，一小时有效，使用技术栈为 Cloudflare Workers + Nuxt。（[@ccbikai](https://github.com/ruanyf/weekly/issues/3870) 投稿）
+这个仓库指导你，怎么对中国裁判文书网的材料（BT 下载后约 320GB）建立搜索。（[@cncases](https://github.com/ruanyf/weekly/issues/3902) 投稿）
 
 
 <!-- End -->
