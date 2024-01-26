@@ -1,5 +1,49 @@
 # 资源
 
+## [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](https://github.com/ruanyf/weekly/blob/master/docs/issue-288.md#资源)
+
+
+1、[唐库学习](http://www.tanglib.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012003.webp)
+
+电子书网站，提供世界名著的中英双语对照朗读。（[@bigtang5](https://github.com/ruanyf/weekly/issues/3918) 投稿）
+
+2、[AI 字体模型市场](https://www.ai.zitijia.com/list/1)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012007.webp)
+
+该网站列出 AI 生成的字体，可以在线使用它们进行文字渲染。
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012008.webp)
+
+它还支持网页手写八个字，生成自己的 AI 字体。（[@qq345386817](https://github.com/ruanyf/weekly/issues/3930) 投稿）
+
+3、[云原生应用市场](https://hub.grapps.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012305.webp)
+
+用户可以在这里浏览各种云原生应用，并一键安装到各类运行环境（ Docker、Kubernetes、Rainbond），支持国内镜像加速。（[@RainBondsongyg](https://github.com/ruanyf/weekly/issues/3956) 投稿）
+
+4、[iHateRegex](https://ihateregex.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012009.webp)
+
+一个收集常用正则表达式的资源库，并通过可视化帮助理解，基于 [regexper](https://github.com/ruanyf/weekly/issues/regexper.com)。（[@zkerhcy](https://github.com/ruanyf/weekly/issues/3938) 投稿）
+
+5、[AsPoem.com](https://aspoem.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012010.webp)
+
+学习欣赏中国古诗词的网站。（[@meetqy](https://github.com/ruanyf/weekly/issues/3941) 投稿）
+
+6、[极简博客](https://dev.mblog.club/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012004.webp)
+
+作者用 NextJS + Laf 云搭建的博客托管网站，赠送二级域名。（[@kingwrcy](https://github.com/ruanyf/weekly/issues/3922) 投稿）
+
+
 ## [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md#资源)
 
 

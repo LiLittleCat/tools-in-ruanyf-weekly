@@ -1,5 +1,93 @@
 # 工具
 
+## [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](https://github.com/ruanyf/weekly/blob/master/docs/issue-288.md#工具)
+
+
+1、[Gemini Pro Chat](https://github.com/lchh5/GeminiPro-Next-Web)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012005.webp)
+
+作者修改了 ChatGPT Next Web 的源码，使其可以用于 Gemini Pro，这里是 [demo](https://chat.googlegemini.co/)。（[@lchh5](https://github.com/ruanyf/weekly/issues/3923) 投稿）
+
+2、[WoodenFish](https://github.com/jwenjian/wooden-fish)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012006.webp)
+
+一个敲木鱼的网页 App，移动端打开时，只有侦测到手机陀螺仪的角度变化，才算一次敲击动作，这时可以把手机想象成敲木鱼的棒子。（[@jwenjian](https://github.com/ruanyf/weekly/issues/3929) 投稿）
+
+3、[Moodist](https://github.com/geekyouth/moodist)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012301.webp)
+
+一个开源的 Docker 镜像文件，提供50多种[背景声](https://moodist.java666.cn/)，比如风声、雨声、咖啡馆的声音。（[@geekyouth](https://github.com/ruanyf/weekly/issues/3943) 投稿）
+
+4、[Echo UI](https://echoui.dev/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012302.webp)
+
+一款专为 Web Audio API 设计的 UI 库，适合用来搭建基于 Web 的音频应用。（[@codeacme17](https://github.com/ruanyf/weekly/issues/3946) 投稿）
+
+5、[Photor](https://www.photor.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012303.webp)
+
+截图美化工具，可以在线使用，也可以通过浏览器插件使用。（[@sleepy-zone](https://github.com/ruanyf/weekly/issues/3948) 投稿）
+
+6、[Message Nest](https://github.com/engigu/Message-Push-Nest)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012304.webp)
+
+开源的消息推送平台，整合邮件、钉钉、企业微信等多种通知方式。（[@engigu](https://github.com/ruanyf/weekly/issues/3947) 投稿）
+
+7、[Tiny RDM](https://redis.tinycraft.cc/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012306.webp)
+
+Redis 桌面管理客户端，支持 Mac、Windows、Linux。（[@tiny-craft](https://github.com/ruanyf/weekly/issues/3955) 投稿）
+
+8、[Frigate](https://github.com/blakeblackshear/frigate)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111906.webp)
+
+开源的摄像头固件，具有实时目标物体侦测。
+
+9、[InstantID](https://github.com/InstantID/InstantID)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012402.webp)
+
+只使用一张图片，就可以提取人脸，用于个性化图像合成，并支持各种不同的风格，试用 [Demo](https://instantid.org/#playground)。（[@zinc1234596](https://github.com/ruanyf/weekly/issues/3959) 投稿）
+
+10、[HandBrake](https://handbrake.fr/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111910.webp)
+
+一个跨平台的桌面应用，用于转换视频编码。
+
+11、[Animotion](https://cssanimotion.pages.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111911.webp)
+
+一个网页 CSS 动画生成器，可视化设定动画，自动生成代码。
+
+12、[Ada](https://github.com/ada-url/ada)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112102.webp)
+
+一个 URL 解析器，符合最新规范，使用 C++ 编写，可以快速处理 URL。
+
+13、[Inpaint-web](https://github.com/lxfater/inpaint-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012501.webp)
+
+开源的图片修复和超分辨率工具, 纯浏览器端实现。（[@lxfater](https://github.com/ruanyf/weekly/issues/3964) 投稿）
+
+14、[人像生成工具](https://sinqi.tools/zh/avatar)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012502.webp)
+
+基于手绘风 SVG 人物画像集合 [Open Peeps](https://www.openpeeps.com/)，一个人物画像的在线定制工具。（[@zerosoul](https://github.com/ruanyf/weekly/issues/3968) 投稿）
+
+
 ## [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](https://github.com/ruanyf/weekly/blob/master/docs/issue-287.md#工具)
 
 
