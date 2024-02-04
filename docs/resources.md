@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 289 期）：宽容从何而来](https://github.com/ruanyf/weekly/blob/master/docs/issue-289.md#资源)
+
+
+1、[3D 生物模型](https://sketchfab.com/ffishAsia-and-floraZia)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100807.webp)
+
+这个网站提供2000多种生物的 3D 模型。
+
+2、[Deno 的内部结构](https://choubey.gitbook.io/internals-of-deno/)（The Internals of Deno）
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023093008.webp)
+
+一本免费的英文电子书，介绍 Deno 的内部原理。
+
+3、[iOS 应用开发教程](https://cs193p.sites.stanford.edu/2023)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082103.webp)
+
+斯坦福大学2023年学年的一个英文课程，现在已经全部上网，包含讲课视频和课件。
+
+
 ## [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](https://github.com/ruanyf/weekly/blob/master/docs/issue-288.md#资源)
 
 
