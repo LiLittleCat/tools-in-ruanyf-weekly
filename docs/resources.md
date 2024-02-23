@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md#资源)
+
+
+1、**Sora 视频**
+
+OpenAI 推出了“文生视频”模型 Sora，只要输入文字，就能生成一段60秒的视频，效果惊人。
+
+该模型还没有正式发布，只公开了示例。下面的网站收集这些示例和对应的提示词。
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021907.webp)
+
+- [SoraPrompts](https://soraprompts.co/)（[@GregoryZeng](https://github.com/ruanyf/weekly/issues/4034) 投稿）
+- [SoraHub](https://sorahub.video/zh)（[@JasonJJLL](https://github.com/ruanyf/weekly/issues/4035) 投稿）
+- [Sora Videos](https://soravideos.media/)（[@MuYiBo](https://github.com/ruanyf/weekly/issues/4041) 投稿）
+
+2、[爱发音](https://fayin.love/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022102.webp)
+
+学习英语音标的助手，有每个音标的发音视频和音频，支持美式音标、英式音标。（[@Yidoon](https://github.com/ruanyf/weekly/issues/4042) 投稿）
+
+3、[SVG 教程](https://svg-tutorial.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120801.webp)
+
+介绍 SVG 图片的英文教程，一共25课，循序渐进，有大量的例子。
+
+4、[如何克服 Git 的缺点？](https://news.ycombinator.com/item?id=38590080)（英文）
+
+Git 有一些缺点，比如不适合二进制文件、不适合特大型项目、概念复杂、子模块管理麻烦等等。
+
+上面链接是 Hacker News 网友讨论，怎么克服这些问题，里面有很多链接。
+
+
 ## [科技爱好者周刊（第 289 期）：宽容从何而来](https://github.com/ruanyf/weekly/blob/master/docs/issue-289.md#资源)
 
 

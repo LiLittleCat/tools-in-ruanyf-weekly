@@ -16,105 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>289</currentVersion> -->
+<!-- <currentVersion>290</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 289 期）：宽容从何而来](https://github.com/ruanyf/weekly/blob/master/docs/issue-289.md)
+# [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md)
 ### 工具
 
 
-1、[Noi](https://github.com/lencx/Noi)
+1、[Zed](https://zed.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021902.webp)
 
-跨平台的桌面应用，在一个界面里面集成了多个 AI 网站，支持复用提示，以及同时向多款 AI 提问。（[@lencx](https://github.com/ruanyf/weekly/issues/3976) 投稿）
+一个速度极快的代码编辑器，跨平台，来自 Atom 原团队的最新作品。
 
-2、[xcp](https://github.com/tarka/xcp/)
+另外，Atom 项目关闭后，代码开源了。基于原始代码的新项目叫做 [Pulsar](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)，也是一个非常优秀的代码编辑器。
 
-使用 rust 重写的 cp 命令，针对多核、大内存、固态磁盘、nfs 挂载目录等情况进行了优化。（[@lengyijun](https://github.com/ruanyf/weekly/issues/3972) 投稿）
+2、[TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
-同一作者还有一个相关项目 [Smartscp](https://github.com/lengyijun/smartscp)，用来替代同步命令 scp，但会排除 .gitignore 和 node_modules 目录。
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021005.webp)
 
-3、[xiaomusic](https://github.com/hanxi/xiaomusic)
+微软的官方工具，用来查看 Windows 系统所有 TCP 和 UDP 连接的详细信息。（[@meq1986](https://github.com/ruanyf/weekly/issues/4013) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013002.webp)
+3、[EasyDevo](https://easydevo.boringboring.design/)
 
-小爱音箱播放本地音乐的一个工具。（[@hanxi](https://github.com/ruanyf/weekly/issues/3980) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021008.webp)
 
-4、[UtilMeta](https://github.com/utilmeta/utilmeta-py)
+Mac 桌面应用，用来清理系统的垃圾文件，以及监控系统指标（网络、CPU、RAM 和电池等），参见[介绍文章](https://medium.com/@hi_caicai/easydevo-the-developer-tool-you-might-need-a70dfd6ee3e1)。（[@hi-caicai](https://github.com/ruanyf/weekly/issues/4018) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013003.webp)
+4、[FontMagic](https://github.com/leibnizli/fontmagic)
 
-一个用于快速生成 RESTful API 的 Python 框架。（[@voidZXL](https://github.com/ruanyf/weekly/issues/3978) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021905.webp)
 
-5、[Home Infra](https://github.com/homeinfra-org/infra)
+字体工具软件，可以将字体文件的某个字形导出为 SVG 格式，还可以转化字体格式，支持 macOS 和 Windows。（[@leibnizli](https://github.com/ruanyf/weekly/issues/4028) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013004.webp)
+5、[uv](https://astral.sh/blog/uv)
 
-一个 Docker 镜像，提供个人或小团队使用的 DevOps 实验环境。（[@NoCLin](https://github.com/ruanyf/weekly/issues/3977) 投稿）
+Rust 语言写的 Python 包管理器，速度非常快，可以替代 pip 和pip-tools。（[@qiaouchicago](https://github.com/ruanyf/weekly/issues/4030) 投稿）
 
-6、[AITDK](https://aitdk.com/zh-CN/extension/)
+6、[Keep Screen On](https://www.keepscreenon.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013007.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021906.webp)
 
-一款浏览器插件，提供当前网站的流量/Whois/SEO 等信息。（[@typewe](https://github.com/ruanyf/weekly/issues/3990) 投稿）
+打开这个网页，就可以让电脑屏幕保持常亮，对 PC、Mac、Android、iOS 均有效。（[@tufucheung](https://github.com/ruanyf/weekly/issues/4033) 投稿）
 
-7、[code-inspector](https://github.com/zh-lx/code-inspector)
+7、[background-erase.xyz](https://background-erase.xyz/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021908.webp)
 
-一个 JS 打包器的插件，点击网页 DOM，就会自动打开 IDE，并定位到相应的源码位置，目前支持 webpack/vite/rspack 打包器。（[@zh-lx](https://github.com/ruanyf/weekly/issues/3985) 投稿）
+去除图片背景的免费网站，使用最新的删除图片背景的 AI 模型 RMBG-v1.4，所有计算都在本地完成，不用上传图片。（[@janily](https://github.com/ruanyf/weekly/issues/4040) 投稿）
 
-8、[轻松传](https://easychuan.cn/)
+8、[browserscan.net](https://www.browserscan.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022202.webp)
 
-局域网内的文件互传工具，只需双方打开网页，基于 WebRTC 技术。（[@AndySpider](https://github.com/ruanyf/weekly/issues/3986) 投稿）
+该网站检测浏览器指纹、IP 地址、WebRTC 泄露，DNS 泄露等信息。（[@BrowserScan](https://github.com/ruanyf/weekly/issues/4045) 投稿）
 
-另有命令行程序 [croc](https://github.com/schollz/croc)，可在任意两台电脑之间传送文件。
+9、[NPMprune](https://github.com/xthezealot/npmprune)
 
-9、[AI 红包封面](https://github.com/all-in-aigc/aicover)
+一个 Shell 脚本，删除 node_modules 目录里面各个模块的多余文件（比如 markdown 文件），有利于容器打包时减少体积。
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024013009.webp)
+10、[Localtunnel](https://theboroer.github.io/localtunnel-www/)
 
-输入提示词，一键生成精美的 AI 红包封面图，上传到微信红包封面开放平台，试用 [Demo](https://aicover.design)。（[@idoubi](https://github.com/ruanyf/weekly/issues/3991) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023093004.webp)
 
-10、[Offine-Text-Translate](https://github.com/jianchang512/ott)
+一个 npm 软件包，为你的本地服务分配一个公网的 URL，使得公网可以访问这个本地服务。
 
-本地离线翻译的 API 工具，不联网就可以翻译多种语言，基于 LibreTranslate 的封装，支持 Mac/Linux/Win。（[@jianchang512](https://github.com/ruanyf/weekly/issues/3992) 投稿）
+11、[SirTunnel](https://github.com/anderspitman/SirTunnel)
 
-11、[Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092505.webp)
-
-微软官方工具，可以查看 Windows 所有进程的详细信息，免费下载。
-
-12、[winlator](https://github.com/brunodev85/winlator)
-
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023093003.webp)
-
-一个安卓 App，让安卓手机可以运行 Windows 应用程序。
+一个开源软件，只需要50行代码，就能建立一条隧道，将你的内网电脑可以被公网访问，这里有一篇[教程](https://eighty-twenty.org/2023/01/27/sirtunnel-personal-ngrok)。
 
 
 ### 资源
 
 
-1、[3D 生物模型](https://sketchfab.com/ffishAsia-and-floraZia)
+1、**Sora 视频**
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100807.webp)
+OpenAI 推出了“文生视频”模型 Sora，只要输入文字，就能生成一段60秒的视频，效果惊人。
 
-这个网站提供2000多种生物的 3D 模型。
+该模型还没有正式发布，只公开了示例。下面的网站收集这些示例和对应的提示词。
 
-2、[Deno 的内部结构](https://choubey.gitbook.io/internals-of-deno/)（The Internals of Deno）
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021907.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023093008.webp)
+- [SoraPrompts](https://soraprompts.co/)（[@GregoryZeng](https://github.com/ruanyf/weekly/issues/4034) 投稿）
+- [SoraHub](https://sorahub.video/zh)（[@JasonJJLL](https://github.com/ruanyf/weekly/issues/4035) 投稿）
+- [Sora Videos](https://soravideos.media/)（[@MuYiBo](https://github.com/ruanyf/weekly/issues/4041) 投稿）
 
-一本免费的英文电子书，介绍 Deno 的内部原理。
+2、[爱发音](https://fayin.love/)
 
-3、[iOS 应用开发教程](https://cs193p.sites.stanford.edu/2023)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082103.webp)
+学习英语音标的助手，有每个音标的发音视频和音频，支持美式音标、英式音标。（[@Yidoon](https://github.com/ruanyf/weekly/issues/4042) 投稿）
 
-斯坦福大学2023年学年的一个英文课程，现在已经全部上网，包含讲课视频和课件。
+3、[SVG 教程](https://svg-tutorial.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120801.webp)
+
+介绍 SVG 图片的英文教程，一共25课，循序渐进，有大量的例子。
+
+4、[如何克服 Git 的缺点？](https://news.ycombinator.com/item?id=38590080)（英文）
+
+Git 有一些缺点，比如不适合二进制文件、不适合特大型项目、概念复杂、子模块管理麻烦等等。
+
+上面链接是 Hacker News 网友讨论，怎么克服这些问题，里面有很多链接。
 
 
 <!-- End -->
