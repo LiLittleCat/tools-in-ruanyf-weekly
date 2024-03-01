@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 291 期）：AI 没有护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md#工具)
+
+
+1、[Spacedrive](https://www.spacedrive.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101106.webp)
+
+一个跨桌面平台的文件管理器，将不同设备、云端的文件放在一个窗口里面管理。
+
+2、[LightMirrors](https://github.com/NoCLin/LightMirrors)
+
+一个开源的软件包缓存镜像站工具，用于在内网加速软件包下载和镜像拉取，目前支持 DockerHub、PyPI、PyTorch、NPM 等镜像缓存服务，需要自己架设。（[@NoCLin](https://github.com/ruanyf/weekly/issues/4059) 投稿）
+
+3、[捕风记录仪](https://github.com/yuka-friends/Windrecorder)（Windrecorder）
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022706.webp)
+
+一款开源的 Windows 应用，自动在后台以小尺寸记录出现过的所有屏幕内容，并对文本或图像描述进行 OCR，以便查询。（[@Antonoko](https://github.com/ruanyf/weekly/issues/4067) 投稿）
+
+4、[ApFree WiFiDog](https://github.com/liudf0716/apfree-wifidog)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022707.webp)
+
+路由器操作系统 OpenWRT 的一个模块，用来为自己架设的 WiFi 服务提供认证。（[@liudf0716](https://github.com/ruanyf/weekly/issues/4074) 投稿）
+
+5、[AI 图像音乐生成器](https://imagetomusic.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022705.webp)
+
+这个 Web 服务可以将上传的图像，转换为一段音乐，适合为图文视频配背景音乐。（[@lesliele](https://github.com/ruanyf/weekly/issues/4055) 投稿）
+
+6、[WeWe RSS](https://github.com/cooderl/wewe-rss)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022909.webp)
+
+全文订阅微信公众号的一个本地服务，可以生成公众号的 RSS，基于微信读书。（[@cooderl](https://github.com/ruanyf/weekly/issues/4076) 投稿）
+
+7、[Marker](https://github.com/VikParuchuri/marker)
+
+一个命令行工具，将 PDF、EPUB、MOBI 文档转成 Markdown 文件，必要时会进行 OCR（文字识别）。 
+
+8、[Omnivore](https://github.com/omnivore-app/omnivore)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120206.webp)
+
+一个开源的“稍后阅读”（read-it-later）解决方案，可以收藏网址、RSS 和邮件列表的文章，提供 Web 和手机客户端。
+
+9、[Kysely](https://kysely.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101002.webp)
+
+一个 TypeScript 的 SQL 查询生成库。
+
+10、[chasquid](https://blitiri.com.ar/p/chasquid/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120401.webp)
+
+一个简单的、主要供个人使用的 SMTP 软件，用来发送电子邮件。
+
+11、[TSDiagram](https://tsdiagram.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120514.webp)
+
+一个在线工具，让你用 TypeScript 写类型关系，自动生成图表。
+
+12、[How I get there](https://how-did-i-get-here.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120603.webp)
+
+这个页面可以显示，你的 IP 地址到该网站所经过的路由。
+
+
 ## [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md#工具)
 
 

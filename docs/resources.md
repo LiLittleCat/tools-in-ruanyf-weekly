@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 291 期）：AI 没有护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md#资源)
+
+
+1、[3Blue1Brown](https://www.3blue1brown.com/topics/calculus)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121913.webp)
+
+著名数字科普作者 3Blue1Brown 写的微积分系列教程。
+
+2、[TS Docs](https://tsdocs.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122001.webp)
+
+这个网站可以查看 npm 模块的 TS 类型声明。
+
+3、[DevOps 的 Ansible 指南](https://github.com/geerlingguy/ansible-for-devops-manuscript)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122008.webp)
+
+一本开源的英文电子书，介绍自动化运维工具 Ansible 的基本知识。
+
+4、[京华老宋体](https://zhuanlan.zhihu.com/p/637491623)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022916.webp)
+
+一款可以免费商用的原创中文字体。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/4078) 投稿）
+
+
 ## [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-290.md#资源)
 
 
