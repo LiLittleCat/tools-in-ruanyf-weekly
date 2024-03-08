@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 292 期）：所有代码都是技术债](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md#资源)
+
+
+1、[一译](https://yiyibooks.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030204.webp)
+
+用户可以在该网站搜索或者上传 arXiv 论文（暂时只支持 HTML 版本的论文），它会自动机器翻译，提供对照阅读。（[@yiyibooks](https://github.com/ruanyf/weekly/issues/4083) 投稿）
+
+2、[京墨](https://github.com/hefengbao/jingmo)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030203.webp)
+
+一个开源的安卓 App，随身的古诗文、歇后语、成语、绕口令等等的图书馆。（[@hefengbao](https://github.com/ruanyf/weekly/issues/4081) 投稿）
+
+3、[OpenMoji](https://github.com/hfg-gmuend/openmoji)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091302.webp)
+
+这个项目收集各种开源的 Emoji，开发者和设计师可以提交自己的作品。
+
+4、[Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+
+这个仓库收集各种常用的 Docker Compose 配置文件。
+
+5、[学习 x86-64 汇编语言](http://www.egr.unlv.edu/~ed/x86.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122601.webp)
+
+一本英文的汇编语言入门教材，以 Ubuntu 平台为例。
+
+
 ## [科技爱好者周刊（第 291 期）：AI 没有护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md#资源)
 
 

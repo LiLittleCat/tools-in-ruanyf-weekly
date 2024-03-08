@@ -16,107 +16,111 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>291</currentVersion> -->
+<!-- <currentVersion>292</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 291 期）：AI 没有护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-291.md)
+# [科技爱好者周刊（第 292 期）：所有代码都是技术债](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md)
 ### 工具
 
 
-1、[Spacedrive](https://www.spacedrive.com/)
+1、[Ente](https://github.com/ente-io/ente)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030301.webp)
 
-一个跨桌面平台的文件管理器，将不同设备、云端的文件放在一个窗口里面管理。
+一个云相册软件，Google Photos 和 iCloud Photos 的替代品，以前是闭源产品，最近刚刚开源。
 
-2、[LightMirrors](https://github.com/NoCLin/LightMirrors)
+它的主要特点是提供端对端加密。其他的云相册软件，还有 [Immich](https://immich.app/) 和 [PhotoPrism](https://github.com/photoprism/photoprism)。
 
-一个开源的软件包缓存镜像站工具，用于在内网加速软件包下载和镜像拉取，目前支持 DockerHub、PyPI、PyTorch、NPM 等镜像缓存服务，需要自己架设。（[@NoCLin](https://github.com/ruanyf/weekly/issues/4059) 投稿）
+2、[Earthly](https://earthly.dev/)
 
-3、[捕风记录仪](https://github.com/yuka-friends/Windrecorder)（Windrecorder）
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022706.webp)
+一个开源的 CI/CD 框架，可以在本地架设自动构建服务。
 
-一款开源的 Windows 应用，自动在后台以小尺寸记录出现过的所有屏幕内容，并对文本或图像描述进行 OCR，以便查询。（[@Antonoko](https://github.com/ruanyf/weekly/issues/4067) 投稿）
+3、[Vikunja](https://vikunja.io/)
 
-4、[ApFree WiFiDog](https://github.com/liudf0716/apfree-wifidog)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120707.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022707.webp)
+一个开源的代办事项（to-do）App，提供多种视图，有 Web 版和桌面版，还可以自己架设。
 
-路由器操作系统 OpenWRT 的一个模块，用来为自己架设的 WiFi 服务提供认证。（[@liudf0716](https://github.com/ruanyf/weekly/issues/4074) 投稿）
+4、[日语短文排版小工具](https://miusuncle.github.io/japen/)
 
-5、[AI 图像音乐生成器](https://imagetomusic.top/)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022705.webp)
+一个在线工具，生成漂亮的日文排版，支持横竖版式、自动假名标注、深浅两种主题、字体配置、高亮、下划线、字体等。（[@miusuncle](https://github.com/ruanyf/weekly/issues/4080) 投稿）
 
-这个 Web 服务可以将上传的图像，转换为一段音乐，适合为图文视频配背景音乐。（[@lesliele](https://github.com/ruanyf/weekly/issues/4055) 投稿）
+5、[Web-Check](https://github.com/Lissy93/web-check)
 
-6、[WeWe RSS](https://github.com/cooderl/wewe-rss)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030401.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022909.webp)
+开源的网站分析工具, 可以分析网站的 IP 信息、SSL 链、DNS 记录、Cookie、域名信息、服务器位置、网站性能等，查看 [Demo](https://web-check.xyz/)。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/4086) 投稿）
 
-全文订阅微信公众号的一个本地服务，可以生成公众号的 RSS，基于微信读书。（[@cooderl](https://github.com/ruanyf/weekly/issues/4076) 投稿）
+6、[ImageTools](https://ai-image.tools/home)
 
-7、[Marker](https://github.com/VikParuchuri/marker)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030501.webp)
 
-一个命令行工具，将 PDF、EPUB、MOBI 文档转成 Markdown 文件，必要时会进行 OCR（文字识别）。 
+AI 一键抠图（去除背景）的在线工具。（[@handsometong](https://github.com/ruanyf/weekly/issues/4087) 投稿）
 
-8、[Omnivore](https://github.com/omnivore-app/omnivore)
+7、[zz-plan](https://zz-plan.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030502.webp)
 
-一个开源的“稍后阅读”（read-it-later）解决方案，可以收藏网址、RSS 和邮件列表的文章，提供 Web 和手机客户端。
+甘特图/横道图的在线制作工具。（[@lizhichao](https://github.com/ruanyf/weekly/issues/4088) 投稿）
 
-9、[Kysely](https://kysely.dev/)
+8、[Windows in container](https://github.com/dockur/windows)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101002.webp)
+Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支持自动激活，还支持远程桌面连接。（[@wrenashe](https://github.com/ruanyf/weekly/issues/4091) 投稿）
 
-一个 TypeScript 的 SQL 查询生成库。
+9、[Rsdoctor](https://github.com/web-infra-dev/rsdoctor)
 
-10、[chasquid](https://blitiri.com.ar/p/chasquid/)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030601.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120401.webp)
+一个 JS 构建器的分析工具，能够查看构建产物的模块关系，并分析构建器对代码的更改，支持 Rspack 和 Webpack。（[@easy1090](https://github.com/ruanyf/weekly/issues/4095) 投稿）
 
-一个简单的、主要供个人使用的 SMTP 软件，用来发送电子邮件。
+10、[Photo Relay](https://github.com/zobor/photo-relay)
 
-11、[TSDiagram](https://tsdiagram.com/)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030503.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120514.webp)
+一个封面图片制作的在线工具。 [Demo](https://www.duelpeak.com/pages/poster)。（[@zobor](https://github.com/ruanyf/weekly/issues/4094) 投稿）
 
-一个在线工具，让你用 TypeScript 写类型关系，自动生成图表。
+11、[opfs-tools](https://github.com/hughfenghen/opfs-tools)
 
-12、[How I get there](https://how-did-i-get-here.net/)
+浏览器私有文件系统 OPFS API 的一个封装库，提供更简单好用的 API。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/4099) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120603.webp)
+12、[ast-grep VSCode](https://marketplace.visualstudio.com/items?itemName=ast-grep.ast-grep-vscode)
 
-这个页面可以显示，你的 IP 地址到该网站所经过的路由。
+一个使用正则表达式进行代码搜索、替换的 VSCode 插件。（[@HerringtonDarkholme](https://github.com/ruanyf/weekly/issues/4100) 投稿）
 
 
 ### 资源
 
 
-1、[3Blue1Brown](https://www.3blue1brown.com/topics/calculus)
+1、[一译](https://yiyibooks.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121913.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030204.webp)
 
-著名数字科普作者 3Blue1Brown 写的微积分系列教程。
+用户可以在该网站搜索或者上传 arXiv 论文（暂时只支持 HTML 版本的论文），它会自动机器翻译，提供对照阅读。（[@yiyibooks](https://github.com/ruanyf/weekly/issues/4083) 投稿）
 
-2、[TS Docs](https://tsdocs.dev/)
+2、[京墨](https://github.com/hefengbao/jingmo)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030203.webp)
 
-这个网站可以查看 npm 模块的 TS 类型声明。
+一个开源的安卓 App，随身的古诗文、歇后语、成语、绕口令等等的图书馆。（[@hefengbao](https://github.com/ruanyf/weekly/issues/4081) 投稿）
 
-3、[DevOps 的 Ansible 指南](https://github.com/geerlingguy/ansible-for-devops-manuscript)（英文）
+3、[OpenMoji](https://github.com/hfg-gmuend/openmoji)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091302.webp)
 
-一本开源的英文电子书，介绍自动化运维工具 Ansible 的基本知识。
+这个项目收集各种开源的 Emoji，开发者和设计师可以提交自己的作品。
 
-4、[京华老宋体](https://zhuanlan.zhihu.com/p/637491623)
+4、[Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022916.webp)
+这个仓库收集各种常用的 Docker Compose 配置文件。
 
-一款可以免费商用的原创中文字体。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/4078) 投稿）
+5、[学习 x86-64 汇编语言](http://www.egr.unlv.edu/~ed/x86.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122601.webp)
+
+一本英文的汇编语言入门教材，以 Ubuntu 平台为例。
 
 
 <!-- End -->
