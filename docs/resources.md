@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 293 期）：一周是一年的2%](https://github.com/ruanyf/weekly/blob/master/docs/issue-293.md#资源)
+
+
+1、[IP 信息查询合集](https://github.com/ihmily/ip-info-api) 
+
+这个仓库收集可以查询 IP 信息的免费网站。（[@ihmily](https://github.com/ruanyf/weekly/issues/4119) 投稿）
+
+2、[TypeScript 互动教程](https://www.learn-ts.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122603.webp)
+
+通过一个个小练习，讲授 TypeScript 语法。
+
+3、[学习现代 C++](https://learnmoderncpp.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122701.webp)
+
+一个讲解 C++ 基础知识的自学教程。
+
+4、[Virustotal](https://www.virustotal.com/gui/home/upload)
+
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042003.webp)
+
+软件病毒检测引擎，可以上传文件进行扫描，也可以指定需要扫描的文件或网址。
+
+
 ## [科技爱好者周刊（第 292 期）：所有代码都是技术债](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md#资源)
 
 

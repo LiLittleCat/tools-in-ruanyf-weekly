@@ -16,111 +16,113 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>292</currentVersion> -->
+<!-- <currentVersion>293</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 292 期）：所有代码都是技术债](https://github.com/ruanyf/weekly/blob/master/docs/issue-292.md)
+# [科技爱好者周刊（第 293 期）：一周是一年的2%](https://github.com/ruanyf/weekly/blob/master/docs/issue-293.md)
 ### 工具
 
 
-1、[Ente](https://github.com/ente-io/ente)
+1、[Rot](https://github.com/candiddev/rot)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030301.webp)
+一个命令行工具，用来对密码进行加密/解密，这样就可以把密码保存在公开的代码库了。
 
-一个云相册软件，Google Photos 和 iCloud Photos 的替代品，以前是闭源产品，最近刚刚开源。
+2、[Angie](https://angie.software/en/)
 
-它的主要特点是提供端对端加密。其他的云相册软件，还有 [Immich](https://immich.app/) 和 [PhotoPrism](https://github.com/photoprism/photoprism)。
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121308.webp)
 
-2、[Earthly](https://earthly.dev/)
+一个 nginx 的分叉版本，由原始团队成员开发，增加了一些功能。类似的项目还有 [free nginx](https://freenginx.org/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072502.webp)
+3、[LaVague](https://github.com/lavague-ai/LaVague)
 
-一个开源的 CI/CD 框架，可以在本地架设自动构建服务。
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031403.webp)
 
-3、[Vikunja](https://vikunja.io/)
+一个很有意思的概念产品，使用文字指令来操作网站，比如输入文字“点击按钮”，它就自动点击网页按钮，底层用的是浏览器自动化框架 Selenium。
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120707.webp)
+4、[LapisCV](https://github.com/BingyanStudio/LapisCV)
 
-一个开源的代办事项（to-do）App，提供多种视图，有 Web 版和桌面版，还可以自己架设。
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031209.webp)
 
-4、[日语短文排版小工具](https://miusuncle.github.io/japen/)
+基于 Obsidian / Typora 编辑器的 Markdown 简历模板，可以导出 PDF 文件。（[@YiNNx](https://github.com/ruanyf/weekly/issues/4111) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030202.webp)
+5、[OpenAPI-UI](https://github.com/rookie-luochao/openapi-ui)
 
-一个在线工具，生成漂亮的日文排版，支持横竖版式、自动假名标注、深浅两种主题、字体配置、高亮、下划线、字体等。（[@miusuncle](https://github.com/ruanyf/weekly/issues/4080) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031210.webp)
 
-5、[Web-Check](https://github.com/Lissy93/web-check)
+该工具生成 Swagger 或 OpenAPI 3 格式的 API 接口文档，也可当作简洁的 Postman 使用。（[@rookie-luochao](https://github.com/ruanyf/weekly/issues/4114) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030401.webp)
+6、[git-diff-view](https://github.com/MrWangJustToDo/git-diff-view)
 
-开源的网站分析工具, 可以分析网站的 IP 信息、SSL 链、DNS 记录、Cookie、域名信息、服务器位置、网站性能等，查看 [Demo](https://web-check.xyz/)。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/4086) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031211.webp)
 
-6、[ImageTools](https://ai-image.tools/home)
+一个 React/Vue 组件，用来显示 git diff 的结果，类似于 GitHub 的样式。（[@MrWangJustToDo](https://github.com/ruanyf/weekly/issues/4105) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030501.webp)
+7、 [AI 时间线](http://www.ai-timeline.top/)
 
-AI 一键抠图（去除背景）的在线工具。（[@handsometong](https://github.com/ruanyf/weekly/issues/4087) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031212.webp)
 
-7、[zz-plan](https://zz-plan.com/)
+一个有意思的网站，输入一个关键词，自动生成该词的时间线，上图是输入“github”的生成结果，它的代码仓库在 [GitHub](https://github.com/zhugezifang/ai_timeline)。（[@zhugezifang](https://github.com/ruanyf/weekly/issues/4115) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030502.webp)
+8、[Earthworm](https://github.com/cuixueshe/earthworm)
 
-甘特图/横道图的在线制作工具。（[@lizhichao](https://github.com/ruanyf/weekly/issues/4088) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031306.webp)
 
-8、[Windows in container](https://github.com/dockur/windows)
+一个开源的 Web 程序，通过连词造句的方式，经过不断重复练习英语，[线上体验](https://earthworm.cuixueshe.com/)。（[@cuixiaorui](https://github.com/ruanyf/weekly/issues/4120) 投稿）
 
-Docker 容器里运行 Windows 系统，可选择 Win7，Win10，Win11 等，支持自动激活，还支持远程桌面连接。（[@wrenashe](https://github.com/ruanyf/weekly/issues/4091) 投稿）
+9、[Postal](https://github.com/postalserver/postal)
 
-9、[Rsdoctor](https://github.com/web-infra-dev/rsdoctor)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121407.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030601.webp)
+一个开源的电子邮件服务器，自带 Web 界面。
 
-一个 JS 构建器的分析工具，能够查看构建产物的模块关系，并分析构建器对代码的更改，支持 Rspack 和 Webpack。（[@easy1090](https://github.com/ruanyf/weekly/issues/4095) 投稿）
+10、[briefsky](https://briefsky.app/)
 
-10、[Photo Relay](https://github.com/zobor/photo-relay)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030503.webp)
+一个开源的天气预报前端，可以接入各种天气数据源。
 
-一个封面图片制作的在线工具。 [Demo](https://www.duelpeak.com/pages/poster)。（[@zobor](https://github.com/ruanyf/weekly/issues/4094) 投稿）
+11、[Qaul](https://qaul.net/)
 
-11、[opfs-tools](https://github.com/hughfenghen/opfs-tools)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101801.webp)
 
-浏览器私有文件系统 OPFS API 的一个封装库，提供更简单好用的 API。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/4099) 投稿）
+一个可以离线通信的软件，允许一群用户在不联网的情况下，通过本机的共享 WiFi 发送消息。
 
-12、[ast-grep VSCode](https://marketplace.visualstudio.com/items?itemName=ast-grep.ast-grep-vscode)
+12、[Piped](https://github.com/TeamPiped/Piped)
 
-一个使用正则表达式进行代码搜索、替换的 VSCode 插件。（[@HerringtonDarkholme](https://github.com/ruanyf/weekly/issues/4100) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101802.webp)
+
+一个开源的 Youtube 网页前端 UI。
+
+13、[Riffusion](https://www.riffusion.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101803.webp)
+
+一个免费的 AI 工具，给出一段提示，它会生成相应的歌曲，并且是带有歌词、人声演唱的。
 
 
 ### 资源
 
 
-1、[一译](https://yiyibooks.cn/)
+1、[IP 信息查询合集](https://github.com/ihmily/ip-info-api) 
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030204.webp)
+这个仓库收集可以查询 IP 信息的免费网站。（[@ihmily](https://github.com/ruanyf/weekly/issues/4119) 投稿）
 
-用户可以在该网站搜索或者上传 arXiv 论文（暂时只支持 HTML 版本的论文），它会自动机器翻译，提供对照阅读。（[@yiyibooks](https://github.com/ruanyf/weekly/issues/4083) 投稿）
+2、[TypeScript 互动教程](https://www.learn-ts.org/)
 
-2、[京墨](https://github.com/hefengbao/jingmo)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030203.webp)
+通过一个个小练习，讲授 TypeScript 语法。
 
-一个开源的安卓 App，随身的古诗文、歇后语、成语、绕口令等等的图书馆。（[@hefengbao](https://github.com/ruanyf/weekly/issues/4081) 投稿）
+3、[学习现代 C++](https://learnmoderncpp.com/)
 
-3、[OpenMoji](https://github.com/hfg-gmuend/openmoji)
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091302.webp)
+一个讲解 C++ 基础知识的自学教程。
 
-这个项目收集各种开源的 Emoji，开发者和设计师可以提交自己的作品。
+4、[Virustotal](https://www.virustotal.com/gui/home/upload)
 
-4、[Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+![](https://cdn.beekka.com/blogimg/asset/202304/bg2023042003.webp)
 
-这个仓库收集各种常用的 Docker Compose 配置文件。
-
-5、[学习 x86-64 汇编语言](http://www.egr.unlv.edu/~ed/x86.html)
-
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122601.webp)
-
-一本英文的汇编语言入门教材，以 Ubuntu 平台为例。
+软件病毒检测引擎，可以上传文件进行扫描，也可以指定需要扫描的文件或网址。
 
 
 <!-- End -->
