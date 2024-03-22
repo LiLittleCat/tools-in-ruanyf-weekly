@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 294 期）：崖门海战的感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-294.md#资源)
+
+
+1、[Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031913.webp)
+
+一本介绍算法知识的开源书籍，网上可以免费阅读，纸质版已于近期出版。（[@krahets](https://github.com/ruanyf/weekly/issues/4149) 投稿）
+
+2、[StockCake](https://stockcake.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031907.webp)
+
+AI 生成的免费图像素材网站，无限的无版权图片免费下载。（[@wrenash](https://github.com/ruanyf/weekly/issues/4139) 投稿）
+
+3、[KanjiVG](https://kanjivg.tagaini.net/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111210.webp)
+
+这个项目提供汉字的 SVG 文件下载，可以显示笔划动画。
+
+4、[DesignSystemHunt.com](https://www.designsystemhunt.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010601.webp)
+
+这个网站收集各种设计系统（design system），已经有130多个。
+
+
 ## [科技爱好者周刊（第 293 期）：一周是一年的2%](https://github.com/ruanyf/weekly/blob/master/docs/issue-293.md#资源)
 
 
