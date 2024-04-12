@@ -16,139 +16,113 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>294</currentVersion> -->
+<!-- <currentVersion>295</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 294 期）：崖门海战的感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-294.md)
+# [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](https://github.com/ruanyf/weekly/blob/master/docs/issue-295.md)
 ### 工具
 
 
-1、[Frogmouth](https://github.com/Textualize/frogmouth)
+1、[Garnet](https://github.com/microsoft/garnet)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050101.webp)
+上周，著名的缓存服务器 Redis 宣布更改许可证，未经许可不得基于它对外提供云服务。
 
-命令行的 Markdown 阅读器。
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032201.webp)
 
-2、[SSH3](https://github.com/francoismichel/ssh3)
+此前两天，微软发布了一个兼容 Redis 的缓存服务器 Garnet，不知道两件事之间是否存在关联。
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121701.webp)
+另外，Redis 现在也被分叉了，诞生了两个全新的项目 [Redict](https://redict.io/) 和 [Valkey](https://github.com/valkey-io/valkey)，目标是成为自由软件版本的 Redis。
 
-使用 QUIC + TLS 重新实现的 SSH 加密登陆工具，支持 UDP 端口转发。
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032805.webp)
 
-3、[X-Hiring](https://github.com/hehehai/x-hiring)
+2、[Superjson](https://github.com/blitz-js/superjson)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102207.webp)
 
-每日自动抓取于 V2EX 和电鸭社区的招聘信息，使用 Google AI 提取摘要。（[@hehehai](https://github.com/ruanyf/weekly/issues/4127) 投稿）
+一个 JavaScript 模块，用于字符串和 JSON 数据的互相转换，支持多种 JSON 不支持的数据格式。
 
-4、[pear-rec](https://github.com/027xiguapi/pear-rec/blob/main/README.zh-CN.md)
+3、[Copilot for obsidian](https://github.com/logancyang/obsidian-copilot)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032304.webp)
 
-一个在线的 GIF 编辑工具，也可以对 MP4 视频进行解析导入。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/4128) 投稿）
+Obsidian 编辑器的一个开源插件，使其可以用上本地的 AI 助手，参见[介绍文章](https://mp.weixin.qq.com/s/at7K_8lEfVzQJq5qnpzvUg)。（[@ivone-liu](https://github.com/ruanyf/weekly/issues/4171) 投稿）
 
-5、[Y-TOC](https://github.com/struy-cn/Y-TOC)
+4、[LunarLink](https://github.com/tahitimoon/LunarLink)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032806.webp)
 
-一个内容目录海报美化生成工具。（[@StruggleYang](https://github.com/ruanyf/weekly/issues/4130) 投稿）
+一个基于 Web 的接口自动化测试平台，可以快速编写和运行接口自动化测试用例。（[@tahitimoon](https://github.com/ruanyf/weekly/issues/4173) 投稿）
 
-6、[emgithub](https://github.com/yusanshi/emgithub)
+5、[text2video](https://github.com/bravekingzhang/text2video)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032808.webp)
 
-打开 GitHub 仓库某个文件的页面，将地址栏的 github.com 改成 emgithub.com，就可以获得当前文件的嵌入代码，像嵌入 GitHub Gist 代码一样嵌入到页面中。（[@yusanshi](https://github.com/ruanyf/weekly/issues/4131) 投稿）
+一个开源的文本转图文视频的软件。（[@bravekingzhang](https://github.com/ruanyf/weekly/issues/4187) 投稿）
 
-7、[Calorie Calculator](https://github.com/mggger/Calorie-Calculator)
+6、[simple-mind-map](https://github.com/wanglin2/mind-map)（思绪思维导图）
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032812.webp)
 
-上传食物图片，自动计算卡路里，基于 Google Gemini AI。（[@mggger](https://github.com/ruanyf/weekly/issues/4138) 投稿）
+一个开源的 Web 思维导图，试用 [Demo](https://wanglin2.github.io/mind-map/)。（[@wanglin2](https://github.com/ruanyf/weekly/issues/4190) 投稿）
 
-8、[壁纸样机生成器](https://mjcn.club/)
+7、[Shap-E](https://github.com/openai/shap-e)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031908.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023050612.webp)
 
-一个在线工具，图片套 iPhone、iPad、Mac 的模板，生成样机图片。（[@CheckCoder](https://github.com/ruanyf/weekly/issues/4140) 投稿）
+一个生成式 AI 模型，从文本生成 3D 动画图片。
 
-9、[Searchable](https://www.engineerdraft.com/en/searchable/)
+8、[blog-cells](https://github.com/rameshvarun/blog-cells)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031909.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082403.webp)
 
-一款 Mac 应用，利用 OpenAI 的 Clip 模型在本地对图片进行索引和搜索，可以本地搜索图片文字、语义化搜索和以图搜图。（[@yujinqiu](https://github.com/ruanyf/weekly/issues/4142) 投稿）
+这个工具可以在网页插入互动式区块，用来展示和执行 JavaScript 代码，类似于 Jupyter。
 
-10、[Vmail.dev](https://github.com/yesmore/vmail)
+9、[Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031910.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082501.webp)
 
-使用 Cloudflare email worker 实现的临时邮箱服务，可以[自己部署](https://dev.yesmore.cc/projects/vmail)。（[@yesmore](https://github.com/ruanyf/weekly/issues/4133) 投稿）
+一个文件传输协议，可以在任意两台计算机（不必在同一局域网）之间传输文件。上传方会获得一个密码，下载方只要输入密码就能获取文件。
 
-11、[VidHub](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164)
+它有很多第三方客户端（包括手机 App），比如[这个](https://github.com/LeastAuthority/destiny)和[这个](https://github.com/pavelsof/mobile-wormhole)。
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031911.webp)
+10、[Mist](https://mist-project.github.io)
 
-苹果设备的视频播放器，可以管理和播放本地、网盘、NAS、Cloud Drive 来源的视频。（[@julycamera](https://github.com/ruanyf/weekly/issues/4143) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082502.webp)
 
-12、[VideoSora](https://videosora.app/zh-cn/)
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031912.webp)
-
-一款将文本或语音转化成图文短视频的在线工具。（[@tangpanqing](https://github.com/ruanyf/weekly/issues/4150) 投稿）
-
-13、[Segment Anything web UI](https://github.com/Kingfish404/segment-anything-webui)
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031916.webp)
-
-Segment Anything 模型的前端交互 UI，包括了最基本的点击，画框和自动分割等功能，还引入了 CLIP 实现语义选择分割。（[@Kingfish404](https://github.com/ruanyf/weekly/issues/4154) 投稿）
-
-14、[Toolong](https://github.com/Textualize/toolong)
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032108.webp)
-
-一个终端工具，可以查看和搜索非常长的文本文件（比如日志）。（[@WFANG12719](https://github.com/ruanyf/weekly/issues/4158) 投稿）
-
-15、[Notion Flow](https://notion-flow.xheldon.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032109.webp)
-
-一个浏览器插件，可以在 Notion 页面显示文章目录，并将内容发送到 GitHub Pages。（[@Xheldon](https://github.com/ruanyf/weekly/issues/4163) 投稿）
-
-16、[Side Browser](https://www.sidebrowser.xyz/)
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032110.webp)
-
-一个浏览器插件，允许在浏览器的侧边栏打开网页。（[@extrastu](https://github.com/ruanyf/weekly/issues/4159) 投稿）
-
-有读者反映，该插件可能借鉴了另一个相同功能的 [Sidebar 插件](https://chromewebstore.google.com/detail/sidebartab-pin-chatgpt-or/acghhljehhigfeinngmggkpgbacpikfe)。（[@vinebyte](https://github.com/ruanyf/weekly/issues/4164) 投稿）
-
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032112.webp)
+这个工具可以在图片上面添加水印底纹，使得该图片无法再被 AI 模型作为训练材料。上图是添加水印后的效果（左图），以及放大的水印（右图）。
 
 
 ### 资源
 
 
-1、[Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
+1、[中国古代历史人物可视化](https://tools.buyixiao.xyz/historical-figure-query)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031913.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032303.webp)
 
-一本介绍算法知识的开源书籍，网上可以免费阅读，纸质版已于近期出版。（[@krahets](https://github.com/ruanyf/weekly/issues/4149) 投稿）
+输入一个古代人物名（共收录52000+人物），就可以显示该人物的社会关系、亲戚关系和生平足迹图，上图是李白的生平足迹图，参见[介绍文章](https://mp.weixin.qq.com/s/evUacKtLOVCrZahgRmnjsg)。（[@inspurer](https://github.com/ruanyf/weekly/issues/4170) 投稿）
 
-2、[StockCake](https://stockcake.com/)
+2、[CSS 框架排名](https://www.libhunt.com/css)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031907.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032301.webp)
 
-AI 生成的免费图像素材网站，无限的无版权图片免费下载。（[@wrenash](https://github.com/ruanyf/weekly/issues/4139) 投稿）
+这个网页按照 GitHub 的星星数量，为 CSS 框架排名。
 
-3、[KanjiVG](https://kanjivg.tagaini.net/index.html)
+3、[动手实战人工智能](https://aibydoing.com/intro)（AI by doing）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111210.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032807.webp)
 
-这个项目提供汉字的 SVG 文件下载，可以显示笔划动画。
+一本中文电子书，通过实例介绍一些 AI 算法。（[@huhuhang](https://github.com/ruanyf/weekly/issues/4178) 投稿）
 
-4、[DesignSystemHunt.com](https://www.designsystemhunt.com/)
+4、[Lamucal](https://lamucal.ai/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032809.webp)
 
-这个网站收集各种设计系统（design system），已经有130多个。
+这个网站可以为任何歌曲生成和弦、节拍、歌词、旋律和标签，使用了 [Hybrid-Net 模型](https://github.com/DoMusic/Hybrid-Net?tab=readme-ov-file)。（[@liufeigit](https://github.com/ruanyf/weekly/issues/4188) 投稿）
+
+5、[Z2H 字贴](https://paper.z2h.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032811.webp)
+
+一个在线的字帖生成网站，支持中文和英文。（[@liamwang](https://github.com/ruanyf/weekly/issues/4191) 投稿）
 
 
 <!-- End -->

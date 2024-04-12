@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](https://github.com/ruanyf/weekly/blob/master/docs/issue-295.md#资源)
+
+
+1、[中国古代历史人物可视化](https://tools.buyixiao.xyz/historical-figure-query)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032303.webp)
+
+输入一个古代人物名（共收录52000+人物），就可以显示该人物的社会关系、亲戚关系和生平足迹图，上图是李白的生平足迹图，参见[介绍文章](https://mp.weixin.qq.com/s/evUacKtLOVCrZahgRmnjsg)。（[@inspurer](https://github.com/ruanyf/weekly/issues/4170) 投稿）
+
+2、[CSS 框架排名](https://www.libhunt.com/css)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032301.webp)
+
+这个网页按照 GitHub 的星星数量，为 CSS 框架排名。
+
+3、[动手实战人工智能](https://aibydoing.com/intro)（AI by doing）
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032807.webp)
+
+一本中文电子书，通过实例介绍一些 AI 算法。（[@huhuhang](https://github.com/ruanyf/weekly/issues/4178) 投稿）
+
+4、[Lamucal](https://lamucal.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032809.webp)
+
+这个网站可以为任何歌曲生成和弦、节拍、歌词、旋律和标签，使用了 [Hybrid-Net 模型](https://github.com/DoMusic/Hybrid-Net?tab=readme-ov-file)。（[@liufeigit](https://github.com/ruanyf/weekly/issues/4188) 投稿）
+
+5、[Z2H 字贴](https://paper.z2h.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032811.webp)
+
+一个在线的字帖生成网站，支持中文和英文。（[@liamwang](https://github.com/ruanyf/weekly/issues/4191) 投稿）
+
+
 ## [科技爱好者周刊（第 294 期）：崖门海战的感想](https://github.com/ruanyf/weekly/blob/master/docs/issue-294.md#资源)
 
 
