@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](https://github.com/ruanyf/weekly/blob/master/docs/issue-296.md#资源)
+
+
+1、[Learn Next.js 中文教程](https://qufei1993.github.io/nextjs-learn-cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040309.webp)
+
+Next.js [官方教程](https://nextjs.org/learn)的中文翻译，构建一个全栈 Web 应用程序。（[@qufei1993](https://github.com/ruanyf/weekly/issues/4206) 投稿）
+
+2、[3DP.ing](https://3dp.ing/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040602.webp)
+
+一个 3D 打印模型的搜索引擎，特点是使用图片搜索。（[@wangasa](https://github.com/ruanyf/weekly/issues/4227) 投稿）
+
+3、[1000UserGuide](https://1000userguide.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040901.webp)
+
+该网站整理了300多个免费推广渠道，包括网站、论坛、网址导航、产品目录等，帮助独立开发者推广产品。（[@naxiaoduo](https://github.com/ruanyf/weekly/issues/4240) 投稿）
+
+4、[Awesome Cloudflare](https://github.com/zhuima/awesome-cloudflare)
+
+这个仓库收集基于 Cloudflare 服务的各种开源软件。（[@zhuima](https://github.com/ruanyf/weekly/issues/4244) 投稿）
+
+5、[Beej's Guide to Network Concepts 中译](https://github.com/rogerzhu/-bgnet0-cn/tree/main/src)
+
+网友对[《Beej's Guide to Network Concepts》](https://beej.us/guide/bgnet0/)一书的中文翻译。（[@rogerzhu](https://github.com/ruanyf/weekly/issues/4248) 投稿）
+
+
 ## [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](https://github.com/ruanyf/weekly/blob/master/docs/issue-295.md#资源)
 
 
