@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 297 期）：饮水鸟玩具](https://github.com/ruanyf/weekly/blob/master/docs/issue-297.md#资源)
+
+
+1、[中国大学矢量校徽合集](https://www.urongda.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041201.webp)
+
+高校校徽的矢量文件下载，目前收集了100多个校徽，还在不断增长中。（[@incidunt](https://github.com/ruanyf/weekly/issues/4252) 投稿）
+
+2、[生成式 AI 和 LLM 学习资料](https://pankajpipada.com/posts/2024-04-15-genai-resources/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041501.webp)
+
+一个老外整理的 AI 学习的网络资源，一共十几个，都是免费的。
+
+3、[《Linux 内核实验》中文翻译](https://linux-kernel-labs-zh.xyz/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041605.webp)
+
+布加勒斯特理工大学的 Linux 内核教学课程，动手实践设备驱动的编写。（[@hanyujie2002](https://github.com/ruanyf/weekly/issues/4269) 投稿）
+
+
 ## [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](https://github.com/ruanyf/weekly/blob/master/docs/issue-296.md#资源)
 
 

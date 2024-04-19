@@ -16,119 +16,113 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>296</currentVersion> -->
+<!-- <currentVersion>297</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](https://github.com/ruanyf/weekly/blob/master/docs/issue-296.md)
+# [科技爱好者周刊（第 297 期）：饮水鸟玩具](https://github.com/ruanyf/weekly/blob/master/docs/issue-297.md)
 ### 工具
 
 
-1、[DOOM 验证码](https://vivirenremoto.github.io/doomcaptcha/)
+1、[sshx](https://sshx.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110602.webp)
 
-DOOM 游戏被用作网页验证码，只有消灭指定数目的敌人，才能通过验证。
+这个工具可以通过链接，与其他人共享你的终端。
 
-2、[OneUptime](https://github.com/OneUptime/oneuptime)
+2、[Hyphen](https://github.com/00000o1/-)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040301.webp)
+一个 Web 组件的基类，你可以在它的基础上定义自己的 Web Component。类似的工具还有 [Cami.js](https://github.com/kennyfrc/cami.js)。
 
-一个开源的服务可用性检查工具，记录服务的健康状态，如果发现服务下线，立刻发送通知，可以替代 [StatusPage.io](https://www.statuspage.io/)。
+3、[Hono](https://github.com/honojs/hono)
 
-3、[DashPress](https://github.com/dashpresshq/dashpress)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041608.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040302.webp)
+一个 Node.js 的轻量级 Web 框架，专注于边缘节点的使用场景。
 
-一个开源工具，只需执行一个命令，就会自动分析数据库结构，生成管理后台，号称不用写代码。
+4、[Shiro](https://github.com/Innei/Shiro)
 
-4、[Landing page boilerplate](https://github.com/weijunext/landing-page-boilerplate)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041609.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040307.webp)
+一个极简主义的个人网站，作为 [Mix Space](https://github.com/mx-space) 架设的站点的前端。（[@Innei](https://github.com/ruanyf/weekly/issues/4274) 投稿）
 
-开源的项目落地页模板，参见[介绍文章](https://juejin.cn/post/7350200488455520267)。（[@weijunext](https://github.com/ruanyf/weekly/issues/4197) 投稿）
+5、[Cover your tracks](https://firstpartysimulator.org/)
 
-5、[GitHub Custom Notifier](https://github.com/qiweiii/github-custom-notifier)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040308.webp)
+这个工具可以查看，服务器能够拿到多少客户端信息，从而生成你的指纹。
 
-一个开源的浏览器插件，用来监听 GitHub 官方没有提供的一些事件（比如创建 label），事件发生时，浏览器就会发送通知。（[@qiweiii](https://github.com/ruanyf/weekly/issues/4199) 投稿）
+6、[TeleMonitor](https://github.com/bboysoulcn/telemonitor)
 
-6、[HeyForm](https://github.com/heyform/heyform)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041403.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040310.webp)
+Python 写的系统监控工具，监控 CPU、内存和磁盘的使用情况，并通过 Telegram 发送警告。（[@bboysoulcn](https://github.com/ruanyf/weekly/issues/4260) 投稿）
 
-一个开源的表单生成器，创建调查、问卷、投票等，可以不编写一行代码。（[@iMuFeng](https://github.com/ruanyf/weekly/issues/4207) 投稿）
+7、[Amprobe](https://github.com/amuluze/amprobe)
 
-7、[Youdeyiwu](https://github.com/dafengzhen/youdeyiwu)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041404.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040312.webp)
+一个 Go + Vue3 开发的轻量级主机及容器监控工具。（[@amuluze](https://github.com/ruanyf/weekly/issues/4261) 投稿）
 
-一个开源的轻量级论坛，追求界面简洁和使用方便，后端使用 Java，前端使用 Next.js。（[@dafengzhen](https://github.com/ruanyf/weekly/issues/4211) 投稿）
+8、[ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna)
 
-8、[Markdown Genji](https://genji-md.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041606.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040313.webp)
+Chrome 浏览器截图 + 美化插件。（[@AydenGen](https://github.com/ruanyf/weekly/issues/4273) 投稿）
 
-VitePress 的一个插件，用于在 Markdown 文档插入可以执行的代码块，创建交互式文档。（[@pearmini](https://github.com/ruanyf/weekly/issues/4212) 投稿）
+9、[stokado](https://github.com/KID-joker/stokado)
 
-9、[Mutative](https://github.com/ruanyf/weekly/issues/4222)
+浏览器存储对象（比如 localStorage、IndexDB）的包装库，提供统一的 API，以及一些便利的功能（比如过期时间）。（[@KID-joker](https://github.com/ruanyf/weekly/issues/4279) 投稿）
 
-一个操作不可变状态的 JS 库，追求高效。（[@unadlib](https://github.com/ruanyf/weekly/issues/4222) 投稿）。
+10、[PPResume](https://ppresume.com/)
 
-10、[Fusion](https://github.com/0x2E/fusion)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040501.webp)
+一个基于 LaTeX 的简历生成器，可以生成精美的简历，并提供极高质量的 PDF 输出。（[@xiaohanyu](https://github.com/ruanyf/weekly/issues/4285) 投稿）
 
-一个轻量、简洁的 RSS 聚合和阅读器，使用 Go + Svelte 开发。（[@0x2E](https://github.com/ruanyf/weekly/issues/4223) 投稿）
+11、[自律石头](https://apps.apple.com/cn/app/%E8%87%AA%E5%BE%8B%E7%9F%B3%E5%A4%B4-%E8%B5%B0%E8%B7%AF%E8%AF%BB%E4%B9%A6%E6%8D%A2%E6%97%B6%E9%97%B4-%E4%B8%8D%E5%81%9A%E6%89%8B%E6%9C%BA%E6%8E%A7/id6479392365)
 
-11、[node-screenshots](https://github.com/nashaofu/node-screenshots)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041803.webp)
 
-一个跨平台、零依赖的 Node.js 模块，用于截图和录屏。（[@nashaofu](https://github.com/ruanyf/weekly/issues/4224) 投稿）
+一个 iOS 手机应用，可以限制指定 App 的使用时间，防止过度沉迷手机。（[@tuesda](https://github.com/ruanyf/weekly/issues/4284) 投稿）
 
-12、[流畅阅读](https://github.com/Bistutu/FluentRead)
+12、[音虫](https://www.soundbug.com/)（SoundBug）
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041804.webp)
 
-一款浏览器翻译插件，支持人工智能引擎。（[@Bistutu](https://github.com/ruanyf/weekly/issues/4230) 投稿）
+一款国产的音频工作站，用来音乐编曲和录音的制作工具，追求简洁直观的用户界面和易于上手的操作。（[@asoiso](https://github.com/ruanyf/weekly/issues/4286) 投稿）
 
-13、[keynavish](https://github.com/lesderid/keynavish)
+13、[极简朋友圈](https://github.com/kingwrcy/moments)
 
-使用键盘控制鼠标运动的 Windows 软件。（[@NomandChan](https://github.com/ruanyf/weekly/issues/55) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041805.webp)
 
-14、[K8Z](https://github.com/k8zdev/k8z)
+一个仿照微信朋友圈 UI 的个人短博客网站，参见 [Demo](https://m.mblog.club/)。（[@kingwrcy](https://github.com/ruanyf/weekly/issues/4288) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041002.webp)
+14、[Newcar](https://github.com/dromara/newcar)
 
-管理 Kubernetes 的开源工具，有手机客户端和桌面客户端。（[@kofj](https://github.com/ruanyf/weekly/issues/4246) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041806.webp)
+
+一个 JS 语言的前端动画引擎，基于 Skia 的WebAssembly 版本，在 Canvas 画布上生成动画。（[@sheepbox8646](https://github.com/ruanyf/weekly/issues/4287) 投稿）
 
 
 ### 资源
 
 
-1、[Learn Next.js 中文教程](https://qufei1993.github.io/nextjs-learn-cn)
+1、[中国大学矢量校徽合集](https://www.urongda.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040309.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041201.webp)
 
-Next.js [官方教程](https://nextjs.org/learn)的中文翻译，构建一个全栈 Web 应用程序。（[@qufei1993](https://github.com/ruanyf/weekly/issues/4206) 投稿）
+高校校徽的矢量文件下载，目前收集了100多个校徽，还在不断增长中。（[@incidunt](https://github.com/ruanyf/weekly/issues/4252) 投稿）
 
-2、[3DP.ing](https://3dp.ing/)
+2、[生成式 AI 和 LLM 学习资料](https://pankajpipada.com/posts/2024-04-15-genai-resources/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041501.webp)
 
-一个 3D 打印模型的搜索引擎，特点是使用图片搜索。（[@wangasa](https://github.com/ruanyf/weekly/issues/4227) 投稿）
+一个老外整理的 AI 学习的网络资源，一共十几个，都是免费的。
 
-3、[1000UserGuide](https://1000userguide.com)
+3、[《Linux 内核实验》中文翻译](https://linux-kernel-labs-zh.xyz/)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041605.webp)
 
-该网站整理了300多个免费推广渠道，包括网站、论坛、网址导航、产品目录等，帮助独立开发者推广产品。（[@naxiaoduo](https://github.com/ruanyf/weekly/issues/4240) 投稿）
-
-4、[Awesome Cloudflare](https://github.com/zhuima/awesome-cloudflare)
-
-这个仓库收集基于 Cloudflare 服务的各种开源软件。（[@zhuima](https://github.com/ruanyf/weekly/issues/4244) 投稿）
-
-5、[Beej's Guide to Network Concepts 中译](https://github.com/rogerzhu/-bgnet0-cn/tree/main/src)
-
-网友对[《Beej's Guide to Network Concepts》](https://beej.us/guide/bgnet0/)一书的中文翻译。（[@rogerzhu](https://github.com/ruanyf/weekly/issues/4248) 投稿）
+布加勒斯特理工大学的 Linux 内核教学课程，动手实践设备驱动的编写。（[@hanyujie2002](https://github.com/ruanyf/weekly/issues/4269) 投稿）
 
 
 <!-- End -->
