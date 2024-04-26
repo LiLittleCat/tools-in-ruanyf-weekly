@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](https://github.com/ruanyf/weekly/blob/master/docs/issue-298.md#资源)
+
+
+1、[图解 Word2vec](https://cloud.tencent.com/developer/article/1430171)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042003.webp)
+
+一篇2019年的长文，Word2vec 技术入门。虽然写得不是很清楚，但是很多例子很有启发，还配有插图，可参考[英语原文](https://jalammar.github.io/illustrated-word2vec/)。
+
+2、[硬地骇客——两个月 $12000 ARR 实践之路](https://github.com/hardhackerlabs/book)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042208.webp)
+
+一本开源电子书，介绍 [Podwise 产品](https://podwise.ai/)从灵感到变现的全过程。（[@SaitoWu](https://github.com/ruanyf/weekly/issues/4322) 投稿）
+
+3、[Serach for John](https://www.searchforjohn.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020301.webp)
+
+一个新的搜索引擎，可以聚合其他搜索引擎的结果，我的试用效果非常好。
+
+4、[计算机网络简介](https://intronetworks.cs.luc.edu/)（An Introduction to Computer Networks）
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100518.webp)
+
+一本免费的英文书籍，介绍计算机网络知识，美国大学的教材。
+
+
 ## [科技爱好者周刊（第 297 期）：饮水鸟玩具](https://github.com/ruanyf/weekly/blob/master/docs/issue-297.md#资源)
 
 
