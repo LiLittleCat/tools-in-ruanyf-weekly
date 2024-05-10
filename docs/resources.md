@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 299 期）：AI 的关键是语料](https://github.com/ruanyf/weekly/blob/master/docs/issue-299.md#资源)
+
+
+1、[技术概念示意图](https://github.com/ByteByteGoHq/system-design-101#rest-api-vs-graphql)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102601.webp)
+
+这个仓库收集各种技术概念的示意图。
+
+2、[海棠诗社](https://haitang.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042905.webp)
+
+网友开发的诗词网站。（[@javayhu](https://github.com/ruanyf/weekly/issues/4384) 投稿）
+
+3、[svgl](https://svgl.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121702.webp)
+
+一个常用徽标 Logo 的搜索引擎，提供 SVG 文件下载。
+
+4、[Brick Center](https://www.brickcenter.net)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050904.webp)
+
+你输入一个关键词，这个网站自动生成它的乐高拼装。（[@husu](https://github.com/ruanyf/weekly/issues/4421) 投稿）
+
+
 ## [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](https://github.com/ruanyf/weekly/blob/master/docs/issue-298.md#资源)
 
 
