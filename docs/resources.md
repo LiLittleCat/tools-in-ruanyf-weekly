@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md#资源)
+
+
+1、[LaTeX 入门与进阶](https://latex.lierhua.top/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051107.webp)
+
+网友写的中文书籍，介绍如何使用 LaTeX 和宏包编写。（[@immotal](https://github.com/ruanyf/weekly/issues/4436) 投稿）
+
+2、[URLhaus 数据库](https://urlhaus.abuse.ch/browse/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051503.webp)
+
+这个数据库专门收集各种恶意 URL 网址，目前已经收集了280万个，可以免费查询和下载。
+
+3、[数据科学导论](https://rafalab.dfci.harvard.edu/dsbook-part-1/)（Introduction to Data Science）
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030201.webp)
+
+开源的英文教材，源于哈佛大学同名课程，使用 R 语言学习数据科学。
+
+4、[引脚定义](https://pinouts.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091204.webp)
+
+一本免费英文电子书，收集了130种电子产品常见组件（比如 USB 口）的引脚定义。
+
+
 ## [科技爱好者周刊（第 299 期）：AI 的关键是语料](https://github.com/ruanyf/weekly/blob/master/docs/issue-299.md#资源)
 
 
