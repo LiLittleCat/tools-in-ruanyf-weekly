@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md#资源)
+
+
+1、[学习 Rust 的 100 个练习](https://rust-exercises.com/01_intro/00_welcome)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051807.webp)
+
+Rust 语言的一个初学者教程，通过100个练习来学习这门语言。
+
+2、[JavaScript 语法问题](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051808.webp)
+
+这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
+
+3、[PlayPhrase.me](https://www.playphrase.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052004.webp)
+
+搜索一个英语短语，这个网站会展示包含这个短语的电影片段。
+
+4、[ambiphone](https://ambiph.one/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010701.webp)
+
+这个网站可以播放环境音和白噪声，适合当作背景音乐。
+
+5、[代理检测](https://proxy.incolumitas.com/proxy_detect.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010709.webp)
+
+该网站提供一系列测试，用来检测用户是否正在使用代理。
+
+
 ## [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md#资源)
 
 

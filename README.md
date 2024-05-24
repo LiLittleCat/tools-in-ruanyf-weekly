@@ -16,111 +16,116 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>300</currentVersion> -->
+<!-- <currentVersion>301</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md)
+# [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md)
 ### 工具
 
 
-1、[GitUI](https://github.com/extrawurst/gitui)
+1、[SunEditor](https://github.com/JiHong88/suneditor)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011508.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111801.webp)
 
-终端里面的 Git 图形界面，将各种 git 操作可视化，使用 Rust 语言开发。
+一个开源的“所见即所得”编辑器，兼容性比较好。
 
-2、[Outline](https://github.com/outline/outline)
+2、[TrasHTTPandas](https://httpraccoons.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111905.webp)
 
-一个开源的在线知识库软件，支持多人合作。
+这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
 
-3、[Vnt](https://github.com/lbl8603/vnt)
+3、[安读](https://github.com/Anxcye/anx-reader)
 
-一个开源工具，将不同网络下的多个设备虚拟到一个局域网下，类似与 tailscale、zerotier、n2n。（[@lbl8603](https://github.com/ruanyf/weekly/issues/4444) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051901.webp)
 
-4、[DashPlayer](https://github.com/solidSpoon/DashPlayer)
+一款使用 Flutter 编写的桌面读书软件，支持 WebDAV 同步。（[@Anxcye](https://github.com/ruanyf/weekly/issues/4486) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051506.webp)
+4、[VSpace](https://vspace.cyhuajuan.site/)
 
-一款专为英语学习打造的开源视频播放器，支持生成双语字幕，进行精听或泛听练习。（[@solidSpoon](https://github.com/ruanyf/weekly/issues/4454) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052202.webp)
 
-5、[字幕工具箱](https://zm.i8k.tv/)
+一个浏览器插件，提供侧边栏的垂直书签和标签页管理器。
+（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4490) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051508.webp)
+5、[FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
 
-这个网站收集了一些字幕相关的工具，纯前端处理，无需安装任何插件或软件。（[@mzhren](https://github.com/ruanyf/weekly/issues/4464) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052203.webp)
 
-6、[封面图片生成器](https://spacexcode.com/coverview/)
+开源的跨平台桌面软件，用来将文件批量重命名。（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4491) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051108.webp)
+另有一个类似的照片重命名软件 [Rename Photos](https://github.com/Arman19941113/rename-photos)。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/4513) 投稿）
 
-一个制作简单封面图的 Web 工具。（[@fantingsheng](https://github.com/ruanyf/weekly/issues/4439) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052311.webp)
 
-另外，还有一个类似的 Logo 制作工具“[Logo 厨师](https://www.logocook.shop/)”。（[@gdfsdjj145](https://github.com/ruanyf/weekly/issues/4455) 投稿）
+6、[Keyviz](https://github.com/mulaRahul/keyviz)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051507.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052204.webp)
 
-7、[Easy Voice Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
+开源的 Windows 软件，在桌面上显示用户实时的按键。（[@Y024](https://github.com/ruanyf/weekly/issues/4505) 投稿）
 
-一个简易的语音工具箱，提供音频处理、语音识别、合成等音频工具，使用 Python 语言开发。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/4471) 投稿）
+7、[XIAOJUSURVEY](https://github.com/didi/xiaoju-survey)
 
-8、[Segmentify](https://segmentify.app/zh)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052310.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051509.webp)
+一套开源的问卷系统，自带后端和前端，用于架设管理自己的问卷。（[@sudoooooo](https://github.com/ruanyf/weekly/issues/4510) 投稿）
 
-一个 Figma 插件，使用浏览器 GPU 能力运行 AI SAM 模型，快速分割图片，从图片中提取元素至 Figma 文件。（[@janily](https://github.com/ruanyf/weekly/issues/4472) 投稿）
+8、[Quetta](https://www.quetta.net/)
 
-9、[Web-Tracing](https://github.com/M-cheng-web/web-tracing)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051504.webp)
+一个注意保护个人隐私的手机浏览器，支持 iOS 和安卓，不收集用户的任何数据，也防止被网站收集。
 
-一个开源的前端埋点工具，提供项目监控。（[@M-cheng-web](https://github.com/ruanyf/weekly/issues/4451) 投稿）
+9、[Sandstorm](https://sandstorm.io/)
 
-10、[Technitium DNS](https://technitium.com/dns/)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060504.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011706.webp)
+一个开源的 Web 应用软件商店，安装以后，就可以在它的商店里面，点击安装/运行多种 Web 应用。
 
-一款开源 DNS 服务器，带有 Web 管理面板。
+10、[Database Diagram](https://databasediagram.com/)
 
-11、[QR code designer](https://github.com/kochrt/qr-designer)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023053102.webp)
+一个免费网站，在线生成数据库的 ER（实体-关系）图。
 
-一个 Web 工具，用来设计二维码，可以嵌入各种文字和图形，另有一个[类似工具](http://jsfiddle.net/lachlan/r8qWV/)。
+11、[autocomplete](https://github.com/algolia/autocomplete)
 
-12、[BullMQ](https://github.com/taskforcesh/bullmq)
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111202.webp)
-
-Redis 的 JS 客户端，号称强大且快速。
+Algolia 公司推出的 JS 库，实现搜索关键字的自动补全。
 
 
 ### 资源
 
 
-1、[LaTeX 入门与进阶](https://latex.lierhua.top/zh/)
+1、[学习 Rust 的 100 个练习](https://rust-exercises.com/01_intro/00_welcome)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051107.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051807.webp)
 
-网友写的中文书籍，介绍如何使用 LaTeX 和宏包编写。（[@immotal](https://github.com/ruanyf/weekly/issues/4436) 投稿）
+Rust 语言的一个初学者教程，通过100个练习来学习这门语言。
 
-2、[URLhaus 数据库](https://urlhaus.abuse.ch/browse/)
+2、[JavaScript 语法问题](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051808.webp)
 
-这个数据库专门收集各种恶意 URL 网址，目前已经收集了280万个，可以免费查询和下载。
+这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
 
-3、[数据科学导论](https://rafalab.dfci.harvard.edu/dsbook-part-1/)（Introduction to Data Science）
+3、[PlayPhrase.me](https://www.playphrase.me/)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052004.webp)
 
-开源的英文教材，源于哈佛大学同名课程，使用 R 语言学习数据科学。
+搜索一个英语短语，这个网站会展示包含这个短语的电影片段。
 
-4、[引脚定义](https://pinouts.org/)
+4、[ambiphone](https://ambiph.one/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010701.webp)
 
-一本免费英文电子书，收集了130种电子产品常见组件（比如 USB 口）的引脚定义。
+这个网站可以播放环境音和白噪声，适合当作背景音乐。
+
+5、[代理检测](https://proxy.incolumitas.com/proxy_detect.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010709.webp)
+
+该网站提供一系列测试，用来检测用户是否正在使用代理。
 
 
 <!-- End -->

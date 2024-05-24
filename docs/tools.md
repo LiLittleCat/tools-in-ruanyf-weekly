@@ -1,5 +1,80 @@
 # 工具
 
+## [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md#工具)
+
+
+1、[SunEditor](https://github.com/JiHong88/suneditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111801.webp)
+
+一个开源的“所见即所得”编辑器，兼容性比较好。
+
+2、[TrasHTTPandas](https://httpraccoons.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111905.webp)
+
+这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
+
+3、[安读](https://github.com/Anxcye/anx-reader)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051901.webp)
+
+一款使用 Flutter 编写的桌面读书软件，支持 WebDAV 同步。（[@Anxcye](https://github.com/ruanyf/weekly/issues/4486) 投稿）
+
+4、[VSpace](https://vspace.cyhuajuan.site/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052202.webp)
+
+一个浏览器插件，提供侧边栏的垂直书签和标签页管理器。
+（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4490) 投稿）
+
+5、[FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052203.webp)
+
+开源的跨平台桌面软件，用来将文件批量重命名。（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4491) 投稿）
+
+另有一个类似的照片重命名软件 [Rename Photos](https://github.com/Arman19941113/rename-photos)。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/4513) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052311.webp)
+
+6、[Keyviz](https://github.com/mulaRahul/keyviz)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052204.webp)
+
+开源的 Windows 软件，在桌面上显示用户实时的按键。（[@Y024](https://github.com/ruanyf/weekly/issues/4505) 投稿）
+
+7、[XIAOJUSURVEY](https://github.com/didi/xiaoju-survey)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052310.webp)
+
+一套开源的问卷系统，自带后端和前端，用于架设管理自己的问卷。（[@sudoooooo](https://github.com/ruanyf/weekly/issues/4510) 投稿）
+
+8、[Quetta](https://www.quetta.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012001.webp)
+
+一个注意保护个人隐私的手机浏览器，支持 iOS 和安卓，不收集用户的任何数据，也防止被网站收集。
+
+9、[Sandstorm](https://sandstorm.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060504.webp)
+
+一个开源的 Web 应用软件商店，安装以后，就可以在它的商店里面，点击安装/运行多种 Web 应用。
+
+10、[Database Diagram](https://databasediagram.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060902.webp)
+
+一个免费网站，在线生成数据库的 ER（实体-关系）图。
+
+11、[autocomplete](https://github.com/algolia/autocomplete)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060904.webp)
+
+Algolia 公司推出的 JS 库，实现搜索关键字的自动补全。
+
+
 ## [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-300.md#工具)
 
 
