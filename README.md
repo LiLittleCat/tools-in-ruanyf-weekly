@@ -16,116 +16,111 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>301</currentVersion> -->
+<!-- <currentVersion>302</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md)
+# [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md)
 ### 工具
 
 
-1、[SunEditor](https://github.com/JiHong88/suneditor)
+1、[SocialScreenshots](https://socialscreenshots.com/editor)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052607.webp)
 
-一个开源的“所见即所得”编辑器，兼容性比较好。
+一个在线的截图美化软件。
 
-2、[TrasHTTPandas](https://httpraccoons.com/)
+2、[Sink](https://github.com/ccbikai/Sink)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052702.webp)
 
-这个网站提供各种状态码的 HTTP 回应，供 API 调用，可以用来调试前端请求。
+一个基于 Cloudflare 的短链接应用，带有访问统计。（[@ccbikai](https://github.com/ruanyf/weekly/issues/4529) 投稿）
 
-3、[安读](https://github.com/Anxcye/anx-reader)
+3、[PicImpact](https://github.com/besscroft/PicImpact)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052801.webp)
 
-一款使用 Flutter 编写的桌面读书软件，支持 WebDAV 同步。（[@Anxcye](https://github.com/ruanyf/weekly/issues/4486) 投稿）
+一个 Web 相册程序，基于 Next.js。（[@besscroft](https://github.com/ruanyf/weekly/issues/4526) 投稿）
 
-4、[VSpace](https://vspace.cyhuajuan.site/)
+4、[Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053004.webp)
 
-一个浏览器插件，提供侧边栏的垂直书签和标签页管理器。
-（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4490) 投稿）
+一个开源的“瀑布流”照片展示程序，后端可以放在免费的 Cloudflare R2（或其他兼容 AWS S3 的存储），参见 [Demo](https://gallery-portfolio.wiki-power.com/)。（[@linyuxuanlin](https://github.com/ruanyf/weekly/issues/4535) 投稿）
 
-5、[FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+5、[widget-qrcode](https://github.com/mumuy/widget-qrcode)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052802.webp)
 
-开源的跨平台桌面软件，用来将文件批量重命名。（[@cyhuajuan](https://github.com/ruanyf/weekly/issues/4491) 投稿）
+一个网页二维码的 web component 组件，支持自定义二维码风格模板、前景、背景、logo等。（[@mumuy](https://github.com/ruanyf/weekly/issues/4530) 投稿）
 
-另有一个类似的照片重命名软件 [Rename Photos](https://github.com/Arman19941113/rename-photos)。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/4513) 投稿）
+6、[ChatTTS](https://github.com/2noise/ChatTTS)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052311.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053005.webp)
 
-6、[Keyviz](https://github.com/mulaRahul/keyviz)
+专门为对话场景设计的文本转语音模型，支持英语和中文两种语音。（[@JoeDeanx](https://github.com/ruanyf/weekly/issues/4546) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052204.webp)
+7、[KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-开源的 Windows 软件，在桌面上显示用户实时的按键。（[@Y024](https://github.com/ruanyf/weekly/issues/4505) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053006.webp)
 
-7、[XIAOJUSURVEY](https://github.com/didi/xiaoju-survey)
+一款油猴脚本，为 ChatGPT 页面增强功能。（[@Y024](https://github.com/ruanyf/weekly/issues/4548) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052310.webp)
+8、[Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)
 
-一套开源的问卷系统，自带后端和前端，用于架设管理自己的问卷。（[@sudoooooo](https://github.com/ruanyf/weekly/issues/4510) 投稿）
+一个封装好的邮件服务器，简单安装就能提供你自己的电子邮件服务。
 
-8、[Quetta](https://www.quetta.net/)
+9、[Subtitle](https://github.com/innovatorved/subtitle)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012001.webp)
+一个 Python 程序，使用开源 Whisper ASR 模型进行语音识别，生成本地视频的字幕。
 
-一个注意保护个人隐私的手机浏览器，支持 iOS 和安卓，不收集用户的任何数据，也防止被网站收集。
+10、[cobalt](https://github.com/wukko/cobalt)
 
-9、[Sandstorm](https://sandstorm.io/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060504.webp)
+一个开源的视频下载网址，支持多个视频网站，包括 B 站、Youtube、instagram 和 Twitter。
 
-一个开源的 Web 应用软件商店，安装以后，就可以在它的商店里面，点击安装/运行多种 Web 应用。
+11、[LLM 交互式图表](https://columns.ai/chatgpt)
 
-10、[Database Diagram](https://databasediagram.com/)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052501.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060902.webp)
+用户输入想要的图表，比如“发电量前十的国家”，该网站会自动生成。
 
-一个免费网站，在线生成数据库的 ER（实体-关系）图。
+12、[tldraw](https://tldraw.dev/introduction)
 
-11、[autocomplete](https://github.com/algolia/autocomplete)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112707.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060904.webp)
-
-Algolia 公司推出的 JS 库，实现搜索关键字的自动补全。
+一个 React 组件，帮你实现一个网页画板。
 
 
 ### 资源
 
 
-1、[学习 Rust 的 100 个练习](https://rust-exercises.com/01_intro/00_welcome)（英文）
+1、[方块中的方块](https://kingbird.myphotos.cc/packing/squares_in_squares.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111315.webp)
 
-Rust 语言的一个初学者教程，通过100个练习来学习这门语言。
+该网页收集可以容纳 n 个单位正方形的最小正方形。
 
-2、[JavaScript 语法问题](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)（中文）
+举例来说，上图是容纳5个单位正方形的正方形，下图是容纳10个单位正方形。
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051808.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111316.webp)
 
-这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
+2、[掌握比特币：开放区块链编程](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)（第三版）
 
-3、[PlayPhrase.me](https://www.playphrase.me/)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052004.webp)
+一本免费阅读的英文电子书。
 
-搜索一个英语短语，这个网站会展示包含这个短语的电影片段。
+3、[Docland](https://docland.io/)
 
-4、[ambiphone](https://ambiph.one/)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052704.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010701.webp)
+这个网站可以快速查找 Java 的 API。
 
-这个网站可以播放环境音和白噪声，适合当作背景音乐。
+4、[矢量数据库介绍](https://zilliz.com/blog?tag=39&page=2)（Vector Database Stories）
 
-5、[代理检测](https://proxy.incolumitas.com/proxy_detect.html)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071310.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010709.webp)
-
-该网站提供一系列测试，用来检测用户是否正在使用代理。
+一组矢量数据库的介绍文章，这是相似性搜索的基础。
 
 
 <!-- End -->

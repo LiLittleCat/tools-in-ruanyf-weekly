@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md#资源)
+
+
+1、[方块中的方块](https://kingbird.myphotos.cc/packing/squares_in_squares.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111315.webp)
+
+该网页收集可以容纳 n 个单位正方形的最小正方形。
+
+举例来说，上图是容纳5个单位正方形的正方形，下图是容纳10个单位正方形。
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111316.webp)
+
+2、[掌握比特币：开放区块链编程](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)（第三版）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052701.webp)
+
+一本免费阅读的英文电子书。
+
+3、[Docland](https://docland.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052704.webp)
+
+这个网站可以快速查找 Java 的 API。
+
+4、[矢量数据库介绍](https://zilliz.com/blog?tag=39&page=2)（Vector Database Stories）
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071310.webp)
+
+一组矢量数据库的介绍文章，这是相似性搜索的基础。
+
+
 ## [科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](https://github.com/ruanyf/weekly/blob/master/docs/issue-301.md#资源)
 
 
