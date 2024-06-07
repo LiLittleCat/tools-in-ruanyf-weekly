@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 303 期）：技术封建主义](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md#资源)
+
+
+1、[全国行政区域边界数据](https://geojson.hxkj.vip/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060302.webp)
+
+全国省市区县行政边界数据免费下载，API 接口实时更新，适用于 echarts 等地图应用，查看[代码仓库](https://github.com/TangSY/echarts-map-demo)。（[@TangSY](https://github.com/ruanyf/weekly/issues/4562) 投稿）
+
+2、[Job In Corner](https://jobincorner.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060305.webp)
+
+一个程序员招聘信息聚合网站，采集自各种社交平台/社区。（[@Yidoon](https://github.com/ruanyf/weekly/issues/4567) 投稿）
+
+3、[薄冰大学英语语法](https://oldwestenglish.github.io/grammar/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032804.webp)
+
+《薄冰大学英语语法》的在线阅读。
+
+4、[理解深度学习](https://udlbook.github.io/udlbook/)（Understanding Deep Learning）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112702.webp)
+
+免费阅读的英文电子书，深度学习的入门教材。类似的书籍还有[《Dive into Deep Learning》](https://d2l.ai/)。
+
+
 ## [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md#资源)
 
 

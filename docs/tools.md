@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 303 期）：技术封建主义](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md#工具)
+
+
+1、[sqlite-web](https://github.com/coleifer/sqlite-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020901.webp)
+
+基于 Web 的 SQLite 数据库浏览器。
+
+2、[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
+开源的语音库，支持各种平台（包括手机和 PC），用来本地语音识别、语音合成、声音事件检测、语种检测等。（[@csukuangfj](https://github.com/ruanyf/weekly/issues/4364) 投稿）
+
+3、[Best Cookier](https://github.com/Dolov/chrome-best-cookier)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060303.webp)
+
+一个浏览器插件，提供 Cookie 管理器，可以方便地编辑、查找、监控、导出 Cookie。（[@Dolov](https://github.com/ruanyf/weekly/issues/4564) 投稿）
+
+4、[Image Manager](https://github.com/hemengke1997/vscode-image-manager)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060304.webp)
+
+VS Code 的插件，用来管理图片，支持压缩、搜索、裁剪、查找相似图片、预览大图等功能。（[@hemengke1997](https://github.com/ruanyf/weekly/issues/4565) 投稿）
+
+5、[Rin](https://github.com/OXeu/Rin)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060601.webp)
+
+一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客项目，参见 [demo](https://xeu.life/)。（[@OXeu](https://github.com/ruanyf/weekly/issues/4580) 投稿）
+
+6、[Web MediaDevices Player](https://github.com/canwdev/web-mediadevices-player)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060403.webp)
+
+网页版的 HDMI 采集卡，也可用作 Webcam 查看器，用来在网页上处理输入的视频/音频，同时提供 Tauri 打包的客户端。（[@canwdev](https://github.com/ruanyf/weekly/issues/4569) 投稿）
+
+7、[ShotEasy](https://shoteasy.fun/image-compressor)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060404.webp)
+
+在线的图像文件压缩器，可以批量拖入或文件夹导入图片，[代码](https://github.com/CH563/shot-easy-website)开源。（[@CH563](https://github.com/ruanyf/weekly/issues/4571) 投稿）
+
+8、[Tabulator](https://tabulator.info/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021002.webp)
+
+一个 JS 的表格库，用来生成互动式网页表格。
+
+9、[Toolong](https://github.com/Textualize/toolong)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021101.webp)
+
+一个用来查看日志文件的命令行工具。
+
+10、[Dozzle](https://dozzle.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021105.webp)
+
+一个轻量级的 Docker 日志查看工具。
+
+
 ## [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](https://github.com/ruanyf/weekly/blob/master/docs/issue-302.md#工具)
 
 
