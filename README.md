@@ -16,97 +16,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>303</currentVersion> -->
+<!-- <currentVersion>304</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 303 期）：技术封建主义](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md)
+# [科技爱好者周刊（第 304 期）：最受欢迎的颜色](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md)
 ### 工具
 
 
-1、[sqlite-web](https://github.com/coleifer/sqlite-web)
+1、[PartyKit](https://www.partykit.io/) 
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100209.webp)
 
-基于 Web 的 SQLite 数据库浏览器。
+一个 npm 软件包，宣称用它就可以实现各种软件的实时协作。
 
-2、[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+2、[Proton Pass](https://proton.me/pass)
 
-开源的语音库，支持各种平台（包括手机和 PC），用来本地语音识别、语音合成、声音事件检测、语种检测等。（[@csukuangfj](https://github.com/ruanyf/weekly/issues/4364) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060802.webp)
 
-3、[Best Cookier](https://github.com/Dolov/chrome-best-cookier)
+Proton 公司新推出的密码管理器，支持各种系统。
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060303.webp)
+3、[dblab](https://github.com/danvergara/dblab)
 
-一个浏览器插件，提供 Cookie 管理器，可以方便地编辑、查找、监控、导出 Cookie。（[@Dolov](https://github.com/ruanyf/weekly/issues/4564) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060803.webp)
 
-4、[Image Manager](https://github.com/hemengke1997/vscode-image-manager)
+开源的数据库终端管理器，可以作为常见数据库的命令行终端客户端。
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060304.webp)
+4、[Gblog](https://github.com/godruoyi/gblog)
 
-VS Code 的插件，用来管理图片，支持压缩、搜索、裁剪、查找相似图片、预览大图等功能。（[@hemengke1997](https://github.com/ruanyf/weekly/issues/4565) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060805.webp)
 
-5、[Rin](https://github.com/OXeu/Rin)
+一个开源的、基于 Astro 的博客项目。（[@godruoyi](https://github.com/ruanyf/weekly/issues/4595) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060601.webp)
+5、[Websoft9](https://github.com/Websoft9/websoft9)
 
-一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客项目，参见 [demo](https://xeu.life/)。（[@OXeu](https://github.com/ruanyf/weekly/issues/4580) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060806.webp)
 
-6、[Web MediaDevices Player](https://github.com/canwdev/web-mediadevices-player)
+开源的应用托管平台，预置了200多种应用的部署模板，通过它可以一键部署这些应用。（[@chendelin1982](https://github.com/ruanyf/weekly/issues/4597) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060403.webp)
+6、[Pareto](https://github.com/childrentime/pareto)
 
-网页版的 HDMI 采集卡，也可用作 Webcam 查看器，用来在网页上处理输入的视频/音频，同时提供 Tauri 打包的客户端。（[@canwdev](https://github.com/ruanyf/weekly/issues/4569) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061103.webp)
 
-7、[ShotEasy](https://shoteasy.fun/image-compressor)
+一个轻量级 React SSR（服务端渲染）框架，比 next.js 更简单易用。（[@childrentime](https://github.com/ruanyf/weekly/issues/4608) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060404.webp)
+7、[Siphon 吸词](https://siphon.ink/)
 
-在线的图像文件压缩器，可以批量拖入或文件夹导入图片，[代码](https://github.com/CH563/shot-easy-website)开源。（[@CH563](https://github.com/ruanyf/weekly/issues/4571) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061105.webp)
 
-8、[Tabulator](https://tabulator.info/)
+一个浏览器插件，也有客户端和小程序，双击英语单词自动加入到生词本，便于以后进行复习。（[@chaosflutter](https://github.com/ruanyf/weekly/issues/4610) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021002.webp)
+8、[电子发票提取 Excel](https://airegex.cn/)
 
-一个 JS 的表格库，用来生成互动式网页表格。
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061108.webp)
 
-9、[Toolong](https://github.com/Textualize/toolong)
+电子发票 PDF 打包成一个 zip 文件，上传到网站，自动整理成 Excel 电子表格。（[@zippo-zu](https://github.com/ruanyf/weekly/issues/4605) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021101.webp)
+9、[缤纷快传](https://send.bitiful.com/)
 
-一个用来查看日志文件的命令行工具。
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061209.webp)
 
-10、[Dozzle](https://dozzle.dev/)
-
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021105.webp)
-
-一个轻量级的 Docker 日志查看工具。
+基于缤纷云的文件实时分享服务。（[@ethan-bitiful](https://github.com/ruanyf/weekly/issues/4619) 投稿）
 
 
 ### 资源
 
 
-1、[全国行政区域边界数据](https://geojson.hxkj.vip/)
+1、[Awesome ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060302.webp)
+这个仓库收集文本转语音库 [ChatTTS](https://github.com/2noise/ChatTTS) 的相关开源项目和工具。（[@panyanyany](https://github.com/ruanyf/weekly/issues/4598) 投稿）
 
-全国省市区县行政边界数据免费下载，API 接口实时更新，适用于 echarts 等地图应用，查看[代码仓库](https://github.com/TangSY/echarts-map-demo)。（[@TangSY](https://github.com/ruanyf/weekly/issues/4562) 投稿）
+2、[No-Bullshit Games](https://nobsgames.stavros.io/)
 
-2、[Job In Corner](https://jobincorner.com/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112708.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060305.webp)
+这个网站列出作者精选的手机游戏，安卓和 iOS 各有五六百个。
 
-一个程序员招聘信息聚合网站，采集自各种社交平台/社区。（[@Yidoon](https://github.com/ruanyf/weekly/issues/4567) 投稿）
+3、[SearchTheDeck](https://searchthedeck.com/)
 
-3、[薄冰大学英语语法](https://oldwestenglish.github.io/grammar/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112808.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032804.webp)
-
-《薄冰大学英语语法》的在线阅读。
-
-4、[理解深度学习](https://udlbook.github.io/udlbook/)（Understanding Deep Learning）
-
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112702.webp)
-
-免费阅读的英文电子书，深度学习的入门教材。类似的书籍还有[《Dive into Deep Learning》](https://d2l.ai/)。
+这个网站收集了15000多张项目宣讲的 PPT（英语 pitch deck），供用户搜索。
 
 
 <!-- End -->

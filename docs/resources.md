@@ -1,5 +1,25 @@
 # 资源
 
+## [科技爱好者周刊（第 304 期）：最受欢迎的颜色](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md#资源)
+
+
+1、[Awesome ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS)
+
+这个仓库收集文本转语音库 [ChatTTS](https://github.com/2noise/ChatTTS) 的相关开源项目和工具。（[@panyanyany](https://github.com/ruanyf/weekly/issues/4598) 投稿）
+
+2、[No-Bullshit Games](https://nobsgames.stavros.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112708.webp)
+
+这个网站列出作者精选的手机游戏，安卓和 iOS 各有五六百个。
+
+3、[SearchTheDeck](https://searchthedeck.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112808.webp)
+
+这个网站收集了15000多张项目宣讲的 PPT（英语 pitch deck），供用户搜索。
+
+
 ## [科技爱好者周刊（第 303 期）：技术封建主义](https://github.com/ruanyf/weekly/blob/master/docs/issue-303.md#资源)
 
 
