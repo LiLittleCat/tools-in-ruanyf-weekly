@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 305 期）：随机数，这是一个问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md#资源)
+
+
+1、[开发者必须了解的 Unicode 知识](https://tonsky.me/blog/unicode/)（2023版）
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100210.webp)
+
+这篇长文介绍最新的 Unicode 知识。
+
+2、[loadership](https://www.loadership.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012002.webp)
+
+该网站可以定制纯 CSS 的页面加载动画（loader）。
+
+3、[现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)（Modern C++ Programming）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112902.webp)
+
+一个开源的 C++ 英文教程。
+
+
 ## [科技爱好者周刊（第 304 期）：最受欢迎的颜色](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md#资源)
 
 

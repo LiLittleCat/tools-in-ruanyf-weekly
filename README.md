@@ -16,85 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>304</currentVersion> -->
+<!-- <currentVersion>305</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 304 期）：最受欢迎的颜色](https://github.com/ruanyf/weekly/blob/master/docs/issue-304.md)
+# [科技爱好者周刊（第 305 期）：随机数，这是一个问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md)
 ### 工具
 
 
-1、[PartyKit](https://www.partykit.io/) 
+1、[Postgres.js](https://github.com/porsager/postgres)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100209.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101401.webp)
 
-一个 npm 软件包，宣称用它就可以实现各种软件的实时协作。
+Node.js 和 Deno 的 PostgreSQL 客户端，类似软件还有 [Zapatos](https://jawj.github.io/zapatos/)。
 
-2、[Proton Pass](https://proton.me/pass)
+2、[OpenccLint](https://opencclint.vercel.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061601.webp)
 
-Proton 公司新推出的密码管理器，支持各种系统。
+一个基于 OpenCC 的繁简体中文转换工具，支持编辑器和命令行界面。（[@hddhyq](https://github.com/ruanyf/weekly/issues/4629) 投稿）
 
-3、[dblab](https://github.com/danvergara/dblab)
+3、[BiliVideoDown](https://github.com/kangpeiqin/bilivideo_down)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061604.webp)
 
-开源的数据库终端管理器，可以作为常见数据库的命令行终端客户端。
+一款基于 Flutter 的桌面端 B 站视频下载器，代码开源。（[@kangpeiqin](https://github.com/ruanyf/weekly/issues/4640) 投稿）
 
-4、[Gblog](https://github.com/godruoyi/gblog)
+4、[AQChat](https://gitee.com/howcode/aq-chat-server)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061605.webp)
 
-一个开源的、基于 Astro 的博客项目。（[@godruoyi](https://github.com/ruanyf/weekly/issues/4595) 投稿）
+一款匿名的在线聊天软件，用户可以自由登录、创建房间、会话和传输文件，体验 [demo](https://aqchat.run/)。链接是后端代码，另有 [Web 端](https://gitee.com/howcode/aq-chat)和[移动端](https://gitee.com/ghosthhf/aqchat-mobile)。（[@howcodes](https://github.com/ruanyf/weekly/issues/4643) 投稿）
 
-5、[Websoft9](https://github.com/Websoft9/websoft9)
+5、[Voicer](https://voicer.hellogeek.work/)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061808.webp)
 
-开源的应用托管平台，预置了200多种应用的部署模板，通过它可以一键部署这些应用。（[@chendelin1982](https://github.com/ruanyf/weekly/issues/4597) 投稿）
+一个 Chrome 浏览器插件，用来语音朗读网页文本。（[@wang-jianliang](https://github.com/ruanyf/weekly/issues/4647) 投稿）
 
-6、[Pareto](https://github.com/childrentime/pareto)
+6、[易条形](https://www.1txm.com/barcode)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061810.webp)
 
-一个轻量级 React SSR（服务端渲染）框架，比 next.js 更简单易用。（[@childrentime](https://github.com/ruanyf/weekly/issues/4608) 投稿）
+一个在线的条形码生成器。（[@FZliweiliang](https://github.com/ruanyf/weekly/issues/4651) 投稿）
 
-7、[Siphon 吸词](https://siphon.ink/)
+7、[ScienHub](https://scienhub.com/templates)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061812.webp)
 
-一个浏览器插件，也有客户端和小程序，双击英语单词自动加入到生词本，便于以后进行复习。（[@chaosflutter](https://github.com/ruanyf/weekly/issues/4610) 投稿）
+LaTex 在线编辑器，提供很多实用的模板。（[@tc1989tc](https://github.com/ruanyf/weekly/issues/4657) 投稿）
 
-8、[电子发票提取 Excel](https://airegex.cn/)
+8、[trash.sh](https://github.com/qqAys/trash.sh)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061108.webp)
+rm 命令的简单替代品，提供一个删除文件的回收站。（[@qqAys](https://github.com/ruanyf/weekly/issues/4658) 投稿）
 
-电子发票 PDF 打包成一个 zip 文件，上传到网站，自动整理成 Excel 电子表格。（[@zippo-zu](https://github.com/ruanyf/weekly/issues/4605) 投稿）
+9、[我的字体](https://cloud.myfont.bid/)
 
-9、[缤纷快传](https://send.bitiful.com/)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061813.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061209.webp)
+一个制作个人手写字体的在线工具。（[@harbor2009](https://github.com/ruanyf/weekly/issues/4659) 投稿）
 
-基于缤纷云的文件实时分享服务。（[@ethan-bitiful](https://github.com/ruanyf/weekly/issues/4619) 投稿）
+10、[lingo link](https://github.com/chengfengfengwang/lingo-link/blob/main/README_ZH-CN.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062001.webp)
+
+一个开源的浏览器插件，支持划词翻译、AI 翻译、生词标记。（[@chengfengfengwang](https://github.com/ruanyf/weekly/issues/4670) 投稿）
 
 
 ### 资源
 
 
-1、[Awesome ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS)
+1、[开发者必须了解的 Unicode 知识](https://tonsky.me/blog/unicode/)（2023版）
 
-这个仓库收集文本转语音库 [ChatTTS](https://github.com/2noise/ChatTTS) 的相关开源项目和工具。（[@panyanyany](https://github.com/ruanyf/weekly/issues/4598) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100210.webp)
 
-2、[No-Bullshit Games](https://nobsgames.stavros.io/)
+这篇长文介绍最新的 Unicode 知识。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112708.webp)
+2、[loadership](https://www.loadership.com/)
 
-这个网站列出作者精选的手机游戏，安卓和 iOS 各有五六百个。
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012002.webp)
 
-3、[SearchTheDeck](https://searchthedeck.com/)
+该网站可以定制纯 CSS 的页面加载动画（loader）。
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112808.webp)
+3、[现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)（Modern C++ Programming）
 
-这个网站收集了15000多张项目宣讲的 PPT（英语 pitch deck），供用户搜索。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112902.webp)
+
+一个开源的 C++ 英文教程。
 
 
 <!-- End -->
