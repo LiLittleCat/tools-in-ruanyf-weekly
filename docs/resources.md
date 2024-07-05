@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md#资源)
+
+
+1、[CompuServe.com](https://www.compuserve.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082301.webp)
+
+这个网站恐怕绝无仅有，还保留着20年前的样貌，并且每天在更新。它是供电话拨号上网用户使用的，一直保留到了现在。大家可以感受一下20年前的网站是什么样的。
+
+2、[英文博客汇聚](https://infos.imhcg.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070302.webp)
+
+该网站汇总每周的英文技术博客，并提供每篇文章的中文摘要。（[@hochenggang](https://github.com/ruanyf/weekly/issues/4730) 投稿）
+
+3、[DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070304.webp)
+
+一本 GPT4 生成的英语单词书，收入8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734) 投稿）
+
+4、[ImageSearch](https://picfind.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070402.webp)
+
+一个以图搜图的网站，聚合了百度和谷歌的结果。（[@DBAAZzz](https://github.com/ruanyf/weekly/issues/4769) 投稿）
+
+
 ## [科技爱好者周刊（第 305 期）：随机数，这是一个问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md#资源)
 
 

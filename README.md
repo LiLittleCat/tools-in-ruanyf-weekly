@@ -16,91 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>305</currentVersion> -->
+<!-- <currentVersion>307</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 305 期）：随机数，这是一个问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-305.md)
+# [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md)
 ### 工具
 
 
-1、[Postgres.js](https://github.com/porsager/postgres)
+1、[Magick.CSS](https://css.winterveil.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032302.webp)
 
-Node.js 和 Deno 的 PostgreSQL 客户端，类似软件还有 [Zapatos](https://jawj.github.io/zapatos/)。
+一个最简化的 CSS 框架。
 
-2、[OpenccLint](https://opencclint.vercel.app/)
+2、[Pulsar](https://pulsar-edit.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024063006.webp)
 
-一个基于 OpenCC 的繁简体中文转换工具，支持编辑器和命令行界面。（[@hddhyq](https://github.com/ruanyf/weekly/issues/4629) 投稿）
+一个跨平台的文本编辑器，代码基础是现已结束的 Atom 编辑器。 
 
-3、[BiliVideoDown](https://github.com/kangpeiqin/bilivideo_down)
+3、[Onefetch](https://github.com/o2sh/onefetch)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032409.webp)
 
-一款基于 Flutter 的桌面端 B 站视频下载器，代码开源。（[@kangpeiqin](https://github.com/ruanyf/weekly/issues/4640) 投稿）
+一个命令行工具，可以显示 Git 仓库的详细统计信息，比如代码行数、体积、贡献者等等。
 
-4、[AQChat](https://gitee.com/howcode/aq-chat-server)
+4、[hashplate-cn](https://github.com/cunzaizhuyi/hashplate-cn)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061605.webp)
+一个字符串的哈希函数，生成结果为中国车牌格式，比如“渝G·VGUA1”。（[@cunzaizhuyi](https://github.com/ruanyf/weekly/issues/4767) 投稿）
 
-一款匿名的在线聊天软件，用户可以自由登录、创建房间、会话和传输文件，体验 [demo](https://aqchat.run/)。链接是后端代码，另有 [Web 端](https://gitee.com/howcode/aq-chat)和[移动端](https://gitee.com/ghosthhf/aqchat-mobile)。（[@howcodes](https://github.com/ruanyf/weekly/issues/4643) 投稿）
+5、[PIKIMOV](https://pikimov.com/)
 
-5、[Voicer](https://voicer.hellogeek.work/)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070211.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061808.webp)
+一个在线软件，用来制作 2D 和 3D 的视频动画，After Effects 的替代品。
 
-一个 Chrome 浏览器插件，用来语音朗读网页文本。（[@wang-jianliang](https://github.com/ruanyf/weekly/issues/4647) 投稿）
+6、[流光卡片](https://fireflycard.shushiai.com/)
 
-6、[易条形](https://www.1txm.com/barcode)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061810.webp)
+一个在线工具，生成文字分享的卡片图。（[@someone1128](https://github.com/ruanyf/weekly/issues/4737) 投稿）
 
-一个在线的条形码生成器。（[@FZliweiliang](https://github.com/ruanyf/weekly/issues/4651) 投稿）
+7、[StarFlare](https://starflare.app/)
 
-7、[ScienHub](https://scienhub.com/templates)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061812.webp)
+一个 Web 应用程序，用来管理你在 GitHub 上给过 star 的项目。（[@nieheyong](https://github.com/ruanyf/weekly/issues/4732) 投稿）
 
-LaTex 在线编辑器，提供很多实用的模板。（[@tc1989tc](https://github.com/ruanyf/weekly/issues/4657) 投稿）
+8、[inWind Landing Page](https://github.com/huglemon/inwind-landing-page)
 
-8、[trash.sh](https://github.com/qqAys/trash.sh)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070307.webp)
 
-rm 命令的简单替代品，提供一个删除文件的回收站。（[@qqAys](https://github.com/ruanyf/weekly/issues/4658) 投稿）
+一个开源的落地页模板，适合作为产品主页。（[@huglemon](https://github.com/ruanyf/weekly/issues/4746) 投稿）
 
-9、[我的字体](https://cloud.myfont.bid/)
+9、[宝宝字帖](https://github.com/jaywcjlove/copybook-generator)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061813.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070308.webp)
 
-一个制作个人手写字体的在线工具。（[@harbor2009](https://github.com/ruanyf/weekly/issues/4659) 投稿）
+一个开源的 Mac 应用，用来生成字帖，练习书写。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/4755) 投稿）
 
-10、[lingo link](https://github.com/chengfengfengwang/lingo-link/blob/main/README_ZH-CN.md)
+10、[Live Earth Wallpaper](https://play.google.com/store/apps/details?id=com.earth.wallpaper)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070309.webp)
 
-一个开源的浏览器插件，支持划词翻译、AI 翻译、生词标记。（[@chengfengfengwang](https://github.com/ruanyf/weekly/issues/4670) 投稿）
+一个安卓 App，每半小时动态更新的卫星影像壁纸。（[@GongShengyue](https://github.com/ruanyf/weekly/issues/4758) 投稿）
 
 
 ### 资源
 
 
-1、[开发者必须了解的 Unicode 知识](https://tonsky.me/blog/unicode/)（2023版）
+1、[CompuServe.com](https://www.compuserve.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100210.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082301.webp)
 
-这篇长文介绍最新的 Unicode 知识。
+这个网站恐怕绝无仅有，还保留着20年前的样貌，并且每天在更新。它是供电话拨号上网用户使用的，一直保留到了现在。大家可以感受一下20年前的网站是什么样的。
 
-2、[loadership](https://www.loadership.com/)
+2、[英文博客汇聚](https://infos.imhcg.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024012002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070302.webp)
 
-该网站可以定制纯 CSS 的页面加载动画（loader）。
+该网站汇总每周的英文技术博客，并提供每篇文章的中文摘要。（[@hochenggang](https://github.com/ruanyf/weekly/issues/4730) 投稿）
 
-3、[现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)（Modern C++ Programming）
+3、[DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070304.webp)
 
-一个开源的 C++ 英文教程。
+一本 GPT4 生成的英语单词书，收入8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734) 投稿）
+
+4、[ImageSearch](https://picfind.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070402.webp)
+
+一个以图搜图的网站，聚合了百度和谷歌的结果。（[@DBAAZzz](https://github.com/ruanyf/weekly/issues/4769) 投稿）
 
 
 <!-- End -->
