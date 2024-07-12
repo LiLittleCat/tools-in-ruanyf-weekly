@@ -1,5 +1,51 @@
 # 工具
 
+## [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md#工具)
+
+
+1、[KasmVNC](https://github.com/kasmtech/KasmVNC)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033102.webp)
+
+一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问。类似的软件还有 [Apache Guacamole](https://guacamole.apache.org/)。
+
+2、[Flet](https://flet.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070707.webp)
+
+一个 Python 的跨平台图形界面的框架，相当于用 Python 脚本写 Flutter 
+
+3、[QuickJS](https://github.com/sebastianwessel/quickjs)
+
+一个 npm 模块，使用 WebAssembly 建立了一个沙箱，让 JS 代码在沙箱中运行。
+
+4、[ShareDrop](https://github.com/szimek/sharedrop)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070809.webp)
+
+一个开源的 Web 应用，允许用户在局域网里通过 WebRTC 分享文件。如果不在同一局域网，可以进入同一个页面进行分享。
+
+5、[rss2newsletter](https://github.com/ElliotKillick/rss2newsletter)
+
+将 RSS 转换成邮件发送，用于自建邮件列表。
+
+6、[asciinema](https://github.com/gvcgo/asciinema/blob/main/docs/README_CN.md)
+
+终端录屏工具 asciinema 的跨平台版本，使用 Go 语言编写。（[@moqsien](https://github.com/ruanyf/weekly/issues/4792) 投稿）
+
+7、[EcoPaste](https://github.com/ayangweb/EcoPaste)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071102.webp)
+
+开源的多平台剪切板管理工具。（[@ayangweb](https://github.com/ruanyf/weekly/issues/4798) 投稿）
+
+8、[color4bg.js](https://github.com/winterx/color4bg.js)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071103.webp)
+
+生成动态、抽象的背景图的工具。（[@winterx](https://github.com/ruanyf/weekly/issues/4805) 投稿）
+
+
 ## [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md#工具)
 
 

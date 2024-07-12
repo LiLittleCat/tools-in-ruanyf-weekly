@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md#资源)
+
+
+1、[YTHunt](http://ythunt.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070708.webp)
+
+Youtube 热门视频的实时精选。
+
+2、[Linear Algebra Done Right](https://linear.axler.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103002.webp)
+
+一本英文的线性代数本科生教材，免费阅读。类似的教材还有[《Linear Algebra Done Wrong》](https://www.math.brown.edu/streil/papers/LADW/LADW.html)。
+
+3、[CSS 布局教程](https://book.mixu.net/css/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022914.webp)
+
+一组系列文章，介绍 CSS 布局的概念和各种实现方法。 
+
+4、[随机摄像头](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
+
+该网站从13000个世界各地的在线摄像头，随机选出9个，展示此刻的世界某个角落。
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122301.webp)
+
+它还按照内容，对这些摄像头进行了分类（机场、动物、车辆等等），可以分类查看。
+
+
 ## [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md#资源)
 
 

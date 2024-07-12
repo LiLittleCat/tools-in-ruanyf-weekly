@@ -16,97 +16,83 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>307</currentVersion> -->
+<!-- <currentVersion>308</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](https://github.com/ruanyf/weekly/blob/master/docs/issue-307.md)
+# [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md)
 ### 工具
 
 
-1、[Magick.CSS](https://css.winterveil.net/)
+1、[KasmVNC](https://github.com/kasmtech/KasmVNC)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033102.webp)
 
-一个最简化的 CSS 框架。
+一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问。类似的软件还有 [Apache Guacamole](https://guacamole.apache.org/)。
 
-2、[Pulsar](https://pulsar-edit.dev/)
+2、[Flet](https://flet.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024063006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070707.webp)
 
-一个跨平台的文本编辑器，代码基础是现已结束的 Atom 编辑器。 
+一个 Python 的跨平台图形界面的框架，相当于用 Python 脚本写 Flutter 
 
-3、[Onefetch](https://github.com/o2sh/onefetch)
+3、[QuickJS](https://github.com/sebastianwessel/quickjs)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032409.webp)
+一个 npm 模块，使用 WebAssembly 建立了一个沙箱，让 JS 代码在沙箱中运行。
 
-一个命令行工具，可以显示 Git 仓库的详细统计信息，比如代码行数、体积、贡献者等等。
+4、[ShareDrop](https://github.com/szimek/sharedrop)
 
-4、[hashplate-cn](https://github.com/cunzaizhuyi/hashplate-cn)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070809.webp)
 
-一个字符串的哈希函数，生成结果为中国车牌格式，比如“渝G·VGUA1”。（[@cunzaizhuyi](https://github.com/ruanyf/weekly/issues/4767) 投稿）
+一个开源的 Web 应用，允许用户在局域网里通过 WebRTC 分享文件。如果不在同一局域网，可以进入同一个页面进行分享。
 
-5、[PIKIMOV](https://pikimov.com/)
+5、[rss2newsletter](https://github.com/ElliotKillick/rss2newsletter)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070211.webp)
+将 RSS 转换成邮件发送，用于自建邮件列表。
 
-一个在线软件，用来制作 2D 和 3D 的视频动画，After Effects 的替代品。
+6、[asciinema](https://github.com/gvcgo/asciinema/blob/main/docs/README_CN.md)
 
-6、[流光卡片](https://fireflycard.shushiai.com/)
+终端录屏工具 asciinema 的跨平台版本，使用 Go 语言编写。（[@moqsien](https://github.com/ruanyf/weekly/issues/4792) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070305.webp)
+7、[EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-一个在线工具，生成文字分享的卡片图。（[@someone1128](https://github.com/ruanyf/weekly/issues/4737) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071102.webp)
 
-7、[StarFlare](https://starflare.app/)
+开源的多平台剪切板管理工具。（[@ayangweb](https://github.com/ruanyf/weekly/issues/4798) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070303.webp)
+8、[color4bg.js](https://github.com/winterx/color4bg.js)
 
-一个 Web 应用程序，用来管理你在 GitHub 上给过 star 的项目。（[@nieheyong](https://github.com/ruanyf/weekly/issues/4732) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071103.webp)
 
-8、[inWind Landing Page](https://github.com/huglemon/inwind-landing-page)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070307.webp)
-
-一个开源的落地页模板，适合作为产品主页。（[@huglemon](https://github.com/ruanyf/weekly/issues/4746) 投稿）
-
-9、[宝宝字帖](https://github.com/jaywcjlove/copybook-generator)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070308.webp)
-
-一个开源的 Mac 应用，用来生成字帖，练习书写。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/4755) 投稿）
-
-10、[Live Earth Wallpaper](https://play.google.com/store/apps/details?id=com.earth.wallpaper)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070309.webp)
-
-一个安卓 App，每半小时动态更新的卫星影像壁纸。（[@GongShengyue](https://github.com/ruanyf/weekly/issues/4758) 投稿）
+生成动态、抽象的背景图的工具。（[@winterx](https://github.com/ruanyf/weekly/issues/4805) 投稿）
 
 
 ### 资源
 
 
-1、[CompuServe.com](https://www.compuserve.com/)
+1、[YTHunt](http://ythunt.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070708.webp)
 
-这个网站恐怕绝无仅有，还保留着20年前的样貌，并且每天在更新。它是供电话拨号上网用户使用的，一直保留到了现在。大家可以感受一下20年前的网站是什么样的。
+Youtube 热门视频的实时精选。
 
-2、[英文博客汇聚](https://infos.imhcg.cn/)
+2、[Linear Algebra Done Right](https://linear.axler.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103002.webp)
 
-该网站汇总每周的英文技术博客，并提供每篇文章的中文摘要。（[@hochenggang](https://github.com/ruanyf/weekly/issues/4730) 投稿）
+一本英文的线性代数本科生教材，免费阅读。类似的教材还有[《Linear Algebra Done Wrong》](https://www.math.brown.edu/streil/papers/LADW/LADW.html)。
 
-3、[DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+3、[CSS 布局教程](https://book.mixu.net/css/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070304.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022914.webp)
 
-一本 GPT4 生成的英语单词书，收入8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734) 投稿）
+一组系列文章，介绍 CSS 布局的概念和各种实现方法。 
 
-4、[ImageSearch](https://picfind.top/)
+4、[随机摄像头](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070402.webp)
+该网站从13000个世界各地的在线摄像头，随机选出9个，展示此刻的世界某个角落。
 
-一个以图搜图的网站，聚合了百度和谷歌的结果。（[@DBAAZzz](https://github.com/ruanyf/weekly/issues/4769) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122301.webp)
+
+它还按照内容，对这些摄像头进行了分类（机场、动物、车辆等等），可以分类查看。
 
 
 <!-- End -->
