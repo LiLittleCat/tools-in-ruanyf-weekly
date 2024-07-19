@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md#资源)
+
+
+1、[Free Font](https://github.com/jaywcjlove/free-font)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071803.webp)
+
+该仓库收录可商用的免费汉字字体，目前有199种。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/4839) 投稿）
+
+2、[技术博客聚合](https://daily-blog.chlinlearn.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071804.webp)
+
+每日分享中文技术博客文章。（[@chlinlearn](https://github.com/ruanyf/weekly/issues/4831) 投稿）
+
+3、[SaltyLeo 的图书元数据 API](https://book-db-v1.saltyleo.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071805.webp)
+
+一个搜索中文图书的 API，返回书名、作者、简介、出版社、封面、价格等元数据。（[@SaltyLeo](https://github.com/ruanyf/weekly/issues/4841) 投稿）
+
+4、[Movie Posters Perfected](https://www.moviepostersperfected.com/quick-setup)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032111.webp)
+
+一个电影海报库，收集了3500多张 4K 电影海报，提供 API，可以在电视上当屏保播放。
+
+
 ## [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md#资源)
 
 

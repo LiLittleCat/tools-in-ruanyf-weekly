@@ -16,83 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>308</currentVersion> -->
+<!-- <currentVersion>309</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-308.md)
+# [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md)
 ### 工具
 
 
-1、[KasmVNC](https://github.com/kasmtech/KasmVNC)
+1、[Floating Whiteboard](https://floating-hands-whiteboard.vercel.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071301.webp)
 
-一个远程桌面的 VNC 软件，不需要客户端，只要服务器安装后，就可以通过浏览器访问。类似的软件还有 [Apache Guacamole](https://guacamole.apache.org/)。
+一个在线的网页白板工具。
 
-2、[Flet](https://flet.dev/)
+2、[Ditto](https://soapbox.pub/ditto/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071407.webp)
 
-一个 Python 的跨平台图形界面的框架，相当于用 Python 脚本写 Flutter 
+一个基于 Nostr 的社交媒体，相当于搭建自己的推特。Nostr 网络的最大特点是，用户账户是一对密钥，完全归用户所有，不受网站管理者的控制。
 
-3、[QuickJS](https://github.com/sebastianwessel/quickjs)
+3、[MathLive](https://github.com/arnog/mathlive)
 
-一个 npm 模块，使用 WebAssembly 建立了一个沙箱，让 JS 代码在沙箱中运行。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071409.webp)
 
-4、[ShareDrop](https://github.com/szimek/sharedrop)
+一个 Web 组件，用于在网页输入数学公式。（[@shlroland](https://github.com/ruanyf/weekly/issues/4814) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070809.webp)
+4、[fideo](https://github.com/chenfan0/fideo-live-record/blob/main/README-CN.md)
 
-一个开源的 Web 应用，允许用户在局域网里通过 WebRTC 分享文件。如果不在同一局域网，可以进入同一个页面进行分享。
+一款跨平台桌面软件，用来录制直播间的内容，支持国内外主要的直播平台。（[@chenfan0](https://github.com/ruanyf/weekly/issues/4827) 投稿）
 
-5、[rss2newsletter](https://github.com/ElliotKillick/rss2newsletter)
+5、[Oceanbase](https://github.com/oceanbase/oceanbase/blob/develop/README_CN.md)
 
-将 RSS 转换成邮件发送，用于自建邮件列表。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071802.webp)
 
-6、[asciinema](https://github.com/gvcgo/asciinema/blob/main/docs/README_CN.md)
+蚂蚁集团研发的开源关系型数据库，MySQL 的替代品。（[@liboyang0730](https://github.com/ruanyf/weekly/issues/4836) 投稿）
 
-终端录屏工具 asciinema 的跨平台版本，使用 Go 语言编写。（[@moqsien](https://github.com/ruanyf/weekly/issues/4792) 投稿）
+6、[Shell360](https://github.com/shell360/release)
 
-7、[EcoPaste](https://github.com/ayangweb/EcoPaste)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071806.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071102.webp)
+跨平台的 SSH 客户端 App，支持 Windows、Linux、MacOS、iOS 以及Android。（[@nashaofu](https://github.com/ruanyf/weekly/issues/4847) 投稿）
 
-开源的多平台剪切板管理工具。（[@ayangweb](https://github.com/ruanyf/weekly/issues/4798) 投稿）
+7、[Simple Pastebin](https://github.com/yuxiaoy1/simple-pastebin)
 
-8、[color4bg.js](https://github.com/winterx/color4bg.js)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071801.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071103.webp)
+简易版的 Pastebin，基于 Flask 框架，可供学习参考。（[@yuxiaoy1](https://github.com/ruanyf/weekly/issues/4828) 投稿）
 
-生成动态、抽象的背景图的工具。（[@winterx](https://github.com/ruanyf/weekly/issues/4805) 投稿）
+8、[Lima](https://lima-vm.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071101.webp)
+
+Mac 电脑上的 Linux 虚拟机，用来在苹果笔记本玩 Linux。另有一个基于它的 Mac 专用 Docker 运行环境 [Colima](https://github.com/abiosoft/colima)。
+
+9、[progress](https://github.com/Xfennec/progress)
+
+Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
+
+10、[yt-fts](https://github.com/NotJoeMartinez/yt-fts)
+
+一个 Python 脚本，下载某个 Youtube 频道的所有视频字幕文件，建立全文搜索。
+
+11、[VanJS](https://vanjs.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052003.webp)
+
+一个仿 React 的 JS 库，但是只保留了最精简的 API，大小只有 1.2 KB。 
 
 
 ### 资源
 
 
-1、[YTHunt](http://ythunt.com/)
+1、[Free Font](https://github.com/jaywcjlove/free-font)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071803.webp)
 
-Youtube 热门视频的实时精选。
+该仓库收录可商用的免费汉字字体，目前有199种。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/4839) 投稿）
 
-2、[Linear Algebra Done Right](https://linear.axler.net/)
+2、[技术博客聚合](https://daily-blog.chlinlearn.top/)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023103002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071804.webp)
 
-一本英文的线性代数本科生教材，免费阅读。类似的教材还有[《Linear Algebra Done Wrong》](https://www.math.brown.edu/streil/papers/LADW/LADW.html)。
+每日分享中文技术博客文章。（[@chlinlearn](https://github.com/ruanyf/weekly/issues/4831) 投稿）
 
-3、[CSS 布局教程](https://book.mixu.net/css/)（英文）
+3、[SaltyLeo 的图书元数据 API](https://book-db-v1.saltyleo.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022914.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071805.webp)
 
-一组系列文章，介绍 CSS 布局的概念和各种实现方法。 
+一个搜索中文图书的 API，返回书名、作者、简介、出版社、封面、价格等元数据。（[@SaltyLeo](https://github.com/ruanyf/weekly/issues/4841) 投稿）
 
-4、[随机摄像头](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
+4、[Movie Posters Perfected](https://www.moviepostersperfected.com/quick-setup)
 
-该网站从13000个世界各地的在线摄像头，随机选出9个，展示此刻的世界某个角落。
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032111.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122301.webp)
-
-它还按照内容，对这些摄像头进行了分类（机场、动物、车辆等等），可以分类查看。
+一个电影海报库，收集了3500多张 4K 电影海报，提供 API，可以在电视上当屏保播放。
 
 
 <!-- End -->
