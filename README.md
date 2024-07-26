@@ -16,99 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>309</currentVersion> -->
+<!-- <currentVersion>310</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md)
+# [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md)
 ### 工具
 
 
-1、[Floating Whiteboard](https://floating-hands-whiteboard.vercel.app/)
+1、[Foliate](https://github.com/johnfactotum/foliate)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072112.webp)
 
-一个在线的网页白板工具。
+Linux 平台的 epub 电子书阅读软件。
 
-2、[Ditto](https://soapbox.pub/ditto/)
+2、[Sendune](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072002.webp)
 
-一个基于 Nostr 的社交媒体，相当于搭建自己的推特。Nostr 网络的最大特点是，用户账户是一对密钥，完全归用户所有，不受网站管理者的控制。
+一个可视化的 HTML 电子邮件设计工具，代码开源。类似的还有一个 HTML 邮件制作库 [mjml](https://documentation.mjml.io)。
 
-3、[MathLive](https://github.com/arnog/mathlive)
+3、[hash-wasm](https://github.com/Daninet/hash-wasm)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071409.webp)
+一个轻量级的哈希函数库，提供了二十几种常见的哈希算法，比如 MD5 和 SHA-1，以及更安全的 BLAKE3。
 
-一个 Web 组件，用于在网页输入数学公式。（[@shlroland](https://github.com/ruanyf/weekly/issues/4814) 投稿）
+4、[Page Replica](https://github.com/html5-ninja/page-replica)
 
-4、[fideo](https://github.com/chenfan0/fideo-live-record/blob/main/README-CN.md)
+这个开源工具用来架设一个缓存网站，可以抓取其他网站和网页，建立一个缓存版本，通过它来中介访问。
 
-一款跨平台桌面软件，用来录制直播间的内容，支持国内外主要的直播平台。（[@chenfan0](https://github.com/ruanyf/weekly/issues/4827) 投稿）
+5、[WebUI](https://github.com/webui-dev/webui)
 
-5、[Oceanbase](https://github.com/oceanbase/oceanbase/blob/develop/README_CN.md)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010704.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071802.webp)
+一个跨平台的桌面应用的打包程序，允许你直接将浏览器作为桌面应用的前端，比 Electron 要轻量化很多，同时又避免使用 WebView。
 
-蚂蚁集团研发的开源关系型数据库，MySQL 的替代品。（[@liboyang0730](https://github.com/ruanyf/weekly/issues/4836) 投稿）
+6、[深蹲计数器](https://github.com/zhaoolee/Sport)
 
-6、[Shell360](https://github.com/shell360/release)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072402.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071806.webp)
+一个开源的 Web 应用，通过移动设备的加速度计，实现深蹲计数。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/4869) 投稿）
 
-跨平台的 SSH 客户端 App，支持 Windows、Linux、MacOS、iOS 以及Android。（[@nashaofu](https://github.com/ruanyf/weekly/issues/4847) 投稿）
+7、[Anori](https://anori.app/)
 
-7、[Simple Pastebin](https://github.com/yuxiaoy1/simple-pastebin)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042002.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071801.webp)
+一个浏览器插件，可以在主页上定制各种小组件。
 
-简易版的 Pastebin，基于 Flask 框架，可供学习参考。（[@yuxiaoy1](https://github.com/ruanyf/weekly/issues/4828) 投稿）
+8、[Blurmatic](https://www.blurmatic.com/)
 
-8、[Lima](https://lima-vm.io/)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042004.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071101.webp)
+这个在线工具可以为图片加上模糊景深，还可以 3D 旋转图片。
 
-Mac 电脑上的 Linux 虚拟机，用来在苹果笔记本玩 Linux。另有一个基于它的 Mac 专用 Docker 运行环境 [Colima](https://github.com/abiosoft/colima)。
+9、[FastDownload.io](https://www.fastdownload.io/)
 
-9、[progress](https://github.com/Xfennec/progress)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042202.webp)
 
-Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
+一个下载各种流媒体视频的在线工具，支持 Youtube 和 TikTok。
 
-10、[yt-fts](https://github.com/NotJoeMartinez/yt-fts)
+10、[Stack](https://github.com/stackframe-projects/stack)
 
-一个 Python 脚本，下载某个 Youtube 频道的所有视频字幕文件，建立全文搜索。
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042204.webp)
 
-11、[VanJS](https://vanjs.org/)
-
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023052003.webp)
-
-一个仿 React 的 JS 库，但是只保留了最精简的 API，大小只有 1.2 KB。 
+开源的用户管理解决方案，自带前端组件和管理后台。
 
 
 ### 资源
 
 
-1、[Free Font](https://github.com/jaywcjlove/free-font)
+1、[AIEmoji](https://ai-emoji.bettergogo.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072101.webp)
 
-该仓库收录可商用的免费汉字字体，目前有199种。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/4839) 投稿）
+Emoji 搜索引擎，输入想表达的内容，返回最匹配的 Emoji 符号。（[@bettergoo](https://github.com/ruanyf/weekly/issues/4848) 投稿）
 
-2、[技术博客聚合](https://daily-blog.chlinlearn.top/)
+2、[算法可视化](https://gallery.selfboot.cn/algorithms/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072105.webp)
 
-每日分享中文技术博客文章。（[@chlinlearn](https://github.com/ruanyf/weekly/issues/4831) 投稿）
+作者在 AI 协助下，完成的经典算法的交互式可视化网站，代码开源。（[@selfboot](https://github.com/ruanyf/weekly/issues/4851) 投稿）
 
-3、[SaltyLeo 的图书元数据 API](https://book-db-v1.saltyleo.com/)
+3、[美国大学申请成功率](https://flowingdata.com/2024/07/16/more-or-less-college-admissions-time/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072211.webp)
 
-一个搜索中文图书的 API，返回书名、作者、简介、出版社、封面、价格等元数据。（[@SaltyLeo](https://github.com/ruanyf/weekly/issues/4841) 投稿）
+这个网站可以查询美国各大学历年的申请成功率。上图是纽约州立大学石溪分校，最近几年的申请成功率在50%左右。
 
-4、[Movie Posters Perfected](https://www.moviepostersperfected.com/quick-setup)
+4、[DevDocs](https://devdocs.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032111.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011506.webp)
 
-一个电影海报库，收集了3500多张 4K 电影海报，提供 API，可以在电视上当屏保播放。
+这个网站可以查询 Web 标准和主流软件工具的 API 文档。
 
 
 <!-- End -->

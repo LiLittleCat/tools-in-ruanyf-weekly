@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md#资源)
+
+
+1、[AIEmoji](https://ai-emoji.bettergogo.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072101.webp)
+
+Emoji 搜索引擎，输入想表达的内容，返回最匹配的 Emoji 符号。（[@bettergoo](https://github.com/ruanyf/weekly/issues/4848) 投稿）
+
+2、[算法可视化](https://gallery.selfboot.cn/algorithms/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072105.webp)
+
+作者在 AI 协助下，完成的经典算法的交互式可视化网站，代码开源。（[@selfboot](https://github.com/ruanyf/weekly/issues/4851) 投稿）
+
+3、[美国大学申请成功率](https://flowingdata.com/2024/07/16/more-or-less-college-admissions-time/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072211.webp)
+
+这个网站可以查询美国各大学历年的申请成功率。上图是纽约州立大学石溪分校，最近几年的申请成功率在50%左右。
+
+4、[DevDocs](https://devdocs.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011506.webp)
+
+这个网站可以查询 Web 标准和主流软件工具的 API 文档。
+
+
 ## [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md#资源)
 
 

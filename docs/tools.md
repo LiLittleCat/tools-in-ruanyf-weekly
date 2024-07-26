@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md#工具)
+
+
+1、[Foliate](https://github.com/johnfactotum/foliate)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072112.webp)
+
+Linux 平台的 epub 电子书阅读软件。
+
+2、[Sendune](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072002.webp)
+
+一个可视化的 HTML 电子邮件设计工具，代码开源。类似的还有一个 HTML 邮件制作库 [mjml](https://documentation.mjml.io)。
+
+3、[hash-wasm](https://github.com/Daninet/hash-wasm)
+
+一个轻量级的哈希函数库，提供了二十几种常见的哈希算法，比如 MD5 和 SHA-1，以及更安全的 BLAKE3。
+
+4、[Page Replica](https://github.com/html5-ninja/page-replica)
+
+这个开源工具用来架设一个缓存网站，可以抓取其他网站和网页，建立一个缓存版本，通过它来中介访问。
+
+5、[WebUI](https://github.com/webui-dev/webui)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010704.webp)
+
+一个跨平台的桌面应用的打包程序，允许你直接将浏览器作为桌面应用的前端，比 Electron 要轻量化很多，同时又避免使用 WebView。
+
+6、[深蹲计数器](https://github.com/zhaoolee/Sport)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072402.webp)
+
+一个开源的 Web 应用，通过移动设备的加速度计，实现深蹲计数。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/4869) 投稿）
+
+7、[Anori](https://anori.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042002.webp)
+
+一个浏览器插件，可以在主页上定制各种小组件。
+
+8、[Blurmatic](https://www.blurmatic.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042004.webp)
+
+这个在线工具可以为图片加上模糊景深，还可以 3D 旋转图片。
+
+9、[FastDownload.io](https://www.fastdownload.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042202.webp)
+
+一个下载各种流媒体视频的在线工具，支持 Youtube 和 TikTok。
+
+10、[Stack](https://github.com/stackframe-projects/stack)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042204.webp)
+
+开源的用户管理解决方案，自带前端组件和管理后台。
+
+
 ## [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](https://github.com/ruanyf/weekly/blob/master/docs/issue-309.md#工具)
 
 
