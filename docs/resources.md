@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 311 期）：低利率与长期项目](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md#资源)
+
+
+1、[The Far Side](https://www.thefarside.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072511.webp)
+
+美国著名漫画家加里·拉尔森（Gary Larson）的官网，每天都有更新，展示他的单幅漫画作品。
+
+2、[古生物 3D 标本](https://www.vertebres3d.fr/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041105.webp)
+
+这个网站提供各种古生物标本的 3D 模型，可以360度转动，还可以让骨骼运动。
+
+3、[DistroSea](https://distrosea.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041301.webp)
+
+在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面。
+
+4、[自己动手写 OAuth 2.0 登录客户端](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041703.webp)
+
+一篇初学者教程，详细介绍如何写 OAuth 2.0 登录客户端，以谷歌登录为例，配有代码注释。
+
+
 ## [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md#资源)
 
 

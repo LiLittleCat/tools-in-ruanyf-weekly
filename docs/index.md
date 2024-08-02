@@ -16,95 +16,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>310</currentVersion> -->
+<!-- <currentVersion>311</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](https://github.com/ruanyf/weekly/blob/master/docs/issue-310.md)
+# [科技爱好者周刊（第 311 期）：低利率与长期项目](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md)
 ### 工具
 
 
-1、[Foliate](https://github.com/johnfactotum/foliate)
+1、[Zulip](https://github.com/zulip/zulip/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072112.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072806.webp)
 
-Linux 平台的 epub 电子书阅读软件。
+一个开源的群聊软件，有服务端和各种平台的客户端。
 
-2、[Sendune](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer)
+2、[win-vind](https://pit-ray.github.io/win-vind/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111212.webp)
 
-一个可视化的 HTML 电子邮件设计工具，代码开源。类似的还有一个 HTML 邮件制作库 [mjml](https://documentation.mjml.io)。
+这个工具为 Windows 系统提供 Vim 风格的快捷键，也可以把它当作 Windows 的快捷键设定器。
 
-3、[hash-wasm](https://github.com/Daninet/hash-wasm)
+3、[canvas-confetti](https://github.com/catdad/canvas-confetti)
 
-一个轻量级的哈希函数库，提供了二十几种常见的哈希算法，比如 MD5 和 SHA-1，以及更安全的 BLAKE3。
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042508.webp)
 
-4、[Page Replica](https://github.com/html5-ninja/page-replica)
+在网页上抛洒五彩纸屑的 JS 库。
 
-这个开源工具用来架设一个缓存网站，可以抓取其他网站和网页，建立一个缓存版本，通过它来中介访问。
+4、[WR.DO](https://github.com/oiov/wr.do)
 
-5、[WebUI](https://github.com/webui-dev/webui)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024010704.webp)
+一个开源的 Web 应用，通过 Cloudflare DNS API 进行操作，新建域名 wr.do 的子域名和短链接。（[@oiov](https://github.com/ruanyf/weekly/issues/4901) 投稿）
 
-一个跨平台的桌面应用的打包程序，允许你直接将浏览器作为桌面应用的前端，比 Electron 要轻量化很多，同时又避免使用 WebView。
+5、[code-box](https://github.com/027xiguapi/code-box)
 
-6、[深蹲计数器](https://github.com/zhaoolee/Sport)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072707.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072402.webp)
+一个开源的浏览器插件，用来解除 CSDN/知乎/脚本之家/博客园/博客园/51CTO博客等网站的限制（比如要求登录）。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/4877) 投稿）
 
-一个开源的 Web 应用，通过移动设备的加速度计，实现深蹲计数。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/4869) 投稿）
+6、[X File Storage](https://github.com/dromara/x-file-storage)
 
-7、[Anori](https://anori.app/)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073106.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042002.webp)
+一个 Java 软件包，用于文件上传，一行代码适配各种国内存储平台。（[@1171736840](https://github.com/ruanyf/weekly/issues/4904) 投稿）
 
-一个浏览器插件，可以在主页上定制各种小组件。
+7、[php-nginx](https://github.com/lovefc/php-nginx)
 
-8、[Blurmatic](https://www.blurmatic.com/)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073108.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042004.webp)
+用 php 开发的类似 nginx 的 web 服务器,可用于学习。（[@lovefc](https://github.com/ruanyf/weekly/issues/4906) 投稿）
 
-这个在线工具可以为图片加上模糊景深，还可以 3D 旋转图片。
+8、[攒个钱](https://z.article.cool/)
 
-9、[FastDownload.io](https://www.fastdownload.io/)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073107.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042202.webp)
+免费的手机记账 App，支持 iOS 和安卓。（[@NeroSong](https://github.com/ruanyf/weekly/issues/4905) 投稿）
 
-一个下载各种流媒体视频的在线工具，支持 Youtube 和 TikTok。
+9、[StatiCrypt](https://github.com/robinmoisson/staticrypt)
 
-10、[Stack](https://github.com/stackframe-projects/stack)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111318.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042204.webp)
+这个工具可以对网页加密，生成一个新网页。打开新网页需要输入一个密码，才能看到内容。
 
-开源的用户管理解决方案，自带前端组件和管理后台。
+10、[screenshot.rocks](https://screenshot.rocks/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111319.webp)
+
+一个在线工具，可以为网页截图加上浏览器边框。
 
 
 ### 资源
 
 
-1、[AIEmoji](https://ai-emoji.bettergogo.com/)
+1、[The Far Side](https://www.thefarside.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072511.webp)
 
-Emoji 搜索引擎，输入想表达的内容，返回最匹配的 Emoji 符号。（[@bettergoo](https://github.com/ruanyf/weekly/issues/4848) 投稿）
+美国著名漫画家加里·拉尔森（Gary Larson）的官网，每天都有更新，展示他的单幅漫画作品。
 
-2、[算法可视化](https://gallery.selfboot.cn/algorithms/)
+2、[古生物 3D 标本](https://www.vertebres3d.fr/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041105.webp)
 
-作者在 AI 协助下，完成的经典算法的交互式可视化网站，代码开源。（[@selfboot](https://github.com/ruanyf/weekly/issues/4851) 投稿）
+这个网站提供各种古生物标本的 3D 模型，可以360度转动，还可以让骨骼运动。
 
-3、[美国大学申请成功率](https://flowingdata.com/2024/07/16/more-or-less-college-admissions-time/)
+3、[DistroSea](https://distrosea.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072211.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041301.webp)
 
-这个网站可以查询美国各大学历年的申请成功率。上图是纽约州立大学石溪分校，最近几年的申请成功率在50%左右。
+在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面。
 
-4、[DevDocs](https://devdocs.io/)
+4、[自己动手写 OAuth 2.0 登录客户端](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041703.webp)
 
-这个网站可以查询 Web 标准和主流软件工具的 API 文档。
+一篇初学者教程，详细介绍如何写 OAuth 2.0 登录客户端，以谷歌登录为例，配有代码注释。
 
 
 <!-- End -->
