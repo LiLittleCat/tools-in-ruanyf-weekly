@@ -16,99 +16,111 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>311</currentVersion> -->
+<!-- <currentVersion>312</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 311 期）：低利率与长期项目](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md)
+# [科技爱好者周刊（第 312 期）：从英特尔看“美国制造”](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md)
 ### 工具
 
 
-1、[Zulip](https://github.com/zulip/zulip/)
+1、[CodeBrew](https://apps.apple.com/de/app/codebrew-ide-for-java/id6475267297)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050102.webp)
 
-一个开源的群聊软件，有服务端和各种平台的客户端。
+一个 iOS 应用，手机和平板使用的 Java IDE 开发环境。
 
-2、[win-vind](https://pit-ray.github.io/win-vind/)
+2、[Penpot](https://github.com/penpot/penpot)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111212.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050111.webp)
 
-这个工具为 Windows 系统提供 Vim 风格的快捷键，也可以把它当作 Windows 的快捷键设定器。
+一个基于 Web 的开源设计工具，Figma 的替代品。
 
-3、[canvas-confetti](https://github.com/catdad/canvas-confetti)
+3、[markdown-table](https://josh.fail/2022/pure-bash-markdown-table-generator/)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042508.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050301.webp)
 
-在网页上抛洒五彩纸屑的 JS 库。
+一个 Bash 脚本，用来生成 Markdown 表格，否则手写太麻烦。
 
-4、[WR.DO](https://github.com/oiov/wr.do)
+4、[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050302.webp)
 
-一个开源的 Web 应用，通过 Cloudflare DNS API 进行操作，新建域名 wr.do 的子域名和短链接。（[@oiov](https://github.com/ruanyf/weekly/issues/4901) 投稿）
+一个开源工具，用来完成各种 PDF 操作，基于 Web，需要自己架设。
 
-5、[code-box](https://github.com/027xiguapi/code-box)
+5、[DNS.fish](https://dns.fish/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080802.webp)
 
-一个开源的浏览器插件，用来解除 CSDN/知乎/脚本之家/博客园/博客园/51CTO博客等网站的限制（比如要求登录）。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/4877) 投稿）
+这个工具提供 DNS 查询的 API，以 JSON 格式返回指定域名的 DNS 记录。（[@airyland](https://github.com/ruanyf/weekly/issues/4952) 投稿）
 
-6、[X File Storage](https://github.com/dromara/x-file-storage)
+6、[GammaRay](https://github.com/RGAA-Software/GammaRay)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080801.webp)
 
-一个 Java 软件包，用于文件上传，一行代码适配各种国内存储平台。（[@1171736840](https://github.com/ruanyf/weekly/issues/4904) 投稿）
+一个开源工具，用来把手机和 PC 的桌面传到其他设备，支持远程桌面、视频采集等功能。（[@RGAA-Software](https://github.com/ruanyf/weekly/issues/4951) 投稿）
 
-7、[php-nginx](https://github.com/lovefc/php-nginx)
+7、[SERP Checker](https://www.serpchecking.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080403.webp)
 
-用 php 开发的类似 nginx 的 web 服务器,可用于学习。（[@lovefc](https://github.com/ruanyf/weekly/issues/4906) 投稿）
+一个比较谷歌在不同地区、不同语言下返回的搜索结果的工具，代码[开源](https://github.com/serping/serp-checker)。（[@expertbeacon](https://github.com/ruanyf/weekly/issues/4931) 投稿）
 
-8、[攒个钱](https://z.article.cool/)
+8、[wanderer](https://github.com/Flomp/wanderer)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073107.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050804.webp)
 
-免费的手机记账 App，支持 iOS 和安卓。（[@NeroSong](https://github.com/ruanyf/weekly/issues/4905) 投稿）
+一个管理 GPS 路径的开源工具，需要自己架设服务。
 
-9、[StatiCrypt](https://github.com/robinmoisson/staticrypt)
+9、[Citadel](https://github.com/every-day-things/citadel)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111318.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011413.webp)
 
-这个工具可以对网页加密，生成一个新网页。打开新网页需要输入一个密码，才能看到内容。
+个人电子书的管理系统，可以代替 Calibre。
 
-10、[screenshot.rocks](https://screenshot.rocks/)
+10、[Primitive Pictures](https://github.com/fogleman/primitive)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111319.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011414.webp)
 
-一个在线工具，可以为网页截图加上浏览器边框。
+这个工具可以将输入的图片，使用几何形状重新绘制，参见[作者自述](https://schollz.com/tinker/primitives/)。
+
+11、[AsmBB](https://asmbb.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011418.webp)
+
+一个使用汇编语言写的论坛应用，性能很强，对机器配置的要求很低。
+
+12、[remoteStorage](https://github.com/FrigadeHQ/remote-storage) 
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011505.webp)
+
+这个库可以在多台设备、多个浏览器之间，同步浏览器 localStorage 的内容，需要自己架设一台服务器。
 
 
 ### 资源
 
 
-1、[The Far Side](https://www.thefarside.com)
+1、[OpenBSD 新手安装指南](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072511.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041405.webp)
 
-美国著名漫画家加里·拉尔森（Gary Larson）的官网，每天都有更新，展示他的单幅漫画作品。
+向新手介绍如何安装 OpenBSD。
 
-2、[古生物 3D 标本](https://www.vertebres3d.fr/)
+2、[ip.network](https://www.ip.network/)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080601.webp)
 
-这个网站提供各种古生物标本的 3D 模型，可以360度转动，还可以让骨骼运动。
+一个查询 IP 地域信息的网站。
 
-3、[DistroSea](https://distrosea.com/)
+3、[Linux 系统管理手册](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062103.webp)
 
-在线试用各种 Linux 发行版，它会分配一个虚拟机，浏览器里连接桌面。
+介绍 Linux 操作的入门书籍，这是该书的原文仓库，可以免费阅读。
 
-4、[自己动手写 OAuth 2.0 登录客户端](https://annotate.dev/p/hello-world/learn-oauth-2-0-by-building-your-own-oauth-client-U2HaZNtvQojn4F)（英文）
+4、[N 轮车辆](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042001.webp)
 
-一篇初学者教程，详细介绍如何写 OAuth 2.0 登录客户端，以谷歌登录为例，配有代码注释。
+这个网站专门收集拥有不同数量的轮子的车辆，从独轮车一直到72个轮子的工程车，上图是一辆九个轮子的汽车。
 
 
 <!-- End -->

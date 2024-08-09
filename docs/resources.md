@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 312 期）：从英特尔看“美国制造”](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md#资源)
+
+
+1、[OpenBSD 新手安装指南](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041405.webp)
+
+向新手介绍如何安装 OpenBSD。
+
+2、[ip.network](https://www.ip.network/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080601.webp)
+
+一个查询 IP 地域信息的网站。
+
+3、[Linux 系统管理手册](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062103.webp)
+
+介绍 Linux 操作的入门书籍，这是该书的原文仓库，可以免费阅读。
+
+4、[N 轮车辆](http://www.douglas-self.com/MUSEUM/TRANSPORT/nwheelcar/nwheelcar.htm)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042001.webp)
+
+这个网站专门收集拥有不同数量的轮子的车辆，从独轮车一直到72个轮子的工程车，上图是一辆九个轮子的汽车。
+
+
 ## [科技爱好者周刊（第 311 期）：低利率与长期项目](https://github.com/ruanyf/weekly/blob/master/docs/issue-311.md#资源)
 
 
