@@ -1,5 +1,75 @@
 # 工具
 
+## [科技爱好者周刊（第 313 期）：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md#工具)
+
+
+1、[ConvertFast UI](https://ui.convertfa.st/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080904.webp)
+
+一个快速生成落地页的工具，可以选择落地页的常见模块。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/4956) 投稿）
+
+2、[Porn Logo Maker](https://porn-logo.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081102.webp)
+
+定制拼色 Logo 的在线工具。（[@ychrisp](https://github.com/ruanyf/weekly/issues/4968) 投稿）
+
+3、[QrIt](https://qrit.chesko.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081405.webp)
+
+可以更改配色的二维码生成器。
+
+4、[Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081304.webp)
+
+内网穿透工具 frp 的跨平台桌面客户端。（[@forestxieCode](https://github.com/ruanyf/weekly/issues/4982) 投稿）
+
+5、[NotchDrop](https://github.com/Lakr233/NotchDrop/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081412.webp)
+
+一个开源工具，将 MacBook 刘海变成一个文件传输和暂存区域。（[@wangyuchaogeek](https://github.com/ruanyf/weekly/issues/4992) 投稿）
+
+6、[PasteBar](https://github.com/PasteBar/PasteBarApp)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081306.webp)
+
+管理 Mac 和 Windows 剪贴板的免费开源工具。（[@dllen](https://github.com/ruanyf/weekly/issues/4984) 投稿）
+
+7、[CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081414.webp)
+
+一个开源的桌面程序，跨设备的通用粘贴板，可以把 Windows 的内容粘贴到 Mac。（[@guiyanakuang](https://github.com/ruanyf/weekly/issues/4993) 投稿）
+
+8、[Text to Logo & Favicon](https://www.logo.surf/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081301.webp)
+
+一个制作文字徽标（logo 和 favicon）的在线工具，[代码开源](https://github.com/airyland/logo.surf)。（[@airyland](https://github.com/ruanyf/weekly/issues/4985) 投稿）
+
+9、[Triplit](https://github.com/aspen-cloud/triplit)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011412.webp)
+
+一个全栈数据库，可以同时运行在服务器和浏览器，并且前后端还能自动同步数据。
+
+10、[DNSecure](https://github.com/kkebo/DNSecure)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051001.webp)
+
+一个苹果设备的开源应用，通过图形界面启用加密 DNS。
+
+11、[superfile](https://github.com/MHNightCat/superfile)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051102.webp)
+
+基于终端的文件管理器，支持 macOS 和 Linux。
+
+
 ## [科技爱好者周刊（第 312 期）：从英特尔看“美国制造”](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md#工具)
 
 

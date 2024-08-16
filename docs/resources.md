@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 313 期）：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md#资源)
+
+
+1、[Learn Lit](https://lit.how/#event-handlers)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081302.webp)
+
+Web Components 框架 Lit 的一个简明教程，写得非常好。
+
+2、[Product Hunt 每日中文热榜](https://decohack.com/category/producthunt/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081307.webp)
+
+每日 Product Hunt 热门产品的中文榜单，[代码开源](https://github.com/ViggoZ/producthunt-daily-hot)。（[@ViggoZ](https://github.com/ruanyf/weekly/issues/4987) 投稿）
+
+3、[MAC 地址厂商信息数据库](https://github.com/tomandjerry136/macdata)
+
+这个仓库收录4万余条 MAC 地址厂商信息，提供 csv、json 格式下载。（[@tomandjerry136](https://github.com/ruanyf/weekly/issues/4999) 投稿）
+
+4、[SVG Viewer](https://www.svgviewer.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042701.webp)
+
+一个 SVG 图标的搜索引擎，并且提供可视化编辑器，允许你对源文件进行调整。
+
+5、[命令行中的数据科学](https://jeroenjanssens.com/dsatcl/)（Data Science at the Command Line）（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050601.webp)
+
+免费阅读的电子书，使用命令行工具学习数据科学。
+
+
 ## [科技爱好者周刊（第 312 期）：从英特尔看“美国制造”](https://github.com/ruanyf/weekly/blob/master/docs/issue-312.md#资源)
 
 
