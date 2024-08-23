@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md#资源)
+
+
+1、[如果你是 CPU](https://cpu.land/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092412.webp)
+
+一本英文科普书籍，介绍计算机底层知识，免费阅读。
+
+2、[假昆虫](https://huggingface.co/spaces/victor/fake-insects)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081707.webp)
+
+这个网站是一个小游戏，两张昆虫照片，一张是真的，另一张是 AI 照片，你需要挑出“假昆虫”。
+
+3、[Bash 编程导论](https://github.com/bobbyiliev/introduction-to-bash-scripting)（Introduction to Bash Scripting）
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071701.webp)
+
+一本开源的英文电子书，介绍 Bash 脚本开发。
+
+
 ## [科技爱好者周刊（第 313 期）：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md#资源)
 
 

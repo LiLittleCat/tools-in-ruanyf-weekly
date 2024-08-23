@@ -16,109 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>313</currentVersion> -->
+<!-- <currentVersion>314</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 313 期）：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md)
+# [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md)
 ### 工具
 
 
-1、[ConvertFast UI](https://ui.convertfa.st/)
+1、[Text Search Engine](https://github.com/cjinhuo/text-search-engine/blob/master/docs/README_zh.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080904.webp)
+一个 JS 的模糊搜索库，具有中文拼音的模糊搜索等多种功能。（[@cjinhuo](https://github.com/ruanyf/weekly/issues/5020) 投稿）
 
-一个快速生成落地页的工具，可以选择落地页的常见模块。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/4956) 投稿）
+2、[奇异字体生成器](https://freakyfontgenerator.top/)（Freaky Font Generator）
 
-2、[Porn Logo Maker](https://porn-logo.com/)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081102.webp)
+一款在线工具，通过 Unicode 编码转换，生成各种效果的文字变体（比如斜体、黑体、带圈字符），不支持中文字符。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5033) 投稿）
 
-定制拼色 Logo 的在线工具。（[@ychrisp](https://github.com/ruanyf/weekly/issues/4968) 投稿）
+3、[Favicon.im](https://favicon.im/)
 
-3、[QrIt](https://qrit.chesko.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082003.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081405.webp)
+用于下载或在网页中插入其他网站的 Favicon 图片，可以放大显示。（[@airyland](https://github.com/ruanyf/weekly/issues/5026) 投稿）
 
-可以更改配色的二维码生成器。
+另有类似网站 [Favicon Downloader](https://www.faviconextractor.com/)，代码[开源](https://github.com/seadfeng/favicon-downloader)。（[@expertbeacon](https://github.com/ruanyf/weekly/issues/5046) 投稿）
 
-4、[Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082211.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081304.webp)
+4、[Lamucal](https://lamucal.com/)
 
-内网穿透工具 frp 的跨平台桌面客户端。（[@forestxieCode](https://github.com/ruanyf/weekly/issues/4982) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082210.webp)
 
-5、[NotchDrop](https://github.com/Lakr233/NotchDrop/)
+该网站免费将 YouTube 视频转吉他谱、和弦谱、主旋律，人声分离以及 AI 翻唱。（[@liufeigit](https://github.com/ruanyf/weekly/issues/5048) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081412.webp)
+5、[kopia](https://github.com/kopia/kopia/)
 
-一个开源工具，将 MacBook 刘海变成一个文件传输和暂存区域。（[@wangyuchaogeek](https://github.com/ruanyf/weekly/issues/4992) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091604.webp)
 
-6、[PasteBar](https://github.com/PasteBar/PasteBarApp)
+一个开源的备份工具，可以把数据定时向云端做增量备份。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081306.webp)
+6、[bandwhich](https://github.com/imsnif/bandwhich)
 
-管理 Mac 和 Windows 剪贴板的免费开源工具。（[@dllen](https://github.com/ruanyf/weekly/issues/4984) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092101.webp)
 
-7、[CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)
+一个命令行程序，查看当前什么程序在占用带宽，以及不同 IP 地址产生的流量。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081414.webp)
+7、[qStudio](https://www.timestored.com/qstudio/)
 
-一个开源的桌面程序，跨设备的通用粘贴板，可以把 Windows 的内容粘贴到 Mac。（[@guiyanakuang](https://github.com/ruanyf/weekly/issues/4993) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090905.webp)
 
-8、[Text to Logo & Favicon](https://www.logo.surf/)
+一个免费的 SQL 分析的跨平台桌面软件。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081301.webp)
+8、[Zoraxy](https://zoraxy.arozos.com)
 
-一个制作文字徽标（logo 和 favicon）的在线工具，[代码开源](https://github.com/airyland/logo.surf)。（[@airyland](https://github.com/ruanyf/weekly/issues/4985) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051801.webp)
 
-9、[Triplit](https://github.com/aspen-cloud/triplit)
+一个主要用来反向代理的 Web 服务器软件，特点是提供图形界面进行配置，对新手很友好。
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011412.webp)
+9、[Magic UI](https://magicui.design/)
 
-一个全栈数据库，可以同时运行在服务器和浏览器，并且前后端还能自动同步数据。
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052308.webp)
 
-10、[DNSecure](https://github.com/kkebo/DNSecure)
-
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051001.webp)
-
-一个苹果设备的开源应用，通过图形界面启用加密 DNS。
-
-11、[superfile](https://github.com/MHNightCat/superfile)
-
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051102.webp)
-
-基于终端的文件管理器，支持 macOS 和 Linux。
+一个 React 组件库，目前有20多个组件，特点是都带有动画效果。
 
 
 ### 资源
 
 
-1、[Learn Lit](https://lit.how/#event-handlers)
+1、[如果你是 CPU](https://cpu.land/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092412.webp)
 
-Web Components 框架 Lit 的一个简明教程，写得非常好。
+一本英文科普书籍，介绍计算机底层知识，免费阅读。
 
-2、[Product Hunt 每日中文热榜](https://decohack.com/category/producthunt/)
+2、[假昆虫](https://huggingface.co/spaces/victor/fake-insects)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081307.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081707.webp)
 
-每日 Product Hunt 热门产品的中文榜单，[代码开源](https://github.com/ViggoZ/producthunt-daily-hot)。（[@ViggoZ](https://github.com/ruanyf/weekly/issues/4987) 投稿）
+这个网站是一个小游戏，两张昆虫照片，一张是真的，另一张是 AI 照片，你需要挑出“假昆虫”。
 
-3、[MAC 地址厂商信息数据库](https://github.com/tomandjerry136/macdata)
+3、[Bash 编程导论](https://github.com/bobbyiliev/introduction-to-bash-scripting)（Introduction to Bash Scripting）
 
-这个仓库收录4万余条 MAC 地址厂商信息，提供 csv、json 格式下载。（[@tomandjerry136](https://github.com/ruanyf/weekly/issues/4999) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071701.webp)
 
-4、[SVG Viewer](https://www.svgviewer.dev/)
-
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042701.webp)
-
-一个 SVG 图标的搜索引擎，并且提供可视化编辑器，允许你对源文件进行调整。
-
-5、[命令行中的数据科学](https://jeroenjanssens.com/dsatcl/)（Data Science at the Command Line）（英文）
-
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050601.webp)
-
-免费阅读的电子书，使用命令行工具学习数据科学。
+一本开源的英文电子书，介绍 Bash 脚本开发。
 
 
 <!-- End -->

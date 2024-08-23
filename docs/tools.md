@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md#工具)
+
+
+1、[Text Search Engine](https://github.com/cjinhuo/text-search-engine/blob/master/docs/README_zh.md)
+
+一个 JS 的模糊搜索库，具有中文拼音的模糊搜索等多种功能。（[@cjinhuo](https://github.com/ruanyf/weekly/issues/5020) 投稿）
+
+2、[奇异字体生成器](https://freakyfontgenerator.top/)（Freaky Font Generator）
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082001.webp)
+
+一款在线工具，通过 Unicode 编码转换，生成各种效果的文字变体（比如斜体、黑体、带圈字符），不支持中文字符。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5033) 投稿）
+
+3、[Favicon.im](https://favicon.im/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082003.webp)
+
+用于下载或在网页中插入其他网站的 Favicon 图片，可以放大显示。（[@airyland](https://github.com/ruanyf/weekly/issues/5026) 投稿）
+
+另有类似网站 [Favicon Downloader](https://www.faviconextractor.com/)，代码[开源](https://github.com/seadfeng/favicon-downloader)。（[@expertbeacon](https://github.com/ruanyf/weekly/issues/5046) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082211.webp)
+
+4、[Lamucal](https://lamucal.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082210.webp)
+
+该网站免费将 YouTube 视频转吉他谱、和弦谱、主旋律，人声分离以及 AI 翻唱。（[@liufeigit](https://github.com/ruanyf/weekly/issues/5048) 投稿）
+
+5、[kopia](https://github.com/kopia/kopia/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091604.webp)
+
+一个开源的备份工具，可以把数据定时向云端做增量备份。
+
+6、[bandwhich](https://github.com/imsnif/bandwhich)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092101.webp)
+
+一个命令行程序，查看当前什么程序在占用带宽，以及不同 IP 地址产生的流量。
+
+7、[qStudio](https://www.timestored.com/qstudio/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090905.webp)
+
+一个免费的 SQL 分析的跨平台桌面软件。
+
+8、[Zoraxy](https://zoraxy.arozos.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051801.webp)
+
+一个主要用来反向代理的 Web 服务器软件，特点是提供图形界面进行配置，对新手很友好。
+
+9、[Magic UI](https://magicui.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052308.webp)
+
+一个 React 组件库，目前有20多个组件，特点是都带有动画效果。
+
+
 ## [科技爱好者周刊（第 313 期）：如果新加坡没有空调](https://github.com/ruanyf/weekly/blob/master/docs/issue-313.md#工具)
 
 
