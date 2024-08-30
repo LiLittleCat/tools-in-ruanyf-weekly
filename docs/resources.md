@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md#资源)
+
+
+1、[妖怪平生录](https://github.com/meethigher/black-wukong-youji/blob/master/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%A6%96%E6%80%AA%E5%B9%B3%E7%94%9F%E5%BD%95.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082705.webp)
+
+这个仓库收录了游戏《黑神话：悟空》内附的203个妖怪的图片、小诗和故事。（[@meethigher](https://github.com/ruanyf/weekly/issues/5063) 投稿）
+
+2、[Emoji Spark](https://emojispark.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082801.webp)
+
+快速匹配搜索 Emoji 的网站。（[@0xjoanne](https://github.com/ruanyf/weekly/issues/5067) 投稿）
+
+3、[使用 Julia 语言学习微积分](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)（Calculus With Julia）（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060509.webp)
+
+一本在线阅读的电子书，从最简单的极限开始介绍微积分，需要计算的地方使用 Julia 语言举例。
+
+4、[Documentaries](https://ihavenotv.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011601.webp)
+
+该网站可以免费观看英文纪录片。
+
+
 ## [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md#资源)
 
 

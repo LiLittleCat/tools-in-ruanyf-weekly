@@ -1,5 +1,61 @@
 # 工具
 
+## [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md#工具)
+
+
+1、[Coolify](https://github.com/coollabsio/coolify)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082701.webp)
+
+一个开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行。
+
+2、[Ente Auth](https://ente.io/auth/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052603.webp)
+
+一个开源的双因素认证码管理器。
+
+3、[Marsview](https://github.com/JackySoft/marsview)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082512.webp)
+
+一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统。（[@JackySoft](https://github.com/ruanyf/weekly/issues/5060) 投稿）
+
+4、[Notion Exporter](https://notionexporter.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082808.webp)
+
+一个浏览器插件，将 Notion 内容导出为长图或卡片，同时保留排版格式。（[@Shanshi66](https://github.com/ruanyf/weekly/issues/5079) 投稿）
+
+5、[电池的电量显示](https://deepesh-01.github.io/battery_indicator/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112807.webp)
+
+该网站使用一个简单的脚本（[源码](https://deepesh-01.github.io/battery_indicator/app.js)），显示当前设备的电池电量百分比。
+
+6、[tsimp](https://github.com/tapjs/tsimp)
+
+一个 Node.js 的 TypeScript 加载器，也就是说，它可以让 Node.js 运行 TS 脚本。
+
+7、[xpano](https://github.com/krupkat/xpano)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112905.webp)
+
+一个自动拼接多张照片的工具。
+
+8、[concrete.css](https://concrete.style/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020806.webp)
+
+一个简单的、无类的 CSS 极简框架，受到 [Milligram](https://milligram.io/) 和 [Skeleton](http://getskeleton.com/) 的启发。
+
+9、[Person Diagram](https://peoplegraphmaker.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020108.webp)
+
+一个玩具应用，在线制作人口比重图（占总人口的比重）。
+
+
 ## [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md#工具)
 
 

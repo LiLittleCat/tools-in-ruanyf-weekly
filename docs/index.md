@@ -16,89 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>314</currentVersion> -->
+<!-- <currentVersion>315</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-314.md)
+# [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md)
 ### 工具
 
 
-1、[Text Search Engine](https://github.com/cjinhuo/text-search-engine/blob/master/docs/README_zh.md)
+1、[Coolify](https://github.com/coollabsio/coolify)
 
-一个 JS 的模糊搜索库，具有中文拼音的模糊搜索等多种功能。（[@cjinhuo](https://github.com/ruanyf/weekly/issues/5020) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082701.webp)
 
-2、[奇异字体生成器](https://freakyfontgenerator.top/)（Freaky Font Generator）
+一个开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082001.webp)
+2、[Ente Auth](https://ente.io/auth/)
 
-一款在线工具，通过 Unicode 编码转换，生成各种效果的文字变体（比如斜体、黑体、带圈字符），不支持中文字符。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5033) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052603.webp)
 
-3、[Favicon.im](https://favicon.im/)
+一个开源的双因素认证码管理器。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082003.webp)
+3、[Marsview](https://github.com/JackySoft/marsview)
 
-用于下载或在网页中插入其他网站的 Favicon 图片，可以放大显示。（[@airyland](https://github.com/ruanyf/weekly/issues/5026) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082512.webp)
 
-另有类似网站 [Favicon Downloader](https://www.faviconextractor.com/)，代码[开源](https://github.com/seadfeng/favicon-downloader)。（[@expertbeacon](https://github.com/ruanyf/weekly/issues/5046) 投稿）
+一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统。（[@JackySoft](https://github.com/ruanyf/weekly/issues/5060) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082211.webp)
+4、[Notion Exporter](https://notionexporter.com/)
 
-4、[Lamucal](https://lamucal.com/)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082808.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082210.webp)
+一个浏览器插件，将 Notion 内容导出为长图或卡片，同时保留排版格式。（[@Shanshi66](https://github.com/ruanyf/weekly/issues/5079) 投稿）
 
-该网站免费将 YouTube 视频转吉他谱、和弦谱、主旋律，人声分离以及 AI 翻唱。（[@liufeigit](https://github.com/ruanyf/weekly/issues/5048) 投稿）
+5、[电池的电量显示](https://deepesh-01.github.io/battery_indicator/)
 
-5、[kopia](https://github.com/kopia/kopia/)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112807.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091604.webp)
+该网站使用一个简单的脚本（[源码](https://deepesh-01.github.io/battery_indicator/app.js)），显示当前设备的电池电量百分比。
 
-一个开源的备份工具，可以把数据定时向云端做增量备份。
+6、[tsimp](https://github.com/tapjs/tsimp)
 
-6、[bandwhich](https://github.com/imsnif/bandwhich)
+一个 Node.js 的 TypeScript 加载器，也就是说，它可以让 Node.js 运行 TS 脚本。
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092101.webp)
+7、[xpano](https://github.com/krupkat/xpano)
 
-一个命令行程序，查看当前什么程序在占用带宽，以及不同 IP 地址产生的流量。
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112905.webp)
 
-7、[qStudio](https://www.timestored.com/qstudio/)
+一个自动拼接多张照片的工具。
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090905.webp)
+8、[concrete.css](https://concrete.style/)
 
-一个免费的 SQL 分析的跨平台桌面软件。
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020806.webp)
 
-8、[Zoraxy](https://zoraxy.arozos.com)
+一个简单的、无类的 CSS 极简框架，受到 [Milligram](https://milligram.io/) 和 [Skeleton](http://getskeleton.com/) 的启发。
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051801.webp)
+9、[Person Diagram](https://peoplegraphmaker.com/)
 
-一个主要用来反向代理的 Web 服务器软件，特点是提供图形界面进行配置，对新手很友好。
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020108.webp)
 
-9、[Magic UI](https://magicui.design/)
-
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052308.webp)
-
-一个 React 组件库，目前有20多个组件，特点是都带有动画效果。
+一个玩具应用，在线制作人口比重图（占总人口的比重）。
 
 
 ### 资源
 
 
-1、[如果你是 CPU](https://cpu.land/)
+1、[妖怪平生录](https://github.com/meethigher/black-wukong-youji/blob/master/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%A6%96%E6%80%AA%E5%B9%B3%E7%94%9F%E5%BD%95.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092412.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082705.webp)
 
-一本英文科普书籍，介绍计算机底层知识，免费阅读。
+这个仓库收录了游戏《黑神话：悟空》内附的203个妖怪的图片、小诗和故事。（[@meethigher](https://github.com/ruanyf/weekly/issues/5063) 投稿）
 
-2、[假昆虫](https://huggingface.co/spaces/victor/fake-insects)
+2、[Emoji Spark](https://emojispark.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082801.webp)
 
-这个网站是一个小游戏，两张昆虫照片，一张是真的，另一张是 AI 照片，你需要挑出“假昆虫”。
+快速匹配搜索 Emoji 的网站。（[@0xjoanne](https://github.com/ruanyf/weekly/issues/5067) 投稿）
 
-3、[Bash 编程导论](https://github.com/bobbyiliev/introduction-to-bash-scripting)（Introduction to Bash Scripting）
+3、[使用 Julia 语言学习微积分](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)（Calculus With Julia）（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060509.webp)
 
-一本开源的英文电子书，介绍 Bash 脚本开发。
+一本在线阅读的电子书，从最简单的极限开始介绍微积分，需要计算的地方使用 Julia 语言举例。
+
+4、[Documentaries](https://ihavenotv.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011601.webp)
+
+该网站可以免费观看英文纪录片。
 
 
 <!-- End -->
