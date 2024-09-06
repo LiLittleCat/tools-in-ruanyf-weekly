@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 316 期）：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md#资源)
+
+
+1、[PostgreSQL 在线游乐场](https://pgplayground.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072616.webp)
+
+这个网站提供免费的 PostgreSQL 实例，让你在网页进行各种数据库测试。
+
+2、[Is my blue your blue?](https://ismy.blue/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090419.webp)
+
+一个很有趣的网站，给你一系列颜色，问你这是蓝色，还是绿色，最后确定你的蓝绿边界在哪里。
+
+3、[轻松游牧](https://easynomad.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090416.webp)
+
+一个远程工作聚合网站，每天从网上收集支持国内远程的岗位。（[@jiangsong216](https://github.com/ruanyf/weekly/issues/5108) 投稿）
+
+4、[RawWeb.org](https://rawweb.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090513.webp)
+
+一个收录独立网站的搜索引擎。（[@0x2E](https://github.com/ruanyf/weekly/issues/5113) 投稿）
+
+5、[初学者的微积分教程](https://math.mit.edu/~djk/calculus_beginners/)（Calculus for Beginners）
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072708.webp)
+
+一本英文的微积分教材，从最简单的概念讲起，免费阅读。
+
+
 ## [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md#资源)
 
 

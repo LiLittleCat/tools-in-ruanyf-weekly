@@ -16,91 +16,109 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>315</currentVersion> -->
+<!-- <currentVersion>316</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md)
+# [科技爱好者周刊（第 316 期）：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md)
 ### 工具
 
 
-1、[Coolify](https://github.com/coollabsio/coolify)
+1、[ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060801.webp)
 
-一个开源的应用运行平台，相当于自己搭建一个 Heroku / Netlify / Vercel 替代品，各种应用可以轻松在上面运行。
+一个网页应用，将图片转成彩色的 ASCII 字符图（上图）。
 
-2、[Ente Auth](https://ente.io/auth/)
+2、[Unforget](https://github.com/computing-den/unforget)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061201.webp)
 
-一个开源的双因素认证码管理器。
+一个开源的 Web 笔记应用，后端数据放在 Google Keep。
 
-3、[Marsview](https://github.com/JackySoft/marsview)
+3、[Revideo](https://github.com/redotvideo/revideo)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082512.webp)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061202.webp)
 
-一款面向后台的低代码可视化搭建平台，快速搭建中后台管理系统。（[@JackySoft](https://github.com/ruanyf/weekly/issues/5060) 投稿）
+一个 React 的视频编辑组件，可以实时编辑内容，在网页上生成视频。
 
-4、[Notion Exporter](https://notionexporter.com/)
+4、[Unsplash Wanderer](https://chromewebstore.google.com/detail/unsplash-wanderer/jdjjjnfdkhpdppedhjgdcecmmcmklopm)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082808.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090302.webp)
 
-一个浏览器插件，将 Notion 内容导出为长图或卡片，同时保留排版格式。（[@Shanshi66](https://github.com/ruanyf/weekly/issues/5079) 投稿）
+一个 Chrome 浏览器插件，打开新的 Tab 页时，随机展示一幅 unsplash 图片库的高清照片。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5096) 投稿）
 
-5、[电池的电量显示](https://deepesh-01.github.io/battery_indicator/)
+5、[cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090303.webp)
 
-该网站使用一个简单的脚本（[源码](https://deepesh-01.github.io/battery_indicator/app.js)），显示当前设备的电池电量百分比。
+这个开源工具从 DNS 提供商，自动获取域名的解析列表，用来检查所有域名（含二级域名）的证书是否过期，目前支持腾讯云、阿里云和 Godaddy。（[@eryajf](https://github.com/ruanyf/weekly/issues/5098) 投稿）
 
-6、[tsimp](https://github.com/tapjs/tsimp)
+6、[BoardOS](https://boardos.online/)
 
-一个 Node.js 的 TypeScript 加载器，也就是说，它可以让 Node.js 运行 TS 脚本。
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090417.webp)
 
-7、[xpano](https://github.com/krupkat/xpano)
+一个支持实时协同的白板软件，有免费版。（[@superliwei](https://github.com/ruanyf/weekly/issues/5109) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112905.webp)
+7、[ThinNav](https://github.com/DemoJ/ThinNav)
 
-一个自动拼接多张照片的工具。
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090512.webp)
 
-8、[concrete.css](https://concrete.style/)
+作者在 ChatGPT 的帮助下，完成的一个极简的网址导航站，自带后台管理系统，可以用作学习参考。（[@DemoJ](https://github.com/ruanyf/weekly/issues/5112) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020806.webp)
+8、[JSON Generator](https://www.jsongenerator.io/)
 
-一个简单的、无类的 CSS 极简框架，受到 [Milligram](https://milligram.io/) 和 [Skeleton](http://getskeleton.com/) 的启发。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100401.webp)
 
-9、[Person Diagram](https://peoplegraphmaker.com/)
+一个在线工具，用来生成符合指定格式的 JSON 伪数据。
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020108.webp)
+9、[LangSync](https://langsync.app/)
 
-一个玩具应用，在线制作人口比重图（占总人口的比重）。
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100501.webp)
+
+一个命令行工具，使用 AI 一键翻译出软件的语言包。
+
+10、[ttyd](https://github.com/tsl0922/ttyd)
+
+这个命令行工具可以在浏览器里面，打开本机的终端窗口，让用户在浏览器执行终端命令。
+
+11、[AstroNvim](https://github.com/AstroNvim/AstroNvim)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100517.webp)
+
+neovim 编辑器的一个配置，直接帮你定制好了。
 
 
 ### 资源
 
 
-1、[妖怪平生录](https://github.com/meethigher/black-wukong-youji/blob/master/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%A6%96%E6%80%AA%E5%B9%B3%E7%94%9F%E5%BD%95.md)
+1、[PostgreSQL 在线游乐场](https://pgplayground.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072616.webp)
 
-这个仓库收录了游戏《黑神话：悟空》内附的203个妖怪的图片、小诗和故事。（[@meethigher](https://github.com/ruanyf/weekly/issues/5063) 投稿）
+这个网站提供免费的 PostgreSQL 实例，让你在网页进行各种数据库测试。
 
-2、[Emoji Spark](https://emojispark.com/)
+2、[Is my blue your blue?](https://ismy.blue/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090419.webp)
 
-快速匹配搜索 Emoji 的网站。（[@0xjoanne](https://github.com/ruanyf/weekly/issues/5067) 投稿）
+一个很有趣的网站，给你一系列颜色，问你这是蓝色，还是绿色，最后确定你的蓝绿边界在哪里。
 
-3、[使用 Julia 语言学习微积分](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)（Calculus With Julia）（英文）
+3、[轻松游牧](https://easynomad.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060509.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090416.webp)
 
-一本在线阅读的电子书，从最简单的极限开始介绍微积分，需要计算的地方使用 Julia 语言举例。
+一个远程工作聚合网站，每天从网上收集支持国内远程的岗位。（[@jiangsong216](https://github.com/ruanyf/weekly/issues/5108) 投稿）
 
-4、[Documentaries](https://ihavenotv.com/)
+4、[RawWeb.org](https://rawweb.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090513.webp)
 
-该网站可以免费观看英文纪录片。
+一个收录独立网站的搜索引擎。（[@0x2E](https://github.com/ruanyf/weekly/issues/5113) 投稿）
+
+5、[初学者的微积分教程](https://math.mit.edu/~djk/calculus_beginners/)（Calculus for Beginners）
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072708.webp)
+
+一本英文的微积分教材，从最简单的概念讲起，免费阅读。
 
 
 <!-- End -->

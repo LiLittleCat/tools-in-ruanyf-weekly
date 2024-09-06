@@ -1,5 +1,73 @@
 # 工具
 
+## [科技爱好者周刊（第 316 期）：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md#工具)
+
+
+1、[ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060801.webp)
+
+一个网页应用，将图片转成彩色的 ASCII 字符图（上图）。
+
+2、[Unforget](https://github.com/computing-den/unforget)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061201.webp)
+
+一个开源的 Web 笔记应用，后端数据放在 Google Keep。
+
+3、[Revideo](https://github.com/redotvideo/revideo)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061202.webp)
+
+一个 React 的视频编辑组件，可以实时编辑内容，在网页上生成视频。
+
+4、[Unsplash Wanderer](https://chromewebstore.google.com/detail/unsplash-wanderer/jdjjjnfdkhpdppedhjgdcecmmcmklopm)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090302.webp)
+
+一个 Chrome 浏览器插件，打开新的 Tab 页时，随机展示一幅 unsplash 图片库的高清照片。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5096) 投稿）
+
+5、[cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090303.webp)
+
+这个开源工具从 DNS 提供商，自动获取域名的解析列表，用来检查所有域名（含二级域名）的证书是否过期，目前支持腾讯云、阿里云和 Godaddy。（[@eryajf](https://github.com/ruanyf/weekly/issues/5098) 投稿）
+
+6、[BoardOS](https://boardos.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090417.webp)
+
+一个支持实时协同的白板软件，有免费版。（[@superliwei](https://github.com/ruanyf/weekly/issues/5109) 投稿）
+
+7、[ThinNav](https://github.com/DemoJ/ThinNav)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090512.webp)
+
+作者在 ChatGPT 的帮助下，完成的一个极简的网址导航站，自带后台管理系统，可以用作学习参考。（[@DemoJ](https://github.com/ruanyf/weekly/issues/5112) 投稿）
+
+8、[JSON Generator](https://www.jsongenerator.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100401.webp)
+
+一个在线工具，用来生成符合指定格式的 JSON 伪数据。
+
+9、[LangSync](https://langsync.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100501.webp)
+
+一个命令行工具，使用 AI 一键翻译出软件的语言包。
+
+10、[ttyd](https://github.com/tsl0922/ttyd)
+
+这个命令行工具可以在浏览器里面，打开本机的终端窗口，让用户在浏览器执行终端命令。
+
+11、[AstroNvim](https://github.com/AstroNvim/AstroNvim)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100517.webp)
+
+neovim 编辑器的一个配置，直接帮你定制好了。
+
+
 ## [科技爱好者周刊（第 315 期）：一份谷歌离职报告](https://github.com/ruanyf/weekly/blob/master/docs/issue-315.md#工具)
 
 
