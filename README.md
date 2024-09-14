@@ -16,109 +16,103 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>316</currentVersion> -->
+<!-- <currentVersion>317</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 316 期）：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md)
+# [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md)
 ### 工具
 
 
-1、[ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
+1、[Applite](https://aerolite.dev/applite/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081101.webp)
 
-一个网页应用，将图片转成彩色的 ASCII 字符图（上图）。
+MacOS 的第三方应用管理器，可以一键下载、更新、卸载应用。
 
-2、[Unforget](https://github.com/computing-den/unforget)
+2、[deno_python](https://github.com/denosaurs/deno_python)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061201.webp)
+这个模块为 Deno 集成了 Python 支持，使得开发者可以在 JS 代码里面，加入并执行 Python 代码。
 
-一个开源的 Web 笔记应用，后端数据放在 Google Keep。
+3、[文颜](https://github.com/caol64/wenyan)
 
-3、[Revideo](https://github.com/redotvideo/revideo)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090807.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061202.webp)
+一个 Mac 桌面软件，可以将 Markdown 文档转换成公众号、知乎、今日头条等格式。（[@caol64](https://github.com/ruanyf/weekly/issues/5121) 投稿）
 
-一个 React 的视频编辑组件，可以实时编辑内容，在网页上生成视频。
+4、[Cozy Reader](https://github.com/srsng/cozy-reader)
 
-4、[Unsplash Wanderer](https://chromewebstore.google.com/detail/unsplash-wanderer/jdjjjnfdkhpdppedhjgdcecmmcmklopm)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090808.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090302.webp)
+开源的 Epub 电子书的桌面阅读软件，跨平台，基于 Rust + tauri + Vue3。（[@srsng](https://github.com/ruanyf/weekly/issues/5125) 投稿）
 
-一个 Chrome 浏览器插件，打开新的 Tab 页时，随机展示一幅 unsplash 图片库的高清照片。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5096) 投稿）
+5、[SimpleMockServer](https://github.com/couriourc/mock_server)
 
-5、[cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090815.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090303.webp)
+一个简单的 Mock 服务器，可以将静态文件作为 API 接口的 JSON 数据返回。（[@couriourc](https://github.com/ruanyf/weekly/issues/5126) 投稿）
 
-这个开源工具从 DNS 提供商，自动获取域名的解析列表，用来检查所有域名（含二级域名）的证书是否过期，目前支持腾讯云、阿里云和 Godaddy。（[@eryajf](https://github.com/ruanyf/weekly/issues/5098) 投稿）
+6、[up-mode-extension](https://github.com/cunzaizhuyi/up-mode-extension)
 
-6、[BoardOS](https://boardos.online/)
+一个 Chrome 浏览器插件，可以在截屏或录制视屏时，隐藏地址栏的浏览器插件图标。（[@cunzaizhuyi](https://github.com/ruanyf/weekly/issues/5127) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090417.webp)
+7、[File Browser](https://github.com/filebrowser/filebrowser) 
 
-一个支持实时协同的白板软件，有免费版。（[@superliwei](https://github.com/ruanyf/weekly/issues/5109) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091207.webp)
 
-7、[ThinNav](https://github.com/DemoJ/ThinNav)
+一个开源工具，提供一个 Web 界面，浏览和操作本地文件。（[@xiaobaidadada](https://github.com/ruanyf/weekly/issues/5133) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090512.webp)
+8、[Notion Avatar Maker](https://www.notionavatarmaker.com/)
 
-作者在 ChatGPT 的帮助下，完成的一个极简的网址导航站，自带后台管理系统，可以用作学习参考。（[@DemoJ](https://github.com/ruanyf/weekly/issues/5112) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091208.webp)
 
-8、[JSON Generator](https://www.jsongenerator.io/)
+免费的 Notion 风格头像在线制作器。（[@hwlvipone](https://github.com/ruanyf/weekly/issues/5134) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100401.webp)
+9、[k-colors.js](https://github.com/ppzreboot/k-colors.js)
 
-一个在线工具，用来生成符合指定格式的 JSON 伪数据。
+一个从图片提取主要颜色的 JS 库，底层是作者自己实现的 [K-means 算法库](https://github.com/ppzreboot/k-means-pp.js)。（[@ppzreboot](https://github.com/ruanyf/weekly/issues/5135) 投稿）
 
-9、[LangSync](https://langsync.app/)
+10、[Peter Cat](https://github.com/petercat-ai/petercat)
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091209.webp)
 
-一个命令行工具，使用 AI 一键翻译出软件的语言包。
+根据代码仓库的地址，一键创建答疑机器人，快速集成到项目中。（[@xingwanying](https://github.com/ruanyf/weekly/issues/5137) 投稿）
 
-10、[ttyd](https://github.com/tsl0922/ttyd)
+11、[XDeck](https://github.com/morishin/XDeck)
 
-这个命令行工具可以在浏览器里面，打开本机的终端窗口，让用户在浏览器执行终端命令。
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061401.webp)
 
-11、[AstroNvim](https://github.com/AstroNvim/AstroNvim)
+macOS 系统的一个 Twitter 桌面客户端，代码开源。
 
-![](https://cdn.beekka.com/blogimg/asset/202310/bg2023100517.webp)
+12、[AeroSpace](https://github.com/nikitabobko/AeroSpace)
 
-neovim 编辑器的一个配置，直接帮你定制好了。
+macOS 系统的平铺式窗口管理器，类似于 Linux 平台的 [i3](https://i3wm.org/)。
+
+13、[XPipe](https://github.com/xpipe-io/xpipe)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061508.webp)
+
+一个跨平台桌面应用，通过 SSH 在图形界面上管理远程服务器。
 
 
 ### 资源
 
 
-1、[PostgreSQL 在线游乐场](https://pgplayground.com/)
+1、[你想学习物理学](https://www.susanrigetti.com/physics)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072616.webp)
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082104.webp)
 
-这个网站提供免费的 PostgreSQL 实例，让你在网页进行各种数据库测试。
+一位美国物理学家为本科生开的物理学入门书单，介绍物理学各个方面的基本知识。
 
-2、[Is my blue your blue?](https://ismy.blue/)
+2、[数据科学家的 SQL 教程](https://gvwilson.github.io/sql-tutorial/)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090419.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021301.webp)
 
-一个很有趣的网站，给你一系列颜色，问你这是蓝色，还是绿色，最后确定你的蓝绿边界在哪里。
+一份简要的初学者 SQL 教程。
 
-3、[轻松游牧](https://easynomad.cn/)
+3、[Hugeicons React Icons](https://github.com/hugeicons/hugeicons-react)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090416.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051101.webp)
 
-一个远程工作聚合网站，每天从网上收集支持国内远程的岗位。（[@jiangsong216](https://github.com/ruanyf/weekly/issues/5108) 投稿）
-
-4、[RawWeb.org](https://rawweb.org/)
-
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090513.webp)
-
-一个收录独立网站的搜索引擎。（[@0x2E](https://github.com/ruanyf/weekly/issues/5113) 投稿）
-
-5、[初学者的微积分教程](https://math.mit.edu/~djk/calculus_beginners/)（Calculus for Beginners）
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072708.webp)
-
-一本英文的微积分教材，从最简单的概念讲起，免费阅读。
+一个 React 图标库，提供3600多个 React 图标组件。
 
 
 <!-- End -->

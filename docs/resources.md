@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md#资源)
+
+
+1、[你想学习物理学](https://www.susanrigetti.com/physics)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082104.webp)
+
+一位美国物理学家为本科生开的物理学入门书单，介绍物理学各个方面的基本知识。
+
+2、[数据科学家的 SQL 教程](https://gvwilson.github.io/sql-tutorial/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021301.webp)
+
+一份简要的初学者 SQL 教程。
+
+3、[Hugeicons React Icons](https://github.com/hugeicons/hugeicons-react)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051101.webp)
+
+一个 React 图标库，提供3600多个 React 图标组件。
+
+
 ## [科技爱好者周刊（第 316 期）：你一生的故事](https://github.com/ruanyf/weekly/blob/master/docs/issue-316.md#资源)
 
 
