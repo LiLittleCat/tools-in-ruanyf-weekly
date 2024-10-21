@@ -1,5 +1,109 @@
 # 资源
 
+## [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md#资源)
+
+
+1、[Font sensei](https://fontsensei.com/zh-cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101409.webp)
+
+谷歌字体选择器，按照标签选择字体，包含中日韩字体。（[@mrbirddev](https://github.com/ruanyf/weekly/issues/5296) 投稿）
+
+2、[Signature](https://signaturegenerator-ai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101412.webp)
+
+一个生成英语艺术签名的网站。（[@nansshan](https://github.com/ruanyf/weekly/issues/5324) 投稿）
+
+3、[今天的上网感受](https://how-i-experience-web-today.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101515.webp)
+
+这个网站模拟，一个普通用户从搜索引擎点进网站，所遇到的各种打扰。
+
+
+## [科技爱好者周刊（第 320 期）：乒乓仓](https://github.com/ruanyf/weekly/blob/master/docs/issue-320.md#资源)
+
+
+1、[Trieve HN Discovery](https://hn.trieve.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024083001.webp)
+
+第三方的“黑客新闻”搜索引擎，使用体验很不错。
+
+2、[Zeli](https://zeli.app)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100604.webp)
+
+这个网站实时给“黑客新闻”每个链接生成摘要。（[@mazzzystar](https://github.com/ruanyf/weekly/issues/5273) 投稿）
+
+3、[TypeRoom 类型小屋](https://typeroom.cn/problems/all)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024093006.webp)
+
+TypeScript 题库 [Type Challenge](https://github.com/type-challenges/type-challenges) 的网页版。（[@vortesnail](https://github.com/ruanyf/weekly/issues/5250) 投稿）
+
+4、[开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092807.webp)
+
+回答几个问题，帮你选择一个开源许可证。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5236) 投稿）
+
+
+## [科技爱好者周刊（第 319 期）：如何拍出爆款视频](https://github.com/ruanyf/weekly/blob/master/docs/issue-319.md#资源)
+
+
+1、[今日三句半](https://www.threenhalf.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092105.webp)
+
+一份每日更新的免费邮件列表，外网的热点科技新闻总结。（[@tx2126](https://github.com/ruanyf/weekly/issues/5185) 投稿）
+
+2、[MingCute Icon](https://www.mingcute.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082601.webp)
+
+一个开源的图标库，收录3000个图标，可以定制颜色、大小和格式。
+
+3、[APPLORE](https://app.uiboy.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092307.webp)
+
+这个网站收集了5000多个应用程序的图标，可以分类搜索。（[@ViggoZ](https://github.com/ruanyf/weekly/issues/5191) 投稿）
+
+4、[OpenAPI 使用手册](https://docs.bump.sh/guides/openapi/specification/v3.1/introduction/what-is-openapi/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092410.webp)
+
+OpenAPI 是描述 API 的一种文件格式，这里有一本非官方的使用手册，详细记录了各个字段的用法。
+
+
+## [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](https://github.com/ruanyf/weekly/blob/master/docs/issue-318.md#资源)
+
+
+1、[退休年龄计算器](https://daojishi.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091713.webp)
+
+用户输入出生年月和性别，该网站根据新政策，计算对应的退休年龄。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5162) 投稿）
+
+2、[Franzelio](https://franzelio.franzai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091701.webp)
+
+一个有意思的网页小游戏，在网页上画线，反弹小球，发出的声音组成旋律。
+
+3、[插头 + 插座组合](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092001.webp)
+
+全世界共有15种“插头 + 插座”组合，这个网页把它们全列出来。
+
+4、[计算机科学自学课程](https://github.com/ForrestKnight/open-source-cs)（英文）
+
+这个仓库按照学习顺序，列出对应的欧美大学的计算机科学开放课程。全部学完，就等于上完计算机学位课程了。
+
+
 ## [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md#资源)
 
 

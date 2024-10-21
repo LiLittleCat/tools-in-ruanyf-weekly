@@ -1,5 +1,295 @@
 # 工具
 
+## [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md#工具)
+
+
+1、[Chisel](https://github.com/jpillora/chisel)
+
+一个 Linux 命令行软件，在 HTTP 通信上建立 TCP/UDP 隧道，由服务端和客户端两部分组成。
+
+2、[faces.js](https://github.com/zengm-games/facesjs)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040701.webp)
+
+一个生成随机卡通头像的 JS 库。
+
+3、[NotesHub](https://about.noteshub.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101611.webp)
+
+一个 Markdown 笔记软件，具有插入图表、曲谱、公式等多种功能，有 Web/桌面/手机客户端，支持 Git 仓库同步。
+
+4、[Faker Server](https://github.com/Ray-D-Song/faker-server)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101410.webp)
+
+一个基于 Faker.js 的 mock 服务器，用来模拟 API 的返回结果，自带一个前端的接口管理页面。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5321) 投稿）
+
+5、[Logcat in devtools](https://github.com/nieheyong/logcat-in-devtools)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101413.webp)
+
+在 Chrome 开发者工具中查看安卓设备的 adb 日志。（[@nieheyong](https://github.com/ruanyf/weekly/issues/5326) 投稿）
+
+6、[Astro AntfuStyle Theme](https://github.com/lin-stephanie/astro-antfustyle-theme)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101408.webp)
+
+一个 Astro 框架的博客网站皮肤，使用该框架时可作为参考。（[@lin-stephanie](https://github.com/ruanyf/weekly/issues/5315) 投稿）
+
+7、[vitepress-demo-plugin](https://github.com/zh-lx/vitepress-demo-plugin)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101518.webp)
+
+Vitepress 插件，支持在文档页面中插入 Vue/React/HTML 组件。（[@zh-lx](https://github.com/ruanyf/weekly/issues/5331) 投稿）
+
+8、[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101616.webp)
+
+将你的 Telegram Channel 转为微博客。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5341) 投稿）
+
+9、[DNS.Surf](https://dns.surf/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101617.webp)
+
+检查域名在全球不同地区的 DNS 解析结果，[代码开源](https://github.com/ccbikai/DNS.Surf)。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5342) 投稿）
+
+10、[notion2md](https://github.com/thinkerchan/notion2md)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101407.webp)
+
+一个示例项目，将 Notion 作为数据源，通过 GitHub Action 转成 Markdown 文件，生成网站。（[@thinkerchan](https://github.com/ruanyf/weekly/issues/5304) 投稿）
+
+
+## [科技爱好者周刊（第 320 期）：乒乓仓](https://github.com/ruanyf/weekly/blob/master/docs/issue-320.md#工具)
+
+
+1、[MiKaPo](https://github.com/AmyangXYZ/MiKaPo)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092808.webp)
+
+一个纯前端的二次元动作捕捉方案，在网页上，从视频/图片/摄像头提取动作、表情来控制动画角色。（[@AmyangXYZ](https://github.com/ruanyf/weekly/issues/5237) 投稿）
+
+2、[LockPass](https://github.com/ftyszyx/lockpass)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100105.webp)
+
+作者模仿 1password，做了一个开源的密码管理器。（[@ftyszyx](https://github.com/ruanyf/weekly/issues/5254) 投稿）
+
+3、[Copi](https://github.com/s1ntoneli/Copi)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092809.webp)
+
+macOS 系统的剪贴板替代工具，防止第三方应用程序访问剪贴板。（[@s1ntoneli](https://github.com/ruanyf/weekly/issues/5238) 投稿）
+
+4、[词悦（Ciyue）](https://github.com/mumu-lhl/Ciyue)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100403.webp)
+
+mdict 词典的安卓 App，使用 Flutter 开发，代码开源。（[@mumu-lhl](https://github.com/ruanyf/weekly/issues/5263) 投稿）
+
+另有一个[命令行的 mdict 词典](https://github.com/lengyijun/mdict-cli-rs)。 （[@lengyijun](https://github.com/ruanyf/weekly/issues/5270) 投稿）
+
+5、[独白](https://apps.apple.com/app/id6648770338)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092806.webp)
+
+一个练习口语的 iOS App，你不断朗读句子，进行录音，支持多种语言。（[@sniperboy0829](https://github.com/ruanyf/weekly/issues/5097) 投稿）
+
+6、 [photo4you.win](https://photo4you.win/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100112.webp)
+
+免费在线证件照制作。（[@huangzhuo492008824](https://github.com/ruanyf/weekly/issues/5257) 投稿）
+
+另外，有一个类似的开源项目 [HivisionIDPhoto](https://github.com/Zeyi-Lin/HivisionIDPhotos)。
+
+7、[OneIMG](https://github.com/byodian/oneimg)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100506.webp)
+
+一个开源的、纯前端的文字转图片的网页应用。（[@byodian](https://github.com/ruanyf/weekly/issues/5268) 投稿）
+
+8、[WebChat](https://github.com/molvqingtai/WebChat)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100106.webp)
+
+开源的浏览器插件，基于 WebRTC，为同一个页面的访问者建立去中心化、无服务器的匿名聊天，可用于任意网站。（[@molvqingtai](https://github.com/ruanyf/weekly/issues/5256) 投稿）
+
+9、[TvT.js](https://github.com/hawk86104/icegl-three-vue-tres)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100803.webp)
+
+一个基于 ThreeJS + Vue + TresJS 封装的框架，用 Vue 组件的方式写 3D 可视化项目。（[@hawk86104](https://github.com/ruanyf/weekly/issues/5281) 投稿）
+
+10、[Hexo Theme Sea](https://github.com/hai-zou/hexo-theme-sea)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100907.webp)
+
+一款开源的 Hexo 博客主题，支持国际化和暗黑模式。（[@hai-zou](https://github.com/ruanyf/weekly/issues/5287) 投稿）
+
+11、[联网麻将游戏](https://github.com/liumengniu/majiang)
+
+麻将游戏的一个开源实现，分成服务端和客户端。（[@liumengniu](https://github.com/ruanyf/weekly/issues/5247) 投稿）
+
+12、[X Guard](https://chromewebstore.google.com/detail/x-guard/lljdlddjpnlabinhkgmhmnfacgjkggim)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092911.webp)
+
+一个 X（Twitter）内容过滤的浏览器插件。（[@zmzimpl](https://github.com/ruanyf/weekly/issues/5249) 投稿）
+
+
+## [科技爱好者周刊（第 319 期）：如何拍出爆款视频](https://github.com/ruanyf/weekly/blob/master/docs/issue-319.md#工具)
+
+
+1、[LosslessCut](https://github.com/mifi/lossless-cut)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024063003.webp)
+
+一个开源的跨平台视频剪切软件，目标是成为 FFmpeg 的图形前端。
+
+2、[Weather as Landscape](https://github.com/lds133/weather_landscape)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092101.webp)
+
+一个很有创意的项目，将天气预报变成一幅画，
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092102.webp)
+
+3、[Container Desktop](https://container-desktop.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092103.webp)
+
+跨平台的桌面应用，用来管理容器，类似于 Docker Desktop。
+
+4、[玉竹（Yuzhu）](https://github.com/hefengbao/yuzhu)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092104.webp)
+
+一个简洁的博客、微博客系统，基于 PHP，自带安卓客户端。（[@hefengbao](https://github.com/ruanyf/weekly/issues/5174) 投稿）
+
+5、[IPFS telegra.ph](https://github.com/chenjia404/ipfs-telegra.ph)
+
+一个在 ipfs 上写文章的极简发布工具，从网页输入文章发布到 ipfs。（[@chenjia404](https://github.com/ruanyf/weekly/issues/5176) 投稿）
+
+6、[UptimeFlare](https://github.com/lyc8503/UptimeFlare)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092201.webp)
+
+一个开源的服务，监控网站是否正常在线，基于 Cloudflare Worker。
+
+7、[Zerox OCR](https://github.com/getomni-ai/zerox)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092303.webp)
+
+一个 JS/Python 库，使用 OpenAI 对 PDF 文件进行文字识别。
+
+8、[Monocart Coverage Reports](https://github.com/cenfun/monocart-coverage-reports/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092306.webp)
+
+一个 JS 工具库，生成 V8 格式和 Istanbul 格式的测试覆盖报告。（[@cenfun](https://github.com/ruanyf/weekly/issues/5190) 投稿）
+
+9、[五子棋人机对战](https://github.com/mumuy/gobang)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092308.webp)
+
+开源的小游戏，网页五子棋人机对战。（[@mumuy](https://github.com/ruanyf/weekly/issues/5193) 投稿）
+
+10、[JSON For You](https://github.com/loggerhead/json4u/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092309.webp)
+
+开源的 JSON 数据的在线可视化、处理工具。（[@loggerhead](https://github.com/ruanyf/weekly/issues/5192) 投稿）
+
+11、[Compress JPG](https://compressjpg.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092501.webp)
+
+一个基于谷歌的 squoosh 算法、一次性压缩多张图片的网站。（[@ethansunray](https://github.com/ruanyf/weekly/issues/5225) 投稿）
+
+12、[git cliff](https://github.com/orhun/git-cliff)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024063005.webp)
+
+一个自动总结提交信息，生成 changelog 文件的命令行工具。
+
+
+## [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](https://github.com/ruanyf/weekly/blob/master/docs/issue-318.md#工具)
+
+
+1、[SuperHTML](https://github.com/kristoff-it/superhtml)
+
+一个 HTML 的 LSP 实现（语言服务器协议），可以在代码编辑器（比如 VS Code 和 Vim）实时检测 HTML 代码是否正确，参见[教程](https://kristoff.it/blog/first-html-lsp/)。
+
+2、[GlazeWM](https://github.com/glzr-io/glazewm)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091604.webp)
+
+一个专门用于 Windows 的平铺式窗口管理器，类似于 i3，自动实现新窗口的平铺。
+
+3、[Xnapper](https://xnapper.com/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091703.webp)
+
+一个截图美化的在线工具，可以为截图加各种边框。
+
+4、[sisi](https://github.com/frost-beta/sisi)
+
+命令行的图像语义搜索工具，让你用自然语言搜索本地图像。
+
+5、[Certimate](https://github.com/usual2970/certimate)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091710.webp)
+
+一个自搭建的开源平台，可以为自己的域名申请、部署、续期 SSL 证书，支持阿里云、腾讯云、七牛云等。（[@usual2970](https://github.com/ruanyf/weekly/issues/5155) 投稿）
+
+6、[Dawn Launcher](https://github.com/fanchenio/DawnLauncher)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091711.webp)
+
+一个开源的 Windows 快捷启动工具，分门别类管理桌面快捷方式。（[@fanchenio](https://github.com/ruanyf/weekly/issues/5157) 投稿）
+
+7、[common-intellisense](https://github.com/Simon-He95/common-intellisense)
+
+VS Code 插件，为多种常用的前端 UI 库提供注释和类型提示。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/5160) 投稿）
+
+8、[PopTranslate](https://github.com/wa008/PopTranslate)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091712.webp)
+
+一个 Chrome 浏览器插件，选中文字后，直接将翻译显示在右上角的弹窗，不需要点击按钮。（[@wa008](https://github.com/ruanyf/weekly/issues/5161) 投稿）
+
+9、[RTranslator](https://github.com/niedev/RTranslator)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061905.webp)
+
+一个开源的安卓 App，可以实现语音对话的实时离线翻译。
+
+10、[Gladys Assistant](https://gladysassistant.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091803.webp)
+
+智能家居的一个控制系统，类似于 Home Assistant，但用起来更简单，面向普通用户。
+
+11、[Omnivore](https://github.com/omnivore-app/omnivore)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101609.webp)
+
+一个开源应用，用于收藏稍后阅读的文章。
+
+12、[cvbee.ai](https://cvbee.ai/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091404.webp)
+
+免费生成或修改简历。（[@dddm25896](https://github.com/ruanyf/weekly/issues/5148) 投稿）
+
+13、[libcimbar](https://github.com/sz3/libcimbar)
+
+一种特殊的二维码格式，可以把小于 33MB 的文件压缩成一个二维码，用他们提供的 App 扫码解压即可得到文件。（[@joyc](https://github.com/ruanyf/weekly/issues/5171) 投稿）
+
+
 ## [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](https://github.com/ruanyf/weekly/blob/master/docs/issue-317.md#工具)
 
 
