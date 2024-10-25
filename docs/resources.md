@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md#资源)
+
+
+1、[crt.sh 证书查询](https://crt.sh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091305.webp)
+
+这个网站可以查询颁发给某个域名（含二级域名）的所有加密证书。
+
+2、[Pastebin](https://paste.c-net.org/)
+
+一个新的 Pastebin 网站，除了文本，还可以分享二进制文件（不超过 50MB），不需要注册。
+
+3、[数据结构可视化](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)（Visual Data Structures Cheat-Sheet）
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081706.webp)
+
+这篇长文收集了数据结构相关的各种可视化解释。
+
+4、[useHooks](https://usehooks.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023053101.webp)
+
+这个网站收集 React 框架的各种有用的 Hooks。 
+
+
 ## [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md#资源)
 
 

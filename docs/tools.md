@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md#工具)
+
+
+1、[whodb](https://github.com/clidey/whodb)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071109.webp)
+
+一个基于浏览器的数据库管理工具，支持 Postgres、MySQL、SQLite、MongoDB、 Redis。
+
+2、[Docmost](https://github.com/docmost/docmost)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071112.webp)
+
+一个基于浏览器的维基和文档工具，Confluence 和 Notion 替代品。
+
+3、[notifier](https://github.com/byodian/notifier)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102103.webp)
+
+一个 Cloudflare Worker 应用，监听 GitHub 仓库的各种事件，自动发送信息到 Telegram。（[@byodian](https://github.com/ruanyf/weekly/issues/5371) 投稿）
+
+4、[wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102204.webp)
+
+开源的微信公众号文章在线导出工具，可用来批量下载某个公众号的文章。（[@jooooock](https://github.com/ruanyf/weekly/issues/5387) 投稿）
+
+5、[NewsNow](https://github.com/ourongxing/newsnow)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102404.webp)
+
+开源的新闻热榜网站。（[@ourongxing](https://github.com/ruanyf/weekly/issues/5407) 投稿）
+
+6、[Image to Excel](https://itexcel.izhiyakeji.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102102.webp)
+
+表格图片转成 Excel 文件的在线服务。（[@showwaychen](https://github.com/ruanyf/weekly/issues/5370) 投稿）
+
+7、[加水印](https://github.com/pdmaker/watermark-master)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102206.webp)
+
+图片加水印的网页工具，纯前端应用，不需要服务器，代码开源。（[@pdmaker](https://github.com/ruanyf/weekly/issues/5395) 投稿）
+
+8、[Theia](https://theia-ide.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071113.webp)
+
+Eclipse 推出的代码编辑器，VS Code 的替代品。
+
+9、[JSBEN](https://jsben.ch/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071201.webp)
+
+一个在线页面，用来比较不同 JS 代码的性能。网站上有很多[现成的例子](https://jsben.ch/browse)。
+
+
 ## [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md#工具)
 
 

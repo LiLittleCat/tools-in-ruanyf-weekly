@@ -16,91 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>321</currentVersion> -->
+<!-- <currentVersion>322</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md)
+# [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md)
 ### 工具
 
 
-1、[Chisel](https://github.com/jpillora/chisel)
+1、[whodb](https://github.com/clidey/whodb)
 
-一个 Linux 命令行软件，在 HTTP 通信上建立 TCP/UDP 隧道，由服务端和客户端两部分组成。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071109.webp)
 
-2、[faces.js](https://github.com/zengm-games/facesjs)
+一个基于浏览器的数据库管理工具，支持 Postgres、MySQL、SQLite、MongoDB、 Redis。
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040701.webp)
+2、[Docmost](https://github.com/docmost/docmost)
 
-一个生成随机卡通头像的 JS 库。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071112.webp)
 
-3、[NotesHub](https://about.noteshub.app/)
+一个基于浏览器的维基和文档工具，Confluence 和 Notion 替代品。
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101611.webp)
+3、[notifier](https://github.com/byodian/notifier)
 
-一个 Markdown 笔记软件，具有插入图表、曲谱、公式等多种功能，有 Web/桌面/手机客户端，支持 Git 仓库同步。
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102103.webp)
 
-4、[Faker Server](https://github.com/Ray-D-Song/faker-server)
+一个 Cloudflare Worker 应用，监听 GitHub 仓库的各种事件，自动发送信息到 Telegram。（[@byodian](https://github.com/ruanyf/weekly/issues/5371) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101410.webp)
+4、[wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
 
-一个基于 Faker.js 的 mock 服务器，用来模拟 API 的返回结果，自带一个前端的接口管理页面。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5321) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102204.webp)
 
-5、[Logcat in devtools](https://github.com/nieheyong/logcat-in-devtools)
+开源的微信公众号文章在线导出工具，可用来批量下载某个公众号的文章。（[@jooooock](https://github.com/ruanyf/weekly/issues/5387) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101413.webp)
+5、[NewsNow](https://github.com/ourongxing/newsnow)
 
-在 Chrome 开发者工具中查看安卓设备的 adb 日志。（[@nieheyong](https://github.com/ruanyf/weekly/issues/5326) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102404.webp)
 
-6、[Astro AntfuStyle Theme](https://github.com/lin-stephanie/astro-antfustyle-theme)
+开源的新闻热榜网站。（[@ourongxing](https://github.com/ruanyf/weekly/issues/5407) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101408.webp)
+6、[Image to Excel](https://itexcel.izhiyakeji.com/)
 
-一个 Astro 框架的博客网站皮肤，使用该框架时可作为参考。（[@lin-stephanie](https://github.com/ruanyf/weekly/issues/5315) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102102.webp)
 
-7、[vitepress-demo-plugin](https://github.com/zh-lx/vitepress-demo-plugin)
+表格图片转成 Excel 文件的在线服务。（[@showwaychen](https://github.com/ruanyf/weekly/issues/5370) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101518.webp)
+7、[加水印](https://github.com/pdmaker/watermark-master)
 
-Vitepress 插件，支持在文档页面中插入 Vue/React/HTML 组件。（[@zh-lx](https://github.com/ruanyf/weekly/issues/5331) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102206.webp)
 
-8、[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+图片加水印的网页工具，纯前端应用，不需要服务器，代码开源。（[@pdmaker](https://github.com/ruanyf/weekly/issues/5395) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101616.webp)
+8、[Theia](https://theia-ide.org/)
 
-将你的 Telegram Channel 转为微博客。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5341) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071113.webp)
 
-9、[DNS.Surf](https://dns.surf/)
+Eclipse 推出的代码编辑器，VS Code 的替代品。
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101617.webp)
+9、[JSBEN](https://jsben.ch/)
 
-检查域名在全球不同地区的 DNS 解析结果，[代码开源](https://github.com/ccbikai/DNS.Surf)。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5342) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071201.webp)
 
-10、[notion2md](https://github.com/thinkerchan/notion2md)
-
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101407.webp)
-
-一个示例项目，将 Notion 作为数据源，通过 GitHub Action 转成 Markdown 文件，生成网站。（[@thinkerchan](https://github.com/ruanyf/weekly/issues/5304) 投稿）
+一个在线页面，用来比较不同 JS 代码的性能。网站上有很多[现成的例子](https://jsben.ch/browse)。
 
 
 ### 资源
 
 
-1、[Font sensei](https://fontsensei.com/zh-cn)
+1、[crt.sh 证书查询](https://crt.sh/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101409.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091305.webp)
 
-谷歌字体选择器，按照标签选择字体，包含中日韩字体。（[@mrbirddev](https://github.com/ruanyf/weekly/issues/5296) 投稿）
+这个网站可以查询颁发给某个域名（含二级域名）的所有加密证书。
 
-2、[Signature](https://signaturegenerator-ai.com/)
+2、[Pastebin](https://paste.c-net.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101412.webp)
+一个新的 Pastebin 网站，除了文本，还可以分享二进制文件（不超过 50MB），不需要注册。
 
-一个生成英语艺术签名的网站。（[@nansshan](https://github.com/ruanyf/weekly/issues/5324) 投稿）
+3、[数据结构可视化](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)（Visual Data Structures Cheat-Sheet）
 
-3、[今天的上网感受](https://how-i-experience-web-today.com/)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101515.webp)
+这篇长文收集了数据结构相关的各种可视化解释。
 
-这个网站模拟，一个普通用户从搜索引擎点进网站，所遇到的各种打扰。
+4、[useHooks](https://usehooks.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023053101.webp)
+
+这个网站收集 React 框架的各种有用的 Hooks。 
 
 
 <!-- End -->
