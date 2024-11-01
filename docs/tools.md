@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 323 期）：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md#工具)
+
+
+1、[Garage](https://garagehq.deuxfleurs.fr/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072001.webp)
+
+一个开源分布式对象存储工具，AWS S3 的替代品，兼容 S3 的客户端，可以建立自己的网络存储系统。类似工具还有 [SeaweedFS](https://github.com/seaweedfs/seaweedfs)。
+
+2、[Transcribro](https://github.com/soupslurpr/Transcribro)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072116.webp)
+
+安卓的语音输入法，底层使用 whisper 模型。
+
+3、[StarLocator](https://github.com/BengbuGuards/StarLocator)
+
+一个开源的天文学网页应用，上传星空的照片，就可以识别拍摄位置。
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103002.webp)
+
+但是，限制条件比较多，需要照片清晰，并且包含至少5个天体，以及给出拍摄时间和多条铅垂线。（[@cheanus](https://github.com/ruanyf/weekly/issues/5420) 投稿）
+
+4、[iCraft Editor](https://icraft.gantcloud.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102912.webp)
+
+绘制 3D 架构图的网页应用，免费使用。（[@yuanguandong](https://github.com/ruanyf/weekly/issues/5414) 投稿）
+
+5、[HotHub](https://github.com/w4n9hu1/hot-hub-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103003.webp)
+
+开源的热点话题查看和搜索网站，展示话题的热度趋势，基于 Next.js。（[@w4n9hu1](https://github.com/ruanyf/weekly/issues/5421) 投稿）
+
+6、[Web Archive](https://github.com/Ray-D-Song/web-archive)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103004.webp)
+
+网页收藏备份的 Web 应用，基于 Cloudflare Worker，数据保存在 Cloudflare。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5423) 投稿）
+
+7、[RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102913.webp)
+
+一个开源的 RSS 在线订阅工具，支持各种机制的 Hook（网络钩子），可以用来触发各种操作。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/5418) 投稿）
+
+8、[codess](https://codess.dumogu.top/) 
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103006.webp)
+
+快速生成和在线管理 [VS Code 代码片段](https://code.visualstudio.com/docs/editor/userdefinedsnippets)。（[@yayaluoya](https://github.com/ruanyf/weekly/issues/5435) 投稿）
+
+9、[Bookmarks Artist](https://github.com/liujuntao123/bookmarks-artist)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103016.webp)
+
+开源的 Chrome 浏览器插件，提供一个查看浏览器书签的全新界面。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/5444) 投稿）
+
+10、[PgManage](https://github.com/commandprompt/pgmanage)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072202.webp)
+
+一个跨平台的 Postgres 数据库的桌面客户端，提供图形界面。
+
+
 ## [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md#工具)
 
 

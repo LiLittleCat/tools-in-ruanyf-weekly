@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 323 期）：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md#资源)
+
+
+1、[地震地图](https://seismic-explorer.concord.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102504.webp)
+
+这个网站是地震地图，标识出了1980年后大于5.2级的地震（共10万多次），可以清晰地看到地震带，也可以查看某个地区发生过的地震。
+
+2、[自己动手写 Git](https://wyag-zh.hanyujie.xyz/)（中译版）
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103005.webp)
+
+本教程使用 Python 从头实现简化版 Git，帮助读者理解 Git 的核心原理。（[@hanyujie2002](https://github.com/ruanyf/weekly/issues/5431) 投稿）
+
+3、[Kill the Newsletter!](https://kill-the-newsletter.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082603.webp)
+
+这个免费服务可以将邮件列表，转为 RSS Feed。
+
+4、[了解电池](https://batteryuniversity.com/articles)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092408.webp)
+
+一本免费的英文书籍，向普通读者介绍电池的基本知识。
+
+
 ## [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md#资源)
 
 

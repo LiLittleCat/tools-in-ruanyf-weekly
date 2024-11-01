@@ -16,91 +16,101 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>322</currentVersion> -->
+<!-- <currentVersion>323</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 322 期）：内容行业的内幕](https://github.com/ruanyf/weekly/blob/master/docs/issue-322.md)
+# [科技爱好者周刊（第 323 期）：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md)
 ### 工具
 
 
-1、[whodb](https://github.com/clidey/whodb)
+1、[Garage](https://garagehq.deuxfleurs.fr/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071109.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072001.webp)
 
-一个基于浏览器的数据库管理工具，支持 Postgres、MySQL、SQLite、MongoDB、 Redis。
+一个开源分布式对象存储工具，AWS S3 的替代品，兼容 S3 的客户端，可以建立自己的网络存储系统。类似工具还有 [SeaweedFS](https://github.com/seaweedfs/seaweedfs)。
 
-2、[Docmost](https://github.com/docmost/docmost)
+2、[Transcribro](https://github.com/soupslurpr/Transcribro)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071112.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072116.webp)
 
-一个基于浏览器的维基和文档工具，Confluence 和 Notion 替代品。
+安卓的语音输入法，底层使用 whisper 模型。
 
-3、[notifier](https://github.com/byodian/notifier)
+3、[StarLocator](https://github.com/BengbuGuards/StarLocator)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102103.webp)
+一个开源的天文学网页应用，上传星空的照片，就可以识别拍摄位置。
 
-一个 Cloudflare Worker 应用，监听 GitHub 仓库的各种事件，自动发送信息到 Telegram。（[@byodian](https://github.com/ruanyf/weekly/issues/5371) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103002.webp)
 
-4、[wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+但是，限制条件比较多，需要照片清晰，并且包含至少5个天体，以及给出拍摄时间和多条铅垂线。（[@cheanus](https://github.com/ruanyf/weekly/issues/5420) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102204.webp)
+4、[iCraft Editor](https://icraft.gantcloud.com)
 
-开源的微信公众号文章在线导出工具，可用来批量下载某个公众号的文章。（[@jooooock](https://github.com/ruanyf/weekly/issues/5387) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102912.webp)
 
-5、[NewsNow](https://github.com/ourongxing/newsnow)
+绘制 3D 架构图的网页应用，免费使用。（[@yuanguandong](https://github.com/ruanyf/weekly/issues/5414) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102404.webp)
+5、[HotHub](https://github.com/w4n9hu1/hot-hub-web)
 
-开源的新闻热榜网站。（[@ourongxing](https://github.com/ruanyf/weekly/issues/5407) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103003.webp)
 
-6、[Image to Excel](https://itexcel.izhiyakeji.com/)
+开源的热点话题查看和搜索网站，展示话题的热度趋势，基于 Next.js。（[@w4n9hu1](https://github.com/ruanyf/weekly/issues/5421) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102102.webp)
+6、[Web Archive](https://github.com/Ray-D-Song/web-archive)
 
-表格图片转成 Excel 文件的在线服务。（[@showwaychen](https://github.com/ruanyf/weekly/issues/5370) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103004.webp)
 
-7、[加水印](https://github.com/pdmaker/watermark-master)
+网页收藏备份的 Web 应用，基于 Cloudflare Worker，数据保存在 Cloudflare。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5423) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102206.webp)
+7、[RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)
 
-图片加水印的网页工具，纯前端应用，不需要服务器，代码开源。（[@pdmaker](https://github.com/ruanyf/weekly/issues/5395) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102913.webp)
 
-8、[Theia](https://theia-ide.org/)
+一个开源的 RSS 在线订阅工具，支持各种机制的 Hook（网络钩子），可以用来触发各种操作。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/5418) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071113.webp)
+8、[codess](https://codess.dumogu.top/) 
 
-Eclipse 推出的代码编辑器，VS Code 的替代品。
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103006.webp)
 
-9、[JSBEN](https://jsben.ch/)
+快速生成和在线管理 [VS Code 代码片段](https://code.visualstudio.com/docs/editor/userdefinedsnippets)。（[@yayaluoya](https://github.com/ruanyf/weekly/issues/5435) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071201.webp)
+9、[Bookmarks Artist](https://github.com/liujuntao123/bookmarks-artist)
 
-一个在线页面，用来比较不同 JS 代码的性能。网站上有很多[现成的例子](https://jsben.ch/browse)。
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103016.webp)
+
+开源的 Chrome 浏览器插件，提供一个查看浏览器书签的全新界面。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/5444) 投稿）
+
+10、[PgManage](https://github.com/commandprompt/pgmanage)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072202.webp)
+
+一个跨平台的 Postgres 数据库的桌面客户端，提供图形界面。
 
 
 ### 资源
 
 
-1、[crt.sh 证书查询](https://crt.sh/)
+1、[地震地图](https://seismic-explorer.concord.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091305.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102504.webp)
 
-这个网站可以查询颁发给某个域名（含二级域名）的所有加密证书。
+这个网站是地震地图，标识出了1980年后大于5.2级的地震（共10万多次），可以清晰地看到地震带，也可以查看某个地区发生过的地震。
 
-2、[Pastebin](https://paste.c-net.org/)
+2、[自己动手写 Git](https://wyag-zh.hanyujie.xyz/)（中译版）
 
-一个新的 Pastebin 网站，除了文本，还可以分享二进制文件（不超过 50MB），不需要注册。
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103005.webp)
 
-3、[数据结构可视化](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)（Visual Data Structures Cheat-Sheet）
+本教程使用 Python 从头实现简化版 Git，帮助读者理解 Git 的核心原理。（[@hanyujie2002](https://github.com/ruanyf/weekly/issues/5431) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081706.webp)
+3、[Kill the Newsletter!](https://kill-the-newsletter.com/)
 
-这篇长文收集了数据结构相关的各种可视化解释。
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082603.webp)
 
-4、[useHooks](https://usehooks.com/)
+这个免费服务可以将邮件列表，转为 RSS Feed。
 
-![](https://cdn.beekka.com/blogimg/asset/202305/bg2023053101.webp)
+4、[了解电池](https://batteryuniversity.com/articles)
 
-这个网站收集 React 框架的各种有用的 Hooks。 
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092408.webp)
+
+一本免费的英文书籍，向普通读者介绍电池的基本知识。
 
 
 <!-- End -->
