@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 324 期）：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md#资源)
+
+
+1、[Unfaked](https://www.gounfaked.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100804.webp)
+
+一个免费图片库，收集可以乱真的 AI 生成图片。
+
+2、[系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview)（中译）
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110210.webp)
+
+《System Design Interview: An Insider's Guide》一书的中文翻译，介绍如何设计不同目的的软件系统，可以用来准备面试。（[@Admol](https://github.com/ruanyf/weekly/issues/5448) 投稿）
+
+3、[Auth Wiki](https://auth.wiki/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110403.webp)
+
+一个维基网站，收录各种与身份验证、授权和身份管理相关的条目，解释很详细。
+
+4、[3D 卫星图](https://app.keeptrack.space/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100304.webp)
+
+这个网站可以实时查看所有运行中的地球卫星，选择一个地点，可以看到该地上空现在是什么卫星。
+
+
 ## [科技爱好者周刊（第 323 期）：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md#资源)
 
 

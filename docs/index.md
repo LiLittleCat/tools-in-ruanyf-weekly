@@ -16,101 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>323</currentVersion> -->
+<!-- <currentVersion>324</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 323 期）：技术公司的口号比拼](https://github.com/ruanyf/weekly/blob/master/docs/issue-323.md)
+# [科技爱好者周刊（第 324 期）：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md)
 ### 工具
 
 
-1、[Garage](https://garagehq.deuxfleurs.fr/)
+1、[flyscrape](https://flyscrape.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111201.webp)
 
-一个开源分布式对象存储工具，AWS S3 的替代品，兼容 S3 的客户端，可以建立自己的网络存储系统。类似工具还有 [SeaweedFS](https://github.com/seaweedfs/seaweedfs)。
+一个网页抓取的跨平台命令行工具，使用 Go 语言编写，但是它的操作脚本是用 JS 写的，方便用户提取网页内容。
 
-2、[Transcribro](https://github.com/soupslurpr/Transcribro)
+2、[uv](https://github.com/astral-sh/uv)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072116.webp)
+Rust 语言写的 Python 包安装器，可以替代 pip，运行速度更快，参见[介绍文章](https://astral.sh/blog/uv)。
 
-安卓的语音输入法，底层使用 whisper 模型。
+3、[ChatTCP](https://chattcp.com)
 
-3、[StarLocator](https://github.com/BengbuGuards/StarLocator)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110212.webp)
 
-一个开源的天文学网页应用，上传星空的照片，就可以识别拍摄位置。
+一款 Mac 的 TCP 数据包分析工具，致力于简化 TCP 分析，核心功能免费。（[@wujiuye](https://github.com/ruanyf/weekly/issues/5454) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103002.webp)
+4、[typing-practice](https://github.com/wincatcher/typing-practice.toolsnav.top)
 
-但是，限制条件比较多，需要照片清晰，并且包含至少5个天体，以及给出拍摄时间和多条铅垂线。（[@cheanus](https://github.com/ruanyf/weekly/issues/5420) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110211.webp)
 
-4、[iCraft Editor](https://icraft.gantcloud.com)
+开源的英文打字练习工具。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5451) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102912.webp)
+5、[云搭](https://github.com/wangyuan389/yunda)
 
-绘制 3D 架构图的网页应用，免费使用。（[@yuanguandong](https://github.com/ruanyf/weekly/issues/5414) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110502.webp)
 
-5、[HotHub](https://github.com/w4n9hu1/hot-hub-web)
+开源的低代码平台，用来搭建小程序、H5、问卷、图文文章等多种应用，试用 [Demo](https://www.sunmao-design.top/sunmao/admin)。（[@wangyuan389](https://github.com/ruanyf/weekly/issues/5473) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103003.webp)
+6、[NextTalk](https://github.com/Mebius1916/NextTalk_web)
 
-开源的热点话题查看和搜索网站，展示话题的热度趋势，基于 Next.js。（[@w4n9hu1](https://github.com/ruanyf/weekly/issues/5421) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110213.webp)
 
-6、[Web Archive](https://github.com/Ray-D-Song/web-archive)
+一个基于 Next.js 的网页版实时聊天工具，使用说明详见它的[桌面版](https://github.com/Mebius1916/NextTalk)，可以作为开发参考。（[@Mebius1916](https://github.com/ruanyf/weekly/issues/5457) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103004.webp)
+7、[dazhengTools](https://github.com/dazhengs/tools)
 
-网页收藏备份的 Web 应用，基于 Cloudflare Worker，数据保存在 Cloudflare。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5423) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110306.webp)
 
-7、[RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)
+开源的纯前端在线加/解密工具箱，可以离线使用。（[@dazhengs](https://github.com/ruanyf/weekly/issues/5460) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102913.webp)
+8、[TempMail](https://tempmail100.com/)
 
-一个开源的 RSS 在线订阅工具，支持各种机制的 Hook（网络钩子），可以用来触发各种操作。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/5418) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110308.webp)
 
-8、[codess](https://codess.dumogu.top/) 
+临时邮箱服务，支持 iOS 和网页端。（[@houzhongjian](https://github.com/ruanyf/weekly/issues/5455) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103006.webp)
+9、[自动化巡检系统](https://github.com/TheCoolQATeam/online-inspection-tracker)
 
-快速生成和在线管理 [VS Code 代码片段](https://code.visualstudio.com/docs/editor/userdefinedsnippets)。（[@yayaluoya](https://github.com/ruanyf/weekly/issues/5435) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110702.webp)
 
-9、[Bookmarks Artist](https://github.com/liujuntao123/bookmarks-artist)
+一个开源的网址状态定时巡检工具，防止指定网址出现白屏、服务无响应等问题，有异常会发送钉钉、企业微信、飞书警报，体验 [Demo](https://check.itest.ren/)。（[@zdx0122](https://github.com/ruanyf/weekly/issues/5486) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103016.webp)
+10、[Magika](https://google.github.io/magika/)
 
-开源的 Chrome 浏览器插件，提供一个查看浏览器书签的全新界面。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/5444) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072507.webp)
 
-10、[PgManage](https://github.com/commandprompt/pgmanage)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072202.webp)
-
-一个跨平台的 Postgres 数据库的桌面客户端，提供图形界面。
+一个命令行工具，可以检测某个文件是什么类型（比如图片文件还是文本文件），有网页的 JS 版。它是谷歌的产品，谷歌内部也在用它检测文件类型。
 
 
 ### 资源
 
 
-1、[地震地图](https://seismic-explorer.concord.org/)
+1、[Unfaked](https://www.gounfaked.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100804.webp)
 
-这个网站是地震地图，标识出了1980年后大于5.2级的地震（共10万多次），可以清晰地看到地震带，也可以查看某个地区发生过的地震。
+一个免费图片库，收集可以乱真的 AI 生成图片。
 
-2、[自己动手写 Git](https://wyag-zh.hanyujie.xyz/)（中译版）
+2、[系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview)（中译）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024103005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110210.webp)
 
-本教程使用 Python 从头实现简化版 Git，帮助读者理解 Git 的核心原理。（[@hanyujie2002](https://github.com/ruanyf/weekly/issues/5431) 投稿）
+《System Design Interview: An Insider's Guide》一书的中文翻译，介绍如何设计不同目的的软件系统，可以用来准备面试。（[@Admol](https://github.com/ruanyf/weekly/issues/5448) 投稿）
 
-3、[Kill the Newsletter!](https://kill-the-newsletter.com/)
+3、[Auth Wiki](https://auth.wiki/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110403.webp)
 
-这个免费服务可以将邮件列表，转为 RSS Feed。
+一个维基网站，收录各种与身份验证、授权和身份管理相关的条目，解释很详细。
 
-4、[了解电池](https://batteryuniversity.com/articles)
+4、[3D 卫星图](https://app.keeptrack.space/)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092408.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100304.webp)
 
-一本免费的英文书籍，向普通读者介绍电池的基本知识。
+这个网站可以实时查看所有运行中的地球卫星，选择一个地点，可以看到该地上空现在是什么卫星。
 
 
 <!-- End -->
