@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md#资源)
+
+
+1、[逆向工程教程](https://0xinfection.github.io/reversing/)（Reverse Engineering For Everyone）
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072601.webp)
+
+面向初学者的逆向工程英文电子书，涵盖了 x86 和 ARM 架构。
+
+2、[一站式 iframe 生成器](https://iframegenerator.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110908.webp)
+
+HTML 的 iframe 元素有很多属性，这个工具网站可以查看所有属性值，并生成最终代码。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5499) 投稿）
+
+3、[Chromium 的命令行开关](https://peter.sh/experiments/chromium-command-line-switches/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073002.webp)
+
+这个网页收集 Chromium（Chrome）浏览器的命令行开关，居然有1600多个。
+
+4、[Typst 介绍](https://blog.jreyesr.com/posts/typst/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101405.webp)
+
+Typst 是一种排版工具，可以生成论文、小册子、表格等，功能类似于 LaTeX，但是写法类似于 Markdown，用起来相对简单。
+
+
 ## [科技爱好者周刊（第 324 期）：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md#资源)
 
 

@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md#工具)
+
+
+1、[PasteBar](https://github.com/PasteBar/PasteBarApp)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073001.webp)
+
+开源的桌面软件，用来管理剪贴板，可以搜索剪贴板历史，以及预设常用的粘贴项（比如地址），支持 Windows 和 Mac 系统。
+
+2、[FastHTML](https://fastht.ml/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073003.webp)
+
+一个 Python 的 Web 框架，Django 的替代品，用起来更简单。
+
+3、[Kagi 翻译](https://translate.kagi.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110803.webp)
+
+搜索引擎 Kagi 推出的翻译服务，类似于谷歌翻译。
+
+4、[Star](https://star.conor.link/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110801.webp)
+
+一个 Web 应用，在手机打开以后，它会利用手机的运动传感器，显示某一颗你指定的卫星相对你的方位。
+
+5、[kkTerminal](https://github.com/zyyzyykk/kkTerminal)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111010.webp)
+
+一个开源的网页终端，在网页上通过 SSH 连入远程主机。（[@zyyzyykk](https://github.com/ruanyf/weekly/issues/5503) 投稿）
+
+6、[ReactPress](https://github.com/fecommunity/reactpress)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111302.webp)
+
+一个基于 Next.js 的博客和 CMS 系统，查看 [demo 站点](https://blog.gaoredu.com)。（[@fecommunity](https://github.com/ruanyf/weekly/issues/5524) 投稿）
+
+7、[PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110909.webp)
+
+开源的命令行工具，使用 AI 翻译 PDF 文件，完整保留排版。（[@Byaidu](https://github.com/ruanyf/weekly/issues/5501) 投稿）
+
+8、[dimmer](https://github.com/slc3a2/dimmer)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110906.webp)
+
+开源的 Chrome 浏览器插件，暗黑模式一键切换。（[@slc3a2](https://github.com/ruanyf/weekly/issues/5496) 投稿）
+
+9、[ThriveX](https://github.com/LiuYuYang01/ThriveX-Blog)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110907.webp)
+
+一个开源的博客系统，基于 Next14 + Spring Boot。链接是前端仓库，另有[后端](https://github.com/LiuYuYang01/ThriveX-Service)和[控制台](https://github.com/LiuYuYang01/ThriveX-Admin)。（[@LiuYuYang01](https://github.com/ruanyf/weekly/issues/5491) 投稿）
+
+10、[Trayce](https://trayce.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073102.webp)
+
+这个工具拦截本地开发环境中 Docker 容器发送和接收的 HTTP(S) 请求。
+
+11、[ngtop](https://github.com/facundoolano/ngtop)
+
+一个命令行工具，用来查询 nginx 日志。
+
+12、[InputShare](https://github.com/BHznJNs/InputShare)
+
+电脑连接安卓设备之后，这个工具可以把电脑的键鼠和剪贴板，共享给安卓设备，只支持 Windows。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/5545) 投稿）
+
+
 ## [科技爱好者周刊（第 324 期）：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md#工具)
 
 

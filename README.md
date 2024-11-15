@@ -16,97 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>324</currentVersion> -->
+<!-- <currentVersion>325</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 324 期）：人类已知的最大质数](https://github.com/ruanyf/weekly/blob/master/docs/issue-324.md)
+# [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md)
 ### 工具
 
 
-1、[flyscrape](https://flyscrape.com/)
+1、[PasteBar](https://github.com/PasteBar/PasteBarApp)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073001.webp)
 
-一个网页抓取的跨平台命令行工具，使用 Go 语言编写，但是它的操作脚本是用 JS 写的，方便用户提取网页内容。
+开源的桌面软件，用来管理剪贴板，可以搜索剪贴板历史，以及预设常用的粘贴项（比如地址），支持 Windows 和 Mac 系统。
 
-2、[uv](https://github.com/astral-sh/uv)
+2、[FastHTML](https://fastht.ml/)
 
-Rust 语言写的 Python 包安装器，可以替代 pip，运行速度更快，参见[介绍文章](https://astral.sh/blog/uv)。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073003.webp)
 
-3、[ChatTCP](https://chattcp.com)
+一个 Python 的 Web 框架，Django 的替代品，用起来更简单。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110212.webp)
+3、[Kagi 翻译](https://translate.kagi.com/)
 
-一款 Mac 的 TCP 数据包分析工具，致力于简化 TCP 分析，核心功能免费。（[@wujiuye](https://github.com/ruanyf/weekly/issues/5454) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110803.webp)
 
-4、[typing-practice](https://github.com/wincatcher/typing-practice.toolsnav.top)
+搜索引擎 Kagi 推出的翻译服务，类似于谷歌翻译。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110211.webp)
+4、[Star](https://star.conor.link/)
 
-开源的英文打字练习工具。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5451) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110801.webp)
 
-5、[云搭](https://github.com/wangyuan389/yunda)
+一个 Web 应用，在手机打开以后，它会利用手机的运动传感器，显示某一颗你指定的卫星相对你的方位。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110502.webp)
+5、[kkTerminal](https://github.com/zyyzyykk/kkTerminal)
 
-开源的低代码平台，用来搭建小程序、H5、问卷、图文文章等多种应用，试用 [Demo](https://www.sunmao-design.top/sunmao/admin)。（[@wangyuan389](https://github.com/ruanyf/weekly/issues/5473) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111010.webp)
 
-6、[NextTalk](https://github.com/Mebius1916/NextTalk_web)
+一个开源的网页终端，在网页上通过 SSH 连入远程主机。（[@zyyzyykk](https://github.com/ruanyf/weekly/issues/5503) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110213.webp)
+6、[ReactPress](https://github.com/fecommunity/reactpress)
 
-一个基于 Next.js 的网页版实时聊天工具，使用说明详见它的[桌面版](https://github.com/Mebius1916/NextTalk)，可以作为开发参考。（[@Mebius1916](https://github.com/ruanyf/weekly/issues/5457) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111302.webp)
 
-7、[dazhengTools](https://github.com/dazhengs/tools)
+一个基于 Next.js 的博客和 CMS 系统，查看 [demo 站点](https://blog.gaoredu.com)。（[@fecommunity](https://github.com/ruanyf/weekly/issues/5524) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110306.webp)
+7、[PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-开源的纯前端在线加/解密工具箱，可以离线使用。（[@dazhengs](https://github.com/ruanyf/weekly/issues/5460) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110909.webp)
 
-8、[TempMail](https://tempmail100.com/)
+开源的命令行工具，使用 AI 翻译 PDF 文件，完整保留排版。（[@Byaidu](https://github.com/ruanyf/weekly/issues/5501) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110308.webp)
+8、[dimmer](https://github.com/slc3a2/dimmer)
 
-临时邮箱服务，支持 iOS 和网页端。（[@houzhongjian](https://github.com/ruanyf/weekly/issues/5455) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110906.webp)
 
-9、[自动化巡检系统](https://github.com/TheCoolQATeam/online-inspection-tracker)
+开源的 Chrome 浏览器插件，暗黑模式一键切换。（[@slc3a2](https://github.com/ruanyf/weekly/issues/5496) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110702.webp)
+9、[ThriveX](https://github.com/LiuYuYang01/ThriveX-Blog)
 
-一个开源的网址状态定时巡检工具，防止指定网址出现白屏、服务无响应等问题，有异常会发送钉钉、企业微信、飞书警报，体验 [Demo](https://check.itest.ren/)。（[@zdx0122](https://github.com/ruanyf/weekly/issues/5486) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110907.webp)
 
-10、[Magika](https://google.github.io/magika/)
+一个开源的博客系统，基于 Next14 + Spring Boot。链接是前端仓库，另有[后端](https://github.com/LiuYuYang01/ThriveX-Service)和[控制台](https://github.com/LiuYuYang01/ThriveX-Admin)。（[@LiuYuYang01](https://github.com/ruanyf/weekly/issues/5491) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072507.webp)
+10、[Trayce](https://trayce.dev/)
 
-一个命令行工具，可以检测某个文件是什么类型（比如图片文件还是文本文件），有网页的 JS 版。它是谷歌的产品，谷歌内部也在用它检测文件类型。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073102.webp)
+
+这个工具拦截本地开发环境中 Docker 容器发送和接收的 HTTP(S) 请求。
+
+11、[ngtop](https://github.com/facundoolano/ngtop)
+
+一个命令行工具，用来查询 nginx 日志。
+
+12、[InputShare](https://github.com/BHznJNs/InputShare)
+
+电脑连接安卓设备之后，这个工具可以把电脑的键鼠和剪贴板，共享给安卓设备，只支持 Windows。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/5545) 投稿）
 
 
 ### 资源
 
 
-1、[Unfaked](https://www.gounfaked.com/)
+1、[逆向工程教程](https://0xinfection.github.io/reversing/)（Reverse Engineering For Everyone）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072601.webp)
 
-一个免费图片库，收集可以乱真的 AI 生成图片。
+面向初学者的逆向工程英文电子书，涵盖了 x86 和 ARM 架构。
 
-2、[系统设计面试：内幕指南](https://learning-guide.gitbook.io/system-design-interview)（中译）
+2、[一站式 iframe 生成器](https://iframegenerator.top/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110210.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110908.webp)
 
-《System Design Interview: An Insider's Guide》一书的中文翻译，介绍如何设计不同目的的软件系统，可以用来准备面试。（[@Admol](https://github.com/ruanyf/weekly/issues/5448) 投稿）
+HTML 的 iframe 元素有很多属性，这个工具网站可以查看所有属性值，并生成最终代码。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5499) 投稿）
 
-3、[Auth Wiki](https://auth.wiki/)
+3、[Chromium 的命令行开关](https://peter.sh/experiments/chromium-command-line-switches/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073002.webp)
 
-一个维基网站，收录各种与身份验证、授权和身份管理相关的条目，解释很详细。
+这个网页收集 Chromium（Chrome）浏览器的命令行开关，居然有1600多个。
 
-4、[3D 卫星图](https://app.keeptrack.space/)
+4、[Typst 介绍](https://blog.jreyesr.com/posts/typst/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100304.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101405.webp)
 
-这个网站可以实时查看所有运行中的地球卫星，选择一个地点，可以看到该地上空现在是什么卫星。
+Typst 是一种排版工具，可以生成论文、小册子、表格等，功能类似于 LaTeX，但是写法类似于 Markdown，用起来相对简单。
 
 
 <!-- End -->
