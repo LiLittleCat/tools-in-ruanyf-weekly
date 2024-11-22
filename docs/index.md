@@ -16,107 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>325</currentVersion> -->
+<!-- <currentVersion>326</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md)
+# [科技爱好者周刊（第 326 期）：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md)
 ### 工具
 
 
-1、[PasteBar](https://github.com/PasteBar/PasteBarApp)
+1、[Neat CSS](https://neat.joeldare.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080404.webp)
 
-开源的桌面软件，用来管理剪贴板，可以搜索剪贴板历史，以及预设常用的粘贴项（比如地址），支持 Windows 和 Mac 系统。
+一个极简的 CSS 框架。
 
-2、[FastHTML](https://fastht.ml/)
+2、[PG Back Web](https://github.com/eduardolat/pgbackweb)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080405.webp)
 
-一个 Python 的 Web 框架，Django 的替代品，用起来更简单。
+一个带有 Web 界面的 PostgreSQL 备份工具。
 
-3、[Kagi 翻译](https://translate.kagi.com/)
+3、[Llama OCR](https://llamaocr.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111702.webp)
 
-搜索引擎 Kagi 推出的翻译服务，类似于谷歌翻译。
+这个网站提供免费的图片 OCR，通过 AI 识别图片里面的文字，好像不能识别中文。
 
-4、[Star](https://star.conor.link/)
+4、[MySpeed](https://github.com/gnmyt/myspeed)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080703.webp)
 
-一个 Web 应用，在手机打开以后，它会利用手机的运动传感器，显示某一颗你指定的卫星相对你的方位。
+可以自己架设的网络测速工具。
 
-5、[kkTerminal](https://github.com/zyyzyykk/kkTerminal)
+5、[dive](https://github.com/wagoodman/dive)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111010.webp)
+这个工具可以显示 Docker 镜像文件每一层的内容。
 
-一个开源的网页终端，在网页上通过 SSH 连入远程主机。（[@zyyzyykk](https://github.com/ruanyf/weekly/issues/5503) 投稿）
+6、[moffee](https://github.com/BMPixel/moffee)
 
-6、[ReactPress](https://github.com/fecommunity/reactpress)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111302.webp)
+一个命令行工具，使用 Markdown 格式制作和展示幻灯片。
 
-一个基于 Next.js 的博客和 CMS 系统，查看 [demo 站点](https://blog.gaoredu.com)。（[@fecommunity](https://github.com/ruanyf/weekly/issues/5524) 投稿）
+7、[Google Backup](https://github.com/WeeJeWel/node-google-backup)
 
-7、[PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+开源命令行工具，用来备份谷歌邮件、通讯录和日历。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110909.webp)
+8、[lcl.host](https://github.com/anchordotdev/cli)
 
-开源的命令行工具，使用 AI 翻译 PDF 文件，完整保留排版。（[@Byaidu](https://github.com/ruanyf/weekly/issues/5501) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051105.webp)
 
-8、[dimmer](https://github.com/slc3a2/dimmer)
+一个为本地开发环境 localhost 提供 https 证书的工具。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110906.webp)
+9、[Interactive Git Log](https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog)
 
-开源的 Chrome 浏览器插件，暗黑模式一键切换。（[@slc3a2](https://github.com/ruanyf/weekly/issues/5496) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051106.webp)
 
-9、[ThriveX](https://github.com/LiuYuYang01/ThriveX-Blog)
+一个 VS Code 的插件，为 Git 提交日志提供一个可交互的图形界面。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110907.webp)
+10、[Makeext](https://github.com/mitjafelicijan/makext)
 
-一个开源的博客系统，基于 Next14 + Spring Boot。链接是前端仓库，另有[后端](https://github.com/LiuYuYang01/ThriveX-Service)和[控制台](https://github.com/LiuYuYang01/ThriveX-Admin)。（[@LiuYuYang01](https://github.com/ruanyf/weekly/issues/5491) 投稿）
-
-10、[Trayce](https://trayce.dev/)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073102.webp)
-
-这个工具拦截本地开发环境中 Docker 容器发送和接收的 HTTP(S) 请求。
-
-11、[ngtop](https://github.com/facundoolano/ngtop)
-
-一个命令行工具，用来查询 nginx 日志。
-
-12、[InputShare](https://github.com/BHznJNs/InputShare)
-
-电脑连接安卓设备之后，这个工具可以把电脑的键鼠和剪贴板，共享给安卓设备，只支持 Windows。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/5545) 投稿）
+构建工具 Make 的一个扩展，让`make`命令可以输出项目的帮助信息。
 
 
 ### 资源
 
 
-1、[逆向工程教程](https://0xinfection.github.io/reversing/)（Reverse Engineering For Everyone）
+1、[Sound Box](https://soundbox.fun)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111701.webp)
 
-面向初学者的逆向工程英文电子书，涵盖了 x86 和 ARM 架构。
+一个在线音效网站，提供多种自然环境音效以及白噪音。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5554) 投稿）
 
-2、[一站式 iframe 生成器](https://iframegenerator.top/)
+2、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110908.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111403.webp)
 
-HTML 的 iframe 元素有很多属性，这个工具网站可以查看所有属性值，并生成最终代码。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5499) 投稿）
+你输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）。
 
-3、[Chromium 的命令行开关](https://peter.sh/experiments/chromium-command-line-switches/)
+3、[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024073002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111406.webp)
 
-这个网页收集 Chromium（Chrome）浏览器的命令行开关，居然有1600多个。
+DuckDuckGo 最近推出的免费 AI 聊天。
 
-4、[Typst 介绍](https://blog.jreyesr.com/posts/typst/)（英文）
+4、[The Copenhagen Book](https://thecopenhagenbook.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101102.webp)
 
-Typst 是一种排版工具，可以生成论文、小册子、表格等，功能类似于 LaTeX，但是写法类似于 Markdown，用起来相对简单。
+一组短文，介绍 Web 应用相关的用户认证知识。跟充满术语的加密学文章不一样，这组文章简明好懂。
 
 
 <!-- End -->

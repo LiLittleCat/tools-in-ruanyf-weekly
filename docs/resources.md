@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 326 期）：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md#资源)
+
+
+1、[Sound Box](https://soundbox.fun)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111701.webp)
+
+一个在线音效网站，提供多种自然环境音效以及白噪音。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5554) 投稿）
+
+2、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111403.webp)
+
+你输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）。
+
+3、[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111406.webp)
+
+DuckDuckGo 最近推出的免费 AI 聊天。
+
+4、[The Copenhagen Book](https://thecopenhagenbook.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101102.webp)
+
+一组短文，介绍 Web 应用相关的用户认证知识。跟充满术语的加密学文章不一样，这组文章简明好懂。
+
+
 ## [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](https://github.com/ruanyf/weekly/blob/master/docs/issue-325.md#资源)
 
 
