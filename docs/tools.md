@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md#工具)
+
+
+1、[Graphite](https://graphite.rs/)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072801.webp)
+
+一款在线版的图像编辑器，代码开源。
+
+2、[Gimel Studio](https://gimelstudio.github.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011205.webp)
+
+平面图像编辑软件，最大特点是每一个编辑步骤都用一个节点表示，让你直观地编辑每个节点的参数。
+
+3、[Karpor](https://github.com/KusionStack/karpor)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112401.webp)
+
+开源的 Kubernetes 可视化工具，提供搜索、洞察、AI 等能力。（[@elliotxx](https://github.com/ruanyf/weekly/issues/5565) 投稿）
+
+4、[dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112406.webp)
+
+开源的浏览器插件，在视频播放的画中画窗口里，配置进度条、音量等功能。（[@apades](https://github.com/ruanyf/weekly/issues/5574) 投稿）
+
+5、[四象限编辑器](https://github.com/KwokKwok/slide-lab)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112407.webp)
+
+开源的在线工具，在网页上编辑、生成四象限图，可用于插图、PPT 等。（[@KwokKwok](https://github.com/ruanyf/weekly/issues/5578) 投稿）
+
+6、[Git Stats](https://github.com/lixianmin/git.stats)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112502.webp)
+
+VS Code 插件，可视化查看团队成员的代码提交情况。（[@lixianmin](https://github.com/ruanyf/weekly/issues/5585) 投稿）
+
+7、[Bootstrap React Logic](https://github.com/dafengzhen/bootstrap-react-logic)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112705.webp)
+
+基于 BootStrap 封装的 React 组件库。（[@dafengzhen](https://github.com/ruanyf/weekly/issues/5601) 投稿）
+
+8、[rmtrash](https://github.com/TBXark/rmtrash)
+
+macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。（[@TBXark](https://github.com/ruanyf/weekly/issues/5606) 投稿）
+
+9、[mpv](https://mpv.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081802.webp)
+
+一个命令行的视频播放器，跨平台。
+
+10、[Animate.css](https://animate.style/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081907.webp)
+
+一个网页动画的 CSS 库，指定 DOM 元素的类名，产生动画效果。
+
+
 ## [科技爱好者周刊（第 326 期）：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md#工具)
 
 

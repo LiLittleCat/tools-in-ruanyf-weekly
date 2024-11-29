@@ -16,93 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>326</currentVersion> -->
+<!-- <currentVersion>327</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 326 期）：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md)
+# [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md)
 ### 工具
 
 
-1、[Neat CSS](https://neat.joeldare.com/)
+1、[Graphite](https://graphite.rs/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072801.webp)
 
-一个极简的 CSS 框架。
+一款在线版的图像编辑器，代码开源。
 
-2、[PG Back Web](https://github.com/eduardolat/pgbackweb)
+2、[Gimel Studio](https://gimelstudio.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011205.webp)
 
-一个带有 Web 界面的 PostgreSQL 备份工具。
+平面图像编辑软件，最大特点是每一个编辑步骤都用一个节点表示，让你直观地编辑每个节点的参数。
 
-3、[Llama OCR](https://llamaocr.com)
+3、[Karpor](https://github.com/KusionStack/karpor)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112401.webp)
 
-这个网站提供免费的图片 OCR，通过 AI 识别图片里面的文字，好像不能识别中文。
+开源的 Kubernetes 可视化工具，提供搜索、洞察、AI 等能力。（[@elliotxx](https://github.com/ruanyf/weekly/issues/5565) 投稿）
 
-4、[MySpeed](https://github.com/gnmyt/myspeed)
+4、[dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112406.webp)
 
-可以自己架设的网络测速工具。
+开源的浏览器插件，在视频播放的画中画窗口里，配置进度条、音量等功能。（[@apades](https://github.com/ruanyf/weekly/issues/5574) 投稿）
 
-5、[dive](https://github.com/wagoodman/dive)
+5、[四象限编辑器](https://github.com/KwokKwok/slide-lab)
 
-这个工具可以显示 Docker 镜像文件每一层的内容。
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112407.webp)
 
-6、[moffee](https://github.com/BMPixel/moffee)
+开源的在线工具，在网页上编辑、生成四象限图，可用于插图、PPT 等。（[@KwokKwok](https://github.com/ruanyf/weekly/issues/5578) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024080901.webp)
+6、[Git Stats](https://github.com/lixianmin/git.stats)
 
-一个命令行工具，使用 Markdown 格式制作和展示幻灯片。
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112502.webp)
 
-7、[Google Backup](https://github.com/WeeJeWel/node-google-backup)
+VS Code 插件，可视化查看团队成员的代码提交情况。（[@lixianmin](https://github.com/ruanyf/weekly/issues/5585) 投稿）
 
-开源命令行工具，用来备份谷歌邮件、通讯录和日历。
+7、[Bootstrap React Logic](https://github.com/dafengzhen/bootstrap-react-logic)
 
-8、[lcl.host](https://github.com/anchordotdev/cli)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112705.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051105.webp)
+基于 BootStrap 封装的 React 组件库。（[@dafengzhen](https://github.com/ruanyf/weekly/issues/5601) 投稿）
 
-一个为本地开发环境 localhost 提供 https 证书的工具。
+8、[rmtrash](https://github.com/TBXark/rmtrash)
 
-9、[Interactive Git Log](https://marketplace.visualstudio.com/items?itemName=interactive-smartlog.interactive-smartlog)
+macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。（[@TBXark](https://github.com/ruanyf/weekly/issues/5606) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051106.webp)
+9、[mpv](https://mpv.io/)
 
-一个 VS Code 的插件，为 Git 提交日志提供一个可交互的图形界面。
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081802.webp)
 
-10、[Makeext](https://github.com/mitjafelicijan/makext)
+一个命令行的视频播放器，跨平台。
 
-构建工具 Make 的一个扩展，让`make`命令可以输出项目的帮助信息。
+10、[Animate.css](https://animate.style/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081907.webp)
+
+一个网页动画的 CSS 库，指定 DOM 元素的类名，产生动画效果。
 
 
 ### 资源
 
 
-1、[Sound Box](https://soundbox.fun)
+1、[GitHub Insights Pro](https://github-insights-pro.toolsnav.top/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112404.webp)
 
-一个在线音效网站，提供多种自然环境音效以及白噪音。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5554) 投稿）
+GitHub 的数据分析与可视化平台，提供项目和用户的各种统计信息，以及排行榜和趋势榜。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5569) 投稿）
 
-2、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
+另有一个同类项目 [GitHub Persona](https://github-persona.pages.dev/)。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5589) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112510.webp)
 
-你输入 Spotify 的音乐链接，这个网站就会查找替代音源（比如 Youtube）。
+2、[Visual Sorting](https://mszula.github.io/visual-sorting/)
 
-3、[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112507.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111406.webp)
+各种排序算法的可视化演示，代码开源。
 
-DuckDuckGo 最近推出的免费 AI 聊天。
+3、[看见概率论](https://probability.visualized.fun/)
 
-4、[The Copenhagen Book](https://thecopenhagenbook.com/)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112703.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101102.webp)
-
-一组短文，介绍 Web 应用相关的用户认证知识。跟充满术语的加密学文章不一样，这组文章简明好懂。
+一个中文的数学教育网站，通过交互式可视化演示，讲解概率论知识。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5595) 投稿）
 
 
 <!-- End -->

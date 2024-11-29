@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md#资源)
+
+
+1、[GitHub Insights Pro](https://github-insights-pro.toolsnav.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112404.webp)
+
+GitHub 的数据分析与可视化平台，提供项目和用户的各种统计信息，以及排行榜和趋势榜。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5569) 投稿）
+
+另有一个同类项目 [GitHub Persona](https://github-persona.pages.dev/)。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5589) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112510.webp)
+
+2、[Visual Sorting](https://mszula.github.io/visual-sorting/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112507.webp)
+
+各种排序算法的可视化演示，代码开源。
+
+3、[看见概率论](https://probability.visualized.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112703.webp)
+
+一个中文的数学教育网站，通过交互式可视化演示，讲解概率论知识。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5595) 投稿）
+
+
 ## [科技爱好者周刊（第 326 期）：世界没有那么多财富](https://github.com/ruanyf/weekly/blob/master/docs/issue-326.md#资源)
 
 
