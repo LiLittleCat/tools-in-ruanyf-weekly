@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md#工具)
+
+
+1、[Bananas](https://github.com/mistweaverco/bananas)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120512.webp)
+
+一款跨平台的桌面应用，利用点对点连接与其他人共享您的屏幕，无需帐户或任何服务器（初始连接除外）。
+
+2、[jsontr.ee](https://github.com/xzitlou/jsontr.ee)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112806.webp)
+
+一个 JS 网页库，将 JSON 数据转成可视化的树状图。
+
+3、[WatchAlert](https://github.com/opsre/WatchAlert)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120301.webp)
+
+开源的轻量级监控告警系统，基于 Go + React。（[@Cairry](https://github.com/ruanyf/weekly/issues/5627) 投稿）
+
+4、[Easy Resizer](https://easyresizer.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120201.webp)
+
+一个在线工具，批量调整图片的大小。（[@mywebtools](https://github.com/ruanyf/weekly/issues/5612) 投稿）
+
+5、[IconEase](https://github.com/JiuRanYa/IconEase)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120403.webp)
+
+开源的跨平台桌面应用，用来管理本地的图标文件。（[@JiuRanYa](https://github.com/ruanyf/weekly/issues/5644) 投稿）
+
+6、[X.Ryder](https://github.com/pipijoe/xryder-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120402.webp)
+
+一套网站后台的 UI 开发模板。（[@pipijoe](https://github.com/ruanyf/weekly/issues/5639) 投稿）
+
+7、[Peninsula](https://github.com/Celve/Peninsula)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120404.webp)
+
+基于 macOS 刘海的窗口管理器和消息中心。（[@Celve](https://github.com/ruanyf/weekly/issues/5641) 投稿）
+
+8、[Summary Cat](https://www.summarycat.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092301.webp)
+
+用户提交一个 YouTube 视频网址，它会用文字总结出该视频的内容。
+
+9、[ubicloud](https://www.ubicloud.com/use-cases/github-actions)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020107.webp)
+
+一个可以自己搭建的云环境，能够直接运行 GitHub Actions 脚本。
+
+10、[matcha.css](https://matcha.mizu.sh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052401.webp)
+
+一个加强浏览器的网页默认样式的 CSS 库。
+
+
 ## [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md#工具)
 
 

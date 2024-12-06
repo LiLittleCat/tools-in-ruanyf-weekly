@@ -16,95 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>327</currentVersion> -->
+<!-- <currentVersion>328</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md)
+# [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md)
 ### 工具
 
 
-1、[Graphite](https://graphite.rs/)
+1、[Bananas](https://github.com/mistweaverco/bananas)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023072801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120512.webp)
 
-一款在线版的图像编辑器，代码开源。
+一款跨平台的桌面应用，利用点对点连接与其他人共享您的屏幕，无需帐户或任何服务器（初始连接除外）。
 
-2、[Gimel Studio](https://gimelstudio.github.io/)
+2、[jsontr.ee](https://github.com/xzitlou/jsontr.ee)
 
-![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112806.webp)
 
-平面图像编辑软件，最大特点是每一个编辑步骤都用一个节点表示，让你直观地编辑每个节点的参数。
+一个 JS 网页库，将 JSON 数据转成可视化的树状图。
 
-3、[Karpor](https://github.com/KusionStack/karpor)
+3、[WatchAlert](https://github.com/opsre/WatchAlert)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120301.webp)
 
-开源的 Kubernetes 可视化工具，提供搜索、洞察、AI 等能力。（[@elliotxx](https://github.com/ruanyf/weekly/issues/5565) 投稿）
+开源的轻量级监控告警系统，基于 Go + React。（[@Cairry](https://github.com/ruanyf/weekly/issues/5627) 投稿）
 
-4、[dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
+4、[Easy Resizer](https://easyresizer.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120201.webp)
 
-开源的浏览器插件，在视频播放的画中画窗口里，配置进度条、音量等功能。（[@apades](https://github.com/ruanyf/weekly/issues/5574) 投稿）
+一个在线工具，批量调整图片的大小。（[@mywebtools](https://github.com/ruanyf/weekly/issues/5612) 投稿）
 
-5、[四象限编辑器](https://github.com/KwokKwok/slide-lab)
+5、[IconEase](https://github.com/JiuRanYa/IconEase)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120403.webp)
 
-开源的在线工具，在网页上编辑、生成四象限图，可用于插图、PPT 等。（[@KwokKwok](https://github.com/ruanyf/weekly/issues/5578) 投稿）
+开源的跨平台桌面应用，用来管理本地的图标文件。（[@JiuRanYa](https://github.com/ruanyf/weekly/issues/5644) 投稿）
 
-6、[Git Stats](https://github.com/lixianmin/git.stats)
+6、[X.Ryder](https://github.com/pipijoe/xryder-web)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120402.webp)
 
-VS Code 插件，可视化查看团队成员的代码提交情况。（[@lixianmin](https://github.com/ruanyf/weekly/issues/5585) 投稿）
+一套网站后台的 UI 开发模板。（[@pipijoe](https://github.com/ruanyf/weekly/issues/5639) 投稿）
 
-7、[Bootstrap React Logic](https://github.com/dafengzhen/bootstrap-react-logic)
+7、[Peninsula](https://github.com/Celve/Peninsula)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120404.webp)
 
-基于 BootStrap 封装的 React 组件库。（[@dafengzhen](https://github.com/ruanyf/weekly/issues/5601) 投稿）
+基于 macOS 刘海的窗口管理器和消息中心。（[@Celve](https://github.com/ruanyf/weekly/issues/5641) 投稿）
 
-8、[rmtrash](https://github.com/TBXark/rmtrash)
+8、[Summary Cat](https://www.summarycat.com/)
 
-macOS 命令行工具 rm 的替代方案，用于将文件移动到废纸篓。（[@TBXark](https://github.com/ruanyf/weekly/issues/5606) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092301.webp)
 
-9、[mpv](https://mpv.io/)
+用户提交一个 YouTube 视频网址，它会用文字总结出该视频的内容。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081802.webp)
+9、[ubicloud](https://www.ubicloud.com/use-cases/github-actions)
 
-一个命令行的视频播放器，跨平台。
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020107.webp)
 
-10、[Animate.css](https://animate.style/)
+一个可以自己搭建的云环境，能够直接运行 GitHub Actions 脚本。
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024081907.webp)
+10、[matcha.css](https://matcha.mizu.sh/)
 
-一个网页动画的 CSS 库，指定 DOM 元素的类名，产生动画效果。
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052401.webp)
+
+一个加强浏览器的网页默认样式的 CSS 库。
 
 
 ### 资源
 
 
-1、[GitHub Insights Pro](https://github-insights-pro.toolsnav.top/)
+1、[Hi Speaking](https://hispeaking.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120303.webp)
 
-GitHub 的数据分析与可视化平台，提供项目和用户的各种统计信息，以及排行榜和趋势榜。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5569) 投稿）
+一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/5625) 投稿）
 
-另有一个同类项目 [GitHub Persona](https://github-persona.pages.dev/)。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/5589) 投稿）
+2、[In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112510.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110515.webp)
 
-2、[Visual Sorting](https://mszula.github.io/visual-sorting/)
+一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112507.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110516.webp)
 
-各种排序算法的可视化演示，代码开源。
+3、[数据可视化目录](https://datavizcatalogue.com/search.html)
 
-3、[看见概率论](https://probability.visualized.fun/)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112703.webp)
-
-一个中文的数学教育网站，通过交互式可视化演示，讲解概率论知识。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5595) 投稿）
+这个网站按照用途，将数据可视化分类，便于查找你需要的图表类型。
 
 
 <!-- End -->

@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md#资源)
+
+
+1、[Hi Speaking](https://hispeaking.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120303.webp)
+
+一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/5625) 投稿）
+
+2、[In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110515.webp)
+
+一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110516.webp)
+
+3、[数据可视化目录](https://datavizcatalogue.com/search.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100603.webp)
+
+这个网站按照用途，将数据可视化分类，便于查找你需要的图表类型。
+
+
 ## [科技爱好者周刊（第 327 期）：没有链接的互联网](https://github.com/ruanyf/weekly/blob/master/docs/issue-327.md#资源)
 
 
