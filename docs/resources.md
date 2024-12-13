@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 329 期）：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md#资源)
+
+
+1、[启动过程：Android 与 Linux](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011705.webp)
+
+这篇文章记录了 Linux 和 Android 各自的系统启动顺序。
+
+2、[深入高可用系统原理与设计](https://www.thebyte.com.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121205.webp)
+
+开源的中文电子书，梳理网络、云、容器、集群等知识。（[@isno](https://github.com/ruanyf/weekly/issues/5683) 投稿）
+
+3、[English News in Levels](https://englishnewsinlevels.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121207.webp)
+
+英语新闻分级阅读网站，实时更新新闻，分为三种难度，有重点词汇、理解测试和朗读音频。（[@meterscao](https://github.com/ruanyf/weekly/issues/5699) 投稿）
+
+4、[GitHub Weekly](https://iohub.inshub.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121208.webp)
+
+这个网站将周刊讨论区的投稿，转成新闻卡片形式呈现。（[@inshub](https://github.com/ruanyf/weekly/issues/5701) 投稿）
+
+
 ## [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md#资源)
 
 

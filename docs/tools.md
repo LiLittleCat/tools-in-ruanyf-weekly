@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 329 期）：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md#工具)
+
+
+1、[EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120701.webp)
+
+开源的文件传输工具，匿名加密，只需访问网页，即可连接到其他设备，基于 webRTC 和 Vue.js，访问[试用网址](https://file.ch3nyang.top)。（[@ch3ny4ng](https://github.com/ruanyf/weekly/issues/5653) 投稿）
+
+2、[Screen Sharing](https://screensharing.net)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120702.webp)
+
+从浏览器分享你的屏幕给其他人，适合用来演示。（[@markliuyuxiang](https://github.com/ruanyf/weekly/issues/5657) 投稿）
+
+3、[PMAtron](https://github.com/maskerprc/pmatron)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121001.webp)
+
+将 phpMyAdmin 用 Electron 封装成跨平台桌面软件。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/5666) 投稿）
+
+4、[FastExcel](https://github.com/CodePhiliaX/fastexcel)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121003.webp)
+
+基于 Java 语言的 Excel 文件解析工具，可以用来提取数据。（[@JerryFan626](https://github.com/ruanyf/weekly/issues/5671) 投稿）
+
+5、[Readest](https://github.com/chrox/readest)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120703.webp)
+
+一款开源电子书阅读器，跨平台桌面应用，基于 Next.js 15和 Tauri v2。（[@chrox](https://github.com/ruanyf/weekly/issues/5663) 投稿）
+
+6、[IMG2AVIF](https://img2avif.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121301.webp)
+
+一个网页工具，将各种格式的图片转成 AVIF 格式。（[@malagebidi](https://github.com/ruanyf/weekly/issues/5678) 投稿）
+
+7、[YT Pics](https://www.ytpics.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021106.webp)
+
+一个 Web 应用，输入 YouTube 网址和指定时间，它会自动截取该时间的截图。
+
+8、[Web2pdf](https://github.com/dvcoolarun/web2pdf)
+
+一个命令行工具，将网页保存成 PDF 文件，有很多增强功能（自定义样式、生成目录等）。
+
+9、[CheerpJ](https://labs.leaningtech.com/blog/cheerpj-3.0)
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021302.webp)
+
+浏览器里面的 JVM 编译器，让 Java 程序可以在浏览器运行。
+
+10、[fuzzy-search](https://github.com/m31coding/fuzzy-search)
+
+一个前端的模糊搜索库，支持东亚语言。
+
+
 ## [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md#工具)
 
 

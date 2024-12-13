@@ -16,95 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>328</currentVersion> -->
+<!-- <currentVersion>329</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 328 期）：AI 模型不是一门好生意](https://github.com/ruanyf/weekly/blob/master/docs/issue-328.md)
+# [科技爱好者周刊（第 329 期）：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md)
 ### 工具
 
 
-1、[Bananas](https://github.com/mistweaverco/bananas)
+1、[EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120512.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120701.webp)
 
-一款跨平台的桌面应用，利用点对点连接与其他人共享您的屏幕，无需帐户或任何服务器（初始连接除外）。
+开源的文件传输工具，匿名加密，只需访问网页，即可连接到其他设备，基于 webRTC 和 Vue.js，访问[试用网址](https://file.ch3nyang.top)。（[@ch3ny4ng](https://github.com/ruanyf/weekly/issues/5653) 投稿）
 
-2、[jsontr.ee](https://github.com/xzitlou/jsontr.ee)
+2、[Screen Sharing](https://screensharing.net)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120702.webp)
 
-一个 JS 网页库，将 JSON 数据转成可视化的树状图。
+从浏览器分享你的屏幕给其他人，适合用来演示。（[@markliuyuxiang](https://github.com/ruanyf/weekly/issues/5657) 投稿）
 
-3、[WatchAlert](https://github.com/opsre/WatchAlert)
+3、[PMAtron](https://github.com/maskerprc/pmatron)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121001.webp)
 
-开源的轻量级监控告警系统，基于 Go + React。（[@Cairry](https://github.com/ruanyf/weekly/issues/5627) 投稿）
+将 phpMyAdmin 用 Electron 封装成跨平台桌面软件。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/5666) 投稿）
 
-4、[Easy Resizer](https://easyresizer.com)
+4、[FastExcel](https://github.com/CodePhiliaX/fastexcel)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121003.webp)
 
-一个在线工具，批量调整图片的大小。（[@mywebtools](https://github.com/ruanyf/weekly/issues/5612) 投稿）
+基于 Java 语言的 Excel 文件解析工具，可以用来提取数据。（[@JerryFan626](https://github.com/ruanyf/weekly/issues/5671) 投稿）
 
-5、[IconEase](https://github.com/JiuRanYa/IconEase)
+5、[Readest](https://github.com/chrox/readest)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120703.webp)
 
-开源的跨平台桌面应用，用来管理本地的图标文件。（[@JiuRanYa](https://github.com/ruanyf/weekly/issues/5644) 投稿）
+一款开源电子书阅读器，跨平台桌面应用，基于 Next.js 15和 Tauri v2。（[@chrox](https://github.com/ruanyf/weekly/issues/5663) 投稿）
 
-6、[X.Ryder](https://github.com/pipijoe/xryder-web)
+6、[IMG2AVIF](https://img2avif.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121301.webp)
 
-一套网站后台的 UI 开发模板。（[@pipijoe](https://github.com/ruanyf/weekly/issues/5639) 投稿）
+一个网页工具，将各种格式的图片转成 AVIF 格式。（[@malagebidi](https://github.com/ruanyf/weekly/issues/5678) 投稿）
 
-7、[Peninsula](https://github.com/Celve/Peninsula)
+7、[YT Pics](https://www.ytpics.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021106.webp)
 
-基于 macOS 刘海的窗口管理器和消息中心。（[@Celve](https://github.com/ruanyf/weekly/issues/5641) 投稿）
+一个 Web 应用，输入 YouTube 网址和指定时间，它会自动截取该时间的截图。
 
-8、[Summary Cat](https://www.summarycat.com/)
+8、[Web2pdf](https://github.com/dvcoolarun/web2pdf)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023092301.webp)
+一个命令行工具，将网页保存成 PDF 文件，有很多增强功能（自定义样式、生成目录等）。
 
-用户提交一个 YouTube 视频网址，它会用文字总结出该视频的内容。
+9、[CheerpJ](https://labs.leaningtech.com/blog/cheerpj-3.0)
 
-9、[ubicloud](https://www.ubicloud.com/use-cases/github-actions)
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024020107.webp)
+浏览器里面的 JVM 编译器，让 Java 程序可以在浏览器运行。
 
-一个可以自己搭建的云环境，能够直接运行 GitHub Actions 脚本。
+10、[fuzzy-search](https://github.com/m31coding/fuzzy-search)
 
-10、[matcha.css](https://matcha.mizu.sh/)
-
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052401.webp)
-
-一个加强浏览器的网页默认样式的 CSS 库。
+一个前端的模糊搜索库，支持东亚语言。
 
 
 ### 资源
 
 
-1、[Hi Speaking](https://hispeaking.com/)
+1、[启动过程：Android 与 Linux](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011705.webp)
 
-一个英语跟读网站，你按照课本读一句，它会自动播放下一句，省去了手动点击。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/5625) 投稿）
+这篇文章记录了 Linux 和 Android 各自的系统启动顺序。
 
-2、[In Pieces - 30 endangered Species](http://www.species-in-pieces.com/#)
+2、[深入高可用系统原理与设计](https://www.thebyte.com.cn)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110515.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121205.webp)
 
-一个很有创意的网站，用30个碎片拼出30种濒危动物，只使用 CSS。
+开源的中文电子书，梳理网络、云、容器、集群等知识。（[@isno](https://github.com/ruanyf/weekly/issues/5683) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110516.webp)
+3、[English News in Levels](https://englishnewsinlevels.com)
 
-3、[数据可视化目录](https://datavizcatalogue.com/search.html)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121207.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100603.webp)
+英语新闻分级阅读网站，实时更新新闻，分为三种难度，有重点词汇、理解测试和朗读音频。（[@meterscao](https://github.com/ruanyf/weekly/issues/5699) 投稿）
 
-这个网站按照用途，将数据可视化分类，便于查找你需要的图表类型。
+4、[GitHub Weekly](https://iohub.inshub.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121208.webp)
+
+这个网站将周刊讨论区的投稿，转成新闻卡片形式呈现。（[@inshub](https://github.com/ruanyf/weekly/issues/5701) 投稿）
 
 
 <!-- End -->
