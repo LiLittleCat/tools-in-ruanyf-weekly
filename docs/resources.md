@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 330 期）：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md#资源)
+
+
+1、[SQL 风格指南](https://www.sqlstyle.guide)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111601.webp)
+
+一份书写 SQL 语句的风格约定。
+
+2、[颜色代码表](https://www.ysdaima.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121404.webp)
+
+在线配色设计工具集，做在一个网站。（[@nettsz](https://github.com/ruanyf/weekly/issues/5717) 投稿）
+
+
 ## [科技爱好者周刊（第 329 期）：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md#资源)
 
 

@@ -16,95 +16,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>329</currentVersion> -->
+<!-- <currentVersion>330</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 329 期）：示意图利器 D2](https://github.com/ruanyf/weekly/blob/master/docs/issue-329.md)
+# [科技爱好者周刊（第 330 期）：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md)
 ### 工具
 
 
-1、[EasyTransfer](https://github.com/WCY-dt/EasyTransfer)
+1、[Presenterm](https://github.com/mfontanini/presenterm)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121401.webp)
 
-开源的文件传输工具，匿名加密，只需访问网页，即可连接到其他设备，基于 webRTC 和 Vue.js，访问[试用网址](https://file.ch3nyang.top)。（[@ch3ny4ng](https://github.com/ruanyf/weekly/issues/5653) 投稿）
+将 Markdown 文件转成幻灯片，在命令行播放的开源工具。（[@lengyijun](https://github.com/ruanyf/weekly/issues/5706) 投稿）
 
-2、[Screen Sharing](https://screensharing.net)
+2、[Rslib](https://github.com/web-infra-dev/rslib)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121402.webp)
 
-从浏览器分享你的屏幕给其他人，适合用来演示。（[@markliuyuxiang](https://github.com/ruanyf/weekly/issues/5657) 投稿）
+制作 JavaScript 软件包的工具，可以直接开发组件库和命令行工具。（[@fi3ework](https://github.com/ruanyf/weekly/issues/5713) 投稿）
 
-3、[PMAtron](https://github.com/maskerprc/pmatron)
+3、[Midscene.js](https://github.com/web-infra-dev/midscene)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121001.webp)
+AI 驱动的网页 UI 自动化测试框架，通过文字描述，生成 UI 测试用例。（[@yuyutaotao](https://github.com/ruanyf/weekly/issues/5733) 投稿）
 
-将 phpMyAdmin 用 Electron 封装成跨平台桌面软件。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/5666) 投稿）
+4、[wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-4、[FastExcel](https://github.com/CodePhiliaX/fastexcel)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121501.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121003.webp)
+Windows 桌面 PC 端的微信聊天记录一键导出。（[@git-jiadong](https://github.com/ruanyf/weekly/issues/5721) 投稿）
 
-基于 Java 语言的 Excel 文件解析工具，可以用来提取数据。（[@JerryFan626](https://github.com/ruanyf/weekly/issues/5671) 投稿）
+5、[MoeMail](https://github.com/beilunyang/moemail)
 
-5、[Readest](https://github.com/chrox/readest)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121803.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024120703.webp)
+基于 Next.js + Cloudflare 技术栈构建的临时邮箱服务，[在线体验](https://moemail.app)。（[@beilunyang](https://github.com/ruanyf/weekly/issues/5740) 投稿）
 
-一款开源电子书阅读器，跨平台桌面应用，基于 Next.js 15和 Tauri v2。（[@chrox](https://github.com/ruanyf/weekly/issues/5663) 投稿）
+6、[my-github-2024](https://github.com/WCY-dt/my-github-2024)
 
-6、[IMG2AVIF](https://img2avif.com)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121301.webp)
+一个 Python 程序，生成你在2024年的 GitHub 代码提交统计。（[@WCY-dt](https://github.com/ruanyf/weekly/issues/5722) 投稿）
 
-一个网页工具，将各种格式的图片转成 AVIF 格式。（[@malagebidi](https://github.com/ruanyf/weekly/issues/5678) 投稿）
+7、[Vanilla](https://vanillaframework.io/)
 
-7、[YT Pics](https://www.ytpics.com/)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090601.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021106.webp)
+Canonical 公司的 CSS 框架，就是 Ubuntu 官网采用的样式。
 
-一个 Web 应用，输入 YouTube 网址和指定时间，它会自动截取该时间的截图。
+8、[OpenAuth](https://github.com/openauthjs/openauth)
 
-8、[Web2pdf](https://github.com/dvcoolarun/web2pdf)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121806.webp)
 
-一个命令行工具，将网页保存成 PDF 文件，有很多增强功能（自定义样式、生成目录等）。
+网页登录的第三方认证的集成库。
 
-9、[CheerpJ](https://labs.leaningtech.com/blog/cheerpj-3.0)
+9、[Schemio](https://github.com/ishubin/schemio)
 
-![](https://cdn.beekka.com/blogimg/asset/202402/bg2024021302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121807.webp)
 
-浏览器里面的 JVM 编译器，让 Java 程序可以在浏览器运行。
+基于 Web 的示意图可视化编辑器。
 
-10、[fuzzy-search](https://github.com/m31coding/fuzzy-search)
+10、[Buzee](https://github.com/gsidhu/buzee-tauri)
 
-一个前端的模糊搜索库，支持东亚语言。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121907.webp)
+
+一个桌面软件，提供本地文件的全文搜索（包括图片里面的文字），支持 Windows 和 Mac。
 
 
 ### 资源
 
 
-1、[启动过程：Android 与 Linux](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+1、[SQL 风格指南](https://www.sqlstyle.guide)
 
-![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111601.webp)
 
-这篇文章记录了 Linux 和 Android 各自的系统启动顺序。
+一份书写 SQL 语句的风格约定。
 
-2、[深入高可用系统原理与设计](https://www.thebyte.com.cn)
+2、[颜色代码表](https://www.ysdaima.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121404.webp)
 
-开源的中文电子书，梳理网络、云、容器、集群等知识。（[@isno](https://github.com/ruanyf/weekly/issues/5683) 投稿）
-
-3、[English News in Levels](https://englishnewsinlevels.com)
-
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121207.webp)
-
-英语新闻分级阅读网站，实时更新新闻，分为三种难度，有重点词汇、理解测试和朗读音频。（[@meterscao](https://github.com/ruanyf/weekly/issues/5699) 投稿）
-
-4、[GitHub Weekly](https://iohub.inshub.cn)
-
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121208.webp)
-
-这个网站将周刊讨论区的投稿，转成新闻卡片形式呈现。（[@inshub](https://github.com/ruanyf/weekly/issues/5701) 投稿）
+在线配色设计工具集，做在一个网站。（[@nettsz](https://github.com/ruanyf/weekly/issues/5717) 投稿）
 
 
 <!-- End -->
