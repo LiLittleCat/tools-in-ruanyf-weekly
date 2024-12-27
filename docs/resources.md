@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 331 期）：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md#资源)
+
+
+1、[WebSpy.Site](https://webspy.site)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122308.webp)
+
+网站流量分析平台，根据域名查询网站流量情况。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5757) 投稿）
+
+2、[PNGFree.ai](https://pngfree.ai)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122506.webp)
+
+免费的百万级 PNG 图片库。（[@shawnlee000](https://github.com/ruanyf/weekly/issues/5770) 投稿）
+
+
 ## [科技爱好者周刊（第 330 期）：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md#资源)
 
 

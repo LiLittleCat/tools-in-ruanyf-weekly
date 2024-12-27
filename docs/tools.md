@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 331 期）：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md#工具)
+
+
+1、[YunoHost](https://yunohost.org)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121905.webp)
+
+一款虚拟机软件，内置了常见的云服务，可以一键启用，省去了安装云服务的麻烦，参见[介绍文章](https://www.xda-developers.com/yunohost-guide/)。
+
+2、[MarkItDown](https://github.com/microsoft/markitdown)
+
+微软官方推出的工具，将各种格式的文件（主要是 Office 文件）转成 Markdown 格式。标题是 GitHub 仓库链接，下面是[线上体验](https://markitdown.pro)。
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122303.webp)
+
+3、[爱幕](https://aimu.app)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122309.webp)
+
+在线字幕编辑器，支持音频提取和字幕翻译，免费使用，自己部署需付费。（[@zhw2590582](https://github.com/ruanyf/weekly/issues/5759) 投稿）
+
+4、[Beautify Screenshots](https://postspark.app)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122306.webp)
+
+截图美化工具。（[@cxhello](https://github.com/ruanyf/weekly/issues/5752) 投稿）
+
+5、[单词收藏助手](https://chromewebstore.google.com/detail/单词收藏助手-划词翻译-收藏单词/hlchmmedadpbeefeikleobfgjdieclho)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122304.webp)
+
+Chrome 插件 + 微信小程序，在网页上收藏单词，建立自己的词库，然后通过小程序加强记忆。（[@yuuk](https://github.com/ruanyf/weekly/issues/5744) 投稿）
+
+6、[Free Open Graph Image Generator](https://og.indiehub.best)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122507.webp)
+
+根据模版制作“网页分享图”（open graph）的在线工具。（[@javayhu](https://github.com/ruanyf/weekly/issues/5771) 投稿）
+
+7、[Kyanos](https://github.com/hengyoush/kyanos/blob/main/README_CN.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122508.webp)
+
+一个命令行的网络流量采集和分析工具，具有较强的数据过滤和分析能力。（[@hengyoush](https://github.com/ruanyf/weekly/issues/5773) 投稿）
+
+8、[在线 Excel 协同编辑器](https://github.com/nusr/excel)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122509.webp)
+
+一个开源的类 Excel 电子表格网页应用，支持多人协同编辑。（[@nusr](https://github.com/ruanyf/weekly/issues/5775) 投稿）
+
+9、[红枫云盘](https://github.com/honmaple/maple-file)（maple-file）
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122510.webp)
+
+一个多协议云端文件存储的客户端，支持安卓和 macOS，基于 Flutter + Go 开发。（[@honmaple](https://github.com/ruanyf/weekly/issues/5781) 投稿）
+
+10、[GitHub Cards](https://github.cards)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122305.webp)
+
+将 GitHub 用户个人数据转换成卡片图。（[@iAmCorey](https://github.com/ruanyf/weekly/issues/5750) 投稿）
+
+
 ## [科技爱好者周刊（第 330 期）：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md#工具)
 
 

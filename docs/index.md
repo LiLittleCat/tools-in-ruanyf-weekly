@@ -16,85 +16,87 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>330</currentVersion> -->
+<!-- <currentVersion>331</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 330 期）：李开复梳理人工智能](https://github.com/ruanyf/weekly/blob/master/docs/issue-330.md)
+# [科技爱好者周刊（第 331 期）：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md)
 ### 工具
 
 
-1、[Presenterm](https://github.com/mfontanini/presenterm)
+1、[YunoHost](https://yunohost.org)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121905.webp)
 
-将 Markdown 文件转成幻灯片，在命令行播放的开源工具。（[@lengyijun](https://github.com/ruanyf/weekly/issues/5706) 投稿）
+一款虚拟机软件，内置了常见的云服务，可以一键启用，省去了安装云服务的麻烦，参见[介绍文章](https://www.xda-developers.com/yunohost-guide/)。
 
-2、[Rslib](https://github.com/web-infra-dev/rslib)
+2、[MarkItDown](https://github.com/microsoft/markitdown)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121402.webp)
+微软官方推出的工具，将各种格式的文件（主要是 Office 文件）转成 Markdown 格式。标题是 GitHub 仓库链接，下面是[线上体验](https://markitdown.pro)。
 
-制作 JavaScript 软件包的工具，可以直接开发组件库和命令行工具。（[@fi3ework](https://github.com/ruanyf/weekly/issues/5713) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122303.webp)
 
-3、[Midscene.js](https://github.com/web-infra-dev/midscene)
+3、[爱幕](https://aimu.app)
 
-AI 驱动的网页 UI 自动化测试框架，通过文字描述，生成 UI 测试用例。（[@yuyutaotao](https://github.com/ruanyf/weekly/issues/5733) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122309.webp)
 
-4、[wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+在线字幕编辑器，支持音频提取和字幕翻译，免费使用，自己部署需付费。（[@zhw2590582](https://github.com/ruanyf/weekly/issues/5759) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121501.webp)
+4、[Beautify Screenshots](https://postspark.app)
 
-Windows 桌面 PC 端的微信聊天记录一键导出。（[@git-jiadong](https://github.com/ruanyf/weekly/issues/5721) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122306.webp)
 
-5、[MoeMail](https://github.com/beilunyang/moemail)
+截图美化工具。（[@cxhello](https://github.com/ruanyf/weekly/issues/5752) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121803.webp)
+5、[单词收藏助手](https://chromewebstore.google.com/detail/单词收藏助手-划词翻译-收藏单词/hlchmmedadpbeefeikleobfgjdieclho)
 
-基于 Next.js + Cloudflare 技术栈构建的临时邮箱服务，[在线体验](https://moemail.app)。（[@beilunyang](https://github.com/ruanyf/weekly/issues/5740) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122304.webp)
 
-6、[my-github-2024](https://github.com/WCY-dt/my-github-2024)
+Chrome 插件 + 微信小程序，在网页上收藏单词，建立自己的词库，然后通过小程序加强记忆。（[@yuuk](https://github.com/ruanyf/weekly/issues/5744) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121502.webp)
+6、[Free Open Graph Image Generator](https://og.indiehub.best)
 
-一个 Python 程序，生成你在2024年的 GitHub 代码提交统计。（[@WCY-dt](https://github.com/ruanyf/weekly/issues/5722) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122507.webp)
 
-7、[Vanilla](https://vanillaframework.io/)
+根据模版制作“网页分享图”（open graph）的在线工具。（[@javayhu](https://github.com/ruanyf/weekly/issues/5771) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090601.webp)
+7、[Kyanos](https://github.com/hengyoush/kyanos/blob/main/README_CN.md)
 
-Canonical 公司的 CSS 框架，就是 Ubuntu 官网采用的样式。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122508.webp)
 
-8、[OpenAuth](https://github.com/openauthjs/openauth)
+一个命令行的网络流量采集和分析工具，具有较强的数据过滤和分析能力。（[@hengyoush](https://github.com/ruanyf/weekly/issues/5773) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121806.webp)
+8、[在线 Excel 协同编辑器](https://github.com/nusr/excel)
 
-网页登录的第三方认证的集成库。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122509.webp)
 
-9、[Schemio](https://github.com/ishubin/schemio)
+一个开源的类 Excel 电子表格网页应用，支持多人协同编辑。（[@nusr](https://github.com/ruanyf/weekly/issues/5775) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121807.webp)
+9、[红枫云盘](https://github.com/honmaple/maple-file)（maple-file）
 
-基于 Web 的示意图可视化编辑器。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122510.webp)
 
-10、[Buzee](https://github.com/gsidhu/buzee-tauri)
+一个多协议云端文件存储的客户端，支持安卓和 macOS，基于 Flutter + Go 开发。（[@honmaple](https://github.com/ruanyf/weekly/issues/5781) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121907.webp)
+10、[GitHub Cards](https://github.cards)
 
-一个桌面软件，提供本地文件的全文搜索（包括图片里面的文字），支持 Windows 和 Mac。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122305.webp)
+
+将 GitHub 用户个人数据转换成卡片图。（[@iAmCorey](https://github.com/ruanyf/weekly/issues/5750) 投稿）
 
 
 ### 资源
 
 
-1、[SQL 风格指南](https://www.sqlstyle.guide)
+1、[WebSpy.Site](https://webspy.site)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122308.webp)
 
-一份书写 SQL 语句的风格约定。
+网站流量分析平台，根据域名查询网站流量情况。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5757) 投稿）
 
-2、[颜色代码表](https://www.ysdaima.com)
+2、[PNGFree.ai](https://pngfree.ai)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122506.webp)
 
-在线配色设计工具集，做在一个网站。（[@nettsz](https://github.com/ruanyf/weekly/issues/5717) 投稿）
+免费的百万级 PNG 图片库。（[@shawnlee000](https://github.com/ruanyf/weekly/issues/5770) 投稿）
 
 
 <!-- End -->
