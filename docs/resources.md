@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md#资源)
+
+
+1、[search the arXiv](https://searchthearxiv.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122903.webp)
+
+arXiv 论文库的搜素引擎，使用自然语言搜索。
+
+2、[《算法（第4版）》的 C++ 实现](https://github.com/landerrosette/algs4) 
+
+这个仓库包含《算法（第4版）》教科书介绍的算法的 C++ 语言实现，与原书的 Java 实现相对应，（[@landerrosette](https://github.com/ruanyf/weekly/issues/5814) 投稿）
+
+3、[EmojiClick](https://emojis.click/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122802.webp)
+
+使用自然语言搜索 Emoji 符号。（[@yijianbo](https://github.com/ruanyf/weekly/issues/5806) 投稿）
+
+4、[独立开发者工具](https://github.com/yaolifeng0629/Awesome-independent-tools)
+
+该仓库收集独立开发者出海技术栈和工具。（[@yaolifeng0629](https://github.com/ruanyf/weekly/issues/5837) 投稿）
+
+
 ## [科技爱好者周刊（第 331 期）：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md#资源)
 
 

@@ -16,87 +16,101 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>331</currentVersion> -->
+<!-- <currentVersion>332</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 331 期）：你可能是一个 NPC](https://github.com/ruanyf/weekly/blob/master/docs/issue-331.md)
+# [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md)
 ### 工具
 
 
-1、[YunoHost](https://yunohost.org)
+1、[Ghostty](https://ghostty.org/docs)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122804.webp)
 
-一款虚拟机软件，内置了常见的云服务，可以一键启用，省去了安装云服务的麻烦，参见[介绍文章](https://www.xda-developers.com/yunohost-guide/)。
+一个终端模拟器，使用 GPU 渲染 UI，支持 mac 和 Linux。作者是 HashiCorp 公司创始人，参见[介绍文章](https://linuxiac.com/ghostty-1-0-gpu-accelerated-terminal-emulator-released/)。
 
-2、[MarkItDown](https://github.com/microsoft/markitdown)
+2、[Black Candy](https://github.com/blackcandy-org/blackcandy)
 
-微软官方推出的工具，将各种格式的文件（主要是 Office 文件）转成 Markdown 格式。标题是 GitHub 仓库链接，下面是[线上体验](https://markitdown.pro)。
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122905.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122303.webp)
+一个自搭建的音乐流媒体服务器，自带手机和 Web 客户端，相当于自己的云音乐平台。
 
-3、[爱幕](https://aimu.app)
+3、[curl-impersonate](https://github.com/lexiforest/curl-impersonate)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122309.webp)
+一个 curl 的改写版，使其发出的 HTTP 请求就像 Chrome/Firefox 发出的。
 
-在线字幕编辑器，支持音频提取和字幕翻译，免费使用，自己部署需付费。（[@zhw2590582](https://github.com/ruanyf/weekly/issues/5759) 投稿）
+4、[RSS.Beauty](https://rss.beauty/)
 
-4、[Beautify Screenshots](https://postspark.app)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122306.webp)
+将普通的 RSS/Atom 订阅源转换成美观的阅读界面，[代码开源](https://github.com/ccbikai/RSS.Beauty)。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5838) 投稿）
 
-截图美化工具。（[@cxhello](https://github.com/ruanyf/weekly/issues/5752) 投稿）
+5、[AI Shadcn 主题生成器](https://ipalettes.com/theme/shadcn)
 
-5、[单词收藏助手](https://chromewebstore.google.com/detail/单词收藏助手-划词翻译-收藏单词/hlchmmedadpbeefeikleobfgjdieclho)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123004.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122304.webp)
+输入关键词，就可以免费生成 Shadcn 主题。（[@meetqy](https://github.com/ruanyf/weekly/issues/5817) 投稿）
 
-Chrome 插件 + 微信小程序，在网页上收藏单词，建立自己的词库，然后通过小程序加强记忆。（[@yuuk](https://github.com/ruanyf/weekly/issues/5744) 投稿）
+6、[懒猫书签](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)
 
-6、[Free Open Graph Image Generator](https://og.indiehub.best)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122507.webp)
+开源的 Chrome 插件，一键清理失效链接和空文件夹。（[@Alanrk](https://github.com/ruanyf/weekly/issues/5832) 投稿）
 
-根据模版制作“网页分享图”（open graph）的在线工具。（[@javayhu](https://github.com/ruanyf/weekly/issues/5771) 投稿）
+类似插件还有 [Bookmark Pro](https://bookmark-remainder-and-manager-pro.exthub.top)。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5833) 投稿）
 
-7、[Kyanos](https://github.com/hengyoush/kyanos/blob/main/README_CN.md)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122508.webp)
+7、[Nping](https://github.com/hanshuaikang/Nping)
 
-一个命令行的网络流量采集和分析工具，具有较强的数据过滤和分析能力。（[@hengyoush](https://github.com/ruanyf/weekly/issues/5773) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123006.webp)
 
-8、[在线 Excel 协同编辑器](https://github.com/nusr/excel)
+Rust 语言开发的 Ping 工具，支持多个地址并发 Ping，并附带实时折线图展示。（[@hanshuaikang](https://github.com/ruanyf/weekly/issues/5821) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122509.webp)
+8、[peepDB](https://github.com/PeepDB-dev/peepdb)
 
-一个开源的类 Excel 电子表格网页应用，支持多人协同编辑。（[@nusr](https://github.com/ruanyf/weekly/issues/5775) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092302.webp)
 
-9、[红枫云盘](https://github.com/honmaple/maple-file)（maple-file）
+一个命令行工具，连接各种主流的关系型数据库，查看表内容。
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122510.webp)
+9、[File Pilot](https://filepilot.tech)
 
-一个多协议云端文件存储的客户端，支持安卓和 macOS，基于 Flutter + Go 开发。（[@honmaple](https://github.com/ruanyf/weekly/issues/5781) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010204.webp)
 
-10、[GitHub Cards](https://github.cards)
+非官方的 Windows 文件管理器，号称可以取代官方的资源管理器。
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122305.webp)
+10、[Doggo](https://doggo.mrkaran.dev/docs/)
 
-将 GitHub 用户个人数据转换成卡片图。（[@iAmCorey](https://github.com/ruanyf/weekly/issues/5750) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070204.webp)
+
+一个易用的 DNS 命令行查询工具。
+
+它的[官网首页](https://doggo.mrkaran.dev/)还提供 DNS 在线查询。
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070205.webp)
 
 
 ### 资源
 
 
-1、[WebSpy.Site](https://webspy.site)
+1、[search the arXiv](https://searchthearxiv.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122308.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122903.webp)
 
-网站流量分析平台，根据域名查询网站流量情况。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5757) 投稿）
+arXiv 论文库的搜素引擎，使用自然语言搜索。
 
-2、[PNGFree.ai](https://pngfree.ai)
+2、[《算法（第4版）》的 C++ 实现](https://github.com/landerrosette/algs4) 
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122506.webp)
+这个仓库包含《算法（第4版）》教科书介绍的算法的 C++ 语言实现，与原书的 Java 实现相对应，（[@landerrosette](https://github.com/ruanyf/weekly/issues/5814) 投稿）
 
-免费的百万级 PNG 图片库。（[@shawnlee000](https://github.com/ruanyf/weekly/issues/5770) 投稿）
+3、[EmojiClick](https://emojis.click/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122802.webp)
+
+使用自然语言搜索 Emoji 符号。（[@yijianbo](https://github.com/ruanyf/weekly/issues/5806) 投稿）
+
+4、[独立开发者工具](https://github.com/yaolifeng0629/Awesome-independent-tools)
+
+该仓库收集独立开发者出海技术栈和工具。（[@yaolifeng0629](https://github.com/ruanyf/weekly/issues/5837) 投稿）
 
 
 <!-- End -->
