@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 333 期）：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md#资源)
+
+
+1、[如何像计算机科学家一样思考](https://levjj.github.io/thinkcspy/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053101.webp)
+
+一本在线的编程入门教材，以 Python 语言为例，适合用来学习编程。
+
+2、[FreePngZone](https://freepngzone.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010705.webp)
+
+免费的 PNG 图片搜索，好像只支持英文。（[@wangdachui332](https://github.com/ruanyf/weekly/issues/5881) 投稿）
+
+3、[泡泡白噪音](https://www.ppbzy.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010904.webp)
+
+一站式白噪音平台。（[@nettsz](https://github.com/ruanyf/weekly/issues/5893) 投稿）
+
+4、[Data Commons](https://datacommons.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110505.webp)
+
+谷歌发布的一个数据网站，提供许多公开的数据集，以及配套的工具，让你可以检索和处理这些数据。
+
+
 ## [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md#资源)
 
 

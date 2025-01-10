@@ -16,101 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>332</currentVersion> -->
+<!-- <currentVersion>333</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 332 期）：西蒙·威利森的年终总结，梁文锋的访谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-332.md)
+# [科技爱好者周刊（第 333 期）：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md)
 ### 工具
 
 
-1、[Ghostty](https://ghostty.org/docs)
+1、[Sourcebot](https://github.com/sourcebot-dev/sourcebot)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100201.webp)
 
-一个终端模拟器，使用 GPU 渲染 UI，支持 mac 和 Linux。作者是 HashiCorp 公司创始人，参见[介绍文章](https://linuxiac.com/ghostty-1-0-gpu-accelerated-terminal-emulator-released/)。
+开源的代码搜索工具，可以快速对代码建立索引。
 
-2、[Black Candy](https://github.com/blackcandy-org/blackcandy)
+2、[facad](https://github.com/yellow-footed-honeyguide/facad)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100102.webp)
 
-一个自搭建的音乐流媒体服务器，自带手机和 Web 客户端，相当于自己的云音乐平台。
+一个查看目录的命令行工具，类似`ls`命令，但会显示彩色图标。
 
-3、[curl-impersonate](https://github.com/lexiforest/curl-impersonate)
+3、[opfs-finder](https://github.com/hughfenghen/opfs-finder)
 
-一个 curl 的改写版，使其发出的 HTTP 请求就像 Chrome/Firefox 发出的。
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010401.webp)
 
-4、[RSS.Beauty](https://rss.beauty/)
+在浏览器中实现 macOS Finder。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/5848) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010202.webp)
+4、[Termora](https://github.com/TermoraDev/termora)
 
-将普通的 RSS/Atom 订阅源转换成美观的阅读界面，[代码开源](https://github.com/ccbikai/RSS.Beauty)。（[@ccbikai](https://github.com/ruanyf/weekly/issues/5838) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010706.webp)
 
-5、[AI Shadcn 主题生成器](https://ipalettes.com/theme/shadcn)
+开源的终端模拟器，可以当作 SSH 客户端使用，支持 Windows，macOS 和 Linux，采用 Kotlin/JVM 开发。（[@hstyi](https://github.com/ruanyf/weekly/issues/5882) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123004.webp)
+5、[Fake Mail](https://github.com/CH563/fakemail)
 
-输入关键词，就可以免费生成 Shadcn 主题。（[@meetqy](https://github.com/ruanyf/weekly/issues/5817) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010708.webp)
 
-6、[懒猫书签](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)
+开源的一次性电子邮件服务，使用 Cloudflare worker + Astro 开发，收到的邮件存在 Cloudflare KV，2小时后自动删除。（[@CH563](https://github.com/ruanyf/weekly/issues/5884) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123102.webp)
+6、[AYA](https://github.com/liriliri/aya)
 
-开源的 Chrome 插件，一键清理失效链接和空文件夹。（[@Alanrk](https://github.com/ruanyf/weekly/issues/5832) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010709.webp)
 
-类似插件还有 [Bookmark Pro](https://bookmark-remainder-and-manager-pro.exthub.top)。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5833) 投稿）
+开源的跨平台桌面应用，用来简化对安卓设备的操作控制，可以看作 ADB 的图形用户界面。（[@surunzi](https://github.com/ruanyf/weekly/issues/5885) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123103.webp)
+7、[简历生成工具](https://github.com/Arman19941113/dnd-resume)
 
-7、[Nping](https://github.com/hanshuaikang/Nping)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010905.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123006.webp)
+简历生成的开源 Web 应用，通过拖拽和配置，自定义简历布局和内容。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/5898) 投稿）
 
-Rust 语言开发的 Ping 工具，支持多个地址并发 Ping，并附带实时折线图展示。（[@hanshuaikang](https://github.com/ruanyf/weekly/issues/5821) 投稿）
+8、[在线剪贴板](https://github.com/zxcv0221/netcut)
 
-8、[peepDB](https://github.com/PeepDB-dev/peepdb)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010704.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092302.webp)
+作者用 AI 生成的一个简单项目，在线的文本分享网站，会生成分享链接，可设置密码，包括前端和后端。（[@zxcv0221](https://github.com/ruanyf/weekly/issues/5876) 投稿）
 
-一个命令行工具，连接各种主流的关系型数据库，查看表内容。
+9、[qrframe](https://qrframe.kylezhe.ng/)
 
-9、[File Pilot](https://filepilot.tech)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010204.webp)
+一个定制二维码的网页工具，提供大量选项，[代码开源](https://github.com/zhengkyl/qrframe)。
 
-非官方的 Windows 文件管理器，号称可以取代官方的资源管理器。
+10、[Pipet](https://github.com/bjesus/pipet)
 
-10、[Doggo](https://doggo.mrkaran.dev/docs/)
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070204.webp)
-
-一个易用的 DNS 命令行查询工具。
-
-它的[官网首页](https://doggo.mrkaran.dev/)还提供 DNS 在线查询。
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070205.webp)
+一个从 HTML/JSON 提取数据的命令行工具，可以跟 curl 搭配使用。 
 
 
 ### 资源
 
 
-1、[search the arXiv](https://searchthearxiv.com)
+1、[如何像计算机科学家一样思考](https://levjj.github.io/thinkcspy/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053101.webp)
 
-arXiv 论文库的搜素引擎，使用自然语言搜索。
+一本在线的编程入门教材，以 Python 语言为例，适合用来学习编程。
 
-2、[《算法（第4版）》的 C++ 实现](https://github.com/landerrosette/algs4) 
+2、[FreePngZone](https://freepngzone.com)
 
-这个仓库包含《算法（第4版）》教科书介绍的算法的 C++ 语言实现，与原书的 Java 实现相对应，（[@landerrosette](https://github.com/ruanyf/weekly/issues/5814) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010705.webp)
 
-3、[EmojiClick](https://emojis.click/zh)
+免费的 PNG 图片搜索，好像只支持英文。（[@wangdachui332](https://github.com/ruanyf/weekly/issues/5881) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122802.webp)
+3、[泡泡白噪音](https://www.ppbzy.com)
 
-使用自然语言搜索 Emoji 符号。（[@yijianbo](https://github.com/ruanyf/weekly/issues/5806) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010904.webp)
 
-4、[独立开发者工具](https://github.com/yaolifeng0629/Awesome-independent-tools)
+一站式白噪音平台。（[@nettsz](https://github.com/ruanyf/weekly/issues/5893) 投稿）
 
-该仓库收集独立开发者出海技术栈和工具。（[@yaolifeng0629](https://github.com/ruanyf/weekly/issues/5837) 投稿）
+4、[Data Commons](https://datacommons.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110505.webp)
+
+谷歌发布的一个数据网站，提供许多公开的数据集，以及配套的工具，让你可以检索和处理这些数据。
 
 
 <!-- End -->
