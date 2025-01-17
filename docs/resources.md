@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md#资源)
+
+
+1、[BestBlogs.dev](https://www.bestblogs.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011616.webp)
+
+精选中文科技文章的阅读平台。（[@ginobefun](https://github.com/ruanyf/weekly/issues/5909) 投稿）
+
+2、[自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011519.webp)
+
+一本中文电子书，作者分享如何调整心态，解决职场常见问题，提供[在线阅读](https://self-consistent-coder.readthedocs.io/zh-cn/latest/)。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/5919) 投稿）
+
+3、[我的 3D 主页](https://dement.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011607.webp)
+
+作者用 React Three Fiber 构建的 3D 个人主页，非常华丽。
+
+4、[Staying](https://staying.fun/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011609.webp)
+
+代码可视化网站，可以将 Python 和 JS 代码的运行步骤，以动画形式展示，内置了许多常见算法的演示。（[@lezhu1234](https://github.com/ruanyf/weekly/issues/5929) 投稿）
+
+
 ## [科技爱好者周刊（第 333 期）：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md#资源)
 
 

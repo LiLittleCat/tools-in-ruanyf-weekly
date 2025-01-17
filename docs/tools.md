@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md#工具)
+
+
+1、[barba.js](https://barba.js.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033002.webp)
+
+一个 JS 库，让网站页面的切换产生平滑的动画效果。
+
+2、[httpdbg](https://github.com/cle-b/httpdbg)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092810.webp)
+
+一个 Python 程序的桌面调试器，在类似浏览器控制台的环境里调试 HTTP 请求。
+
+3、[BiliMusic](https://github.com/609529897/bilibili_music)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011618.webp)
+
+一个 macOS 桌面程序，让用户播放 B 站收藏的音乐。（[@609529897](https://github.com/ruanyf/weekly/issues/5937) 投稿）
+
+4、[ScreenShot](https://screenshot.onionai.so/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011517.webp)
+
+免费的 App 预览图制作工具，支持华为、小米、OPPO、VIVO、鸿蒙、AppStore的应用商店预览图制作。（[@ovelv](https://github.com/ruanyf/weekly/issues/5906) 投稿）
+
+5、[猫步简历](https://github.com/Hacker233/resume-design)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011518.webp)
+
+免费开源的简历制作工具，提供各种模版和主题，可以定制化模块。（[@Hacker233](https://github.com/ruanyf/weekly/issues/5910) 投稿）
+
+6、[KeyClicker](https://github.com/jaywcjlove/key-clicker)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011521.webp)
+
+开源的 macOS 应用，打字时模拟机械键盘和打字机的声音，有200多种声效。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/5925) 投稿）
+
+7、[Peek Focus](https://peekfoc.us/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011522.webp)
+
+一个 Chrome 插件，点击时，不在新的标签页、而在页面浮层里打开链接。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5926) 投稿）
+
+8、[Docker 镜像拉取工具](https://github.com/topcss/docker-pull-tar)
+
+该工具用于下载 Docker 镜像，无需 Docker 环境，支持自定义仓库地址，配置国内镜像源。（[@topcss](https://github.com/ruanyf/weekly/issues/5931) 投稿）
+
+9、[壁纸样机生成器](https://www.taojuju.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011614.webp)
+
+生成电子设备壁纸效果图的免费工具。（[@leven-z](https://github.com/ruanyf/weekly/issues/5932) 投稿）
+
+10、[BlogKeeper-文捕](https://www.blog-keeper.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011615.webp)
+
+在线博客文章解析下载工具，支持微信公众号/博客园/CSDN/掘金/简书/思否等平台，可以保存成多种格式。（[@GailZhangJY](https://github.com/ruanyf/weekly/issues/5933) 投稿）
+
+
 ## [科技爱好者周刊（第 333 期）：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md#工具)
 
 

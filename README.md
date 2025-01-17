@@ -16,97 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>333</currentVersion> -->
+<!-- <currentVersion>334</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 333 期）：一切都要支付两次](https://github.com/ruanyf/weekly/blob/master/docs/issue-333.md)
+# [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md)
 ### 工具
 
 
-1、[Sourcebot](https://github.com/sourcebot-dev/sourcebot)
+1、[barba.js](https://barba.js.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033002.webp)
 
-开源的代码搜索工具，可以快速对代码建立索引。
+一个 JS 库，让网站页面的切换产生平滑的动画效果。
 
-2、[facad](https://github.com/yellow-footed-honeyguide/facad)
+2、[httpdbg](https://github.com/cle-b/httpdbg)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092810.webp)
 
-一个查看目录的命令行工具，类似`ls`命令，但会显示彩色图标。
+一个 Python 程序的桌面调试器，在类似浏览器控制台的环境里调试 HTTP 请求。
 
-3、[opfs-finder](https://github.com/hughfenghen/opfs-finder)
+3、[BiliMusic](https://github.com/609529897/bilibili_music)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011618.webp)
 
-在浏览器中实现 macOS Finder。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/5848) 投稿）
+一个 macOS 桌面程序，让用户播放 B 站收藏的音乐。（[@609529897](https://github.com/ruanyf/weekly/issues/5937) 投稿）
 
-4、[Termora](https://github.com/TermoraDev/termora)
+4、[ScreenShot](https://screenshot.onionai.so/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011517.webp)
 
-开源的终端模拟器，可以当作 SSH 客户端使用，支持 Windows，macOS 和 Linux，采用 Kotlin/JVM 开发。（[@hstyi](https://github.com/ruanyf/weekly/issues/5882) 投稿）
+免费的 App 预览图制作工具，支持华为、小米、OPPO、VIVO、鸿蒙、AppStore的应用商店预览图制作。（[@ovelv](https://github.com/ruanyf/weekly/issues/5906) 投稿）
 
-5、[Fake Mail](https://github.com/CH563/fakemail)
+5、[猫步简历](https://github.com/Hacker233/resume-design)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010708.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011518.webp)
 
-开源的一次性电子邮件服务，使用 Cloudflare worker + Astro 开发，收到的邮件存在 Cloudflare KV，2小时后自动删除。（[@CH563](https://github.com/ruanyf/weekly/issues/5884) 投稿）
+免费开源的简历制作工具，提供各种模版和主题，可以定制化模块。（[@Hacker233](https://github.com/ruanyf/weekly/issues/5910) 投稿）
 
-6、[AYA](https://github.com/liriliri/aya)
+6、[KeyClicker](https://github.com/jaywcjlove/key-clicker)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010709.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011521.webp)
 
-开源的跨平台桌面应用，用来简化对安卓设备的操作控制，可以看作 ADB 的图形用户界面。（[@surunzi](https://github.com/ruanyf/weekly/issues/5885) 投稿）
+开源的 macOS 应用，打字时模拟机械键盘和打字机的声音，有200多种声效。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/5925) 投稿）
 
-7、[简历生成工具](https://github.com/Arman19941113/dnd-resume)
+7、[Peek Focus](https://peekfoc.us/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011522.webp)
 
-简历生成的开源 Web 应用，通过拖拽和配置，自定义简历布局和内容。（[@Arman19941113](https://github.com/ruanyf/weekly/issues/5898) 投稿）
+一个 Chrome 插件，点击时，不在新的标签页、而在页面浮层里打开链接。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5926) 投稿）
 
-8、[在线剪贴板](https://github.com/zxcv0221/netcut)
+8、[Docker 镜像拉取工具](https://github.com/topcss/docker-pull-tar)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010704.webp)
+该工具用于下载 Docker 镜像，无需 Docker 环境，支持自定义仓库地址，配置国内镜像源。（[@topcss](https://github.com/ruanyf/weekly/issues/5931) 投稿）
 
-作者用 AI 生成的一个简单项目，在线的文本分享网站，会生成分享链接，可设置密码，包括前端和后端。（[@zxcv0221](https://github.com/ruanyf/weekly/issues/5876) 投稿）
+9、[壁纸样机生成器](https://www.taojuju.com/)
 
-9、[qrframe](https://qrframe.kylezhe.ng/)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011614.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100103.webp)
+生成电子设备壁纸效果图的免费工具。（[@leven-z](https://github.com/ruanyf/weekly/issues/5932) 投稿）
 
-一个定制二维码的网页工具，提供大量选项，[代码开源](https://github.com/zhengkyl/qrframe)。
+10、[BlogKeeper-文捕](https://www.blog-keeper.com/)
 
-10、[Pipet](https://github.com/bjesus/pipet)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011615.webp)
 
-一个从 HTML/JSON 提取数据的命令行工具，可以跟 curl 搭配使用。 
+在线博客文章解析下载工具，支持微信公众号/博客园/CSDN/掘金/简书/思否等平台，可以保存成多种格式。（[@GailZhangJY](https://github.com/ruanyf/weekly/issues/5933) 投稿）
 
 
 ### 资源
 
 
-1、[如何像计算机科学家一样思考](https://levjj.github.io/thinkcspy/)（英文）
+1、[BestBlogs.dev](https://www.bestblogs.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024053101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011616.webp)
 
-一本在线的编程入门教材，以 Python 语言为例，适合用来学习编程。
+精选中文科技文章的阅读平台。（[@ginobefun](https://github.com/ruanyf/weekly/issues/5909) 投稿）
 
-2、[FreePngZone](https://freepngzone.com)
+2、[自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011519.webp)
 
-免费的 PNG 图片搜索，好像只支持英文。（[@wangdachui332](https://github.com/ruanyf/weekly/issues/5881) 投稿）
+一本中文电子书，作者分享如何调整心态，解决职场常见问题，提供[在线阅读](https://self-consistent-coder.readthedocs.io/zh-cn/latest/)。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/5919) 投稿）
 
-3、[泡泡白噪音](https://www.ppbzy.com)
+3、[我的 3D 主页](https://dement.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011607.webp)
 
-一站式白噪音平台。（[@nettsz](https://github.com/ruanyf/weekly/issues/5893) 投稿）
+作者用 React Three Fiber 构建的 3D 个人主页，非常华丽。
 
-4、[Data Commons](https://datacommons.org/)
+4、[Staying](https://staying.fun/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110505.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011609.webp)
 
-谷歌发布的一个数据网站，提供许多公开的数据集，以及配套的工具，让你可以检索和处理这些数据。
+代码可视化网站，可以将 Python 和 JS 代码的运行步骤，以动画形式展示，内置了许多常见算法的演示。（[@lezhu1234](https://github.com/ruanyf/weekly/issues/5929) 投稿）
 
 
 <!-- End -->
