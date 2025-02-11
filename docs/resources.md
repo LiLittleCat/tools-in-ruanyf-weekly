@@ -1,5 +1,55 @@
 # 资源
 
+## [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md#资源)
+
+
+1、[Arch Linux 初学者配置指南](https://ejmastnak.com/tutorials/arch/about/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012504.webp)
+
+这是一组系列文章，向初学者介绍如何配置 Arch Linux，要比官网 Wiki 简单易读。
+
+2、[Beej 的 Git 指南](https://beej.us/guide/bggit/html/split/index.html)（Beej's Guide to Git）
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020503.webp)
+
+著名教程作者 Beej 的最新 Git 教程，基于他向大学学生的课堂讲义。
+
+3、[mandobot](https://mandobot.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020502.webp)
+
+一个老外做了这个网站，它可以将中文文章进行分词，并逐一翻译成对应的英语单词，便于学习中文。
+
+
+## [科技爱好者周刊（第 335 期）：年底的未来已来](https://github.com/ruanyf/weekly/blob/master/docs/issue-335.md#资源)
+
+
+1、[Learn Yjs](https://learn.yjs.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011801.webp)
+
+Yjs 是多个客户端实时同步状态的 JS 库，这里是它的官方互动教程。
+
+2、[1000行代码的操作系统](https://operating-system-in-1000-lines.vercel.app/en/)（Operating System in 1,000 Lines）（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012109.webp)
+
+免费电子书，讲解如何用 C 语言一步步从头构建一个小型操作系统。（[@sir2024](https://github.com/ruanyf/weekly/issues/5980) 投稿）
+
+3、[欧洲程序员工资地图](https://www.levels.fyi/heatmap/europe/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011914.webp)
+
+这张地图列出欧洲各国程序员的平均工资，可以看到第一名是瑞士，第二名英国，第三名爱尔兰，总体比美国低不少。
+
+4、[玛雅金字塔](https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101602.webp)
+
+玛雅金字塔的 3D 游览，包括内部隧道。
+
+
 ## [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md#资源)
 
 

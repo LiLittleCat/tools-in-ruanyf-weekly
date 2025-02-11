@@ -1,5 +1,137 @@
 # 工具
 
+## [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md#工具)
+
+
+1、[Lightpanda](https://github.com/lightpanda-io/browser)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012503.webp)
+
+轻量级的无头浏览器，可以接入 Playwright / Puppeteer，占用资源和执行速度号称是 Chrome 的十分之一。
+
+2、[Dual-Link QR Code Generator](https://dualqrcode.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012601.webp)
+
+生成包含两个 URL 的二维码，不同角度扫描，返回的 URL 不一样，[代码开源](https://github.com/zacharyreese/DualQRCode)。
+
+3、[isd](https://github.com/isd-project/isd)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012909.webp)
+
+用户友好的 systemd 操作工具，会提供命令行菜单供选择，[参见教程](https://linuxiac.com/isd-is-a-new-tool-offering-a-user-friendly-approach-to-systemd-management/)。
+
+4、[changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090104.webp)
+
+一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。
+
+5、[Internet Speed](https://www.internetspeed.my/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110301.webp)
+
+一个在线测试网速的网站。
+
+6、[在线焰火模拟器](https://fireworks.visualized.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012510.webp)
+
+网页模拟焰火绽放的效果。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5994) 投稿）
+
+7、[MultiPost](https://github.com/leaper-one/MultiPost-Extension)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020401.webp)
+
+一个开源的浏览器插件，一键发布内容到多个平台（知乎、微博、小红书、抖音、推特、脸书等）。（[@tymon42](https://github.com/ruanyf/weekly/issues/6015) 投稿）
+
+8、[生财有迹](https://github.com/nicejade/wealth-tracker)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012511.webp)
+
+开源的 Web 应用，用于个人资产分析。（[@nicejade](https://github.com/ruanyf/weekly/issues/5996) 投稿）
+
+9、[StayFocused](https://github.com/daijinhai/StayFocused)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020407.webp)
+
+开源的自然声音和白噪音应用。（[@daijinhai](https://github.com/ruanyf/weekly/issues/6023) 投稿）
+
+10、[MacVimSwitch](https://github.com/Jackiexiao/macvimswitch/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020403.webp)
+
+开源的 Mac 电脑中英文输入法切换工具，可以定制切换键和生效的应用。（[@Jackiexiao](https://github.com/ruanyf/weekly/issues/6017) 投稿）
+
+
+## [科技爱好者周刊（第 335 期）：年底的未来已来](https://github.com/ruanyf/weekly/blob/master/docs/issue-335.md#工具)
+
+
+1、[DeskPad](https://github.com/Stengo/DeskPad)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101105.webp)
+
+一个开源的 Mac 应用，在应用窗口里面，新建一个虚拟桌面，便于当众演示或分享给他人。
+
+2、[Superdiff](https://github.com/DoneDeal0/superdiff)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101201.webp)
+
+一个 JS 库，对两个对象或数组进行 diff 操作，返回差异的部分。
+
+3、[VS Code Pets](https://github.com/tonybaloney/vscode-pets)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011903.webp)
+
+一个 VS Code 插件，会在编辑器界面插入一个小宠物（小猫、小狗、小鸭等），显示不同动画，提升工作效率。
+
+4、[AcousticKeyBoard](https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011806.webp)
+
+一个 Web 应用，可以根据击键声，判断输入内容，另有 [App](https://github.com/ZhuoZhuoCrayon/AcousticKeyBoard-Web)。（[@ZhuoZhuoCrayon](https://github.com/ruanyf/weekly/issues/5949) 投稿）
+
+5、[筷字输入法](https://github.com/crazydan-studio/kuaizi-ime)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011807.webp)
+
+开源的安卓汉语拼音输入法。（[@flytreeleft](https://github.com/ruanyf/weekly/issues/5957) 投稿）
+
+6、[MusicCard](https://github.com/aidaox/MusicCard)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012108.webp)
+
+输入网易云音乐链接，自动提取歌曲信息，生成音乐海报。（[@aidaox](https://github.com/ruanyf/weekly/issues/5979) 投稿）
+
+7、[Melody Workshop](https://github.com/RylanBot/melody-workshop)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011808.webp)
+
+基于 Web Audio API 实现纯前端的音频处理工具。（[@RylanBot](https://github.com/ruanyf/weekly/issues/5961) 投稿）
+
+8、[lemon-template-react](https://github.com/sankeyangshu/lemon-template-react)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012106.webp)
+
+一个基于 React 的移动端 web 应用模板。（[@sankeyangshu](https://github.com/ruanyf/weekly/issues/5973) 投稿）
+
+9、[Audiblez](https://github.com/santinic/audiblez)
+
+这个工具可以将 Epub 电子书转成有声书，支持中文。
+
+10、[PhotoStack](https://photostack.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011904.webp)
+
+为图片添加水印的在线工具，[代码开源](https://github.com/corbindavenport/photostack)。
+
+12、[story-flicks](https://github.com/alecm20/story-flicks)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012107.webp)
+
+一个开源的 AI 工具，一句话生成故事短视频。（[@alecm20](https://github.com/ruanyf/weekly/issues/5976) 投稿）
+
+
 ## [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md#工具)
 
 

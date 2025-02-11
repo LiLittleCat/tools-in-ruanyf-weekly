@@ -16,97 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>334</currentVersion> -->
+<!-- <currentVersion>336</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 334 期）：年终笔记四则](https://github.com/ruanyf/weekly/blob/master/docs/issue-334.md)
+# [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md)
 ### 工具
 
 
-1、[barba.js](https://barba.js.org/)
+1、[Lightpanda](https://github.com/lightpanda-io/browser)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012503.webp)
 
-一个 JS 库，让网站页面的切换产生平滑的动画效果。
+轻量级的无头浏览器，可以接入 Playwright / Puppeteer，占用资源和执行速度号称是 Chrome 的十分之一。
 
-2、[httpdbg](https://github.com/cle-b/httpdbg)
+2、[Dual-Link QR Code Generator](https://dualqrcode.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092810.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012601.webp)
 
-一个 Python 程序的桌面调试器，在类似浏览器控制台的环境里调试 HTTP 请求。
+生成包含两个 URL 的二维码，不同角度扫描，返回的 URL 不一样，[代码开源](https://github.com/zacharyreese/DualQRCode)。
 
-3、[BiliMusic](https://github.com/609529897/bilibili_music)
+3、[isd](https://github.com/isd-project/isd)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011618.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012909.webp)
 
-一个 macOS 桌面程序，让用户播放 B 站收藏的音乐。（[@609529897](https://github.com/ruanyf/weekly/issues/5937) 投稿）
+用户友好的 systemd 操作工具，会提供命令行菜单供选择，[参见教程](https://linuxiac.com/isd-is-a-new-tool-offering-a-user-friendly-approach-to-systemd-management/)。
 
-4、[ScreenShot](https://screenshot.onionai.so/)
+4、[changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011517.webp)
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090104.webp)
 
-免费的 App 预览图制作工具，支持华为、小米、OPPO、VIVO、鸿蒙、AppStore的应用商店预览图制作。（[@ovelv](https://github.com/ruanyf/weekly/issues/5906) 投稿）
+一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。
 
-5、[猫步简历](https://github.com/Hacker233/resume-design)
+5、[Internet Speed](https://www.internetspeed.my/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011518.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110301.webp)
 
-免费开源的简历制作工具，提供各种模版和主题，可以定制化模块。（[@Hacker233](https://github.com/ruanyf/weekly/issues/5910) 投稿）
+一个在线测试网速的网站。
 
-6、[KeyClicker](https://github.com/jaywcjlove/key-clicker)
+6、[在线焰火模拟器](https://fireworks.visualized.fun/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011521.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012510.webp)
 
-开源的 macOS 应用，打字时模拟机械键盘和打字机的声音，有200多种声效。（[@jaywcjlove](https://github.com/ruanyf/weekly/issues/5925) 投稿）
+网页模拟焰火绽放的效果。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5994) 投稿）
 
-7、[Peek Focus](https://peekfoc.us/)
+7、[MultiPost](https://github.com/leaper-one/MultiPost-Extension)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011522.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020401.webp)
 
-一个 Chrome 插件，点击时，不在新的标签页、而在页面浮层里打开链接。（[@zerosoul](https://github.com/ruanyf/weekly/issues/5926) 投稿）
+一个开源的浏览器插件，一键发布内容到多个平台（知乎、微博、小红书、抖音、推特、脸书等）。（[@tymon42](https://github.com/ruanyf/weekly/issues/6015) 投稿）
 
-8、[Docker 镜像拉取工具](https://github.com/topcss/docker-pull-tar)
+8、[生财有迹](https://github.com/nicejade/wealth-tracker)
 
-该工具用于下载 Docker 镜像，无需 Docker 环境，支持自定义仓库地址，配置国内镜像源。（[@topcss](https://github.com/ruanyf/weekly/issues/5931) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012511.webp)
 
-9、[壁纸样机生成器](https://www.taojuju.com/)
+开源的 Web 应用，用于个人资产分析。（[@nicejade](https://github.com/ruanyf/weekly/issues/5996) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011614.webp)
+9、[StayFocused](https://github.com/daijinhai/StayFocused)
 
-生成电子设备壁纸效果图的免费工具。（[@leven-z](https://github.com/ruanyf/weekly/issues/5932) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020407.webp)
 
-10、[BlogKeeper-文捕](https://www.blog-keeper.com/)
+开源的自然声音和白噪音应用。（[@daijinhai](https://github.com/ruanyf/weekly/issues/6023) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011615.webp)
+10、[MacVimSwitch](https://github.com/Jackiexiao/macvimswitch/)
 
-在线博客文章解析下载工具，支持微信公众号/博客园/CSDN/掘金/简书/思否等平台，可以保存成多种格式。（[@GailZhangJY](https://github.com/ruanyf/weekly/issues/5933) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020403.webp)
+
+开源的 Mac 电脑中英文输入法切换工具，可以定制切换键和生效的应用。（[@Jackiexiao](https://github.com/ruanyf/weekly/issues/6017) 投稿）
 
 
 ### 资源
 
 
-1、[BestBlogs.dev](https://www.bestblogs.dev/)
+1、[Arch Linux 初学者配置指南](https://ejmastnak.com/tutorials/arch/about/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011616.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012504.webp)
 
-精选中文科技文章的阅读平台。（[@ginobefun](https://github.com/ruanyf/weekly/issues/5909) 投稿）
+这是一组系列文章，向初学者介绍如何配置 Arch Linux，要比官网 Wiki 简单易读。
 
-2、[自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
+2、[Beej 的 Git 指南](https://beej.us/guide/bggit/html/split/index.html)（Beej's Guide to Git）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011519.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020503.webp)
 
-一本中文电子书，作者分享如何调整心态，解决职场常见问题，提供[在线阅读](https://self-consistent-coder.readthedocs.io/zh-cn/latest/)。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/5919) 投稿）
+著名教程作者 Beej 的最新 Git 教程，基于他向大学学生的课堂讲义。
 
-3、[我的 3D 主页](https://dement.dev/)
+3、[mandobot](https://mandobot.netlify.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011607.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020502.webp)
 
-作者用 React Three Fiber 构建的 3D 个人主页，非常华丽。
-
-4、[Staying](https://staying.fun/zh)
-
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011609.webp)
-
-代码可视化网站，可以将 Python 和 JS 代码的运行步骤，以动画形式展示，内置了许多常见算法的演示。（[@lezhu1234](https://github.com/ruanyf/weekly/issues/5929) 投稿）
+一个老外做了这个网站，它可以将中文文章进行分词，并逐一翻译成对应的英语单词，便于学习中文。
 
 
 <!-- End -->
