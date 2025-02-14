@@ -16,93 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>336</currentVersion> -->
+<!-- <currentVersion>337</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](https://github.com/ruanyf/weekly/blob/master/docs/issue-336.md)
+# [科技爱好者周刊（第 337 期）：互联网创业几乎没了](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
 ### 工具
 
 
-1、[Lightpanda](https://github.com/lightpanda-io/browser)
+1、[You-Get](https://github.com/soimort/you-get)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102909.webp)
 
-轻量级的无头浏览器，可以接入 Playwright / Puppeteer，占用资源和执行速度号称是 Chrome 的十分之一。
+一个从影音网站下载视频的命令行工具，比 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 简单一点。
 
-2、[Dual-Link QR Code Generator](https://dualqrcode.com/)
+2、[Zettlr](https://www.zettlr.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072203.webp)
 
-生成包含两个 URL 的二维码，不同角度扫描，返回的 URL 不一样，[代码开源](https://github.com/zacharyreese/DualQRCode)。
+一个桌面的写作软件，可以管理文章，将其做成一本可出版的书。
 
-3、[isd](https://github.com/isd-project/isd)
+3、[Bruno](https://github.com/usebruno/bruno)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012909.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072205.webp)
 
-用户友好的 systemd 操作工具，会提供命令行菜单供选择，[参见教程](https://linuxiac.com/isd-is-a-new-tool-offering-a-user-friendly-approach-to-systemd-management/)。
+一个开源的 API 调试的桌面客户端，类似于 Postman。
 
-4、[changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+4、[Windows 容器](https://github.com/dockur/windows)
 
-![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072208.webp)
 
-一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。
+一个 Docker 镜像文件，在 Docker 容器里面运行 Windows。
 
-5、[Internet Speed](https://www.internetspeed.my/)
+5、[Timeshift](https://github.com/linuxmint/timeshift)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072305.webp)
 
-一个在线测试网速的网站。
+Linux 的时光机器，定期对文件系统生成增量快照，可以返回到指定时点。
 
-6、[在线焰火模拟器](https://fireworks.visualized.fun/)
+6、[Pages CMS](https://github.com/pages-cms/pages-cms)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012510.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072410.webp)
 
-网页模拟焰火绽放的效果。（[@wincatcher](https://github.com/ruanyf/weekly/issues/5994) 投稿）
+一个静态网站的内容管理系统，在 Cloudflare Pages 托管你的网站，文章直接在网站上编辑，数据存放在 GitHub 仓库。
 
-7、[MultiPost](https://github.com/leaper-one/MultiPost-Extension)
+7、[Pragmatic drag and drop](https://github.com/atlassian/pragmatic-drag-and-drop)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042506.webp)
 
-一个开源的浏览器插件，一键发布内容到多个平台（知乎、微博、小红书、抖音、推特、脸书等）。（[@tymon42](https://github.com/ruanyf/weekly/issues/6015) 投稿）
+Atlassian 公司新发布的一款网页元素的拖拽库，Trello、Jira、Confluence 都在使用它。
 
-8、[生财有迹](https://github.com/nicejade/wealth-tracker)
+8、[Press UI](https://github.com/novlan1/press-ui)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012511.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020803.webp)
 
-开源的 Web 应用，用于个人资产分析。（[@nicejade](https://github.com/ruanyf/weekly/issues/5996) 投稿）
+基于 uni-app 的小程序组件库。（[@novlan1](https://github.com/ruanyf/weekly/issues/6053) 投稿）
 
-9、[StayFocused](https://github.com/daijinhai/StayFocused)
+9、[鸿蒙 ArkTS VSCode 插件](https://github.com/Groupguanfang/arkTS)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020407.webp)
+ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这是它的 VSCode 插件。（[@Groupguanfang](https://github.com/ruanyf/weekly/issues/6081) 投稿）
 
-开源的自然声音和白噪音应用。（[@daijinhai](https://github.com/ruanyf/weekly/issues/6023) 投稿）
+10、[AutoSwitchTranslate](https://github.com/wa008/AutoSwitchTranslate)
 
-10、[MacVimSwitch](https://github.com/Jackiexiao/macvimswitch/)
-
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020403.webp)
-
-开源的 Mac 电脑中英文输入法切换工具，可以定制切换键和生效的应用。（[@Jackiexiao](https://github.com/ruanyf/weekly/issues/6017) 投稿）
+一个开源的 Chrome 插件，根据用户输入的语言，自动在[谷歌翻译](https://translate.google.com/)的页面上，切换中译英或英译中。（[@wa008](https://github.com/ruanyf/weekly/issues/6085) 投稿）
 
 
 ### 资源
 
 
-1、[Arch Linux 初学者配置指南](https://ejmastnak.com/tutorials/arch/about/)
+1、[WikiTok](https://wikitok.cc/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021003.webp)
 
-这是一组系列文章，向初学者介绍如何配置 Arch Linux，要比官网 Wiki 简单易读。
+网友用抖音风格制作的维基百科，每次划动出现一个随机页面。（[@jianpingliu](https://github.com/ruanyf/weekly/issues/6090) 投稿）
 
-2、[Beej 的 Git 指南](https://beej.us/guide/bggit/html/split/index.html)（Beej's Guide to Git）
+2、[富文本编辑器比较2025版](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025#comparison-table)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020702.webp)
 
-著名教程作者 Beej 的最新 Git 教程，基于他向大学学生的课堂讲义。
+这个页面详细比较了 JS 的富文本“所见即所得”编辑器，一共十几个库，详细介绍每个库的特点。
 
-3、[mandobot](https://mandobot.netlify.app/)
+3、[C 程序的可移植性](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/) 
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092405.webp)
 
-一个老外做了这个网站，它可以将中文文章进行分词，并逐一翻译成对应的英语单词，便于学习中文。
+这篇长文用简单通俗的语言，总结了 C 程序移植到其他系统时需要注意的各种问题。
 
 
 <!-- End -->
