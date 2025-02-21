@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 338 期）：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md#资源)
+
+
+1、[四级词汇手册](https://github.com/vxiaozhi/vocabulary-book-by-deepseek)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021501.webp)
+
+使用 DeepSeek 编写的四级词汇手册，提供单词的词义、词根、例句、辅助记忆、助记图像等。（[@vxiaozhi](https://github.com/ruanyf/weekly/issues/6107) 投稿）
+
+2、[唐韵](https://www.chinesepoems.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021502.webp)
+
+一款界面简洁的古诗词网站。（[@LLSean](https://github.com/ruanyf/weekly/issues/6086) 投稿）
+
+3、[News Digest](https://news-digest-nine.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021805.webp)
+
+欧美科技网站头条新闻的 AI 摘要，实时更新。
+
+4、[Discuo](https://discuo.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010602.webp)
+
+一个极简主义的论坛，不需要注册就能发言，类似于 Reddit，可以创建各种频道。
+
+
 ## [科技爱好者周刊（第 337 期）：互联网创业几乎没了](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md#资源)
 
 

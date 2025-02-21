@@ -16,89 +16,79 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>337</currentVersion> -->
+<!-- <currentVersion>338</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 337 期）：互联网创业几乎没了](https://github.com/ruanyf/weekly/blob/master/docs/issue-337.md)
+# [科技爱好者周刊（第 338 期）：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md)
 ### 工具
 
 
-1、[You-Get](https://github.com/soimort/you-get)
+1、[ElevenReader](https://elevenreader.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024102909.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021607.webp)
 
-一个从影音网站下载视频的命令行工具，比 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 简单一点。
+一个手机 App（支持 iOS 和安卓），把电子书转成有声书，支持中文，但是内置的老外语音读起来很生硬。
 
-2、[Zettlr](https://www.zettlr.com/)
+2、[GIXY](https://github.com/dvershinin/gixy)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072203.webp)
+一个开源的命令行工具，检查 NGINX 的配置文件是否有错误。
 
-一个桌面的写作软件，可以管理文章，将其做成一本可出版的书。
+3、[uchū](https://uchu.style/)
 
-3、[Bruno](https://github.com/usebruno/bruno)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021803.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072205.webp)
+一款互联网调色板，提供预设的 CSS 配色方案。它采用新的`oklch()`函数声明颜色，这里有一篇[`oklch()`的介绍文章](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)。
 
-一个开源的 API 调试的桌面客户端，类似于 Postman。
+4、[Bun Shell](https://bun.sh/blog/the-bun-shell)
 
-4、[Windows 容器](https://github.com/dockur/windows)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072208.webp)
+使用 Bun 作为解释器的 Shell 环境，可以在命令行直接运行 JavaScript 脚本。
 
-一个 Docker 镜像文件，在 Docker 容器里面运行 Windows。
+5、[Spotube](https://github.com/KRTirtho/spotube)
 
-5、[Timeshift](https://github.com/linuxmint/timeshift)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072604.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072305.webp)
+一个另类的 Spotify 跨平台客户端，从 Spotify 获取数据，然后播放来自其他音源（比如 YouTube）的音频，从而不必购买会员。
 
-Linux 的时光机器，定期对文件系统生成增量快照，可以返回到指定时点。
+6、[Kener](https://github.com/rajnandan1/kener)
 
-6、[Pages CMS](https://github.com/pages-cms/pages-cms)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072609.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072410.webp)
+一个自托管的状态页，用来监控指定网站是否正常在线。类似工具还有 [Uptime Kuma](https://github.com/louislam/uptime-kuma)。
 
-一个静态网站的内容管理系统，在 Cloudflare Pages 托管你的网站，文章直接在网站上编辑，数据存放在 GitHub 仓库。
+7、[gtrash](https://github.com/umlx5h/gtrash)
 
-7、[Pragmatic drag and drop](https://github.com/atlassian/pragmatic-drag-and-drop)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072618.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042506.webp)
-
-Atlassian 公司新发布的一款网页元素的拖拽库，Trello、Jira、Confluence 都在使用它。
-
-8、[Press UI](https://github.com/novlan1/press-ui)
-
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020803.webp)
-
-基于 uni-app 的小程序组件库。（[@novlan1](https://github.com/ruanyf/weekly/issues/6053) 投稿）
-
-9、[鸿蒙 ArkTS VSCode 插件](https://github.com/Groupguanfang/arkTS)
-
-ArkTS 是华为鸿蒙系统的开发语言，属于 TypeScript 的超集，这是它的 VSCode 插件。（[@Groupguanfang](https://github.com/ruanyf/weekly/issues/6081) 投稿）
-
-10、[AutoSwitchTranslate](https://github.com/wa008/AutoSwitchTranslate)
-
-一个开源的 Chrome 插件，根据用户输入的语言，自动在[谷歌翻译](https://translate.google.com/)的页面上，切换中译英或英译中。（[@wa008](https://github.com/ruanyf/weekly/issues/6085) 投稿）
+Linux 和 Mac 系统的被删除文件的垃圾桶，可以在终端里面还原文件，参见[介绍文章](https://linuxiac.com/gtrash-linux-command/)。
 
 
 ### 资源
 
 
-1、[WikiTok](https://wikitok.cc/)
+1、[四级词汇手册](https://github.com/vxiaozhi/vocabulary-book-by-deepseek)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021501.webp)
 
-网友用抖音风格制作的维基百科，每次划动出现一个随机页面。（[@jianpingliu](https://github.com/ruanyf/weekly/issues/6090) 投稿）
+使用 DeepSeek 编写的四级词汇手册，提供单词的词义、词根、例句、辅助记忆、助记图像等。（[@vxiaozhi](https://github.com/ruanyf/weekly/issues/6107) 投稿）
 
-2、[富文本编辑器比较2025版](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025#comparison-table)（英文）
+2、[唐韵](https://www.chinesepoems.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025020702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021502.webp)
 
-这个页面详细比较了 JS 的富文本“所见即所得”编辑器，一共十几个库，详细介绍每个库的特点。
+一款界面简洁的古诗词网站。（[@LLSean](https://github.com/ruanyf/weekly/issues/6086) 投稿）
 
-3、[C 程序的可移植性](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/) 
+3、[News Digest](https://news-digest-nine.vercel.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021805.webp)
 
-这篇长文用简单通俗的语言，总结了 C 程序移植到其他系统时需要注意的各种问题。
+欧美科技网站头条新闻的 AI 摘要，实时更新。
+
+4、[Discuo](https://discuo.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010602.webp)
+
+一个极简主义的论坛，不需要注册就能发言，类似于 Reddit，可以创建各种频道。
 
 
 <!-- End -->
