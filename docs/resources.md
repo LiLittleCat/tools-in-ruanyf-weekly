@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md#资源)
+
+
+1、[中日文翻译](https://zh2ja.whoops.space/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022702.webp)
+
+该网站将中文翻译为日语，并显示假名和罗马发音。（[@zhanghuid](https://github.com/ruanyf/weekly/issues/6181) 投稿）
+
+2、[3D 陶器动手做](https://artsandculture.google.com/experiment/3d-pottery/nwHg1D0riJ1ltA)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022501.webp)
+
+谷歌的网页小游戏，在网页上做一个 3D 陶器，挺有趣的。
+
+3、[苏特罗塔 3D 模型](https://vincentwoo.com/3d/sutro_tower/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022205.webp)
+
+苏特罗塔是旧金山的电视塔，高298米。作者用几千张无人机的照片，合成了它的 3D 模型，效果极佳。网站上有方法介绍。（[@YuJianrong](https://github.com/ruanyf/weekly/issues/6161) 投稿）
+
+4、[椭圆曲线加密](https://github.com/elikaski/ECC_Attacks)（Elliptic Curve Cryptography）
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110905.webp)
+
+这个英文仓库有椭圆曲线加密的简单介绍。
+
+
 ## [科技爱好者周刊（第 338 期）：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md#资源)
 
 

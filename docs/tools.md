@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md#工具)
+
+
+1、[digiKam](https://www.digikam.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022301.webp)
+
+开源的本地照片管理软件。
+
+2、[Web Awesome](https://backers.webawesome.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022303.webp)
+
+一个 Web Component 组件库。
+
+3、[WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022401.webp)
+
+一个类似 Mac 的 Linux GTK 桌面主题。
+
+4、[mdq](https://github.com/yshavit/mdq)
+
+一个从 Markdown 文件提取信息的命令行工具，类似 处理 Markdown 文件的 jq 命令。
+
+5、[Electro](https://github.com/pTinosq/Electro)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022503.webp)
+
+一个命令行的图片浏览器，Rust 语言写的，速度快。
+
+6、[链图](https://github.com/wind-liang/link-to-image)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022502.webp)
+
+一个开源的在线工具，将网址转成一张包含二维码、网站标题和简介的图片。（[@wind-liang](https://github.com/ruanyf/weekly/issues/6162) 投稿）
+
+7、[MinMail.app](https://minmail.app/cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022701.webp)
+
+免费的临时邮箱服务。（[@withoctober](https://github.com/ruanyf/weekly/issues/6179) 投稿）
+
+8、[MoePush](https://github.com/beilunyang/moepush)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022703.webp)
+
+基于 NextJS + Cloudflare 的消息推送服务, 支持钉钉、企业微信、Telegram 等多种渠道。（[@beilunyang](https://github.com/ruanyf/weekly/issues/6180) 投稿）
+
+9、[Ant Design X Vue](https://github.com/wzc520pyfm/ant-design-x-vue)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022704.webp)
+
+Ant Design X 的 Vue 移植，专门用来做 AI 的前端界面。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/6184) 投稿）
+
+10、[New SVG Viewer](https://github.com/liujuntao123/new-svg-viewer)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022705.webp)
+
+开源的 SVG 预览网站。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/6185) 投稿）
+
+11、[Statusnook](https://github.com/goksan/Statusnook)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042603.webp)
+
+一个需要自己部署的服务，用来架设一个简单的网站，检查指定网址是否在线。
+
+12、[llm-commit](https://github.com/GNtousakis/llm-commit)
+
+使用大模型生成 Git 仓库的提交信息，用法简单，基于 Python 工具 llm。
+
+
 ## [科技爱好者周刊（第 338 期）：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md#工具)
 
 

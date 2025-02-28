@@ -16,79 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>338</currentVersion> -->
+<!-- <currentVersion>339</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 338 期）：重新思考 6G](https://github.com/ruanyf/weekly/blob/master/docs/issue-338.md)
+# [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md)
 ### 工具
 
 
-1、[ElevenReader](https://elevenreader.io/)
+1、[digiKam](https://www.digikam.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021607.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022301.webp)
 
-一个手机 App（支持 iOS 和安卓），把电子书转成有声书，支持中文，但是内置的老外语音读起来很生硬。
+开源的本地照片管理软件。
 
-2、[GIXY](https://github.com/dvershinin/gixy)
+2、[Web Awesome](https://backers.webawesome.com/)
 
-一个开源的命令行工具，检查 NGINX 的配置文件是否有错误。
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022303.webp)
 
-3、[uchū](https://uchu.style/)
+一个 Web Component 组件库。
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021803.webp)
+3、[WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
-一款互联网调色板，提供预设的 CSS 配色方案。它采用新的`oklch()`函数声明颜色，这里有一篇[`oklch()`的介绍文章](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)。
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022401.webp)
 
-4、[Bun Shell](https://bun.sh/blog/the-bun-shell)
+一个类似 Mac 的 Linux GTK 桌面主题。
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072603.webp)
+4、[mdq](https://github.com/yshavit/mdq)
 
-使用 Bun 作为解释器的 Shell 环境，可以在命令行直接运行 JavaScript 脚本。
+一个从 Markdown 文件提取信息的命令行工具，类似 处理 Markdown 文件的 jq 命令。
 
-5、[Spotube](https://github.com/KRTirtho/spotube)
+5、[Electro](https://github.com/pTinosq/Electro)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022503.webp)
 
-一个另类的 Spotify 跨平台客户端，从 Spotify 获取数据，然后播放来自其他音源（比如 YouTube）的音频，从而不必购买会员。
+一个命令行的图片浏览器，Rust 语言写的，速度快。
 
-6、[Kener](https://github.com/rajnandan1/kener)
+6、[链图](https://github.com/wind-liang/link-to-image)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072609.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022502.webp)
 
-一个自托管的状态页，用来监控指定网站是否正常在线。类似工具还有 [Uptime Kuma](https://github.com/louislam/uptime-kuma)。
+一个开源的在线工具，将网址转成一张包含二维码、网站标题和简介的图片。（[@wind-liang](https://github.com/ruanyf/weekly/issues/6162) 投稿）
 
-7、[gtrash](https://github.com/umlx5h/gtrash)
+7、[MinMail.app](https://minmail.app/cn)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072618.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022701.webp)
 
-Linux 和 Mac 系统的被删除文件的垃圾桶，可以在终端里面还原文件，参见[介绍文章](https://linuxiac.com/gtrash-linux-command/)。
+免费的临时邮箱服务。（[@withoctober](https://github.com/ruanyf/weekly/issues/6179) 投稿）
+
+8、[MoePush](https://github.com/beilunyang/moepush)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022703.webp)
+
+基于 NextJS + Cloudflare 的消息推送服务, 支持钉钉、企业微信、Telegram 等多种渠道。（[@beilunyang](https://github.com/ruanyf/weekly/issues/6180) 投稿）
+
+9、[Ant Design X Vue](https://github.com/wzc520pyfm/ant-design-x-vue)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022704.webp)
+
+Ant Design X 的 Vue 移植，专门用来做 AI 的前端界面。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/6184) 投稿）
+
+10、[New SVG Viewer](https://github.com/liujuntao123/new-svg-viewer)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022705.webp)
+
+开源的 SVG 预览网站。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/6185) 投稿）
+
+11、[Statusnook](https://github.com/goksan/Statusnook)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042603.webp)
+
+一个需要自己部署的服务，用来架设一个简单的网站，检查指定网址是否在线。
+
+12、[llm-commit](https://github.com/GNtousakis/llm-commit)
+
+使用大模型生成 Git 仓库的提交信息，用法简单，基于 Python 工具 llm。
 
 
 ### 资源
 
 
-1、[四级词汇手册](https://github.com/vxiaozhi/vocabulary-book-by-deepseek)
+1、[中日文翻译](https://zh2ja.whoops.space/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022702.webp)
 
-使用 DeepSeek 编写的四级词汇手册，提供单词的词义、词根、例句、辅助记忆、助记图像等。（[@vxiaozhi](https://github.com/ruanyf/weekly/issues/6107) 投稿）
+该网站将中文翻译为日语，并显示假名和罗马发音。（[@zhanghuid](https://github.com/ruanyf/weekly/issues/6181) 投稿）
 
-2、[唐韵](https://www.chinesepoems.org/)
+2、[3D 陶器动手做](https://artsandculture.google.com/experiment/3d-pottery/nwHg1D0riJ1ltA)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022501.webp)
 
-一款界面简洁的古诗词网站。（[@LLSean](https://github.com/ruanyf/weekly/issues/6086) 投稿）
+谷歌的网页小游戏，在网页上做一个 3D 陶器，挺有趣的。
 
-3、[News Digest](https://news-digest-nine.vercel.app/)
+3、[苏特罗塔 3D 模型](https://vincentwoo.com/3d/sutro_tower/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025021805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022205.webp)
 
-欧美科技网站头条新闻的 AI 摘要，实时更新。
+苏特罗塔是旧金山的电视塔，高298米。作者用几千张无人机的照片，合成了它的 3D 模型，效果极佳。网站上有方法介绍。（[@YuJianrong](https://github.com/ruanyf/weekly/issues/6161) 投稿）
 
-4、[Discuo](https://discuo.com)
+4、[椭圆曲线加密](https://github.com/elikaski/ECC_Attacks)（Elliptic Curve Cryptography）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110905.webp)
 
-一个极简主义的论坛，不需要注册就能发言，类似于 Reddit，可以创建各种频道。
+这个英文仓库有椭圆曲线加密的简单介绍。
 
 
 <!-- End -->
