@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 340 期）：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md#资源)
+
+
+1、[Meta 的 AI Demo](https://aidemos.meta.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022506.webp)
+
+Meta 公司的 AI 实验室，展示最新的成果。
+
+2、[ProWords](https://prowords.zeabur.app)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030607.webp)
+
+一个基于 AI 的单词记忆平台，根据职业身份生成例句，[代码开源](https://github.com/winterfx/ProWords)。（[@winterfx](https://github.com/ruanyf/weekly/issues/6217) 投稿）
+
+3、[圣彼得大教堂 3D 导览](https://virtual.basilicasanpietro.va/en)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011901.webp)
+
+梵蒂冈的圣彼特大教堂（St. Peter's Basilica）是世界最大教堂，这个网站提供它的 3D 模型还原。
+
+4、[Shapecatcher](https://shapecatcher.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011902.webp)
+
+这个网站根据你画出的形状，返回匹配的 Unicode 字符，包括 Emoji 字符和东亚文字。
+
+
 ## [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md#资源)
 
 

@@ -16,107 +16,96 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>339</currentVersion> -->
+<!-- <currentVersion>340</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md)
+# [科技爱好者周刊（第 340 期）：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md)
 ### 工具
 
 
-1、[digiKam](https://www.digikam.org/)
+1、[Yaak](https://github.com/mountain-loop/yaak)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030102.webp)
 
-开源的本地照片管理软件。
+一个测试 API 的开源桌面软件，功能比较全。
 
-2、[Web Awesome](https://backers.webawesome.com/)
+2、[cleanmac](https://github.com/hkdobrev/cleanmac)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022303.webp)
+清理 macOS 系统的一个命令行脚本。
 
-一个 Web Component 组件库。
+3、[Lynx](https://lynxjs.org/)
 
-3、[WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030610.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022401.webp)
+字节开源的一款跨平台原生应用开发工具，使用 Web 语法，生成各个平台的原生应用，类似于 React Native。
 
-一个类似 Mac 的 Linux GTK 桌面主题。
+4、[appstat](https://pragmar.com/appstat/)
 
-4、[mdq](https://github.com/yshavit/mdq)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030611.webp)
 
-一个从 Markdown 文件提取信息的命令行工具，类似 处理 Markdown 文件的 jq 命令。
+监控 Windows 应用的资源占用（内存、CPU、网络）的一款工具。
 
-5、[Electro](https://github.com/pTinosq/Electro)
+5、[Maestro](https://github.com/mobile-dev-inc/Maestro)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030615.webp)
 
-一个命令行的图片浏览器，Rust 语言写的，速度快。
+一个 Web 和 手机的 UI 测试工具，只要写好配置文件，就能自动运行测试。
 
-6、[链图](https://github.com/wind-liang/link-to-image)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022502.webp)
+6、[Git Worktree Manager](https://github.com/jackiotyu/git-worktree-manager)
 
-一个开源的在线工具，将网址转成一张包含二维码、网站标题和简介的图片。（[@wind-liang](https://github.com/ruanyf/weekly/issues/6162) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030601.webp)
 
-7、[MinMail.app](https://minmail.app/cn)
+VS Code 插件，方便在不同的 Git 仓库、不同的分支之间切换。（[@jackiotyu](https://github.com/ruanyf/weekly/issues/6198) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022701.webp)
+7、[Hugo Translator](https://github.com/Rico00121/hugo-translator)
 
-免费的临时邮箱服务。（[@withoctober](https://github.com/ruanyf/weekly/issues/6179) 投稿）
+一个 Python 脚本，将 markdown 格式的中文 Hugo 博客帖子，翻译成英文。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6199) 投稿）
 
-8、[MoePush](https://github.com/beilunyang/moepush)
+8、[O-Spy](https://github.com/HuolalaTech/page-spy-web/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030603.webp)
 
-基于 NextJS + Cloudflare 的消息推送服务, 支持钉钉、企业微信、Telegram 等多种渠道。（[@beilunyang](https://github.com/ruanyf/weekly/issues/6180) 投稿）
+一个 Web 应用的记录并回放用户操作的工具，用来远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/6202) 投稿）
 
-9、[Ant Design X Vue](https://github.com/wzc520pyfm/ant-design-x-vue)
+9、[MTranServer](https://github.com/xxnuo/MTranServer)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030605.webp)
 
-Ant Design X 的 Vue 移植，专门用来做 AI 的前端界面。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/6184) 投稿）
+开源的离线翻译服务器，号称资源消耗低，CPU + 1G 内存即可运行，支持调用沉浸式翻译。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6208) 投稿）
 
-10、[New SVG Viewer](https://github.com/liujuntao123/new-svg-viewer)
+10、[Screen Sharing Application](https://github.com/tonghohin/screen-sharing)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112901.webp)
 
-开源的 SVG 预览网站。（[@liujuntao123](https://github.com/ruanyf/weekly/issues/6185) 投稿）
-
-11、[Statusnook](https://github.com/goksan/Statusnook)
-
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042603.webp)
-
-一个需要自己部署的服务，用来架设一个简单的网站，检查指定网址是否在线。
-
-12、[llm-commit](https://github.com/GNtousakis/llm-commit)
-
-使用大模型生成 Git 仓库的提交信息，用法简单，基于 Python 工具 llm。
+一个开源的 Next.js 应用，通过点对点通信，实时分享你的屏幕。它会生成一个房间码，其他人访问这个房间，就能看到你的屏幕。
 
 
 ### 资源
 
 
-1、[中日文翻译](https://zh2ja.whoops.space/)
+1、[Meta 的 AI Demo](https://aidemos.meta.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022506.webp)
 
-该网站将中文翻译为日语，并显示假名和罗马发音。（[@zhanghuid](https://github.com/ruanyf/weekly/issues/6181) 投稿）
+Meta 公司的 AI 实验室，展示最新的成果。
 
-2、[3D 陶器动手做](https://artsandculture.google.com/experiment/3d-pottery/nwHg1D0riJ1ltA)
+2、[ProWords](https://prowords.zeabur.app)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030607.webp)
 
-谷歌的网页小游戏，在网页上做一个 3D 陶器，挺有趣的。
+一个基于 AI 的单词记忆平台，根据职业身份生成例句，[代码开源](https://github.com/winterfx/ProWords)。（[@winterfx](https://github.com/ruanyf/weekly/issues/6217) 投稿）
 
-3、[苏特罗塔 3D 模型](https://vincentwoo.com/3d/sutro_tower/)
+3、[圣彼得大教堂 3D 导览](https://virtual.basilicasanpietro.va/en)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011901.webp)
 
-苏特罗塔是旧金山的电视塔，高298米。作者用几千张无人机的照片，合成了它的 3D 模型，效果极佳。网站上有方法介绍。（[@YuJianrong](https://github.com/ruanyf/weekly/issues/6161) 投稿）
+梵蒂冈的圣彼特大教堂（St. Peter's Basilica）是世界最大教堂，这个网站提供它的 3D 模型还原。
 
-4、[椭圆曲线加密](https://github.com/elikaski/ECC_Attacks)（Elliptic Curve Cryptography）
+4、[Shapecatcher](https://shapecatcher.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011902.webp)
 
-这个英文仓库有椭圆曲线加密的简单介绍。
+这个网站根据你画出的形状，返回匹配的 Unicode 字符，包括 Emoji 字符和东亚文字。
 
 
 <!-- End -->

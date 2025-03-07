@@ -1,5 +1,66 @@
 # 工具
 
+## [科技爱好者周刊（第 340 期）：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md#工具)
+
+
+1、[Yaak](https://github.com/mountain-loop/yaak)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030102.webp)
+
+一个测试 API 的开源桌面软件，功能比较全。
+
+2、[cleanmac](https://github.com/hkdobrev/cleanmac)
+
+清理 macOS 系统的一个命令行脚本。
+
+3、[Lynx](https://lynxjs.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030610.webp)
+
+字节开源的一款跨平台原生应用开发工具，使用 Web 语法，生成各个平台的原生应用，类似于 React Native。
+
+4、[appstat](https://pragmar.com/appstat/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030611.webp)
+
+监控 Windows 应用的资源占用（内存、CPU、网络）的一款工具。
+
+5、[Maestro](https://github.com/mobile-dev-inc/Maestro)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030615.webp)
+
+一个 Web 和 手机的 UI 测试工具，只要写好配置文件，就能自动运行测试。
+
+
+6、[Git Worktree Manager](https://github.com/jackiotyu/git-worktree-manager)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030601.webp)
+
+VS Code 插件，方便在不同的 Git 仓库、不同的分支之间切换。（[@jackiotyu](https://github.com/ruanyf/weekly/issues/6198) 投稿）
+
+7、[Hugo Translator](https://github.com/Rico00121/hugo-translator)
+
+一个 Python 脚本，将 markdown 格式的中文 Hugo 博客帖子，翻译成英文。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6199) 投稿）
+
+8、[O-Spy](https://github.com/HuolalaTech/page-spy-web/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030603.webp)
+
+一个 Web 应用的记录并回放用户操作的工具，用来远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/6202) 投稿）
+
+9、[MTranServer](https://github.com/xxnuo/MTranServer)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030605.webp)
+
+开源的离线翻译服务器，号称资源消耗低，CPU + 1G 内存即可运行，支持调用沉浸式翻译。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6208) 投稿）
+
+10、[Screen Sharing Application](https://github.com/tonghohin/screen-sharing)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112901.webp)
+
+一个开源的 Next.js 应用，通过点对点通信，实时分享你的屏幕。它会生成一个房间码，其他人访问这个房间，就能看到你的屏幕。
+
+
 ## [科技爱好者周刊（第 339 期）：代币是什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-339.md#工具)
 
 
