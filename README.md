@@ -16,96 +16,103 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>340</currentVersion> -->
+<!-- <currentVersion>341</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 340 期）：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md)
+# [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md)
 ### 工具
 
 
-1、[Yaak](https://github.com/mountain-loop/yaak)
+1、[TypeScript 7](https://github.com/microsoft/typescript-go)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030102.webp)
+微软使用 Go 语言重写了 TypeScript 编译器 tsc，据说速度可以提高10倍，参看[介绍文章](https://devblogs.microsoft.com/typescript/typescript-native-port/)。
 
-一个测试 API 的开源桌面软件，功能比较全。
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031207.webp)
 
-2、[cleanmac](https://github.com/hkdobrev/cleanmac)
+目前，TypeScript 的版本是5.8，等到这个工具稳定了，将发布为 TypeScript 7。
 
-清理 macOS 系统的一个命令行脚本。
+2、[QR Code Generator](https://fietkau.software/qr)
 
-3、[Lynx](https://lynxjs.org/)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030610.webp)
+一个网页应用，可以定制二维码的颜色、斑点、徽标。
 
-字节开源的一款跨平台原生应用开发工具，使用 Web 语法，生成各个平台的原生应用，类似于 React Native。
+3、[WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 
-4、[appstat](https://pragmar.com/appstat/)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030611.webp)
+一个开源的网页应用，用来扫描局域网的 IP 分配，可以发送主机上线和掉线的通知。
 
-监控 Windows 应用的资源占用（内存、CPU、网络）的一款工具。
+4、[XPipe](https://github.com/xpipe-io/xpipe)
 
-5、[Maestro](https://github.com/mobile-dev-inc/Maestro)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030615.webp)
+一个跨平台的桌面应用，通过图形界面，将所有的服务器连接在一个地方管理。
 
-一个 Web 和 手机的 UI 测试工具，只要写好配置文件，就能自动运行测试。
+5、[TransBridge](https://github.com/fruitbars/transbridge)
 
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031001.webp)
 
-6、[Git Worktree Manager](https://github.com/jackiotyu/git-worktree-manager)
+一个开源的翻译 API 代理服务，可以接入各种大模型，对外提供翻译服务，试用 [Demo](https://transbridge.fanyimao.cn/)。（[@fruitbars](https://github.com/ruanyf/weekly/issues/6238) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030601.webp)
+6、[DouYin Downloader](https://github.com/jiji262/douyin-downloader)
 
-VS Code 插件，方便在不同的 Git 仓库、不同的分支之间切换。（[@jackiotyu](https://github.com/ruanyf/weekly/issues/6198) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031002.webp)
 
-7、[Hugo Translator](https://github.com/Rico00121/hugo-translator)
+开源的 Python 脚本，用来下载抖音短视频。（[@jiji262](https://github.com/ruanyf/weekly/issues/6240) 投稿）
 
-一个 Python 脚本，将 markdown 格式的中文 Hugo 博客帖子，翻译成英文。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6199) 投稿）
+7、[Java Thread Dump](https://www.threadanalyzer.online/)
 
-8、[O-Spy](https://github.com/HuolalaTech/page-spy-web/)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031106.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030603.webp)
+免费分析 java thread 的网站，上传 jstack 导出的线程快照文件，分析线程池内线程状态。（[@HbOrea](https://github.com/ruanyf/weekly/issues/6259) 投稿）
 
-一个 Web 应用的记录并回放用户操作的工具，用来远程调试。（[@wqcstrong](https://github.com/ruanyf/weekly/issues/6202) 投稿）
+8、[Mono](https://mono.cards/zh)
 
-9、[MTranServer](https://github.com/xxnuo/MTranServer)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031201.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030605.webp)
+制作内容分享卡片的免费网站。（[@RiverTwilight](https://github.com/ruanyf/weekly/issues/6264) 投稿）
 
-开源的离线翻译服务器，号称资源消耗低，CPU + 1G 内存即可运行，支持调用沉浸式翻译。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6208) 投稿）
+9、[Telegram Files](https://github.com/jarvis2f/telegram-files)
 
-10、[Screen Sharing Application](https://github.com/tonghohin/screen-sharing)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112901.webp)
+开源的 Telegram 文件下载器，支持多频道、多账户同时下载。（[@jarvis2f](https://github.com/ruanyf/weekly/issues/6268) 投稿）
 
-一个开源的 Next.js 应用，通过点对点通信，实时分享你的屏幕。它会生成一个房间码，其他人访问这个房间，就能看到你的屏幕。
+10、[Obsidian 云盘同步插件](https://github.com/ai-bytedance/obsidian-cloud-sync)
+
+一个开源的 Obsidian 插件，将笔记自动同步到多种云盘服务。（[@ai-bytedance](https://github.com/ruanyf/weekly/issues/6275) 投稿）
 
 
 ### 资源
 
 
-1、[Meta 的 AI Demo](https://aidemos.meta.com/)
+1、[辰宇落雁体](https://github.com/Chenyu-otf/chenyuluoyan_thin)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030701.webp)
 
-Meta 公司的 AI 实验室，展示最新的成果。
+一个开源的中文手写字体。
 
-2、[ProWords](https://prowords.zeabur.app)
+2、[JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030607.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031003.webp)
 
-一个基于 AI 的单词记忆平台，根据职业身份生成例句，[代码开源](https://github.com/winterfx/ProWords)。（[@winterfx](https://github.com/ruanyf/weekly/issues/6217) 投稿）
+一款合成字体，解决 JetBrains Mono 没有中文字形的痛点，全部等宽无衬线，中英文 2:1 宽对齐。（[@SpaceTimee](https://github.com/ruanyf/weekly/issues/6244) 投稿）
 
-3、[圣彼得大教堂 3D 导览](https://virtual.basilicasanpietro.va/en)
+3、[BeddyStories](https://beddystories.com/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031204.webp)
 
-梵蒂冈的圣彼特大教堂（St. Peter's Basilica）是世界最大教堂，这个网站提供它的 3D 模型还原。
+一个儿童睡前故事网站，收集了全球经典的儿童睡前故事。（[@yimiqidage](https://github.com/ruanyf/weekly/issues/6272) 投稿）
 
-4、[Shapecatcher](https://shapecatcher.com/)
+4、[IP 侦探](https://ip.aolifu.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031203.webp)
 
-这个网站根据你画出的形状，返回匹配的 Unicode 字符，包括 Emoji 字符和东亚文字。
+免费的在线 IP 归属地查询。（[@Oliverwqcwrw](https://github.com/ruanyf/weekly/issues/6271) 投稿）
+
+另有一个 Chrome 插件 IP Location Finder，选中 IP 地址，显示归属地。（[@Yanel85](https://github.com/ruanyf/weekly/issues/6278) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031301.webp)
 
 
 <!-- End -->

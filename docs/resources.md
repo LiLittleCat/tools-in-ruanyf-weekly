@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md#资源)
+
+
+1、[辰宇落雁体](https://github.com/Chenyu-otf/chenyuluoyan_thin)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030701.webp)
+
+一个开源的中文手写字体。
+
+2、[JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031003.webp)
+
+一款合成字体，解决 JetBrains Mono 没有中文字形的痛点，全部等宽无衬线，中英文 2:1 宽对齐。（[@SpaceTimee](https://github.com/ruanyf/weekly/issues/6244) 投稿）
+
+3、[BeddyStories](https://beddystories.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031204.webp)
+
+一个儿童睡前故事网站，收集了全球经典的儿童睡前故事。（[@yimiqidage](https://github.com/ruanyf/weekly/issues/6272) 投稿）
+
+4、[IP 侦探](https://ip.aolifu.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031203.webp)
+
+免费的在线 IP 归属地查询。（[@Oliverwqcwrw](https://github.com/ruanyf/weekly/issues/6271) 投稿）
+
+另有一个 Chrome 插件 IP Location Finder，选中 IP 地址，显示归属地。（[@Yanel85](https://github.com/ruanyf/weekly/issues/6278) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031301.webp)
+
+
 ## [科技爱好者周刊（第 340 期）：技术炒作三十年](https://github.com/ruanyf/weekly/blob/master/docs/issue-340.md#资源)
 
 
