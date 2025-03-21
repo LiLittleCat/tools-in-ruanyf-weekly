@@ -16,103 +16,100 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>341</currentVersion> -->
+<!-- <currentVersion>342</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md)
+# [科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
 ### 工具
 
 
-1、[TypeScript 7](https://github.com/microsoft/typescript-go)
+1、[daylight](https://github.com/jbreckmckye/daylight)
 
-微软使用 Go 语言重写了 TypeScript 编译器 tsc，据说速度可以提高10倍，参看[介绍文章](https://devblogs.microsoft.com/typescript/typescript-native-port/)。
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031207.webp)
+命令行查询日出日落时间，可以指定地点和日期。
 
-目前，TypeScript 的版本是5.8，等到这个工具稳定了，将发布为 TypeScript 7。
+2、[FilePizza](https://github.com/kern/filepizza)
 
-2、[QR Code Generator](https://fietkau.software/qr)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090102.webp)
+在浏览器里“点对点”传送文件的开源工具。
 
-一个网页应用，可以定制二维码的颜色、斑点、徽标。
+3、[git-who](https://github.com/sinclairtarget/git-who)
 
-3、[WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032003.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202409/bg2024090103.webp)
+一个开源的命令行工具，显示 Git 仓库的提交者统计。
 
-一个开源的网页应用，用来扫描局域网的 IP 分配，可以发送主机上线和掉线的通知。
+4、[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
 
-4、[XPipe](https://github.com/xpipe-io/xpipe)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031703.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031305.webp)
+一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
 
-一个跨平台的桌面应用，通过图形界面，将所有的服务器连接在一个地方管理。
+5、[hoarder](https://github.com/hoarder-app/hoarder)
 
-5、[TransBridge](https://github.com/fruitbars/transbridge)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031712.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031001.webp)
+一个自托管的书签应用，有 Web 端和手机端，可以用 AI 自动生成内容标签。
 
-一个开源的翻译 API 代理服务，可以接入各种大模型，对外提供翻译服务，试用 [Demo](https://transbridge.fanyimao.cn/)。（[@fruitbars](https://github.com/ruanyf/weekly/issues/6238) 投稿）
+6、[微信群聊的永久二维码](https://github.com/xxnuo/serverless-qrcode-hub)
 
-6、[DouYin Downloader](https://github.com/jiji262/douyin-downloader)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031002.webp)
+微信群聊的二维码频繁变动，这个工具可以生成永久二维码，基于 Cloudflare Workers 和 KV 存储。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6294) 投稿）
 
-开源的 Python 脚本，用来下载抖音短视频。（[@jiji262](https://github.com/ruanyf/weekly/issues/6240) 投稿）
+7、[Webcam Runner](https://github.com/Jamesun921/cam-run)
 
-7、[Java Thread Dump](https://www.threadanalyzer.online/)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031106.webp)
+一个对着电脑摄像头的开源跑步游戏，检测用户动作来控制游戏角色在无限场景中奔跑，适合室内锻炼身体。（[@Jamesun921](https://github.com/ruanyf/weekly/issues/6334) 投稿）
 
-免费分析 java thread 的网站，上传 jstack 导出的线程快照文件，分析线程池内线程状态。（[@HbOrea](https://github.com/ruanyf/weekly/issues/6259) 投稿）
+8、[Cover Page](https://www.coverpage.one/image)
 
-8、[Mono](https://mono.cards/zh)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031201.webp)
+免费的封面图制作网站。（[@amuluze](https://github.com/ruanyf/weekly/issues/6307) 投稿）
 
-制作内容分享卡片的免费网站。（[@RiverTwilight](https://github.com/ruanyf/weekly/issues/6264) 投稿）
+9、[EchoShare](https://github.com/echoshare/echoshare)
 
-9、[Telegram Files](https://github.com/jarvis2f/telegram-files)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031202.webp)
+开源的基于 WebRTC 的在线屏幕共享工具，允许与他人共享屏幕、摄像头和音频。
+（[@shawroger](https://github.com/ruanyf/weekly/issues/6304) 投稿）
 
-开源的 Telegram 文件下载器，支持多频道、多账户同时下载。（[@jarvis2f](https://github.com/ruanyf/weekly/issues/6268) 投稿）
+10、[Lazyeat](https://github.com/maplelost/lazyeat)
 
-10、[Obsidian 云盘同步插件](https://github.com/ai-bytedance/obsidian-cloud-sync)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031907.webp)
 
-一个开源的 Obsidian 插件，将笔记自动同步到多种云盘服务。（[@ai-bytedance](https://github.com/ruanyf/weekly/issues/6275) 投稿）
+开源的 Windows 桌面应用，手势控制电脑。（[@maplelost](https://github.com/ruanyf/weekly/issues/6310) 投稿）
 
 
 ### 资源
 
 
-1、[辰宇落雁体](https://github.com/Chenyu-otf/chenyuluoyan_thin)
+1、[Maple Mono](https://github.com/subframe7536/maple-font)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031707.webp)
 
-一个开源的中文手写字体。
+开源的等宽字体，支持中文。（[@subframe7536](https://github.com/ruanyf/weekly/issues/6306) 投稿）
 
-2、[JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
+2、[上网2005](https://2005.wong2.me)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031909.webp)
 
-一款合成字体，解决 JetBrains Mono 没有中文字形的痛点，全部等宽无衬线，中英文 2:1 宽对齐。（[@SpaceTimee](https://github.com/ruanyf/weekly/issues/6244) 投稿）
+还原20年前的中文互联网。（[@wong2](https://github.com/ruanyf/weekly/issues/6316) 投稿）
 
-3、[BeddyStories](https://beddystories.com/zh)
+3、[Bambot](https://github.com/timqian/bambot)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031910.webp)
 
-一个儿童睡前故事网站，收集了全球经典的儿童睡前故事。（[@yimiqidage](https://github.com/ruanyf/weekly/issues/6272) 投稿）
+网友开源的低成本（约2000元人民币）的人形机器人。（[@timqian](https://github.com/ruanyf/weekly/issues/6328) 投稿）
 
-4、[IP 侦探](https://ip.aolifu.org/)
+4、[OpenAPK](https://www.openapk.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031006.webp)
 
-免费的在线 IP 归属地查询。（[@Oliverwqcwrw](https://github.com/ruanyf/weekly/issues/6271) 投稿）
-
-另有一个 Chrome 插件 IP Location Finder，选中 IP 地址，显示归属地。（[@Yanel85](https://github.com/ruanyf/weekly/issues/6278) 投稿）
-
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031301.webp)
+这个网站提供开源的安卓 App 下载。
 
 
 <!-- End -->

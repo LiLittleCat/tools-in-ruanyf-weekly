@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md#资源)
+
+
+1、[Maple Mono](https://github.com/subframe7536/maple-font)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031707.webp)
+
+开源的等宽字体，支持中文。（[@subframe7536](https://github.com/ruanyf/weekly/issues/6306) 投稿）
+
+2、[上网2005](https://2005.wong2.me)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031909.webp)
+
+还原20年前的中文互联网。（[@wong2](https://github.com/ruanyf/weekly/issues/6316) 投稿）
+
+3、[Bambot](https://github.com/timqian/bambot)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031910.webp)
+
+网友开源的低成本（约2000元人民币）的人形机器人。（[@timqian](https://github.com/ruanyf/weekly/issues/6328) 投稿）
+
+4、[OpenAPK](https://www.openapk.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031006.webp)
+
+这个网站提供开源的安卓 App 下载。
+
+
 ## [科技爱好者周刊（第 341 期）：低代码编程，恐怕不会成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-341.md#资源)
 
 
