@@ -114,3 +114,4 @@ extra_css:
 nav:
   - 工具: tools.md
   - 资源: resources.md
+  - 言论: quotes.md

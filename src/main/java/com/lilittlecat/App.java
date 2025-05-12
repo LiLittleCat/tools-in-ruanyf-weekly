@@ -3,6 +3,8 @@ package com.lilittlecat;
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.io.file.FileWriter;
 import cn.hutool.core.util.StrUtil;
+import kong.unirest.HttpResponse;
+import kong.unirest.Unirest;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
@@ -33,6 +35,116 @@ public class App {
     public static void main(String[] args) {
         App app = new App();
         app.addContent();
+//        try {
+//            app.createAllContent();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+    }
+
+    private void createAllContent() throws IOException {
+        String dir = System.getProperty("user.dir");
+
+        // 获取当前最新期数
+        HttpResponse<String> response = Unirest.get(README_URL).asString();
+        if (!response.isSuccess()) {
+            return;
+        }
+
+        String readme = response.getBody();
+        String currentPublishNumberString = StrUtil.subBetween(readme, "- 第", "期").trim();
+        if (StrUtil.isBlank(currentPublishNumberString)) {
+            return;
+        }
+        int currentPublishNumber = Integer.parseInt(currentPublishNumberString);
+
+        // 创建quotes.md文件
+        File quotesFile = new File(dir + "/docs/quotes.md");
+        if (!quotesFile.exists()) {
+            Files.createFile(quotesFile.toPath());
+        }
+
+        // 初始化quotes.md文件内容
+        StringBuilder allQuotesContent = new StringBuilder();
+        allQuotesContent.append("# 言论\n\n");
+
+        // 遍历每一期，提取言论部分
+        for (int i = currentPublishNumber; i >= 1; i--) {
+            HttpResponse<String> contentResponse = Unirest.get(StrUtil.replace(URL, "NUMBER", String.valueOf(i)))
+                    .asString();
+
+            if (contentResponse.isSuccess()) {
+                String body = contentResponse.getBody();
+                String title = body.split("\n")[0].replace("# ", "");
+                String quoteTitle = "## [" + title + "](" +
+                        StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(i)) + "#言论)";
+
+                // 提取言论部分
+                final String quotesContent = StrUtil.subBetween(body, "## 言论", "## ");
+
+                if (StrUtil.isNotBlank(quotesContent)) {
+                    allQuotesContent.append(quoteTitle).append("\n").append(quotesContent).append("\n");
+                }
+
+                System.out.println("已处理第 " + i + " 期，有言论：" + StrUtil.isNotBlank(quotesContent));
+            }
+            // 休眠一小段时间，避免请求过快
+            try {
+                Thread.sleep(200);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            }
+        }
+
+        // 写入quotes.md文件
+        FileWriter quotesWriter = FileWriter.create(quotesFile);
+        quotesWriter.write(allQuotesContent.toString());
+
+        // 更新README.md和index.md
+        updateReadmeAndIndex(dir, "quotes.md", "言论");
+
+        System.out.println("所有言论已提取完成并写入 quotes.md 文件");
+    }
+
+    private void updateReadmeAndIndex(String dir, String fileName, String sectionName) throws IOException {
+        // 读取README.md
+        Path readmePath = Paths.get(dir + "/README.md");
+        List<String> readmeLines = Files.readAllLines(readmePath);
+
+        // 检查是否已有对应部分
+        boolean hasSection = false;
+        for (String line : readmeLines) {
+            if (line.contains("docs/" + fileName) && line.contains(sectionName)) {
+                hasSection = true;
+                break;
+            }
+        }
+
+        // 如果没有，添加新部分
+        if (!hasSection) {
+            List<String> newReadmeLines = new ArrayList<>();
+            boolean navigationSectionFound = false;
+
+            for (String line : readmeLines) {
+                newReadmeLines.add(line);
+
+                // 在导航部分之后添加新链接
+                if (line.contains("## 导航") && !navigationSectionFound) {
+                    navigationSectionFound = true;
+                } else if (navigationSectionFound && line.startsWith("- [")) {
+                    // 在第一个导航项后添加新链接
+                    newReadmeLines.add("- [" + sectionName + "](docs/" + fileName + ")");
+                    navigationSectionFound = false;
+                }
+            }
+
+            // 写回README.md
+            Files.write(readmePath, newReadmeLines);
+
+            // 同步更新index.md
+            File indexFile = new File(dir + "/docs/index.md");
+            FileUtil.copy(new File(dir + "/README.md"), indexFile, true);
+        }
     }
 
     private void addNewContentToFile(String path, String content) throws IOException {
@@ -84,6 +196,7 @@ public class App {
             }
             StringBuilder currentToolsContent = new StringBuilder();
             StringBuilder currentResourcesContent = new StringBuilder();
+            StringBuilder currentQuotesContent = new StringBuilder();
             StringBuilder currentReadmeContent = new StringBuilder();
             Request request = new Request.Builder()
                     .url(StrUtil.replace(URL, "NUMBER", String.valueOf(currentPublishNumber)))
@@ -110,8 +223,15 @@ public class App {
                                 + "]("
                                 + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentPublishNumber))
                                 + "#资源)";
+                String quotesTitle =
+                        "## ["
+                                + body.split("\n")[0].replace("# ", "")
+                                + "]("
+                                + StrUtil.replace(GITHUB_URL, "NUMBER", String.valueOf(currentPublishNumber))
+                                + "#言论)";
                 final String toolsContent = StrUtil.subBetween(body, "## 工具", "## ");
                 final String resourceContent = StrUtil.subBetween(body, "## 资源", "## ");
+                final String quotesContent = StrUtil.subBetween(body, "## 言论", "## ");
                 currentReadmeContent.append(title).append("\n");
                 if (StrUtil.isNotBlank(toolsContent)) {
                     currentToolsContent.insert(0, toolsTitle + "\n" + toolsContent);
@@ -121,8 +241,13 @@ public class App {
                     currentResourcesContent.insert(0, resourcesTitle + "\n" + resourceContent);
                     currentReadmeContent.append("### 资源\n").append(resourceContent).append("\n");
                 }
+                if (StrUtil.isNotBlank(quotesContent)) {
+                    currentQuotesContent.insert(0, quotesTitle + "\n" + quotesContent);
+                    currentReadmeContent.append("### 言论\n").append(quotesContent).append("\n");
+                }
                 addNewContentToFile(dir + "/docs/tools.md", currentToolsContent.toString());
                 addNewContentToFile(dir + "/docs/resources.md", currentResourcesContent.toString());
+                addNewContentToFile(dir + "/docs/quotes.md", currentQuotesContent.toString());
 
                 // Update README.md
                 String begin = "<!-- Begin -->";
