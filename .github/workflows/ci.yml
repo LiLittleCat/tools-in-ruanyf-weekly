@@ -4,9 +4,9 @@
 name: CI
 
 on:
-  #schedule:
+  schedule:
   # * is a special character in YAML so you have to quote this string
-  #- cron:  '0 9 * * *'
+  - cron:  '0 9 * * 5'
   workflow_dispatch:
 jobs:
   build:
@@ -28,8 +28,8 @@ jobs:
         run: java -jar target/tools-in-ruanyf-weekly-jar-with-dependencies.jar
       - name: Commit files
         run: |
-          git config --local user.email "luoyukongchan@outlook.com"
-          git config --local user.name "LiLittleCat"
+          git config --local user.email "hi@yiliu.dev"
+          git config --local user.name "Yi Liu"
           git pull
           git diff --quiet && git diff --staged --quiet || (git add . && git commit -m "Update contents")
       - name: Push changes

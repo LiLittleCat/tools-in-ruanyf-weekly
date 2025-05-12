@@ -16,100 +16,131 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>342</currentVersion> -->
+<!-- <currentVersion>347</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md)
+# [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md)
 ### 工具
 
 
-1、[daylight](https://github.com/jbreckmckye/daylight)
+1、[BongoCat](https://github.com/ayangweb/BongoCat)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042801.webp)
 
-命令行查询日出日落时间，可以指定地点和日期。
+一款开源的桌面宠物，支持 macOS、Windows 和 Linux。（[@ayangweb](https://github.com/ruanyf/weekly/issues/6735) 投稿）
 
-2、[FilePizza](https://github.com/kern/filepizza)
+2、[Barcode Maker](https://barcode-maker.com/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042804.webp)
 
-在浏览器里“点对点”传送文件的开源工具。
+开源的条形码和二维码生成网站。（[@LeonZeng919](https://github.com/ruanyf/weekly/issues/6748) 投稿）
 
-3、[git-who](https://github.com/sinclairtarget/git-who)
+3、[Fread](https://github.com/0xZhangKe/Fread)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042806.webp)
 
-一个开源的命令行工具，显示 Git 仓库的提交者统计。
+开源的“微博客”安卓客户端，同时支持 Mastodon、Bluesky、RSS 三种协议。（[@0xZhangKe](https://github.com/ruanyf/weekly/issues/6753) 投稿）
 
-4、[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
+4、[DeckTap](https://github.com/Rico00121/decktap)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050301.webp)
 
-一个命令行工具，唯一作用就是让你的终端显得很忙，源源不断有输出，适合摸鱼。
+局域网的演示遥控器，在电脑上运行它，手机连上电脑，就能无线遥控幻灯片演示。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6779) 投稿）
 
-5、[hoarder](https://github.com/hoarder-app/hoarder)
+5、[Input Source Pro](https://inputsource.pro/zh-CN)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031712.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050302.webp)
 
-一个自托管的书签应用，有 Web 端和手机端，可以用 AI 自动生成内容标签。
+Mac 电脑的开源小工具，方便切换输入法，可以指定不同应用/网站的默认输入法。（[@runjuu](https://github.com/ruanyf/weekly/issues/6780) 投稿）
 
-6、[微信群聊的永久二维码](https://github.com/xxnuo/serverless-qrcode-hub)
+6、[QBin](https://github.com/quick-bin/qbin) 
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042805.webp)
 
-微信群聊的二维码频繁变动，这个工具可以生成永久二维码，基于 Cloudflare Workers 和 KV 存储。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6294) 投稿）
+开源的在线文本编辑与分享服务，可以用作个人的文本、代码、图片、视频分享网站。（[@kfcx](https://github.com/ruanyf/weekly/issues/6749) 投稿）
 
-7、[Webcam Runner](https://github.com/Jamesun921/cam-run)
+7、[EasyEditor](https://github.com/Easy-Editor/EasyEditor)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042803.webp)
 
-一个对着电脑摄像头的开源跑步游戏，检测用户动作来控制游戏角色在无限场景中奔跑，适合室内锻炼身体。（[@Jamesun921](https://github.com/ruanyf/weekly/issues/6334) 投稿）
+开源的低代码引擎，用于可视化搭建 Web 应用。（[@JinSooo](https://github.com/ruanyf/weekly/issues/6739) 投稿）
 
-8、[Cover Page](https://www.coverpage.one/image)
+8、[PakePlus](https://github.com/Sjj1024/PakePlus)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042810.webp)
 
-免费的封面图制作网站。（[@amuluze](https://github.com/ruanyf/weekly/issues/6307) 投稿）
+一款桌面应用，使用 Tauri2 将任意网站打包成桌面应用和手机应用。（[@Sjj1024](https://github.com/ruanyf/weekly/issues/6759) 投稿）
 
-9、[EchoShare](https://github.com/echoshare/echoshare)
+9、[柠檬表单](https://github.com/bojue/lemon-form)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042802.webp)
 
-开源的基于 WebRTC 的在线屏幕共享工具，允许与他人共享屏幕、摄像头和音频。
-（[@shawroger](https://github.com/ruanyf/weekly/issues/6304) 投稿）
+开源的表单问卷系统，类似于金数据和飞书问卷，自带管理后台。（[@bojue](https://github.com/ruanyf/weekly/issues/6738) 投稿）
 
-10、[Lazyeat](https://github.com/maplelost/lazyeat)
+10、[MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031907.webp)
+一个安卓应用，通过播放 100Hz 声音来预防晕车，项目开源。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/6742) 投稿）
 
-开源的 Windows 桌面应用，手势控制电脑。（[@maplelost](https://github.com/ruanyf/weekly/issues/6310) 投稿）
+11、[OpenApi 接口代码生成器](https://github.com/otk-final/openapi-codegen)
+
+一个命令行工具，根据 OpenAPI （swagger）文档，生成各种编程语言的客户端接口代码。（[@otk-final](https://github.com/ruanyf/weekly/issues/6763) 投稿）
+
+12、[MyOCR](https://github.com/robbyzhaox/myocr)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050602.webp)
+
+一个基于 Python 的本地 OCR（文字识别）框架。（[@robbyzhao76](https://github.com/ruanyf/weekly/issues/6788) 投稿）
+
+13、[SimonAKing-HomePage](https://github.com/SimonAKing/HomePage)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050603.webp)
+
+一个使用 WebGL 流体动画的个人网站模版。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6790) 投稿）
+
+14、[酷监控](https://github.com/star7th/coolmonitor)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050604.webp)
+
+开源的监控（网站/接口/HTTPS 证书）控制台，支持 Docker 一键部署。（[@star7th](https://github.com/ruanyf/weekly/issues/6791) 投稿）
+
+15、[FindJSONPath](https://www.findjsonpath.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050701.webp)
+
+在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。（[@bingobray](https://github.com/ruanyf/weekly/issues/6796) 投稿）
+
+16、[拼字幕](https://quotemaker.cc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050805.webp)
+
+在线制作字幕拼图的工具，上传图片、填写文本即可。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6807) 投稿）
+
+17、[YouTube Playlist Processor](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042811.webp)
+
+这个工具用 AI 将 Youtube 播放列表转成一本电子书，参考这篇[介绍文章](https://www.xda-developers.com/turned-youtube-playlists-into-ebooks/)。
 
 
 ### 资源
 
 
-1、[Maple Mono](https://github.com/subframe7536/maple-font)
+1、[素材 SoSo](https://clipso.agilestudio.cn)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042808.webp)
 
-开源的等宽字体，支持中文。（[@subframe7536](https://github.com/ruanyf/weekly/issues/6306) 投稿）
+免版权的图片和视频素材搜索引擎，支持语义搜索。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/6757) 投稿）
 
-2、[上网2005](https://2005.wong2.me)
+2、[FeedMe](https://feedme.icu)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031909.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042807.webp)
 
-还原20年前的中文互联网。（[@wong2](https://github.com/ruanyf/weekly/issues/6316) 投稿）
+提供多个信息源最新内容的 AI 摘要，[代码开源](https://github.com/Seanium/FeedMe)。（[@Seanium](https://github.com/ruanyf/weekly/issues/6756) 投稿）
 
-3、[Bambot](https://github.com/timqian/bambot)
+3、[吉卜力电影的高清图](https://www.ghibli.jp/works/)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031910.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025043004.webp)
 
-网友开源的低成本（约2000元人民币）的人形机器人。（[@timqian](https://github.com/ruanyf/weekly/issues/6328) 投稿）
-
-4、[OpenAPK](https://www.openapk.net/)
-
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031006.webp)
-
-这个网站提供开源的安卓 App 下载。
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
 
 
 <!-- End -->

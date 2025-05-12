@@ -72,7 +72,7 @@ public class App {
                 return;
             }
             int currentPublishNumber = Integer.parseInt(currentPublishNumberString);
-//            int currentPublishNumber = 336;
+//            int currentPublishNumber = 347;
             // Get current handled number
             FileChannel thisReadmeChannel = thisReadme.getChannel();
             ByteBuffer thisReadmeBuffer = ByteBuffer.allocate((int) (thisReadme.length()));

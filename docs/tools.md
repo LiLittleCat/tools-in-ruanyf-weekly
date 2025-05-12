@@ -1,5 +1,407 @@
 # 工具
 
+## [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md#工具)
+
+
+1、[BongoCat](https://github.com/ayangweb/BongoCat)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042801.webp)
+
+一款开源的桌面宠物，支持 macOS、Windows 和 Linux。（[@ayangweb](https://github.com/ruanyf/weekly/issues/6735) 投稿）
+
+2、[Barcode Maker](https://barcode-maker.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042804.webp)
+
+开源的条形码和二维码生成网站。（[@LeonZeng919](https://github.com/ruanyf/weekly/issues/6748) 投稿）
+
+3、[Fread](https://github.com/0xZhangKe/Fread)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042806.webp)
+
+开源的“微博客”安卓客户端，同时支持 Mastodon、Bluesky、RSS 三种协议。（[@0xZhangKe](https://github.com/ruanyf/weekly/issues/6753) 投稿）
+
+4、[DeckTap](https://github.com/Rico00121/decktap)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050301.webp)
+
+局域网的演示遥控器，在电脑上运行它，手机连上电脑，就能无线遥控幻灯片演示。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6779) 投稿）
+
+5、[Input Source Pro](https://inputsource.pro/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050302.webp)
+
+Mac 电脑的开源小工具，方便切换输入法，可以指定不同应用/网站的默认输入法。（[@runjuu](https://github.com/ruanyf/weekly/issues/6780) 投稿）
+
+6、[QBin](https://github.com/quick-bin/qbin) 
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042805.webp)
+
+开源的在线文本编辑与分享服务，可以用作个人的文本、代码、图片、视频分享网站。（[@kfcx](https://github.com/ruanyf/weekly/issues/6749) 投稿）
+
+7、[EasyEditor](https://github.com/Easy-Editor/EasyEditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042803.webp)
+
+开源的低代码引擎，用于可视化搭建 Web 应用。（[@JinSooo](https://github.com/ruanyf/weekly/issues/6739) 投稿）
+
+8、[PakePlus](https://github.com/Sjj1024/PakePlus)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042810.webp)
+
+一款桌面应用，使用 Tauri2 将任意网站打包成桌面应用和手机应用。（[@Sjj1024](https://github.com/ruanyf/weekly/issues/6759) 投稿）
+
+9、[柠檬表单](https://github.com/bojue/lemon-form)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042802.webp)
+
+开源的表单问卷系统，类似于金数据和飞书问卷，自带管理后台。（[@bojue](https://github.com/ruanyf/weekly/issues/6738) 投稿）
+
+10、[MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
+
+一个安卓应用，通过播放 100Hz 声音来预防晕车，项目开源。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/6742) 投稿）
+
+11、[OpenApi 接口代码生成器](https://github.com/otk-final/openapi-codegen)
+
+一个命令行工具，根据 OpenAPI （swagger）文档，生成各种编程语言的客户端接口代码。（[@otk-final](https://github.com/ruanyf/weekly/issues/6763) 投稿）
+
+12、[MyOCR](https://github.com/robbyzhaox/myocr)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050602.webp)
+
+一个基于 Python 的本地 OCR（文字识别）框架。（[@robbyzhao76](https://github.com/ruanyf/weekly/issues/6788) 投稿）
+
+13、[SimonAKing-HomePage](https://github.com/SimonAKing/HomePage)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050603.webp)
+
+一个使用 WebGL 流体动画的个人网站模版。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6790) 投稿）
+
+14、[酷监控](https://github.com/star7th/coolmonitor)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050604.webp)
+
+开源的监控（网站/接口/HTTPS 证书）控制台，支持 Docker 一键部署。（[@star7th](https://github.com/ruanyf/weekly/issues/6791) 投稿）
+
+15、[FindJSONPath](https://www.findjsonpath.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050701.webp)
+
+在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。（[@bingobray](https://github.com/ruanyf/weekly/issues/6796) 投稿）
+
+16、[拼字幕](https://quotemaker.cc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050805.webp)
+
+在线制作字幕拼图的工具，上传图片、填写文本即可。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6807) 投稿）
+
+17、[YouTube Playlist Processor](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042811.webp)
+
+这个工具用 AI 将 Youtube 播放列表转成一本电子书，参考这篇[介绍文章](https://www.xda-developers.com/turned-youtube-playlists-into-ebooks/)。
+
+
+## [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md#工具)
+
+
+1、[Open Props UI](https://open-props-ui.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011605.webp)
+
+一个 CSS 组件库，使用最新的 CSS 规范，也就是说，不考虑兼容老旧浏览器。
+
+2、[ts-blank-space](https://github.com/bloomberg/ts-blank-space)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092811.webp)
+
+一个从 TypeScript 脚本剥离类型代码的工具，也就是将 TS 脚本转成 JS 脚本，但是不进行类型检查。
+
+3、[Better Auth](https://github.com/better-auth/better-auth)
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024092901.webp)
+
+一个 TypeScript 的用户身份认证库，功能全面，密码登录、双因素认证、外部身份提供商等都支持。
+
+4、[Browspilot](https://browspilot.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070505.webp)
+
+Chrome 浏览器插件，自动保存所有浏览过的网页，提供浏览历史的全文搜索。
+
+5、[to-unocss](https://to-unocss.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042401.webp)
+
+这个网页工具将 CSS 代码转成 unoCSS 或者 [TailwindCSS](https://to-tailwindcss.netlify.app/) 的写法。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/6726) 投稿）
+
+6、[NoteGen](https://github.com/codexu/note-gen)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042002.webp)
+
+跨平台的 Markdown 笔记软件，支持接入 AI 模型。（[@codexu](https://github.com/ruanyf/weekly/issues/6645) 投稿）
+
+7、[speed-github](https://github.com/jvxiao/speed-github)
+
+一个修改 hosts 文件，加快 GitHub 访问速度的 Python 脚本。（[@jvxiao](https://github.com/ruanyf/weekly/issues/6655) 投稿）
+
+这里还有一个 [Cursor](https://cursor-host.aolifu.org/) 的 hosts 文件生成器。（[@Oliverwqcwrw](https://github.com/ruanyf/weekly/issues/6718) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042308.webp)
+
+8、[旅游翻译器](https://besttraveltranslator.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042305.webp)
+
+网友做的旅行翻译网站，支持对话翻译和拍照翻译，[代码开源](https://github.com/traveltranslator1/traveltranslator1)。（[@traveltranslator1](https://github.com/ruanyf/weekly/issues/6719) 投稿）
+
+9、[Shui](https://github.com/rock-zhang/Shui)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042306.webp)
+
+开源的桌面软件，定时提醒喝水。（[@rock-zhang](https://github.com/ruanyf/weekly/issues/6704) 投稿）
+
+10、[SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042307.webp)
+
+基于 Vue + Vite 的网站管理后台模版。（[@WANG-Fan0912](https://github.com/ruanyf/weekly/issues/6705) 投稿）
+
+
+## [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md#工具)
+
+
+1、[yabs.sh](https://github.com/masonr/yet-another-bench-script)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082701.webp)
+
+一个用来测试服务器性能的 Bash 脚本，参考[这篇教程](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/)。
+
+2、[Pākiki Proxy](https://pakikiproxy.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023102801.webp)
+
+一个跨平台的桌面应用，用来拦截本机的 HTTPS 和 Websocket 通信，进行查看和编辑。
+
+3、[Giant Log Viewer](https://github.com/sunny-chung/giant-log-viewer)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041602.webp)
+
+一个跨平台的桌面软件，轻松打开和查看极大体积的文件（可以到 TB 级）。
+
+4、[OpenAPI DevTools](https://github.com/AndrewWalsh/openapi-devtools)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110209.webp)
+
+一个 Chrome 插件，可根据网络请求实时生成 OpenAPI 规范的 API 描述。
+
+5、[Online 3D Viewer](https://3dviewer.net)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110520.webp)
+
+一个开源的在线 3D 文件浏览器，支持多种文件格式。
+
+6、[Tirreno](https://github.com/TirrenoTechnologies/tirreno)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010213.webp)
+
+开源的访问者分析系统，基于 PHP。
+
+7、[EaseVoice Trainer](https://github.com/megaease/easevoice-trainer)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041102.webp)
+
+一个本地的声音克隆软件。（[@xxx7xxxx](https://github.com/ruanyf/weekly/issues/6569) 投稿）
+
+8、[Lexe](https://github.com/Ray-D-Song/lexe)
+
+Node.js 应用打包成单个可执行文件，基于轻量级 JS 运行时 LLRT，打包体积小。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/6597) 投稿）
+
+9、[Treex](https://github.com/shiquda/treex)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041504.webp)
+
+开源的命令行工具，用来输出目录的树状结构，有多种输出格式和过滤选项。（[@shiquda](https://github.com/ruanyf/weekly/issues/6591) 投稿）
+
+10、[py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041701.webp)
+
+一个使用 Python 实现的小智语音助手，支持语音交互、物联网设备控制、联网音乐播放等功能，无需专用硬件。（[@huangjunsen0406](https://github.com/ruanyf/weekly/issues/6643) 投稿）
+
+
+## [科技爱好者周刊（第 344 期）：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md#工具)
+
+
+1、[NixVis](https://github.com/BeyondXinXin/nixvis)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032917.webp)
+
+开源的轻量级 Nginx 日志分析工具，自带 Web UI，使用 Go 语言开发。（[@BeyondXinXin](https://github.com/ruanyf/weekly/issues/6414) 投稿）
+
+2、[throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py)
+
+一个 Python 库，用来对函数进行限流，提供各种限流算法。（[@ZhuoZhuoCrayon](https://github.com/ruanyf/weekly/issues/6429) 投稿）
+
+3、[pdf-craft](https://github.com/oomol-lab/pdf-craft)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025033103.webp)
+
+命令行 Python 工具，用来将扫描的 PDF 文件转为 Markdown 和 EPUB，并通过 AI 进行 OCR。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/6442) 投稿）
+
+4、[IOE](https://github.com/zhtyyx/ioe)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040103.webp)
+
+一个开源的库存管理系统，使用 Python 语言。（[@zhtyyx](https://github.com/ruanyf/weekly/issues/6445) 投稿）
+
+5、[DNS-Splitter](https://github.com/mycoco/DNS-Splitter)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040104.webp)
+
+一个浏览器插件，可以根据域名或 IP 地址，实现 DNS 分流。（[@mycoco](https://github.com/ruanyf/weekly/issues/6446) 投稿）
+
+6、[TransferFiles](https://github.com/CoderLim/transfer-files)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040701.webp)
+
+开源的浏览器点对点文件共享工具，无需安装软件和服务器，直接在设备间传输文件和文本消息。（[@CoderLim](https://github.com/ruanyf/weekly/issues/6477) 投稿）
+
+7、[Melody Canvas](https://github.com/RylanBot/melody-canvas)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040801.webp)
+
+一个开源网站，将音频可视化，可以导出视频。（[@RylanBot](https://github.com/ruanyf/weekly/issues/6535) 投稿）
+
+8、[EasyVoice](https://github.com/cosin2077/easyVoice)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040702.webp)
+
+开源的文本转语音工具，可以[在线体验](https://easyvoice.ioplus.tech/)。（[@cosin2077](https://github.com/ruanyf/weekly/issues/6524) 投稿）
+
+9、[QuickGo](https://github.com/Dolov/chrome-QuickGo)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040410.webp)
+
+很多网站会将外链导向一个中间页面，从那里跳转打开。这个开源的 Chrome 浏览器插件，可以省掉这个步骤，自动打开目标页面，支持自定义规则。（[@Dolov](https://github.com/ruanyf/weekly/issues/6465) 投稿）
+
+10、[wukong-minimap](https://github.com/jaskang/wukong-minimap)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040106.webp)
+
+游戏《黑神话：悟空》没有提供地图，这个开源工具在游戏的左上角加上实时地图。（[@jaskang](https://github.com/ruanyf/weekly/issues/6447) 投稿）
+
+11、[Subtitle Translator](https://github.com/rockbenben/subtitle-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040107.webp)
+
+一个开源的字幕翻译工具，提供多种翻译接口，可以[在线体验](https://tools.newzone.top/zh/subtitle-translator)。（[@rockbenben](https://github.com/ruanyf/weekly/issues/6450) 投稿）
+
+12、[Path Motion](https://github.com/YYsuni/path-motion)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040108.webp)
+
+SVG 的路径动画开发工具，可以[在线体验](https://path-motion.yysuni.com/canvas)。（[@YYsuni](https://github.com/ruanyf/weekly/issues/6451) 投稿）
+
+13、[Retypeset](https://github.com/radishzzz/astro-theme-retypeset)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040507.webp)
+
+读者投稿的一款简约的 Astro 博客主题。（[@radishzzz](https://github.com/ruanyf/weekly/issues/6470) 投稿）
+
+
+## [科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md#工具)
+
+
+1、[CSS FlexCode](https://github.com/xutao-o/css-flex-code)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032202.webp)
+
+开源的 VS Code 插件，通过图标生成 flex、grid 布局的 CSS 代码。（[@xutao-o](https://github.com/ruanyf/weekly/issues/6347) 投稿）
+
+2、[StreamCap](https://github.com/ihmily/StreamCap)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032703.webp)
+
+一个桌面应用（支持 Windows 和 Mac），基于 FFmpeg 进行直播录制，覆盖40+国内外主流直播平台。（[@ihmily](https://github.com/ruanyf/weekly/issues/6393) 投稿）
+
+3、[Bilibili History Analyzer](https://github.com/2977094657/BilibiliHistoryFetcher)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032301.webp)
+
+B 站历史观看记录管理工具，可以保存观看记录，支持视频下载、数据分析、AI 摘要等功能，采用 Python + SQLite 开发，分为前端和后端。（[@2977094657](https://github.com/ruanyf/weekly/issues/6366) 投稿）
+
+4、[GoRead](https://github.com/Ray-D-Song/goread)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032614.webp)
+
+一个用 Go 语言编写的终端里面的 EPUB 阅读器。（[@Ray-D-Song](https://github.com/ruanyf/weekly/issues/6369) 投稿）
+
+5、[GateShift](https://github.com/ourines/GateShift)
+
+一个 Go 语言写的命令行工具，用于一行命令切换网关，适合同时有 OpenWrt 路由和默认路由的环境。（[@ourines](https://github.com/ruanyf/weekly/issues/6353) 投稿）
+
+6、[Drawnix](https://github.com/plait-board/drawnix)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032616.webp)
+
+开源的在线白板工具，集成了思维导图、流程图、画笔。（[@pubuzhixing8](https://github.com/ruanyf/weekly/issues/6379) 投稿）
+
+7、[小米笔记的 Obsidian 插件](https://github.com/emac/obsidian-minote-plugin)
+
+它将小米云服务里面的小米笔记，转换为 Markdown 格式保存到 Obsidian 文件夹。（[@emac](https://github.com/ruanyf/weekly/issues/6355) 投稿）
+
+8、[wxlogin](https://github.com/liyaodev/wxlogin)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032615.webp)
+
+一个基于 Next.js 的开源应用，基于微信公众号的网站登录，用户通过公众号获取验证码，从而在网页端登录。（[@liyaodev](https://github.com/ruanyf/weekly/issues/6372) 投稿）
+
+9、[Docxy](https://github.com/harrisonwang/docxy)
+
+开源的 Docker Hub 镜像代理服务，可以通过它拉取容器镜像。（[@harrisonwang](https://github.com/ruanyf/weekly/issues/6395) 投稿）
+
+10、[Bondma](https://github.com/HeroIsUseless/bondma)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032618.webp)
+
+一个开源的多语言翻译管理平台，提供直观的 Web 界面。（[@HeroIsUseless](https://github.com/ruanyf/weekly/issues/6389) 投稿）
+
+11、[DeepPDF](https://deeppdf.ai/pdf-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032705.webp)
+
+免费的 PDF 文件翻译网站，比如英文 PDF 翻译成中文，保留排版不变。（[@icaohongyuan](https://github.com/ruanyf/weekly/issues/6398) 投稿）
+
+12、[RSSPod](https://rsspod.pro)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032706.webp)
+
+收听、订阅播客的网站。（[@Jaksay](https://github.com/ruanyf/weekly/issues/6399) 投稿）
+
+13、[Supa Simple Socket](https://github.com/JustinGastby/supa-simple-socket)
+
+网友投稿的 WebSocket 的 JS 客户端库，支持心跳机制、断点重连、事件订阅和文件传输。（[@JustinGastby](https://github.com/ruanyf/weekly/issues/6406) 投稿）
+
+14、[Inscribed.app](https://inscribed.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032707.webp)
+
+一款在线工具，基于幻灯片制作创意草图和动画。 （[@chunrapeepat](https://github.com/ruanyf/weekly/issues/6388) 投稿）
+
+15、[LinkAndroid](https://github.com/modstart-lib/linkandroid)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032709.webp)
+
+开源的手机连接助手，方便连接 Android 和电脑。（[@modstart](https://github.com/ruanyf/weekly/issues/6408) 投稿）
+
+16、[Teleprompter.today](https://www.teleprompter.today/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032711.webp)
+
+一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。（[@s87343472](https://github.com/ruanyf/weekly/issues/6412) 投稿）
+
+
 ## [科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md#工具)
 
 

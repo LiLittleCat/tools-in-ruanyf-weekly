@@ -1,5 +1,131 @@
 # 资源
 
+## [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md#资源)
+
+
+1、[素材 SoSo](https://clipso.agilestudio.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042808.webp)
+
+免版权的图片和视频素材搜索引擎，支持语义搜索。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/6757) 投稿）
+
+2、[FeedMe](https://feedme.icu)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042807.webp)
+
+提供多个信息源最新内容的 AI 摘要，[代码开源](https://github.com/Seanium/FeedMe)。（[@Seanium](https://github.com/ruanyf/weekly/issues/6756) 投稿）
+
+3、[吉卜力电影的高清图](https://www.ghibli.jp/works/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025043004.webp)
+
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+
+
+## [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](https://github.com/ruanyf/weekly/blob/master/docs/issue-346.md#资源)
+
+
+1、[全球地铁线路图](https://www.metrolinehub.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042309.webp)
+
+这个网站收集了全球各大城市的地铁地图。（[@027xiguapi](https://github.com/ruanyf/weekly/issues/6721) 投稿）
+
+2、[如是我闻](https://rushiwowen.co)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042004.webp)
+
+佛经阅读平台，带有 AI 翻译和问答。（[@bolechen](https://github.com/ruanyf/weekly/issues/6656) 投稿）
+
+3、[They see your photos](https://theyseeyourphotos.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121909.webp)
+
+该网站对用户上传的照片给出详尽描述，从而可以发现照片泄漏了多少信息。
+
+
+## [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](https://github.com/ruanyf/weekly/blob/master/docs/issue-345.md#资源)
+
+
+1、[Flight Track in 3D Earth](https://flight.is26.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041502.webp)
+
+在 3D 地球仪上，显示某个航班的飞行路线。（[@foru17](https://github.com/ruanyf/weekly/issues/6583) 投稿）
+
+2、[欧洲夜班火车地图](https://back-on-track.eu/night-train-map/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024110910.webp)
+
+这个网页的设计制作，让人过目难忘，可以借鉴。点击线路，会有详细信息的弹窗。
+
+1、[市场结构入门](https://primer.prooftrading.com/)（Market Structure Primer）
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025011805.webp)
+
+一本英文电子书，向新手介绍美国证券市场的结构，如果想参与美股，可以读读。
+
+
+## [科技爱好者周刊（第 344 期）：制造业正在“零工化”](https://github.com/ruanyf/weekly/blob/master/docs/issue-344.md#资源)
+
+
+1、[墨西哥配色](https://seis.pointlessprojects.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040301.webp)
+
+这个网站提供各种基于墨西哥街景的配色方案。
+
+2、[TV Garden](https://tv.garden)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040303.webp)
+
+这个网站提供世界各地的网上电视台。
+
+3、[404s](https://www.404s.design)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025041001.webp)
+
+这个网站收集各种 404 页面。
+
+
+## [科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫](https://github.com/ruanyf/weekly/blob/master/docs/issue-343.md#资源)
+
+
+1、[DNS 速度测试](https://dnsspeedtest.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032606.webp)
+
+这个网站测试从你的计算机到世界主要公共 DNS 服务器的速度。
+
+另有一个类似的命令行工具 [dnspy](https://github.com/xxnuo/dns-benchmark)。（[@xxnuo](https://github.com/ruanyf/weekly/issues/6368) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032613.webp)
+
+2、[Orbit](https://www.bbc.co.uk/orbitmusic)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032601.webp)
+
+该网站提供一种可视化的方式，发现你喜欢的新音乐。
+
+3、[Top Hacker News](https://www.tophn.co/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032617.webp)
+
+该网站展示“黑客新闻”实时的热门文章，有插图和内容总结。（[@heyppen](https://github.com/ruanyf/weekly/issues/6384) 投稿）
+
+4、[MusicMint](https://www.musicmint.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032204.webp)
+
+一个 AI 音乐网站。（[@250465043](https://github.com/ruanyf/weekly/issues/6361) 投稿）
+
+5、[旅行插头顾问](https://remit.ee/tools/check-plug-travel-adapter/)（Travel Plug Advisor）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032203.webp)
+
+该网站查询世界各地的插头类型和电压。（[@imowen](https://github.com/ruanyf/weekly/issues/6351) 投稿）
+
+
 ## [科技爱好者周刊（第 342 期）：面试的 AI 作弊——用数字人去面试](https://github.com/ruanyf/weekly/blob/master/docs/issue-342.md#资源)
 
 
