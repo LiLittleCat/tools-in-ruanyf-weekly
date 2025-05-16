@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md#资源)
+
+
+1、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051004.webp)
+
+一个音乐搜索引擎，输入 Spotify、YouTube、Apple、SoundCloud 的音乐链接，它会提供该音乐在其他网站的链接。
+
+2、[IPinfo Lite](https://ipinfo.io/lite)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050901.webp)
+
+地理位置数据库 IPinfo 推出的免费服务，IP 查询地理位置，无需信用卡，API 请求次数不受限制。
+
+1、[Web Component 教程](https://plainvanillaweb.com/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051504.webp)
+
+英文的 Web Component 入门教程。
+
+
 ## [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md#资源)
 
 

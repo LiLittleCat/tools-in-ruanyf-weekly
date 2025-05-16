@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md#工具)
+
+
+1、[Void](https://github.com/voideditor/void)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050902.webp)
+
+开源的 AI 代码编辑器，Cursor 的替代品，基于 VS Code。
+
+2、[Hyvector](https://www.hyvector.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051001.webp)
+
+在线的矢量图（SVG 文件）编辑工具。
+
+3、[Karakeep](https://github.com/karakeep-app/karakeep)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051005.webp)
+
+一个自搭建的书签 App，提供全文搜索和 AI 自动分类标签，参见[介绍文章](https://www.xda-developers.com/this-self-hosted-app-showed-me-been-using-bookmarks-wrong-all-life/)。
+
+4、[PairDrop](https://pairdrop.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051006.webp)
+
+局域网传输文件的 Web 应用，[代码开源](https://github.com/schlagmichdoch/PairDrop)，类似于 [ShareDrop](https://github.com/szimek/sharedrop) 和 [LocalSend](https://localsend.org/zh-CN)。
+
+5、[zVault](https://www.zvault.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051505.webp)
+
+NAS 操作系统 TrueNAS 原本基于 FreeBSD，正在转向 Linux。zVault 是一个社区的分支，由社区推动继续在 FreeBSD 开发。
+
+6、[YAMLResume](https://github.com/yamlresume/yamlresume)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051205.webp)
+
+使用 YAML 格式创建简历，并通过 LaTeX 输出 PDF，方便进行版本管理。（[@xiaohanyu](https://github.com/ruanyf/weekly/issues/6837) 投稿）
+
+7、[AllinSSL](https://github.com/allinssl/allinssl)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051302.webp)
+
+开源的 SSL 证书自动化管理平台，集证书申请、管理、部署和监控于一体。（[@KincaidYang](https://github.com/ruanyf/weekly/issues/6842) 投稿） 
+
+8、[Basecoat](https://basecoatui.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051404.webp)
+
+一套基于 Shadcn UI 的组件库，但是不使用 React。
+
+9、[Scraperr](https://github.com/jaypyles/Scraperr)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051503.webp)
+
+网络爬虫的 Web 控制台。
+
+
 ## [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md#工具)
 
 

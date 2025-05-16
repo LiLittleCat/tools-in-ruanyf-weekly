@@ -16,131 +16,123 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>347</currentVersion> -->
+<!-- <currentVersion>348</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 347 期）：冷启动的破解之道](https://github.com/ruanyf/weekly/blob/master/docs/issue-347.md)
+# [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md)
 ### 工具
 
 
-1、[BongoCat](https://github.com/ayangweb/BongoCat)
+1、[Void](https://github.com/voideditor/void)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050902.webp)
 
-一款开源的桌面宠物，支持 macOS、Windows 和 Linux。（[@ayangweb](https://github.com/ruanyf/weekly/issues/6735) 投稿）
+开源的 AI 代码编辑器，Cursor 的替代品，基于 VS Code。
 
-2、[Barcode Maker](https://barcode-maker.com/zh)
+2、[Hyvector](https://www.hyvector.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051001.webp)
 
-开源的条形码和二维码生成网站。（[@LeonZeng919](https://github.com/ruanyf/weekly/issues/6748) 投稿）
+在线的矢量图（SVG 文件）编辑工具。
 
-3、[Fread](https://github.com/0xZhangKe/Fread)
+3、[Karakeep](https://github.com/karakeep-app/karakeep)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051005.webp)
 
-开源的“微博客”安卓客户端，同时支持 Mastodon、Bluesky、RSS 三种协议。（[@0xZhangKe](https://github.com/ruanyf/weekly/issues/6753) 投稿）
+一个自搭建的书签 App，提供全文搜索和 AI 自动分类标签，参见[介绍文章](https://www.xda-developers.com/this-self-hosted-app-showed-me-been-using-bookmarks-wrong-all-life/)。
 
-4、[DeckTap](https://github.com/Rico00121/decktap)
+4、[PairDrop](https://pairdrop.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051006.webp)
 
-局域网的演示遥控器，在电脑上运行它，手机连上电脑，就能无线遥控幻灯片演示。（[@Rico00121](https://github.com/ruanyf/weekly/issues/6779) 投稿）
+局域网传输文件的 Web 应用，[代码开源](https://github.com/schlagmichdoch/PairDrop)，类似于 [ShareDrop](https://github.com/szimek/sharedrop) 和 [LocalSend](https://localsend.org/zh-CN)。
 
-5、[Input Source Pro](https://inputsource.pro/zh-CN)
+5、[zVault](https://www.zvault.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051505.webp)
 
-Mac 电脑的开源小工具，方便切换输入法，可以指定不同应用/网站的默认输入法。（[@runjuu](https://github.com/ruanyf/weekly/issues/6780) 投稿）
+NAS 操作系统 TrueNAS 原本基于 FreeBSD，正在转向 Linux。zVault 是一个社区的分支，由社区推动继续在 FreeBSD 开发。
 
-6、[QBin](https://github.com/quick-bin/qbin) 
+6、[YAMLResume](https://github.com/yamlresume/yamlresume)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051205.webp)
 
-开源的在线文本编辑与分享服务，可以用作个人的文本、代码、图片、视频分享网站。（[@kfcx](https://github.com/ruanyf/weekly/issues/6749) 投稿）
+使用 YAML 格式创建简历，并通过 LaTeX 输出 PDF，方便进行版本管理。（[@xiaohanyu](https://github.com/ruanyf/weekly/issues/6837) 投稿）
 
-7、[EasyEditor](https://github.com/Easy-Editor/EasyEditor)
+7、[AllinSSL](https://github.com/allinssl/allinssl)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051302.webp)
 
-开源的低代码引擎，用于可视化搭建 Web 应用。（[@JinSooo](https://github.com/ruanyf/weekly/issues/6739) 投稿）
+开源的 SSL 证书自动化管理平台，集证书申请、管理、部署和监控于一体。（[@KincaidYang](https://github.com/ruanyf/weekly/issues/6842) 投稿） 
 
-8、[PakePlus](https://github.com/Sjj1024/PakePlus)
+8、[Basecoat](https://basecoatui.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042810.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051404.webp)
 
-一款桌面应用，使用 Tauri2 将任意网站打包成桌面应用和手机应用。（[@Sjj1024](https://github.com/ruanyf/weekly/issues/6759) 投稿）
+一套基于 Shadcn UI 的组件库，但是不使用 React。
 
-9、[柠檬表单](https://github.com/bojue/lemon-form)
+9、[Scraperr](https://github.com/jaypyles/Scraperr)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051503.webp)
 
-开源的表单问卷系统，类似于金数据和飞书问卷，自带管理后台。（[@bojue](https://github.com/ruanyf/weekly/issues/6738) 投稿）
-
-10、[MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
-
-一个安卓应用，通过播放 100Hz 声音来预防晕车，项目开源。（[@BHznJNs](https://github.com/ruanyf/weekly/issues/6742) 投稿）
-
-11、[OpenApi 接口代码生成器](https://github.com/otk-final/openapi-codegen)
-
-一个命令行工具，根据 OpenAPI （swagger）文档，生成各种编程语言的客户端接口代码。（[@otk-final](https://github.com/ruanyf/weekly/issues/6763) 投稿）
-
-12、[MyOCR](https://github.com/robbyzhaox/myocr)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050602.webp)
-
-一个基于 Python 的本地 OCR（文字识别）框架。（[@robbyzhao76](https://github.com/ruanyf/weekly/issues/6788) 投稿）
-
-13、[SimonAKing-HomePage](https://github.com/SimonAKing/HomePage)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050603.webp)
-
-一个使用 WebGL 流体动画的个人网站模版。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6790) 投稿）
-
-14、[酷监控](https://github.com/star7th/coolmonitor)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050604.webp)
-
-开源的监控（网站/接口/HTTPS 证书）控制台，支持 Docker 一键部署。（[@star7th](https://github.com/ruanyf/weekly/issues/6791) 投稿）
-
-15、[FindJSONPath](https://www.findjsonpath.com/zh)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050701.webp)
-
-在线的 JSON 工具箱，可以生成 mock 的 JSON 数据，以及可视化选中某个路径。（[@bingobray](https://github.com/ruanyf/weekly/issues/6796) 投稿）
-
-16、[拼字幕](https://quotemaker.cc/)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050805.webp)
-
-在线制作字幕拼图的工具，上传图片、填写文本即可。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6807) 投稿）
-
-17、[YouTube Playlist Processor](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text)
-
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042811.webp)
-
-这个工具用 AI 将 Youtube 播放列表转成一本电子书，参考这篇[介绍文章](https://www.xda-developers.com/turned-youtube-playlists-into-ebooks/)。
+网络爬虫的 Web 控制台。
 
 
 ### 资源
 
 
-1、[素材 SoSo](https://clipso.agilestudio.cn)
+1、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042808.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051004.webp)
 
-免版权的图片和视频素材搜索引擎，支持语义搜索。（[@YeDaxia](https://github.com/ruanyf/weekly/issues/6757) 投稿）
+一个音乐搜索引擎，输入 Spotify、YouTube、Apple、SoundCloud 的音乐链接，它会提供该音乐在其他网站的链接。
 
-2、[FeedMe](https://feedme.icu)
+2、[IPinfo Lite](https://ipinfo.io/lite)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050901.webp)
 
-提供多个信息源最新内容的 AI 摘要，[代码开源](https://github.com/Seanium/FeedMe)。（[@Seanium](https://github.com/ruanyf/weekly/issues/6756) 投稿）
+地理位置数据库 IPinfo 推出的免费服务，IP 查询地理位置，无需信用卡，API 请求次数不受限制。
 
-3、[吉卜力电影的高清图](https://www.ghibli.jp/works/)
+1、[Web Component 教程](https://plainvanillaweb.com/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025043004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051504.webp)
 
-吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+英文的 Web Component 入门教程。
+
+
+### 言论
+
+
+1、
+
+科学项目日益大型化和制度化，使得个人的好奇心和创新，对于科学的推动正在减弱。科学的进步越来越依靠有效的组织和大量的投入。
+
+-- [《思想家和实干家》](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
+
+2、
+
+除非你参与过历史遗留项目，否则你不能自称高级工程师。
+
+-- [infobip.com](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
+
+3、
+
+是什么让硅谷的公司如此强大？
+
+不仅仅是它们数十亿美元的资金或数十亿用户，也不仅仅是因为它们拥有惊人计算能力和数据储备，让学术实验室的资源相形见绌。它们之所以强大，是因为成千上万个才华横溢的人在同一个屋檐下共同努力。
+
+-- 《李飞飞自传》
+
+4、
+
+以前的小团队是1名高级开发人员 + 5名初级开发人员，以后是1名高级开发人员 + AI 大模型。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=43955519)
+
+5、
+
+我打赌，以后的工程师必须深入底层，更接近硅片的层面。开发应用程序将不再需要精通技术的人，AI 让每个人都可以开发自己的应用程序。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=43965599)
 
 
 <!-- End -->
