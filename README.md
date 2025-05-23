@@ -16,87 +16,87 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>348</currentVersion> -->
+<!-- <currentVersion>349</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md)
+# [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md)
 ### 工具
 
 
-1、[Void](https://github.com/voideditor/void)
+1、[Pyrefly](https://github.com/facebook/pyrefly/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051801.webp)
 
-开源的 AI 代码编辑器，Cursor 的替代品，基于 VS Code。
+Meta 公司发布的 Python 代码的类型检查器，参见[介绍文章](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)。
 
-2、[Hyvector](https://www.hyvector.com/)
+2、[Zen Browser](https://github.com/zen-browser/desktop)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052202.webp)
 
-在线的矢量图（SVG 文件）编辑工具。
+新发布的一个开源浏览器，基于 Firefox，国外评价非常高，使用体验好，参见[介绍文章](https://www.xda-developers.com/zen-browser-better-brave-arc-chrome/)。
 
-3、[Karakeep](https://github.com/karakeep-app/karakeep)
+3、[xtool](https://github.com/xtool-org/xtool)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051701.webp)
 
-一个自搭建的书签 App，提供全文搜索和 AI 自动分类标签，参见[介绍文章](https://www.xda-developers.com/this-self-hosted-app-showed-me-been-using-bookmarks-wrong-all-life/)。
+Xcode 的替代品，在 Linux/Win/macOS 开发 iOS 应用。
 
-4、[PairDrop](https://pairdrop.net/)
+4、[Zero Convert](https://nextbconvert.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051703.webp)
 
-局域网传输文件的 Web 应用，[代码开源](https://github.com/schlagmichdoch/PairDrop)，类似于 [ShareDrop](https://github.com/szimek/sharedrop) 和 [LocalSend](https://localsend.org/zh-CN)。
+在线批量转换文件，基于 WebAssembly 技术，完全本地完成，还可以编辑图片。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6864) 投稿）
 
-5、[zVault](https://www.zvault.io/)
+5、[耗子面板](https://github.com/tnb-labs/panel)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051505.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051804.webp)
 
-NAS 操作系统 TrueNAS 原本基于 FreeBSD，正在转向 Linux。zVault 是一个社区的分支，由社区推动继续在 FreeBSD 开发。
+Go 语言开发的服务器管理面板。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6881) 投稿）
 
-6、[YAMLResume](https://github.com/yamlresume/yamlresume)
+6、[Goravel](https://github.com/goravel/goravel)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051805.webp)
 
-使用 YAML 格式创建简历，并通过 LaTeX 输出 PDF，方便进行版本管理。（[@xiaohanyu](https://github.com/ruanyf/weekly/issues/6837) 投稿）
+Go 语言的 Web 开发框架，与 PHP 的 Laravel 框架保持一致，方便快速上手。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6882) 投稿）
 
-7、[AllinSSL](https://github.com/allinssl/allinssl)
+7、[OpenSpeedy](https://github.com/game1024/OpenSpeedy)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051302.webp)
+开源的游戏变速工具，通过调整 Windows 系统时间函数来实现游戏速度变化。（[@game1024](https://github.com/ruanyf/weekly/issues/6884) 投稿）
 
-开源的 SSL 证书自动化管理平台，集证书申请、管理、部署和监控于一体。（[@KincaidYang](https://github.com/ruanyf/weekly/issues/6842) 投稿） 
+8、[SimonAKing-Gallery](https://github.com/SimonAKing/AnimatedGallery)
 
-8、[Basecoat](https://basecoatui.com/)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051404.webp)
+后端的 JS 相册应用，瀑布流展示图片，指定图片目录，直接运行即可。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6886) 投稿）
 
-一套基于 Shadcn UI 的组件库，但是不使用 React。
+9、[Jwno](https://github.com/agent-kilo/jwno)
 
-9、[Scraperr](https://github.com/jaypyles/Scraperr)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051503.webp)
+网友开源的 Windows 10/11 平铺窗口管理器，键盘驱动。（[@agent-kilo](https://github.com/ruanyf/weekly/issues/6891) 投稿）
 
-网络爬虫的 Web 控制台。
+10、[星河小程序](https://github.com/didi/dimina)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052204.webp)
+
+滴滴公司开源的跨平台开发框架，支持将小程序打包成为安卓、iOS、鸿蒙和 Web 四个平台的原生 App。（[@dos1in](https://github.com/ruanyf/weekly/issues/6912) 投稿）
 
 
 ### 资源
 
 
-1、[I Don't Have Spotify](https://idonthavespotify.donado.co/)
+1、[万物博物馆](https://mayeclair.itch.io/museum-of-all-things)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051004.webp)
+一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
 
-一个音乐搜索引擎，输入 Spotify、YouTube、Apple、SoundCloud 的音乐链接，它会提供该音乐在其他网站的链接。
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031008.webp)
 
-2、[IPinfo Lite](https://ipinfo.io/lite)
+每件展品与维基百科的一篇文章相对应，墙上的画框就是文章图片，讲解牌就是文章内容。
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031009.webp)
 
-地理位置数据库 IPinfo 推出的免费服务，IP 查询地理位置，无需信用卡，API 请求次数不受限制。
+走廊则根据文章的链接通向其他展厅，有几乎无限的展厅可以参观。
 
-1、[Web Component 教程](https://plainvanillaweb.com/index.html)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051504.webp)
-
-英文的 Web Component 入门教程。
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031010.webp)
 
 
 ### 言论
@@ -104,35 +104,37 @@ NAS 操作系统 TrueNAS 原本基于 FreeBSD，正在转向 Linux。zVault 是�
 
 1、
 
-科学项目日益大型化和制度化，使得个人的好奇心和创新，对于科学的推动正在减弱。科学的进步越来越依靠有效的组织和大量的投入。
+我们很快会跟大家分享一个低调的研究成果。我们会给它起一个比 chatGPT 更好的名字，以防它流行起来。
 
--- [《思想家和实干家》](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
+-- [Sam Altman](https://x.com/sama/status/1923104596622246252)，OpenAI 的 CEO
 
 2、
 
-除非你参与过历史遗留项目，否则你不能自称高级工程师。
+加尔定律经常被引用：“一个有效的复杂系统，总是从一个有效的简单系统进化而来。”
 
--- [infobip.com](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
+但是，它的推论很少被引用：“一个从零开始设计的复杂系统永远不会有效，你必须从一个可以运行的简单系统开始。”
+
+-- [Stack Staves](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
 
 3、
 
-是什么让硅谷的公司如此强大？
+宇宙有两种可能：要么我们是孤独的，要么我们并不孤独。这两种可能性都同样令人恐惧。
 
-不仅仅是它们数十亿美元的资金或数十亿用户，也不仅仅是因为它们拥有惊人计算能力和数据储备，让学术实验室的资源相形见绌。它们之所以强大，是因为成千上万个才华横溢的人在同一个屋檐下共同努力。
-
--- 《李飞飞自传》
+-- [阿瑟·克拉克](https://www.planetary.org/articles/the-fermi-paradox-where-are-all-the-aliens)，英国著名科幻小说家
 
 4、
 
-以前的小团队是1名高级开发人员 + 5名初级开发人员，以后是1名高级开发人员 + AI 大模型。
+太阳绕银河系公转一圈需要2.3亿年，上一圈的时候，地球的主宰还是恐龙。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=43955519)
+-- [Reddit 网友](https://www.reddit.com/r/Paleontology/comments/18wqvba/it_takes_the_sun_230_million_years_to_orbit_once/)
 
 5、
 
-我打赌，以后的工程师必须深入底层，更接近硅片的层面。开发应用程序将不再需要精通技术的人，AI 让每个人都可以开发自己的应用程序。
+我关注了一些教育工作者，他们都报告了同样的现象：他们的学生什么事情都用 ChatGPT，结果什么也没学到。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=43965599)
+最终可能会出现这样一代人，自己的智力很低下，完全依赖于他们不理解的技术，一旦技术崩溃，他们永远无法从头开始重建。
+
+-- [尼尔·斯蒂芬森](https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything)（Neal Stephenson），美国科幻小说家，“元宇宙”一词的创造者
 
 
 <!-- End -->

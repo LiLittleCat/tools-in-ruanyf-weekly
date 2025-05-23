@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md#工具)
+
+
+1、[Pyrefly](https://github.com/facebook/pyrefly/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051801.webp)
+
+Meta 公司发布的 Python 代码的类型检查器，参见[介绍文章](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)。
+
+2、[Zen Browser](https://github.com/zen-browser/desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052202.webp)
+
+新发布的一个开源浏览器，基于 Firefox，国外评价非常高，使用体验好，参见[介绍文章](https://www.xda-developers.com/zen-browser-better-brave-arc-chrome/)。
+
+3、[xtool](https://github.com/xtool-org/xtool)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051701.webp)
+
+Xcode 的替代品，在 Linux/Win/macOS 开发 iOS 应用。
+
+4、[Zero Convert](https://nextbconvert.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051703.webp)
+
+在线批量转换文件，基于 WebAssembly 技术，完全本地完成，还可以编辑图片。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6864) 投稿）
+
+5、[耗子面板](https://github.com/tnb-labs/panel)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051804.webp)
+
+Go 语言开发的服务器管理面板。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6881) 投稿）
+
+6、[Goravel](https://github.com/goravel/goravel)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051805.webp)
+
+Go 语言的 Web 开发框架，与 PHP 的 Laravel 框架保持一致，方便快速上手。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6882) 投稿）
+
+7、[OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+
+开源的游戏变速工具，通过调整 Windows 系统时间函数来实现游戏速度变化。（[@game1024](https://github.com/ruanyf/weekly/issues/6884) 投稿）
+
+8、[SimonAKing-Gallery](https://github.com/SimonAKing/AnimatedGallery)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051901.webp)
+
+后端的 JS 相册应用，瀑布流展示图片，指定图片目录，直接运行即可。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6886) 投稿）
+
+9、[Jwno](https://github.com/agent-kilo/jwno)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052101.webp)
+
+网友开源的 Windows 10/11 平铺窗口管理器，键盘驱动。（[@agent-kilo](https://github.com/ruanyf/weekly/issues/6891) 投稿）
+
+10、[星河小程序](https://github.com/didi/dimina)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052204.webp)
+
+滴滴公司开源的跨平台开发框架，支持将小程序打包成为安卓、iOS、鸿蒙和 Web 四个平台的原生 App。（[@dos1in](https://github.com/ruanyf/weekly/issues/6912) 投稿）
+
+
 ## [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md#工具)
 
 

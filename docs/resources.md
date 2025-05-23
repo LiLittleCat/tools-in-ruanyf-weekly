@@ -1,5 +1,23 @@
 # 资源
 
+## [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md#资源)
+
+
+1、[万物博物馆](https://mayeclair.itch.io/museum-of-all-things)
+
+一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031008.webp)
+
+每件展品与维基百科的一篇文章相对应，墙上的画框就是文章图片，讲解牌就是文章内容。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031009.webp)
+
+走廊则根据文章的链接通向其他展厅，有几乎无限的展厅可以参观。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031010.webp)
+
+
 ## [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](https://github.com/ruanyf/weekly/blob/master/docs/issue-348.md#资源)
 
 
