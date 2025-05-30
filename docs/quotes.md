@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#言论)
+
+
+1、
+
+我从来不喜欢内容收费，我的所有写作和研究成果都免费发布，这带给我巨大的价值。
+
+现在，我想尝试一种不一样的订阅：你付钱给我，我会少给你发送一些东西。
+
+我会推出一份仅限赞助者的月度邮件，里面都是我精心选择的重点内容，你就不用每天看我的大量更新了。
+
+-- [Simon Willison](https://simonwillison.net/2025/May/25/sponsors-only-newsletter/)，著名开发者
+
+2、
+
+AI 是比真人更好的老师，但是以后的学校还会需要真人老师，他们的主要职责是看管孩子。
+
+-- [路易斯·冯·安](https://fortune.com/2025/05/20/duolingo-ai-teacher-schools-childcare/) (Luis von Ahn) ，Duolingo 的首席执行官
+
+3、
+
+把 AI 当作工具，而不是拐杖，那些2019年时被认为有价值的基础工程技能，值得你继续投资。
+
+-- [《不要让 AI 加速我们的无能》](https://www.slater.dev/accelerated-incompetence/)
+
+4、
+
+最有害的建议之一就是不要重新发明轮子。
+
+这种建议会导致一种抑制好奇心和探索的氛围。现代生活的很多重要发明，都来自那些不听从这个建议的人们。
+
+重新发明轮子就是一种学习，并且学习过程中，你可能会做出更好的版本。
+
+-- [《重新发明轮子》](https://endler.dev/2025/reinvent-the-wheel/)
+
+
 ## [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md#言论)
 
 

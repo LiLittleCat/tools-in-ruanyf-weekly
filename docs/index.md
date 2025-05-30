@@ -16,87 +16,87 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>349</currentVersion> -->
+<!-- <currentVersion>350</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md)
+# [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md)
 ### 工具
 
 
-1、[Pyrefly](https://github.com/facebook/pyrefly/)
+1、[Defuddle](https://github.com/kepano/defuddle)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052401.webp)
 
-Meta 公司发布的 Python 代码的类型检查器，参见[介绍文章](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)。
+一个 JS 库，从 HTML 网页代码提取内容，转成文本。
 
-2、[Zen Browser](https://github.com/zen-browser/desktop)
+2、[DockFlare](https://github.com/ChrispyBacon-dev/DockFlare)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052202.webp)
+Cloudflare Tunnel 的开源管理工具。
 
-新发布的一个开源浏览器，基于 Firefox，国外评价非常高，使用体验好，参见[介绍文章](https://www.xda-developers.com/zen-browser-better-brave-arc-chrome/)。
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052403.webp)
 
-3、[xtool](https://github.com/xtool-org/xtool)
+如果内网有多个 Docker 容器，通过 Cloudflare Tunnel 向外网开放，DockFlare 可以对它们进行统一管理，参见[介绍文章](https://www.xda-developers.com/cloudflare-tunnels-easier-to-manage-free-open-source-self-hosted-tool/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051701.webp)
+3、[f2](https://github.com/ayoisaiah/f2)
 
-Xcode 的替代品，在 Linux/Win/macOS 开发 iOS 应用。
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052521.webp)
 
-4、[Zero Convert](https://nextbconvert.com/)
+一个命令行的文件批量改名工具，功能较强，参见[介绍文章](https://simonwillison.net/2025/May/24/f2/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051703.webp)
+4、[TypeID](https://github.com/jetify-com/typeid)
 
-在线批量转换文件，基于 WebAssembly 技术，完全本地完成，还可以编辑图片。（[@xiaoshangmin](https://github.com/ruanyf/weekly/issues/6864) 投稿）
+唯一身份识别码 UUIDv7 的改进版，加上了类型前缀。
 
-5、[耗子面板](https://github.com/tnb-labs/panel)
+5、[Starlight](https://starlight.astro.build/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052802.webp)
 
-Go 语言开发的服务器管理面板。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6881) 投稿）
+基于 Astro 框架的文档网站生成工具。
 
-6、[Goravel](https://github.com/goravel/goravel)
+6、[ntfy.sh](https://github.com/binwiederhier/ntfy)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052601.webp)
 
-Go 语言的 Web 开发框架，与 PHP 的 Laravel 框架保持一致，方便快速上手。（[@devhaozi](https://github.com/ruanyf/weekly/issues/6882) 投稿）
+消息推送工具，向手机和桌面电脑推送消息，可以自搭建，也可以使用官方服务器，参见[介绍文章](https://www.xda-developers.com/set-up-self-hosted-notification-service/)。
 
-7、[OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+7、[BillionMail](https://github.com/aaPanel/BillionMail)
 
-开源的游戏变速工具，通过调整 Windows 系统时间函数来实现游戏速度变化。（[@game1024](https://github.com/ruanyf/weekly/issues/6884) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052405.webp)
 
-8、[SimonAKing-Gallery](https://github.com/SimonAKing/AnimatedGallery)
+开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。（[@aaPanel](https://github.com/ruanyf/weekly/issues/6917) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051901.webp)
+8、[Lynx Proxy](https://github.com/suxin2017/lynx-server)
 
-后端的 JS 相册应用，瀑布流展示图片，指定图片目录，直接运行即可。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6886) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052407.webp)
 
-9、[Jwno](https://github.com/agent-kilo/jwno)
+开源服务器，代理 HTTP/HTTPS 和 WebSocket 流量，内置 Web 管理界面。（[@suxin2017](https://github.com/ruanyf/weekly/issues/6924) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052101.webp)
+9、[Text to SVG](https://github.com/JiuRanYa/text-to-svg)
 
-网友开源的 Windows 10/11 平铺窗口管理器，键盘驱动。（[@agent-kilo](https://github.com/ruanyf/weekly/issues/6891) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052605.webp)
 
-10、[星河小程序](https://github.com/didi/dimina)
+字体转 SVG 的工具网站，可以用来制作文字 Logo。（[@JiuRanYa](https://github.com/ruanyf/weekly/issues/6933) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052204.webp)
+10、[DualPiP](https://chromewebstore.google.com/detail/dualpip-%E2%80%93-bilingual-subti/ddkmobcljbfggkmibabekgpbighaogpn)
 
-滴滴公司开源的跨平台开发框架，支持将小程序打包成为安卓、iOS、鸿蒙和 Web 四个平台的原生 App。（[@dos1in](https://github.com/ruanyf/weekly/issues/6912) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052901.webp)
+
+Chrome 插件，提供增强版的画中画播放器，支持主流视频网站一键弹出。（[@ymlluo](https://github.com/ruanyf/weekly/issues/6952) 投稿）
 
 
 ### 资源
 
 
-1、[万物博物馆](https://mayeclair.itch.io/museum-of-all-things)
+1、[周刊 AI 总结器](https://blog.ronething.cn/ruanyf-weekly-insights/)
 
-一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031008.webp)
+AI 提炼的每一期周刊重点内容，[代码开源](https://github.com/ronething/ruanyf-weekly-insights)。（[@ronething](https://github.com/ruanyf/weekly/issues/6950) 投稿）
 
-每件展品与维基百科的一篇文章相对应，墙上的画框就是文章图片，讲解牌就是文章内容。
+2、[日本語文章解析器](https://github.com/cokice/japanese-analyzer)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031009.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052604.webp)
 
-走廊则根据文章的链接通向其他展厅，有几乎无限的展厅可以参观。
-
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031010.webp)
+日语句子分析的网站。（[@cokice](https://github.com/ruanyf/weekly/issues/6932) 投稿）
 
 
 ### 言论
@@ -104,37 +104,35 @@ Go 语言的 Web 开发框架，与 PHP 的 Laravel 框架保持一致，方便�
 
 1、
 
-我们很快会跟大家分享一个低调的研究成果。我们会给它起一个比 chatGPT 更好的名字，以防它流行起来。
+我从来不喜欢内容收费，我的所有写作和研究成果都免费发布，这带给我巨大的价值。
 
--- [Sam Altman](https://x.com/sama/status/1923104596622246252)，OpenAI 的 CEO
+现在，我想尝试一种不一样的订阅：你付钱给我，我会少给你发送一些东西。
+
+我会推出一份仅限赞助者的月度邮件，里面都是我精心选择的重点内容，你就不用每天看我的大量更新了。
+
+-- [Simon Willison](https://simonwillison.net/2025/May/25/sponsors-only-newsletter/)，著名开发者
 
 2、
 
-加尔定律经常被引用：“一个有效的复杂系统，总是从一个有效的简单系统进化而来。”
+AI 是比真人更好的老师，但是以后的学校还会需要真人老师，他们的主要职责是看管孩子。
 
-但是，它的推论很少被引用：“一个从零开始设计的复杂系统永远不会有效，你必须从一个可以运行的简单系统开始。”
-
--- [Stack Staves](https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/)
+-- [路易斯·冯·安](https://fortune.com/2025/05/20/duolingo-ai-teacher-schools-childcare/) (Luis von Ahn) ，Duolingo 的首席执行官
 
 3、
 
-宇宙有两种可能：要么我们是孤独的，要么我们并不孤独。这两种可能性都同样令人恐惧。
+把 AI 当作工具，而不是拐杖，那些2019年时被认为有价值的基础工程技能，值得你继续投资。
 
--- [阿瑟·克拉克](https://www.planetary.org/articles/the-fermi-paradox-where-are-all-the-aliens)，英国著名科幻小说家
+-- [《不要让 AI 加速我们的无能》](https://www.slater.dev/accelerated-incompetence/)
 
 4、
 
-太阳绕银河系公转一圈需要2.3亿年，上一圈的时候，地球的主宰还是恐龙。
+最有害的建议之一就是不要重新发明轮子。
 
--- [Reddit 网友](https://www.reddit.com/r/Paleontology/comments/18wqvba/it_takes_the_sun_230_million_years_to_orbit_once/)
+这种建议会导致一种抑制好奇心和探索的氛围。现代生活的很多重要发明，都来自那些不听从这个建议的人们。
 
-5、
+重新发明轮子就是一种学习，并且学习过程中，你可能会做出更好的版本。
 
-我关注了一些教育工作者，他们都报告了同样的现象：他们的学生什么事情都用 ChatGPT，结果什么也没学到。
-
-最终可能会出现这样一代人，自己的智力很低下，完全依赖于他们不理解的技术，一旦技术崩溃，他们永远无法从头开始重建。
-
--- [尼尔·斯蒂芬森](https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything)（Neal Stephenson），美国科幻小说家，“元宇宙”一词的创造者
+-- [《重新发明轮子》](https://endler.dev/2025/reinvent-the-wheel/)
 
 
 <!-- End -->

@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#资源)
+
+
+1、[周刊 AI 总结器](https://blog.ronething.cn/ruanyf-weekly-insights/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052903.webp)
+
+AI 提炼的每一期周刊重点内容，[代码开源](https://github.com/ronething/ruanyf-weekly-insights)。（[@ronething](https://github.com/ruanyf/weekly/issues/6950) 投稿）
+
+2、[日本語文章解析器](https://github.com/cokice/japanese-analyzer)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052604.webp)
+
+日语句子分析的网站。（[@cokice](https://github.com/ruanyf/weekly/issues/6932) 投稿）
+
+
 ## [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md#资源)
 
 

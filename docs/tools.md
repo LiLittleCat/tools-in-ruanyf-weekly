@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#工具)
+
+
+1、[Defuddle](https://github.com/kepano/defuddle)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052401.webp)
+
+一个 JS 库，从 HTML 网页代码提取内容，转成文本。
+
+2、[DockFlare](https://github.com/ChrispyBacon-dev/DockFlare)
+
+Cloudflare Tunnel 的开源管理工具。
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052403.webp)
+
+如果内网有多个 Docker 容器，通过 Cloudflare Tunnel 向外网开放，DockFlare 可以对它们进行统一管理，参见[介绍文章](https://www.xda-developers.com/cloudflare-tunnels-easier-to-manage-free-open-source-self-hosted-tool/)。
+
+3、[f2](https://github.com/ayoisaiah/f2)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052521.webp)
+
+一个命令行的文件批量改名工具，功能较强，参见[介绍文章](https://simonwillison.net/2025/May/24/f2/)。
+
+4、[TypeID](https://github.com/jetify-com/typeid)
+
+唯一身份识别码 UUIDv7 的改进版，加上了类型前缀。
+
+5、[Starlight](https://starlight.astro.build/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052802.webp)
+
+基于 Astro 框架的文档网站生成工具。
+
+6、[ntfy.sh](https://github.com/binwiederhier/ntfy)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052601.webp)
+
+消息推送工具，向手机和桌面电脑推送消息，可以自搭建，也可以使用官方服务器，参见[介绍文章](https://www.xda-developers.com/set-up-self-hosted-notification-service/)。
+
+7、[BillionMail](https://github.com/aaPanel/BillionMail)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052405.webp)
+
+开源的电子邮件营销平台，帮助企业和个人管理电子邮件营销活动，可以发送新闻通讯、促销邮件、消息。（[@aaPanel](https://github.com/ruanyf/weekly/issues/6917) 投稿）
+
+8、[Lynx Proxy](https://github.com/suxin2017/lynx-server)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052407.webp)
+
+开源服务器，代理 HTTP/HTTPS 和 WebSocket 流量，内置 Web 管理界面。（[@suxin2017](https://github.com/ruanyf/weekly/issues/6924) 投稿）
+
+9、[Text to SVG](https://github.com/JiuRanYa/text-to-svg)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052605.webp)
+
+字体转 SVG 的工具网站，可以用来制作文字 Logo。（[@JiuRanYa](https://github.com/ruanyf/weekly/issues/6933) 投稿）
+
+10、[DualPiP](https://chromewebstore.google.com/detail/dualpip-%E2%80%93-bilingual-subti/ddkmobcljbfggkmibabekgpbighaogpn)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052901.webp)
+
+Chrome 插件，提供增强版的画中画播放器，支持主流视频网站一键弹出。（[@ymlluo](https://github.com/ruanyf/weekly/issues/6952) 投稿）
+
+
 ## [科技爱好者周刊（第 349 期）：神经网络算法的发明者](https://github.com/ruanyf/weekly/blob/master/docs/issue-349.md#工具)
 
 
