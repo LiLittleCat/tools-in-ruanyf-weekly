@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md#言论)
+
+
+1、
+
+有一种新的编码方式，我称之为“炒作编码”（hype coding），就是按照媒体炒作的方式，使用 AI 编程。
+
+一边刷着抖音，一边让一大群 AI 为你编码。如果出错，就让 AI 再试一次，也不阅读它的输出，只把这些输出重新提交给 AI，直到运行成功。如果最后无法运行，那就等待下一个模型发布。
+
+-- [《炒作编码》](https://simonwillison.net/2025/May/31/steve-krouse/)
+
+2、
+
+在机器大量生产平庸之作的这个时代，自己动手做点什么吧。让它不完美。让它粗糙。就这么去做。
+
+-- [《这个时代，没人在乎你写了什么》](https://dansinker.com/posts/2025-05-23-who-cares/)
+
+3、
+
+一项研究称，养成一种新的生活习惯，平均需要66天，最长需要8个月。
+
+-- [《欧洲社会心理学杂志》](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
+
+4、
+
+习惯使用 AI 大模型的下一代人，将不知道图书馆的用途。
+
+-- [Benjamin Breen](https://simonwillison.net/2025/Jun/3/benjamin-breen/)
+
+5、
+
+我们生命中最美好的时刻，并非是那些接受给予、放松享受的时刻，而是那些为了完成一件困难而有价值的事情，自愿将身心发挥到极限的时刻。
+
+—— [米哈里·契克森米哈赖](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)，“心流”（flow）概念的提出者
+
+
 ## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#言论)
 
 

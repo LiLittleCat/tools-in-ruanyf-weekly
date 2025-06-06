@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md#资源)
+
+
+1、[中国盲人数字图书馆](http://www.cdlvi.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060115.webp)
+
+中国国家图书馆制作的盲人书库，全站使用无障碍技术，有页面工具条，所有内容可以有声播放。
+
+2、[大学生创新创业项目资源库](https://cy.urongda.com/explore)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053008.webp)
+
+免费的文档资料库，包含互联网+、挑战杯、国创赛、SYB、三创等主流双创赛事。（[@urongda](https://github.com/ruanyf/weekly/issues/6959) 投稿）
+
+3、[通辽宇宙知识库](https://www.tongliaouniverse.cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060501.webp)
+
+专为 B 站 UP 主“小约翰可汗”粉丝打造的互动式历史探索平台。（[@Acorn2](https://github.com/ruanyf/weekly/issues/6990) 投稿）
+
+4、[​​Reddit Top​](https://reddit-top.pages.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053010.webp)
+
+Reddit 热门帖子聚合网站，可以指定多个频道。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/6957) 投稿）
+
+5、[美国地址生成器](https://www.usaddrgen.com/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060201.webp)
+
+这个工具网站生成美国虚构的身份数据，包括地址、个人信息、就业状况、信用卡。（[@watianle](https://github.com/ruanyf/weekly/issues/6972) 投稿）
+
+
 ## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#资源)
 
 

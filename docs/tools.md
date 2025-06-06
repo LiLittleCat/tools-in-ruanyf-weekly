@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md#工具)
+
+
+1、[Quarkdown](https://github.com/iamgio/quarkdown)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060308.webp)
+
+一个使用 Markdown 语法的排版系统。
+
+2、[RsyncUI](https://github.com/rsyncOSX/RsyncUI)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053005.webp)
+
+一个开源的 Mac 应用，提供 rsync 的图形界面，用于跟远程服务器传输文件。
+
+3、[Donut](https://donutbrowser.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053001.webp)
+
+一个浏览器的编排器，可以保存各种不同的浏览器配置，根据需要快速启动。
+
+4、[Read Frog](https://readfrog.mengxi.work/zh)（陪读蛙）
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053007.webp)
+
+一个浏览器插件，可以翻译页面，提取文章主要内容，给出单词和句子和详细解释，[代码开源](https://github.com/mengxi-ream/read-frog)。（[@mengxi-ream](https://github.com/ruanyf/weekly/issues/6956) 投稿）
+
+5、**词小悟**
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053101.webp)
+
+主打图片识记单词的微信小程序。（[@fluidog](https://github.com/ruanyf/weekly/issues/6962) 投稿）
+
+6、[Datetime.app](https://datetime.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060106.webp)
+
+开源的日期时间网站，time.is 的替代品。（[@airyland](https://github.com/ruanyf/weekly/issues/6970) 投稿）
+
+7、[naviix](https://github.com/wswmsword/naviix)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060301.webp)
+
+网页的键盘导航库，通过上下左右的方向键，选取网页的焦点元素。（[@wswmsword](https://github.com/ruanyf/weekly/issues/6975) 投稿）
+
+8、[go-v2ex](https://github.com/seth-shi/go-v2ex)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060303.webp)
+
+基于 Go 语言的命令行版 V2EX 客户端。（[@seth-shi](https://github.com/ruanyf/weekly/issues/6978) 投稿）
+
+9、[TL-RTC-APP](https://github.com/tl-open-source/tl-rtc-app)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060502.webp)
+
+开源的 Web 即时通信系统，基于 webrtc。（[@iamtsm](https://github.com/ruanyf/weekly/issues/6986) 投稿）
+
+
 ## [科技爱好者周刊（第 350 期）：Java 三十周年](https://github.com/ruanyf/weekly/blob/master/docs/issue-350.md#工具)
 
 
