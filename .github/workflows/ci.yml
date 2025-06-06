@@ -28,7 +28,7 @@ jobs:
         run: java -jar target/tools-in-ruanyf-weekly-jar-with-dependencies.jar
       - name: Commit files
         run: |
-          git config --local user.email "hi@yiliu.dev"
+          git config --local user.email "hi@yl.do"
           git config --local user.name "Yi Liu"
           git pull
           git diff --quiet && git diff --staged --quiet || (git add . && git commit -m "Update contents")
