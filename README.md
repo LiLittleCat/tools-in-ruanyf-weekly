@@ -16,99 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>351</currentVersion> -->
+<!-- <currentVersion>352</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md)
+# [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md)
 ### 工具
 
 
-1、[Quarkdown](https://github.com/iamgio/quarkdown)
+1、[Cap.js](https://github.com/tiagorangel1/cap)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060308.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060116.webp)
 
-一个使用 Markdown 语法的排版系统。
+一个网页上的机器人识别工具，用作 CAPTCHA 方案，采用 SHA-256 工作量证明算法。
 
-2、[RsyncUI](https://github.com/rsyncOSX/RsyncUI)
+2、[Quartz](https://github.com/jackyzha0/quartz)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060803.webp)
 
-一个开源的 Mac 应用，提供 rsync 的图形界面，用于跟远程服务器传输文件。
+Markdown 文档的静态站点发布器，适合用作收费服务 Obsidian Publish 的替代品。
 
-3、[Donut](https://donutbrowser.com/)
+3、[somo](https://github.com/theopfr/somo)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061001.webp)
 
-一个浏览器的编排器，可以保存各种不同的浏览器配置，根据需要快速启动。
+在 Linux 终端查看端口占用情况的工具。
 
-4、[Read Frog](https://readfrog.mengxi.work/zh)（陪读蛙）
+4、[OOMOL Studio](https://github.com/ruanyf/weekly/issues/7029)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053007.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061108.webp)
 
-一个浏览器插件，可以翻译页面，提取文章主要内容，给出单词和句子和详细解释，[代码开源](https://github.com/mengxi-ream/read-frog)。（[@mengxi-ream](https://github.com/ruanyf/weekly/issues/6956) 投稿）
+一款创新的桌面 IDE，把自己编写的函数设成节点，然后通过图形界面，把节点编排成工作流。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/7029) 投稿）
 
-5、**词小悟**
+5、[极测](https://www.jicesys.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061109.webp)
 
-主打图片识记单词的微信小程序。（[@fluidog](https://github.com/ruanyf/weekly/issues/6962) 投稿）
+免费的通信调试助手，模拟 UDP、TCP、串口、WebSocket、ZeroMQ 等常见协议，进行通信测试。（[@seasonlaw](https://github.com/ruanyf/weekly/issues/7032) 投稿）
 
-6、[Datetime.app](https://datetime.app/)
+6、[container](https://github.com/apple/container)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060106.webp)
+苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
 
-开源的日期时间网站，time.is 的替代品。（[@airyland](https://github.com/ruanyf/weekly/issues/6970) 投稿）
+7、[DarkFlare](https://github.com/doxx/darkflare)
 
-7、[naviix](https://github.com/wswmsword/naviix)
+一个命令行工具，在 CDN 上，将 TCP 流量伪装成 HTTPS 流量传输。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060301.webp)
+8、[JDownloader](https://jdownloader.org/)
 
-网页的键盘导航库，通过上下左右的方向键，选取网页的焦点元素。（[@wswmsword](https://github.com/ruanyf/weekly/issues/6975) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060901.webp)
 
-8、[go-v2ex](https://github.com/seth-shi/go-v2ex)
+开源的全平台下载工具，参考[这篇教程](https://www.xda-developers.com/raspberry-pi-downloading-device-entire-network/)，用树莓派搭建下载服务器。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060303.webp)
+9、[Pydoll](https://github.com/autoscrape-labs/pydoll)
 
-基于 Go 语言的命令行版 V2EX 客户端。（[@seth-shi](https://github.com/ruanyf/weekly/issues/6978) 投稿）
+一个操作浏览器的 Python 库，通过 Chrome DevTools Protocol，实现脚本操作本机的 Chrome 浏览器。
 
-9、[TL-RTC-APP](https://github.com/tl-open-source/tl-rtc-app)
+10、[Chili3D](https://github.com/xiangechen/chili3d)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061103.webp)
 
-开源的 Web 即时通信系统，基于 webrtc。（[@iamtsm](https://github.com/ruanyf/weekly/issues/6986) 投稿）
+基于浏览器的 3D CAD 软件，代码开源。
 
 
 ### 资源
 
 
-1、[中国盲人数字图书馆](http://www.cdlvi.cn)
+1、[高等院校三千所](https://laosheng.top/fuwu/yuanxiao)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060115.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061201.webp)
 
-中国国家图书馆制作的盲人书库，全站使用无障碍技术，有页面工具条，所有内容可以有声播放。
+这个网站收录中国大学网址全集。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/7047) 投稿）
 
-2、[大学生创新创业项目资源库](https://cy.urongda.com/explore)
+2、[Mullvad Leta](https://leta.mullvad.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053003.webp)
 
-免费的文档资料库，包含互联网+、挑战杯、国创赛、SYB、三创等主流双创赛事。（[@urongda](https://github.com/ruanyf/weekly/issues/6959) 投稿）
+Mullvad 公司推出的一个搜索引擎。它从谷歌和 Brave 获取搜索结果，但是提供隐私保护，防止搜索引擎识别用户。
 
-3、[通辽宇宙知识库](https://www.tongliaouniverse.cn)
+我试用感觉不错，速度很快，没有广告。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060501.webp)
+3、[DNS4EU](https://www.joindns4.eu/)
 
-专为 B 站 UP 主“小约翰可汗”粉丝打造的互动式历史探索平台。（[@Acorn2](https://github.com/ruanyf/weekly/issues/6990) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060902.webp)
 
-4、[​​Reddit Top​](https://reddit-top.pages.dev/)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053010.webp)
-
-Reddit 热门帖子聚合网站，可以指定多个频道。（[@zhangchenchen](https://github.com/ruanyf/weekly/issues/6957) 投稿）
-
-5、[美国地址生成器](https://www.usaddrgen.com/zh/)
-
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060201.webp)
-
-这个工具网站生成美国虚构的身份数据，包括地址、个人信息、就业状况、信用卡。（[@watianle](https://github.com/ruanyf/weekly/issues/6972) 投稿）
+欧盟推出的公共 DNS，自带过滤广告功能。
 
 
 ### 言论
@@ -116,35 +106,35 @@ Reddit 热门帖子聚合网站，可以指定多个频道。（[@zhangchenchen]
 
 1、
 
-有一种新的编码方式，我称之为“炒作编码”（hype coding），就是按照媒体炒作的方式，使用 AI 编程。
+很多人总是拖拖拉拉，抱怨自己没有做事的动力。但是，动力恰恰源自行动，只要你开始做一些事情，只要能朝着目标前进，你就会发现动力随之而来。
 
-一边刷着抖音，一边让一大群 AI 为你编码。如果出错，就让 AI 再试一次，也不阅读它的输出，只把这些输出重新提交给 AI，直到运行成功。如果最后无法运行，那就等待下一个模型发布。
+所以，当我遇到一个很艰巨的任务时，我会把问题分解成若干更简单的部分，此时我的目标不是完成任务，而只是让自己能够行动起来，向前迈出一小步。
 
--- [《炒作编码》](https://simonwillison.net/2025/May/31/steve-krouse/)
+-- [《摆脱拖延症》](https://spectrum.ieee.org/getting-past-procastination)
 
 2、
 
-在机器大量生产平庸之作的这个时代，自己动手做点什么吧。让它不完美。让它粗糙。就这么去做。
+最安全的代码并非优美、巧妙或优雅的代码，而是枯燥乏味的代码。
 
--- [《这个时代，没人在乎你写了什么》](https://dansinker.com/posts/2025-05-23-who-cares/)
+Go 语言就奉行这种理念，故意去除了那些富有表现力或优雅的写法，只保留简洁和可读的写法。这使得代码易于审查、难于滥用，不容易发生安全漏洞。
+
+-- [《无聊胜过美丽》](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/)
 
 3、
 
-一项研究称，养成一种新的生活习惯，平均需要66天，最长需要8个月。
+人们总是喜欢新东西，读书喜欢读新出版的书，听歌喜欢听新歌。
 
--- [《欧洲社会心理学杂志》](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
+据统计，美国2024年流媒体音乐一共播放了1.4万亿次，其中近50%是2020年至2024年期间发行的歌曲，近80%是2010年或之后发行的歌曲。歌越老，听的人越少。
+
+-- [美联社](https://apnews.com/article/taylor-swift-sabrina-carpenter-luminate-2024-report-9d3436e71d481a07d88aa13940a68c76)
 
 4、
 
-习惯使用 AI 大模型的下一代人，将不知道图书馆的用途。
+新 API 的采用速度将会大大减缓。因为大模型的学习内容仅限于已有的内容，新的 API 出现时，可供学习的内容必然很少。
 
--- [Benjamin Breen](https://simonwillison.net/2025/Jun/3/benjamin-breen/)
+另外，那些依赖大模型的人也会犹豫是否采用新 API，因为大模型使用旧 API 可以更快地完成相同的工作。
 
-5、
-
-我们生命中最美好的时刻，并非是那些接受给予、放松享受的时刻，而是那些为了完成一件困难而有价值的事情，自愿将身心发挥到极限的时刻。
-
-—— [米哈里·契克森米哈赖](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/)，“心流”（flow）概念的提出者
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=43953957)
 
 
 <!-- End -->

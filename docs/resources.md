@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md#资源)
+
+
+1、[高等院校三千所](https://laosheng.top/fuwu/yuanxiao)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061201.webp)
+
+这个网站收录中国大学网址全集。（[@DiamonWoo](https://github.com/ruanyf/weekly/issues/7047) 投稿）
+
+2、[Mullvad Leta](https://leta.mullvad.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025053003.webp)
+
+Mullvad 公司推出的一个搜索引擎。它从谷歌和 Brave 获取搜索结果，但是提供隐私保护，防止搜索引擎识别用户。
+
+我试用感觉不错，速度很快，没有广告。
+
+3、[DNS4EU](https://www.joindns4.eu/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060902.webp)
+
+欧盟推出的公共 DNS，自带过滤广告功能。
+
+
 ## [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md#资源)
 
 

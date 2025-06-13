@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md#工具)
+
+
+1、[Cap.js](https://github.com/tiagorangel1/cap)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060116.webp)
+
+一个网页上的机器人识别工具，用作 CAPTCHA 方案，采用 SHA-256 工作量证明算法。
+
+2、[Quartz](https://github.com/jackyzha0/quartz)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060803.webp)
+
+Markdown 文档的静态站点发布器，适合用作收费服务 Obsidian Publish 的替代品。
+
+3、[somo](https://github.com/theopfr/somo)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061001.webp)
+
+在 Linux 终端查看端口占用情况的工具。
+
+4、[OOMOL Studio](https://github.com/ruanyf/weekly/issues/7029)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061108.webp)
+
+一款创新的桌面 IDE，把自己编写的函数设成节点，然后通过图形界面，把节点编排成工作流。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/7029) 投稿）
+
+5、[极测](https://www.jicesys.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061109.webp)
+
+免费的通信调试助手，模拟 UDP、TCP、串口、WebSocket、ZeroMQ 等常见协议，进行通信测试。（[@seasonlaw](https://github.com/ruanyf/weekly/issues/7032) 投稿）
+
+6、[container](https://github.com/apple/container)
+
+苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
+
+7、[DarkFlare](https://github.com/doxx/darkflare)
+
+一个命令行工具，在 CDN 上，将 TCP 流量伪装成 HTTPS 流量传输。
+
+8、[JDownloader](https://jdownloader.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060901.webp)
+
+开源的全平台下载工具，参考[这篇教程](https://www.xda-developers.com/raspberry-pi-downloading-device-entire-network/)，用树莓派搭建下载服务器。
+
+9、[Pydoll](https://github.com/autoscrape-labs/pydoll)
+
+一个操作浏览器的 Python 库，通过 Chrome DevTools Protocol，实现脚本操作本机的 Chrome 浏览器。
+
+10、[Chili3D](https://github.com/xiangechen/chili3d)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061103.webp)
+
+基于浏览器的 3D CAD 软件，代码开源。
+
+
 ## [科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](https://github.com/ruanyf/weekly/blob/master/docs/issue-351.md#工具)
 
 
