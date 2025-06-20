@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md#言论)
+
+
+1、
+
+政府的软件采购方式，花费大量资金，引发大量新闻报道，涉及大量人员，但最终不会有一款软件真正进入工作，用户仍将使用 Excel 处理所有事情，使用 PowerPoint 生成幻灯片。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44294696)，评论美国国防部向 OpenAI [采购2亿美元 AI 模型](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+
+2、
+
+未来，你还是需要学习编程。因为你需要能够准确地告诉 AI 你想要什么，了解计算机的工作原理有助于你编写更精确的提示和指令。
+
+-- [吴恩达](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)，著名 AI 科学家，斯坦福大学教授
+
+3、
+
+宇航员在太空洗衣服吗？答案是不洗。
+
+国际空间站的供水很有限，根本没有设计洗衣服的功能。宇航员的衣服弄脏以后，要么继续穿，要么直接扔掉。脏衣服会在返回大气层的时候，全部烧掉。
+
+-- [《宇航员在太空洗衣服吗》](https://www.mentalfloss.com/do-astronauts-do-laundry-in-space)
+
+4、
+
+我担心，以后在重要的媒体中，实质性内容将逐渐衰落，30秒的片段会流行，节目只具有最低的共识，充斥着对伪科学和迷信的盲目介绍，尤其还有一种对无知的庆祝。
+
+-- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)，美国著名科普作家，这段话写于1994年
+
+
 ## [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md#言论)
 
 

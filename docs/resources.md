@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md#资源)
+
+
+1、[Daily arXiv AI Enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061302.webp)
+
+每日自动抓取 arxiv 论文，并使用 AI 进行汇总，使用 GitHub Pages 进行展示。（[@dw-dengwei](https://github.com/ruanyf/weekly/issues/7052) 投稿）
+
+2、[中国城市地铁可视化](https://subway.cuvii.dev)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061413.webp)
+
+一个交互式网页可视化应用，展示中国城市地铁线路，[代码开源](https://github.com/thecuvii/subway)。（[@thecuvii](https://github.com/ruanyf/weekly/issues/7064) 投稿）
+
+3、[Thiings](https://www.thiings.co)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061406.webp)
+
+一个搜索下载 3D 图标的网站，现有近3000个图标。
+
+4、[无字证明](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)（Proofs without words）
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061801.webp)
+
+这个网站收集各种数学定理的图像证明，上图是前 n 个奇数之和等于 n 的平方。
+
+
 ## [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](https://github.com/ruanyf/weekly/blob/master/docs/issue-352.md#资源)
 
 
