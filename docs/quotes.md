@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#言论)
+
+
+1、
+
+AI 使得我的90%技能，价值变为0，但使得剩下的10%技能，价值增长了1000倍。
+
+每个人在 AI 面前，都需要重新调整自己的技能。
+
+-- [Kent Beck](https://simonwillison.net/2025/Jun/22/kent-beck/#atom-everything)，极限编程的创始人
+
+2、
+
+Anthropic 公司为了训练模型，聘请了谷歌图书扫描项目前主管汤姆·特维（Tom Turvey）。
+
+他的任务是获取“世界上所有的书籍”，花费数百万美元购买了数百万本纸质书籍，新的和二手的都有。然后，把这些书都拆了，进行扫描，完成后就扔掉。
+
+-- [美国法院判决书](https://simonwillison.net/2025/Jun/24/anthropic-training/)，出版公司控告 Anthropic 未经许可使用版权书籍训练模型，法院一审判 Anthropic 胜诉
+
+3、
+
+西方国家的博士学位，基本上是移民计划，而大学很乐意配合。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44361864)
+
+4、
+
+企业将来不会区分“Python 程序员”或“React 程序员”，招聘的时候，不会在意你会什么语言。企业只会招聘能够解决问题的程序员，不管他们的技术栈。因为有了大模型，编程语言障碍已经完全消失了。
+
+我们已经到了这个地步：学习哪种编程语言无关紧要。现在真正的技能是系统设计、架构、DevOps、云计算——那些在 AI 之上快速构建系统的技能。
+
+-- [Reddit 读者](https://old.reddit.com/r/ClaudeAI/comments/1lhgdbd/dev_jobs_are_about_to_get_a_hard_reset_and/)
+
+5、
+
+社会的危机，不是人变得孤独，而是人变得隐形、没有用处、可有可无。
+
+-- [《隐形的人》](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+
+
 ## [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md#言论)
 
 

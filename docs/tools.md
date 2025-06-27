@@ -1,5 +1,73 @@
 # 工具
 
+## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#工具)
+
+
+1、[postmarketOS](https://postmarketos.org/blog/2025/06/22/v25.06-release/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062506.webp)
+
+一个专门适配移动设备的 Linux 发行版，适合将过时的手机变成 Linux 设备。
+
+2、[to-userscript](https://github.com/Explosion-Scratch/to-userscript)
+
+一个命令行工具，可以将浏览器插件转成 userscript，方便移植。
+
+3、[Reeden](https://reeden.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062404.webp)
+
+纯本地的电子书阅读软件，支持多个平台，免费版没有数据同步和 AI 功能。（[@unclezs](https://github.com/ruanyf/weekly/issues/7109) 投稿）
+
+4、[AdaCpp](https://www.adacpp.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062608.webp)
+
+一个基于浏览器的在线 C++ 学习环境，可以编辑/编译代码，并有 AI 的代码解释。（[@xueywn](https://www.adacpp.com/) 投稿）
+
+5、[Moocup](https://moocup.jaydip.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062301.webp)
+
+一个为图片加上背景渐变色的在线工具。
+
+6、[浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062406.webp)
+
+开源的浏览器翻译插件，根据设定的外语水平，帮助在日常网页浏览中自然地学习外语。（[@xiao-zaiyi](https://github.com/ruanyf/weekly/issues/7126) 投稿）
+
+7、[EasyDisplay](https://github.com/SHINING-TECH/EasyDisplayClient)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062407.webp)
+
+通过局域网展示数位看板的解决方案。（[@yyfd2013zy](https://github.com/ruanyf/weekly/issues/7127) 投稿）
+
+8、[QueryBox](https://github.com/zhnd/query-box)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062505.webp)
+
+跨平台的桌面端 GraphSQL 调试工具。（[@zhnd](https://github.com/ruanyf/weekly/issues/7131) 投稿）
+
+9、[RingLink](https://ring.link/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062609.webp)
+
+国产的远程设备互通组网的工具，类似于 Tailscale。（[@Aplusink](https://github.com/ruanyf/weekly/issues/7143) 投稿）
+
+10、[LogTape](https://github.com/dahlia/logtape)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062305.webp)
+
+JS 日志库，号称性能好，功能强，参见[介绍文章](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)。
+
+11、[Project Indigo](https://apps.apple.com/us/app/project-indigo/id6742591546)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062612.webp)
+
+Adobe 推出的一款免费的 iPhone 相机，比原生相机更简单易用，融入了 AI 的自动调整，参见[介绍文章](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)。
+
+
 ## [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md#工具)
 
 

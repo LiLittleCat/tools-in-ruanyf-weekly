@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#资源)
+
+
+1、[My Ringtone](https://myringtone.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062403.webp)
+
+免费无需注册的铃声搜索下载网站，提供 MP3 格式铃声。（[@twjiem](https://github.com/ruanyf/weekly/issues/7113) 投稿）
+
+2、[维基电台 Wiki Radio](https://www.monkeon.co.uk/wikiradio/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062106.webp)
+
+这个网站随机播放，维基百科里面的音频文件。
+
+3、[ICONIC](https://github.com/YuheshPandian/ICONIC)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062514.webp)
+
+一个开源的图标库，专门提供各种软件技术的图标。
+
+4、[Linux/Windows 开发 iOS 应用教程](https://xtool.sh/tutorials/xtool/first-app/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062607.webp)
+
+一个图文教程，使用 xtool 工具在 Linux/Windows 上开发 iOS 应用。
+
+
 ## [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md#资源)
 
 

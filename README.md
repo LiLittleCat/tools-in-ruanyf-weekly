@@ -16,99 +16,103 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>353</currentVersion> -->
+<!-- <currentVersion>354</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 353 期）：苹果的“液态玻璃”是为了 AR](https://github.com/ruanyf/weekly/blob/master/docs/issue-353.md)
+# [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md)
 ### 工具
 
 
-1、[Vince](https://github.com/vinceanalytics/vince)
+1、[postmarketOS](https://postmarketos.org/blog/2025/06/22/v25.06-release/)
 
-![](https://cdn.beekka.com/blogimg/asset/202411/bg2024112902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062506.webp)
 
-网站流量统计分析工具，Google Analytics 的自托管替代品。
+一个专门适配移动设备的 Linux 发行版，适合将过时的手机变成 Linux 设备。
 
-2、[worklenz](https://github.com/Worklenz/worklenz)
+2、[to-userscript](https://github.com/Explosion-Scratch/to-userscript)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024052402.webp)
+一个命令行工具，可以将浏览器插件转成 userscript，方便移植。
 
-一个开源的团队项目管理工具，自带后端和前端。
+3、[Reeden](https://reeden.app/)
 
-3、[Kopia](https://github.com/kopia/kopia/)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062404.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082506.webp)
+纯本地的电子书阅读软件，支持多个平台，免费版没有数据同步和 AI 功能。（[@unclezs](https://github.com/ruanyf/weekly/issues/7109) 投稿）
 
-一个开源的备份/恢复工具，可以将指定的目录或文件，备份到云存储服务商，有命令行和图形两种界面。
+4、[AdaCpp](https://www.adacpp.com/)
 
-4、[Eyesite](https://github.com/akchro/eyesite)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062608.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061301.webp)
+一个基于浏览器的在线 C++ 学习环境，可以编辑/编译代码，并有 AI 的代码解释。（[@xueywn](https://www.adacpp.com/) 投稿）
 
-一个开源的实验项目，用摄像头捕捉用户的目光移动，从而代替鼠标，参见[介绍文章](https://blog.andykhau.com/blog/eyesite)。
+5、[Moocup](https://moocup.jaydip.me/)
 
-5、[Unbound](https://www.nlnetlabs.nl/projects/unbound)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061503.webp)
+一个为图片加上背景渐变色的在线工具。
 
-自搭建的家用 DNS 服务器。
+6、[浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)
 
-6、[Rspamd](https://www.rspamd.com)（英文）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062406.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061505.webp)
+开源的浏览器翻译插件，根据设定的外语水平，帮助在日常网页浏览中自然地学习外语。（[@xiao-zaiyi](https://github.com/ruanyf/weekly/issues/7126) 投稿）
 
-开源的垃圾邮件过滤系统，用来检测垃圾邮件。
+7、[EasyDisplay](https://github.com/SHINING-TECH/EasyDisplayClient)
 
-7、[Sync your cookie](https://github.com/jackluson/sync-your-cookie)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062407.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061303.webp)
+通过局域网展示数位看板的解决方案。（[@yyfd2013zy](https://github.com/ruanyf/weekly/issues/7127) 投稿）
 
-开源的 Chrome 插件，将 Cookie 同步到 Cloudflare，用于在不同设备之间共享 Cookie。（[@jackluson](https://github.com/ruanyf/weekly/issues/7054) 投稿）
+8、[QueryBox](https://github.com/zhnd/query-box)
 
-8、[Link Checker](https://link-checker.itea.dev/)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062505.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061501.webp)
+跨平台的桌面端 GraphSQL 调试工具。（[@zhnd](https://github.com/ruanyf/weekly/issues/7131) 投稿）
 
-网站链接检查器，输入网站链接，找出其中的死链接，[代码开源](https://github.com/isixe/LinkChecker)。（[@isixe](https://github.com/ruanyf/weekly/issues/7065) 投稿）
+9、[RingLink](https://ring.link/)
 
-9、[Ayanami](https://github.com/KamiC6238/ayanami)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062609.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061701.webp)
+国产的远程设备互通组网的工具，类似于 Tailscale。（[@Aplusink](https://github.com/ruanyf/weekly/issues/7143) 投稿）
 
-纯前端的像素编辑器，支持帧动画。（[@KamiC6238](https://github.com/ruanyf/weekly/issues/7074) 投稿）
+10、[LogTape](https://github.com/dahlia/logtape)
 
-10、[chromium-style-qrcode-generator-with-wasm](https://github.com/liuliangsir/chromium-style-qrcode-generator-with-wasm)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062305.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061604.webp)
+JS 日志库，号称性能好，功能强，参见[介绍文章](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)。
 
-使用 Rust 和 WebAssembly 技术的 Chrome 风格二维码生成器，纯网页应用，不需要后端。（[@liuliangsir](https://github.com/ruanyf/weekly/issues/7072) 投稿）
+11、[Project Indigo](https://apps.apple.com/us/app/project-indigo/id6742591546)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062612.webp)
+
+Adobe 推出的一款免费的 iPhone 相机，比原生相机更简单易用，融入了 AI 的自动调整，参见[介绍文章](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)。
 
 
 ### 资源
 
 
-1、[Daily arXiv AI Enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
+1、[My Ringtone](https://myringtone.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062403.webp)
 
-每日自动抓取 arxiv 论文，并使用 AI 进行汇总，使用 GitHub Pages 进行展示。（[@dw-dengwei](https://github.com/ruanyf/weekly/issues/7052) 投稿）
+免费无需注册的铃声搜索下载网站，提供 MP3 格式铃声。（[@twjiem](https://github.com/ruanyf/weekly/issues/7113) 投稿）
 
-2、[中国城市地铁可视化](https://subway.cuvii.dev)
+2、[维基电台 Wiki Radio](https://www.monkeon.co.uk/wikiradio/)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061413.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062106.webp)
 
-一个交互式网页可视化应用，展示中国城市地铁线路，[代码开源](https://github.com/thecuvii/subway)。（[@thecuvii](https://github.com/ruanyf/weekly/issues/7064) 投稿）
+这个网站随机播放，维基百科里面的音频文件。
 
-3、[Thiings](https://www.thiings.co)
+3、[ICONIC](https://github.com/YuheshPandian/ICONIC)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062514.webp)
 
-一个搜索下载 3D 图标的网站，现有近3000个图标。
+一个开源的图标库，专门提供各种软件技术的图标。
 
-4、[无字证明](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)（Proofs without words）
+4、[Linux/Windows 开发 iOS 应用教程](https://xtool.sh/tutorials/xtool/first-app/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062607.webp)
 
-这个网站收集各种数学定理的图像证明，上图是前 n 个奇数之和等于 n 的平方。
+一个图文教程，使用 xtool 工具在 Linux/Windows 上开发 iOS 应用。
 
 
 ### 言论
@@ -116,29 +120,39 @@
 
 1、
 
-政府的软件采购方式，花费大量资金，引发大量新闻报道，涉及大量人员，但最终不会有一款软件真正进入工作，用户仍将使用 Excel 处理所有事情，使用 PowerPoint 生成幻灯片。
+AI 使得我的90%技能，价值变为0，但使得剩下的10%技能，价值增长了1000倍。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=44294696)，评论美国国防部向 OpenAI [采购2亿美元 AI 模型](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+每个人在 AI 面前，都需要重新调整自己的技能。
+
+-- [Kent Beck](https://simonwillison.net/2025/Jun/22/kent-beck/#atom-everything)，极限编程的创始人
 
 2、
 
-未来，你还是需要学习编程。因为你需要能够准确地告诉 AI 你想要什么，了解计算机的工作原理有助于你编写更精确的提示和指令。
+Anthropic 公司为了训练模型，聘请了谷歌图书扫描项目前主管汤姆·特维（Tom Turvey）。
 
--- [吴恩达](https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6)，著名 AI 科学家，斯坦福大学教授
+他的任务是获取“世界上所有的书籍”，花费数百万美元购买了数百万本纸质书籍，新的和二手的都有。然后，把这些书都拆了，进行扫描，完成后就扔掉。
+
+-- [美国法院判决书](https://simonwillison.net/2025/Jun/24/anthropic-training/)，出版公司控告 Anthropic 未经许可使用版权书籍训练模型，法院一审判 Anthropic 胜诉
 
 3、
 
-宇航员在太空洗衣服吗？答案是不洗。
+西方国家的博士学位，基本上是移民计划，而大学很乐意配合。
 
-国际空间站的供水很有限，根本没有设计洗衣服的功能。宇航员的衣服弄脏以后，要么继续穿，要么直接扔掉。脏衣服会在返回大气层的时候，全部烧掉。
-
--- [《宇航员在太空洗衣服吗》](https://www.mentalfloss.com/do-astronauts-do-laundry-in-space)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44361864)
 
 4、
 
-我担心，以后在重要的媒体中，实质性内容将逐渐衰落，30秒的片段会流行，节目只具有最低的共识，充斥着对伪科学和迷信的盲目介绍，尤其还有一种对无知的庆祝。
+企业将来不会区分“Python 程序员”或“React 程序员”，招聘的时候，不会在意你会什么语言。企业只会招聘能够解决问题的程序员，不管他们的技术栈。因为有了大模型，编程语言障碍已经完全消失了。
 
--- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)，美国著名科普作家，这段话写于1994年
+我们已经到了这个地步：学习哪种编程语言无关紧要。现在真正的技能是系统设计、架构、DevOps、云计算——那些在 AI 之上快速构建系统的技能。
+
+-- [Reddit 读者](https://old.reddit.com/r/ClaudeAI/comments/1lhgdbd/dev_jobs_are_about_to_get_a_hard_reset_and/)
+
+5、
+
+社会的危机，不是人变得孤独，而是人变得隐形、没有用处、可有可无。
+
+-- [《隐形的人》](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
 
 
 <!-- End -->
