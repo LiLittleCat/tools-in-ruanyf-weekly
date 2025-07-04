@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#工具)
+
+
+1、[code-server](https://github.com/coder/code-server)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063009.webp)
+
+VS Code 的一个服务器版本，让用户通过浏览器使用这个代码编辑器，不需要本地安装，参考[介绍文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)。
+
+2、[OpenFLOW](https://github.com/stan-smith/OpenFLOW)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070105.webp)
+
+绘制网络基础设施图的开源工具。
+
+3、[Sniffnet](https://sniffnet.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063011.webp)
+
+一个开源的跨平台桌面应用，用来监控本机的网络通信。
+
+4、[WR.DO](https://github.com/oiov/wr.do/blob/main/README-zh.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070103.webp)
+
+一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口。（[@oiov](https://github.com/ruanyf/weekly/issues/7173) 投稿）
+
+5、[Pip-Helper](https://github.com/yaolifeng0629/Pip-Helper)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063003.webp)
+
+开源的浏览器插件，为主流视频网站提供画中画播放功能。关闭浏览器，画中画窗口依然打开。（[@yaolifeng0629](https://github.com/ruanyf/weekly/issues/7163) 投稿）
+
+6、[Gwitter](https://github.com/SimonAKing/Gwitter)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063005.webp)
+
+自搭建的个人微博平台，数据存储在 GitHub issues。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/7166) 投稿）
+
+7、[Melody Auth](https://github.com/ValueMelody/melody-auth)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070302.webp)
+
+自搭建的身份认证服务，支持社交平台、邮箱、短信等认证方式，可以作为 Auth0 的替代品。（[@byn9826](https://github.com/ruanyf/weekly/issues/7197) 投稿）
+
+8、[SVG to 3D](https://www.svgto3d.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063004.webp)
+
+这个网站将平面的 SVG 文件，免费转成 3D。（[@wujieli0207](https://github.com/ruanyf/weekly/issues/7165) 投稿）
+
+9、[CodeBox](https://www.codebox.club/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063006.webp)
+
+一个在线的二维码生成平台，可以定制各种属性。（[@gdfsdjj145](https://github.com/ruanyf/weekly/issues/7168) 投稿）
+
+10、[Technitium](https://technitium.com/dns/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062903.webp)
+
+一个自搭建的家用 DNS 服务器，带有 Web 界面，参见[介绍文章](https://www.xda-developers.com/pihole-alternative-called-technitium/)。
+
+
 ## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#工具)
 
 

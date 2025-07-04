@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#言论)
+
+
+1、
+
+2022年11月30日是一个永载史册的日子，就像第一颗原子弹爆炸，OpenAI 公司推出了 ChatGPT，从此人类再也没有了未被 AI 污染的新数据。
+
+-- [theregister.com](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
+
+2、
+
+HTTP 原本用于学术论文。现在它运行着文明。
+
+-- [《MCP：一个意外的 AI 插件系统》](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
+
+3、
+
+孤独是一个建筑问题。
+
+现在的很多建筑物，不利于人们聚集。我们需要的建筑物，应该是方便步行，并且免费，不属于任何人。以前的城市，有很多这样的地方。
+
+-- [《如何走出家门》](https://buttondown.com/monteiro/archive/how-to-leave-the-house/)
+
+4、
+
+20世纪90年代，一些工程师意识到：显卡本质就是一个并行处理设备。
+
+在屏幕上进行图像渲染，这是一个可以并行处理的计算任务——每个像素点的色彩可以独立计算，不需要考虑其他像素点。
+
+-- 余盛《芯片战争》
+
+5、
+
+我感觉，如果美国取消芯片出口管制，中国政府就会实施芯片的进口管制，以保护国内芯片产业，打造一个真正能与英伟达/台积电/苹果/谷歌抗衡的芯片制造商。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44442771)
+
+
 ## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#言论)
 
 

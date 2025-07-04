@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#资源)
+
+
+1、[Rust 新手快速教程](https://github.com/InkSha/rust-tutorial)
+
+一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序。（[@InkSha](https://github.com/ruanyf/weekly/issues/7188) 投稿）
+
+2、[B 树互动教程](https://planetscale.com/blog/btrees-and-database-indexes)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091213.webp)
+
+这篇教程通过很多互动示例，讲解数据库常用的 B 树数据结构。
+
+3、[River Runner Global](https://river-runner-global.samlearner.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012904.webp)
+
+全球任意地点的一滴雨，会流到哪里？这个网站给出雨水的流动路径，点击下雨的地点，它会可视化雨水的地面路径。
+
+4、[Traffic.cv](https://traffic.cv/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070319.webp)
+
+免费的网站流量信息查询工具。（[@typewe](https://github.com/ruanyf/weekly/issues/7202) 投稿）
+
+
 ## [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md#资源)
 
 

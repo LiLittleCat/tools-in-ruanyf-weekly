@@ -16,103 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>354</currentVersion> -->
+<!-- <currentVersion>355</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](https://github.com/ruanyf/weekly/blob/master/docs/issue-354.md)
+# [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md)
 ### 工具
 
 
-1、[postmarketOS](https://postmarketos.org/blog/2025/06/22/v25.06-release/)
+1、[code-server](https://github.com/coder/code-server)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063009.webp)
 
-一个专门适配移动设备的 Linux 发行版，适合将过时的手机变成 Linux 设备。
+VS Code 的一个服务器版本，让用户通过浏览器使用这个代码编辑器，不需要本地安装，参考[介绍文章](https://www.xda-developers.com/i-self-hosted-this-vs-code-fork/)。
 
-2、[to-userscript](https://github.com/Explosion-Scratch/to-userscript)
+2、[OpenFLOW](https://github.com/stan-smith/OpenFLOW)
 
-一个命令行工具，可以将浏览器插件转成 userscript，方便移植。
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070105.webp)
 
-3、[Reeden](https://reeden.app/)
+绘制网络基础设施图的开源工具。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062404.webp)
+3、[Sniffnet](https://sniffnet.net/)
 
-纯本地的电子书阅读软件，支持多个平台，免费版没有数据同步和 AI 功能。（[@unclezs](https://github.com/ruanyf/weekly/issues/7109) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063011.webp)
 
-4、[AdaCpp](https://www.adacpp.com/)
+一个开源的跨平台桌面应用，用来监控本机的网络通信。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062608.webp)
+4、[WR.DO](https://github.com/oiov/wr.do/blob/main/README-zh.md)
 
-一个基于浏览器的在线 C++ 学习环境，可以编辑/编译代码，并有 AI 的代码解释。（[@xueywn](https://www.adacpp.com/) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070103.webp)
 
-5、[Moocup](https://moocup.jaydip.me/)
+一个自搭建的域名服务平台，可以基于域名创建子域名、短链接、邮件地址，并提供 API 接口。（[@oiov](https://github.com/ruanyf/weekly/issues/7173) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062301.webp)
+5、[Pip-Helper](https://github.com/yaolifeng0629/Pip-Helper)
 
-一个为图片加上背景渐变色的在线工具。
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063003.webp)
 
-6、[浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)
+开源的浏览器插件，为主流视频网站提供画中画播放功能。关闭浏览器，画中画窗口依然打开。（[@yaolifeng0629](https://github.com/ruanyf/weekly/issues/7163) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062406.webp)
+6、[Gwitter](https://github.com/SimonAKing/Gwitter)
 
-开源的浏览器翻译插件，根据设定的外语水平，帮助在日常网页浏览中自然地学习外语。（[@xiao-zaiyi](https://github.com/ruanyf/weekly/issues/7126) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063005.webp)
 
-7、[EasyDisplay](https://github.com/SHINING-TECH/EasyDisplayClient)
+自搭建的个人微博平台，数据存储在 GitHub issues。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/7166) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062407.webp)
+7、[Melody Auth](https://github.com/ValueMelody/melody-auth)
 
-通过局域网展示数位看板的解决方案。（[@yyfd2013zy](https://github.com/ruanyf/weekly/issues/7127) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070302.webp)
 
-8、[QueryBox](https://github.com/zhnd/query-box)
+自搭建的身份认证服务，支持社交平台、邮箱、短信等认证方式，可以作为 Auth0 的替代品。（[@byn9826](https://github.com/ruanyf/weekly/issues/7197) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062505.webp)
+8、[SVG to 3D](https://www.svgto3d.com/zh)
 
-跨平台的桌面端 GraphSQL 调试工具。（[@zhnd](https://github.com/ruanyf/weekly/issues/7131) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063004.webp)
 
-9、[RingLink](https://ring.link/)
+这个网站将平面的 SVG 文件，免费转成 3D。（[@wujieli0207](https://github.com/ruanyf/weekly/issues/7165) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062609.webp)
+9、[CodeBox](https://www.codebox.club/zh)
 
-国产的远程设备互通组网的工具，类似于 Tailscale。（[@Aplusink](https://github.com/ruanyf/weekly/issues/7143) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063006.webp)
 
-10、[LogTape](https://github.com/dahlia/logtape)
+一个在线的二维码生成平台，可以定制各种属性。（[@gdfsdjj145](https://github.com/ruanyf/weekly/issues/7168) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062305.webp)
+10、[Technitium](https://technitium.com/dns/)
 
-JS 日志库，号称性能好，功能强，参见[介绍文章](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)。
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062903.webp)
 
-11、[Project Indigo](https://apps.apple.com/us/app/project-indigo/id6742591546)
-
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062612.webp)
-
-Adobe 推出的一款免费的 iPhone 相机，比原生相机更简单易用，融入了 AI 的自动调整，参见[介绍文章](https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html)。
+一个自搭建的家用 DNS 服务器，带有 Web 界面，参见[介绍文章](https://www.xda-developers.com/pihole-alternative-called-technitium/)。
 
 
 ### 资源
 
 
-1、[My Ringtone](https://myringtone.app/)
+1、[Rust 新手快速教程](https://github.com/InkSha/rust-tutorial)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062403.webp)
+一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序。（[@InkSha](https://github.com/ruanyf/weekly/issues/7188) 投稿）
 
-免费无需注册的铃声搜索下载网站，提供 MP3 格式铃声。（[@twjiem](https://github.com/ruanyf/weekly/issues/7113) 投稿）
+2、[B 树互动教程](https://planetscale.com/blog/btrees-and-database-indexes)（英文）
 
-2、[维基电台 Wiki Radio](https://www.monkeon.co.uk/wikiradio/)
+![](https://cdn.beekka.com/blogimg/asset/202409/bg2024091213.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062106.webp)
+这篇教程通过很多互动示例，讲解数据库常用的 B 树数据结构。
 
-这个网站随机播放，维基百科里面的音频文件。
+3、[River Runner Global](https://river-runner-global.samlearner.com/)
 
-3、[ICONIC](https://github.com/YuheshPandian/ICONIC)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062514.webp)
+全球任意地点的一滴雨，会流到哪里？这个网站给出雨水的流动路径，点击下雨的地点，它会可视化雨水的地面路径。
 
-一个开源的图标库，专门提供各种软件技术的图标。
+4、[Traffic.cv](https://traffic.cv/)
 
-4、[Linux/Windows 开发 iOS 应用教程](https://xtool.sh/tutorials/xtool/first-app/)（英文）
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070319.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062607.webp)
-
-一个图文教程，使用 xtool 工具在 Linux/Windows 上开发 iOS 应用。
+免费的网站流量信息查询工具。（[@typewe](https://github.com/ruanyf/weekly/issues/7202) 投稿）
 
 
 ### 言论
@@ -120,39 +114,37 @@ Adobe 推出的一款免费的 iPhone 相机，比原生相机更简单易用，
 
 1、
 
-AI 使得我的90%技能，价值变为0，但使得剩下的10%技能，价值增长了1000倍。
+2022年11月30日是一个永载史册的日子，就像第一颗原子弹爆炸，OpenAI 公司推出了 ChatGPT，从此人类再也没有了未被 AI 污染的新数据。
 
-每个人在 AI 面前，都需要重新调整自己的技能。
-
--- [Kent Beck](https://simonwillison.net/2025/Jun/22/kent-beck/#atom-everything)，极限编程的创始人
+-- [theregister.com](https://www.theregister.com/2025/06/15/ai_model_collapse_pollution/)
 
 2、
 
-Anthropic 公司为了训练模型，聘请了谷歌图书扫描项目前主管汤姆·特维（Tom Turvey）。
+HTTP 原本用于学术论文。现在它运行着文明。
 
-他的任务是获取“世界上所有的书籍”，花费数百万美元购买了数百万本纸质书籍，新的和二手的都有。然后，把这些书都拆了，进行扫描，完成后就扔掉。
-
--- [美国法院判决书](https://simonwillison.net/2025/Jun/24/anthropic-training/)，出版公司控告 Anthropic 未经许可使用版权书籍训练模型，法院一审判 Anthropic 胜诉
+-- [《MCP：一个意外的 AI 插件系统》](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 
 3、
 
-西方国家的博士学位，基本上是移民计划，而大学很乐意配合。
+孤独是一个建筑问题。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=44361864)
+现在的很多建筑物，不利于人们聚集。我们需要的建筑物，应该是方便步行，并且免费，不属于任何人。以前的城市，有很多这样的地方。
+
+-- [《如何走出家门》](https://buttondown.com/monteiro/archive/how-to-leave-the-house/)
 
 4、
 
-企业将来不会区分“Python 程序员”或“React 程序员”，招聘的时候，不会在意你会什么语言。企业只会招聘能够解决问题的程序员，不管他们的技术栈。因为有了大模型，编程语言障碍已经完全消失了。
+20世纪90年代，一些工程师意识到：显卡本质就是一个并行处理设备。
 
-我们已经到了这个地步：学习哪种编程语言无关紧要。现在真正的技能是系统设计、架构、DevOps、云计算——那些在 AI 之上快速构建系统的技能。
+在屏幕上进行图像渲染，这是一个可以并行处理的计算任务——每个像素点的色彩可以独立计算，不需要考虑其他像素点。
 
--- [Reddit 读者](https://old.reddit.com/r/ClaudeAI/comments/1lhgdbd/dev_jobs_are_about_to_get_a_hard_reset_and/)
+-- 余盛《芯片战争》
 
 5、
 
-社会的危机，不是人变得孤独，而是人变得隐形、没有用处、可有可无。
+我感觉，如果美国取消芯片出口管制，中国政府就会实施芯片的进口管制，以保护国内芯片产业，打造一个真正能与英伟达/台积电/苹果/谷歌抗衡的芯片制造商。
 
--- [《隐形的人》](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44442771)
 
 
 <!-- End -->
