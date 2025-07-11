@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#言论)
+
+
+1、
+
+长久以来，你努力培养技能，成为一个程序员，编程已经成为你的身份认同的一部分，是你人生价值的来源。突然之间，AI 取代了你的技能，让你的人生价值消失，许多人因此抵制 AI。
+
+-- [《当 AI 可以编程，我还剩下什么？》](https://simonwillison.net/2025/Jul/3/adam-gordon-bell/)
+
+2、
+
+洛杉矶的问题是太大，太分散，公共交通很少，必须开车。但是，这使得你根本遇不到有意思的人，他们都被困在车里。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44494638)
+
+3、
+
+AI 不缺乏知识，它的问题是不会怀疑现有知识。
+
+要让 AI 变成爱因斯坦，仅仅让它无所不知是不够的，更需要让它能够提出别人未曾想到或不敢问的问题。
+
+-- [托马斯·沃尔夫](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)（Thomas Wolf），Hugging Face 联合创始人
+
+4、
+
+《纽约时报》报道，雇主正被大量 AI 生成的简历淹没，根据求职网站统计，今年的简历比去年激增45%。
+
+AI 可能会让简历消亡，AI 生成的简历已经无法鉴别一个人了。未来的招聘应该采用 AI 无法介入的方式，比如现场解决问题。
+
+-- [《AI 让简历消亡》](https://arstechnica.com/ai/2025/06/the-resume-is-dying-and-ai-is-holding-the-smoking-gun/)
+
+5、
+
+如果你把爱好当成职业，想以此养活自己，一段时间后，最初的兴奋消退了，你就会发现，开始阶段根本不算什么，真正的困难在后面，无数繁琐和重复的工作正等着你。
+
+这个时刻被称为“放弃点”（quitting point），很多人会在这个时点选择放弃。
+
+每个人的放弃点不一样，但都会到来。作家的放弃点，也许是小说写到第30页，最初的灵感枯竭，不知道怎么写下去。创业者的放弃点，也许是最初的几个月之后，市场的反应不像朋友和家人那样热烈。艺术家的放弃点，也许是作品第一次上架后，意识到自己的愿景与能力之间存在巨大差距。
+
+-- [《眼光过高是一种自我破坏》](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
+
+
 ## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#言论)
 
 

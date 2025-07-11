@@ -1,5 +1,75 @@
 # 工具
 
+## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#工具)
+
+
+1、[giscus](https://giscus.app/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070501.webp)
+
+一个基于 GitHub Discussion 的静态网站评论系统。
+
+2、[phpIPAM](https://phpipam.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070318.webp)
+
+这个工具通过 Web 界面，查看/管理局域网设备的 IP 地址，参见[介绍文章](https://www.xda-developers.com/phpipam-track-your-self-hosted-services/)。
+
+3、[NumPad](https://numpad.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070404.webp)
+
+一个在线的网络笔记本，特点是可以进行数学计算，输入`1 + 1`，它自动输出答案`2`。
+
+4、[LiteOps](https://github.com/opsre/LiteOps)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070403.webp)
+
+一个自搭建的轻量级 DevOps 平台，用来管理 CI/CD 操作。（[@hukdoesn](https://github.com/ruanyf/weekly/issues/7203) 投稿）
+
+5、[Ech0](https://github.com/lin-snow/Ech0)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070504.webp)
+
+一个开源的个人微博平台，查看 [demo](https://memo.vaaat.com/)。（[@lin-snow](https://github.com/ruanyf/weekly/issues/7205) 投稿）
+
+5、[PageTemplatify](https://github.com/GeekAtTeam/PageTemplatify)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070602.webp)
+
+静态 HTML 页面生成工具，内置各类模版，适合快速测试或展示网页。（[@luhuadong](https://github.com/ruanyf/weekly/issues/7210) 投稿）
+
+6、[REM](https://github.com/liriliri/rem)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070802.webp)
+
+基于 Rclone 的跨平台桌面 App，在一个窗口管理各种云存储的文件，实现文件互传。（[@surunzi](https://github.com/ruanyf/weekly/issues/7222) 投稿）
+
+7、[OnlyOffice Web](https://github.com/ranuts/document)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070710.webp)
+
+这个项目把 [OnlyOffice](https://www.onlyoffice.com/) 转成了 WASM 文件，不需要服务器，浏览器纯前端就能查看/编辑 Word、Excel、PowerPoint 文档，[在线试用](https://ranuts.github.io/document/)。（[@chaxus](https://github.com/ruanyf/weekly/issues/7213) 投稿）
+
+8、[在线拼图工具](https://img.ops-coffee.cn/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070709.webp)
+
+免费的在线工具，多张图片拼成一张大图。（[@ops-coffee](https://github.com/ruanyf/weekly/issues/7217) 投稿）
+
+9、[Portfolio](https://github.com/austenstone/portfolio)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070502.webp)
+
+一个基于 Docusaurus 的个人静态网站的模版，查看[效果](https://austen.info/blog)。
+
+10、[Postcard](https://postcard.page)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070409.webp)
+
+一个自搭建的个人网站+新闻邮件服务，参见作者的[产品介绍](https://www.contraption.co/postcard-open-source/)。
+
+
 ## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#工具)
 
 

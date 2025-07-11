@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#资源)
+
+
+1、[气温地图](https://zoom.earth/maps/temperature/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070711.webp)
+
+这张地图可以查看全球当前的天气数据。（[@Codeniu](https://github.com/ruanyf/weekly/issues/7219) 投稿）
+
+2、[n8n 工作流导航](https://n8nworkflow.net/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070803.webp)
+
+[n8n](https://github.com/n8n-io/n8n) 是一个工作流自动化编排软件，这个网站收集已经编排好的 n8n 工作流，目前共有近2000个。（[@panyanyany](https://github.com/ruanyf/weekly/issues/7227) 投稿）
+
+另有一篇[教程文章](https://www.xda-developers.com/combined-notion-with-n8n-automate-bookmarking/)，通过 n8n 工作流，将网址保存进 Notion 数据库。
+
+3、[4 colors](https://www.iamsajid.com/colors/)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123001.webp)
+
+这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板。
+
+
 ## [科技爱好者周刊（第 355 期）：两本《芯片战争》](https://github.com/ruanyf/weekly/blob/master/docs/issue-355.md#资源)
 
 
