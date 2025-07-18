@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#资源)
+
+
+1、[Kite](https://kite.kagi.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071409.webp)
+
+搜索引擎公司 Kagi 推出的一个新闻网站，完全由 AI 驱动：AI 选择新闻，提炼出摘要，并翻译成用户指定的语言。
+
+2、[x86-64 汇编语言入门](https://gpfault.net/posts/asm-tut-0.txt.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071406.webp)
+
+面向初学者的汇编语言教程，从内存和寄存器讲起，标题链接是第一讲，后面还有第[二](https://gpfault.net/posts/asm-tut-1.txt.html)、[三](https://gpfault.net/posts/asm-tut-2.txt.html)、[四](https://gpfault.net/posts/asm-tut-3.txt.html)讲。
+
+3、[HTTP 状态码详解](https://evertpot.com/http/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071101.webp)
+
+一组系列文章，逐一详细解释68个官方的 HTTP 状态码。
+
+
 ## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#资源)
 
 

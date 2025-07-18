@@ -1,5 +1,79 @@
 # 工具
 
+## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#工具)
+
+
+1、[Anytype](https://download.anytype.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071713.webp)
+
+开源的多平台笔记软件，Obsidian 的替代品，自带点对点的同步功能。
+
+2、[Pangolin](https://github.com/fosrl/pangolin)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071102.webp)
+
+一个带有 Web 界面的反向代理服务器，用于从公网访问内网服务，开源的 Cloudflare Tunnerl 替代品。
+
+3、[Upyo](https://github.com/dahlia/upyo)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071503.webp)
+
+一个 JS 库，提供 email 收发的所有功能。
+
+4、[OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071411.webp)
+
+开源的视频编辑软件，目标是成为剪映的替代品，目前只有 Web 版。
+
+5、[Toodoo](https://apps.apple.com/cn/app/id6736378337)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071402.webp)
+
+户外轨迹导航的苹果设备应用，支持离线地图、等高线和 3D 卫星地图导航，可以生成运动轨迹视频，手机端完全免费。（[@haozes](https://github.com/ruanyf/weekly/issues/7258) 投稿）
+
+6、[TcpViz](https://github.com/ruanyf/weekly/issues/7260)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071403.webp)
+
+这个网站用来对 pcap 网络包文件进行可视化分析，一键生成分析报告。（[@jlingjace](https://github.com/ruanyf/weekly/issues/7260) 投稿）
+
+7、[WebCurl](https://github.com/o8oo8o/WebCurl)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071401.webp)
+
+网页版 API 调试工具，Postman 的简易替代品，前端只有一个 HTML 文件。（[@o8oo8o](https://github.com/ruanyf/weekly/issues/7254) 投稿）
+
+8、[HubProxy](https://github.com/sky22333/hubproxy)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071701.webp)
+
+基于 Go 语言的自托管应用，提供 Docker 和 GitHub 的加速服务。（[@sky22333](https://github.com/ruanyf/weekly/issues/7278) 投稿）
+
+9、[配置文件管理器](https://github.com/HeroIsUseless/configeditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071404.webp)
+
+一个跨平台桌面应用，用来编辑本地和远程的各种配置文件，可以在编辑后，一键保存并重启对应的服务。（[@HeroIsUseless](https://github.com/ruanyf/weekly/issues/7257) 投稿）
+
+另有一个 macOS 的配置文件编辑器 [Configs](https://github.com/iHongRen/configEditor)，它会自动扫描发现本地的配置文件。（[@iHongRen](https://github.com/ruanyf/weekly/issues/7270) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071607.webp)
+
+10、[MeetSpot](https://github.com/JasonRobertDestiny/MeetSpot)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071702.webp)
+
+一个开源的 Web 地图应用，用户输入多个参与者的出发位置，它会推荐对大家距离合适的聚会场所（如咖啡馆、餐厅、图书馆等）。（[@JasonRobertDestiny](https://github.com/ruanyf/weekly/issues/7289) 投稿）
+
+11、[好享记账](https://github.com/suyu610/journal-flutter)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071714.webp)
+
+开源的记账应用，链接是 Flutter 前端仓库，另有[后端的 Java 仓库](https://github.com/suyu610/journal-server)。（[@suyu610](https://github.com/ruanyf/weekly/issues/7293) 投稿）
+
+
 ## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#工具)
 
 

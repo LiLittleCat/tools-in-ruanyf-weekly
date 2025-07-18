@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#言论)
+
+
+1、
+
+我真的不明白 Cursor 这样的 AI 工具，本身有什么价值。它就是一些 API 的包装器，对吧？
+
+据我所知，世界上真正的 AI 公司大概只有四家，其他公司都是在贴牌。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44566666)
+
+2、
+
+大型科技公司付出天价薪水给 AI 人才。公司是这样想的，AI 将是一个超过10万亿美元营收的机会，而 AI 研究人员人数上限只有几百人，那么每位研究人员每年薪水500万美元、1000万美元或2000万美元能有多大差别？
+
+要知道，就算每年向 AI 研究人员支付100亿美元的薪酬，这点钱还不到 Meta 年度资本支出的四分之一。
+
+-- [《AI 人才争夺战》](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
+
+3、
+
+AI 就是一种新型的操作系统，帮你完成各种任务。这个系统的 CPU 就是大模型，内存就是模型的上下文窗口，窗口越大能完成的任务规模就越大。
+
+-- [Andrej Karpathy](https://rlancemartin.github.io/2025/06/23/context_engineering/)，著名 AI 科学家
+
+4、
+
+这个世界有两种人：一种人用电脑来工作，另一种人看到电脑，会忘了工作，一心先摆弄电脑，把能改的都改完，直到完全顺手为止。
+
+-- [《Framework 13 评测》](https://marius.federated.id/posts/2025/may/framework)
+
+
 ## [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md#言论)
 
 

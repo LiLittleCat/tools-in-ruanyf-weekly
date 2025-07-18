@@ -16,101 +16,103 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>356</currentVersion> -->
+<!-- <currentVersion>357</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](https://github.com/ruanyf/weekly/blob/master/docs/issue-356.md)
+# [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md)
 ### 工具
 
 
-1、[giscus](https://giscus.app/zh-CN)
+1、[Anytype](https://download.anytype.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071713.webp)
 
-一个基于 GitHub Discussion 的静态网站评论系统。
+开源的多平台笔记软件，Obsidian 的替代品，自带点对点的同步功能。
 
-2、[phpIPAM](https://phpipam.net/)
+2、[Pangolin](https://github.com/fosrl/pangolin)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070318.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071102.webp)
 
-这个工具通过 Web 界面，查看/管理局域网设备的 IP 地址，参见[介绍文章](https://www.xda-developers.com/phpipam-track-your-self-hosted-services/)。
+一个带有 Web 界面的反向代理服务器，用于从公网访问内网服务，开源的 Cloudflare Tunnerl 替代品。
 
-3、[NumPad](https://numpad.io/)
+3、[Upyo](https://github.com/dahlia/upyo)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071503.webp)
 
-一个在线的网络笔记本，特点是可以进行数学计算，输入`1 + 1`，它自动输出答案`2`。
+一个 JS 库，提供 email 收发的所有功能。
 
-4、[LiteOps](https://github.com/opsre/LiteOps)
+4、[OpenCut](https://github.com/OpenCut-app/OpenCut)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070403.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071411.webp)
 
-一个自搭建的轻量级 DevOps 平台，用来管理 CI/CD 操作。（[@hukdoesn](https://github.com/ruanyf/weekly/issues/7203) 投稿）
+开源的视频编辑软件，目标是成为剪映的替代品，目前只有 Web 版。
 
-5、[Ech0](https://github.com/lin-snow/Ech0)
+5、[Toodoo](https://apps.apple.com/cn/app/id6736378337)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071402.webp)
 
-一个开源的个人微博平台，查看 [demo](https://memo.vaaat.com/)。（[@lin-snow](https://github.com/ruanyf/weekly/issues/7205) 投稿）
+户外轨迹导航的苹果设备应用，支持离线地图、等高线和 3D 卫星地图导航，可以生成运动轨迹视频，手机端完全免费。（[@haozes](https://github.com/ruanyf/weekly/issues/7258) 投稿）
 
-5、[PageTemplatify](https://github.com/GeekAtTeam/PageTemplatify)
+6、[TcpViz](https://github.com/ruanyf/weekly/issues/7260)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071403.webp)
 
-静态 HTML 页面生成工具，内置各类模版，适合快速测试或展示网页。（[@luhuadong](https://github.com/ruanyf/weekly/issues/7210) 投稿）
+这个网站用来对 pcap 网络包文件进行可视化分析，一键生成分析报告。（[@jlingjace](https://github.com/ruanyf/weekly/issues/7260) 投稿）
 
-6、[REM](https://github.com/liriliri/rem)
+7、[WebCurl](https://github.com/o8oo8o/WebCurl)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071401.webp)
 
-基于 Rclone 的跨平台桌面 App，在一个窗口管理各种云存储的文件，实现文件互传。（[@surunzi](https://github.com/ruanyf/weekly/issues/7222) 投稿）
+网页版 API 调试工具，Postman 的简易替代品，前端只有一个 HTML 文件。（[@o8oo8o](https://github.com/ruanyf/weekly/issues/7254) 投稿）
 
-7、[OnlyOffice Web](https://github.com/ranuts/document)
+8、[HubProxy](https://github.com/sky22333/hubproxy)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070710.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071701.webp)
 
-这个项目把 [OnlyOffice](https://www.onlyoffice.com/) 转成了 WASM 文件，不需要服务器，浏览器纯前端就能查看/编辑 Word、Excel、PowerPoint 文档，[在线试用](https://ranuts.github.io/document/)。（[@chaxus](https://github.com/ruanyf/weekly/issues/7213) 投稿）
+基于 Go 语言的自托管应用，提供 Docker 和 GitHub 的加速服务。（[@sky22333](https://github.com/ruanyf/weekly/issues/7278) 投稿）
 
-8、[在线拼图工具](https://img.ops-coffee.cn/zh/)
+9、[配置文件管理器](https://github.com/HeroIsUseless/configeditor)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070709.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071404.webp)
 
-免费的在线工具，多张图片拼成一张大图。（[@ops-coffee](https://github.com/ruanyf/weekly/issues/7217) 投稿）
+一个跨平台桌面应用，用来编辑本地和远程的各种配置文件，可以在编辑后，一键保存并重启对应的服务。（[@HeroIsUseless](https://github.com/ruanyf/weekly/issues/7257) 投稿）
 
-9、[Portfolio](https://github.com/austenstone/portfolio)
+另有一个 macOS 的配置文件编辑器 [Configs](https://github.com/iHongRen/configEditor)，它会自动扫描发现本地的配置文件。（[@iHongRen](https://github.com/ruanyf/weekly/issues/7270) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070502.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071607.webp)
 
-一个基于 Docusaurus 的个人静态网站的模版，查看[效果](https://austen.info/blog)。
+10、[MeetSpot](https://github.com/JasonRobertDestiny/MeetSpot)
 
-10、[Postcard](https://postcard.page)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070409.webp)
+一个开源的 Web 地图应用，用户输入多个参与者的出发位置，它会推荐对大家距离合适的聚会场所（如咖啡馆、餐厅、图书馆等）。（[@JasonRobertDestiny](https://github.com/ruanyf/weekly/issues/7289) 投稿）
 
-一个自搭建的个人网站+新闻邮件服务，参见作者的[产品介绍](https://www.contraption.co/postcard-open-source/)。
+11、[好享记账](https://github.com/suyu610/journal-flutter)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071714.webp)
+
+开源的记账应用，链接是 Flutter 前端仓库，另有[后端的 Java 仓库](https://github.com/suyu610/journal-server)。（[@suyu610](https://github.com/ruanyf/weekly/issues/7293) 投稿）
 
 
 ### 资源
 
 
-1、[气温地图](https://zoom.earth/maps/temperature/)
+1、[Kite](https://kite.kagi.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070711.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071409.webp)
 
-这张地图可以查看全球当前的天气数据。（[@Codeniu](https://github.com/ruanyf/weekly/issues/7219) 投稿）
+搜索引擎公司 Kagi 推出的一个新闻网站，完全由 AI 驱动：AI 选择新闻，提炼出摘要，并翻译成用户指定的语言。
 
-2、[n8n 工作流导航](https://n8nworkflow.net/zh)
+2、[x86-64 汇编语言入门](https://gpfault.net/posts/asm-tut-0.txt.html)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071406.webp)
 
-[n8n](https://github.com/n8n-io/n8n) 是一个工作流自动化编排软件，这个网站收集已经编排好的 n8n 工作流，目前共有近2000个。（[@panyanyany](https://github.com/ruanyf/weekly/issues/7227) 投稿）
+面向初学者的汇编语言教程，从内存和寄存器讲起，标题链接是第一讲，后面还有第[二](https://gpfault.net/posts/asm-tut-1.txt.html)、[三](https://gpfault.net/posts/asm-tut-2.txt.html)、[四](https://gpfault.net/posts/asm-tut-3.txt.html)讲。
 
-另有一篇[教程文章](https://www.xda-developers.com/combined-notion-with-n8n-automate-bookmarking/)，通过 n8n 工作流，将网址保存进 Notion 数据库。
+3、[HTTP 状态码详解](https://evertpot.com/http/)（英文）
 
-3、[4 colors](https://www.iamsajid.com/colors/)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024123001.webp)
-
-这个网站提出，页面设计只需要4种颜色：前景色、背景色、强调色和趣味色。你可以在该网站生成这四种颜色的调色板。
+一组系列文章，逐一详细解释68个官方的 HTTP 状态码。
 
 
 ### 言论
@@ -118,41 +120,31 @@
 
 1、
 
-长久以来，你努力培养技能，成为一个程序员，编程已经成为你的身份认同的一部分，是你人生价值的来源。突然之间，AI 取代了你的技能，让你的人生价值消失，许多人因此抵制 AI。
+我真的不明白 Cursor 这样的 AI 工具，本身有什么价值。它就是一些 API 的包装器，对吧？
 
--- [《当 AI 可以编程，我还剩下什么？》](https://simonwillison.net/2025/Jul/3/adam-gordon-bell/)
+据我所知，世界上真正的 AI 公司大概只有四家，其他公司都是在贴牌。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44566666)
 
 2、
 
-洛杉矶的问题是太大，太分散，公共交通很少，必须开车。但是，这使得你根本遇不到有意思的人，他们都被困在车里。
+大型科技公司付出天价薪水给 AI 人才。公司是这样想的，AI 将是一个超过10万亿美元营收的机会，而 AI 研究人员人数上限只有几百人，那么每位研究人员每年薪水500万美元、1000万美元或2000万美元能有多大差别？
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=44494638)
+要知道，就算每年向 AI 研究人员支付100亿美元的薪酬，这点钱还不到 Meta 年度资本支出的四分之一。
+
+-- [《AI 人才争夺战》](https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent)
 
 3、
 
-AI 不缺乏知识，它的问题是不会怀疑现有知识。
+AI 就是一种新型的操作系统，帮你完成各种任务。这个系统的 CPU 就是大模型，内存就是模型的上下文窗口，窗口越大能完成的任务规模就越大。
 
-要让 AI 变成爱因斯坦，仅仅让它无所不知是不够的，更需要让它能够提出别人未曾想到或不敢问的问题。
-
--- [托马斯·沃尔夫](https://fortune.com/2025/06/20/hugging-face-thomas-wolf-ai-yes-men-on-servers-no-scientific-breakthroughs/)（Thomas Wolf），Hugging Face 联合创始人
+-- [Andrej Karpathy](https://rlancemartin.github.io/2025/06/23/context_engineering/)，著名 AI 科学家
 
 4、
 
-《纽约时报》报道，雇主正被大量 AI 生成的简历淹没，根据求职网站统计，今年的简历比去年激增45%。
+这个世界有两种人：一种人用电脑来工作，另一种人看到电脑，会忘了工作，一心先摆弄电脑，把能改的都改完，直到完全顺手为止。
 
-AI 可能会让简历消亡，AI 生成的简历已经无法鉴别一个人了。未来的招聘应该采用 AI 无法介入的方式，比如现场解决问题。
-
--- [《AI 让简历消亡》](https://arstechnica.com/ai/2025/06/the-resume-is-dying-and-ai-is-holding-the-smoking-gun/)
-
-5、
-
-如果你把爱好当成职业，想以此养活自己，一段时间后，最初的兴奋消退了，你就会发现，开始阶段根本不算什么，真正的困难在后面，无数繁琐和重复的工作正等着你。
-
-这个时刻被称为“放弃点”（quitting point），很多人会在这个时点选择放弃。
-
-每个人的放弃点不一样，但都会到来。作家的放弃点，也许是小说写到第30页，最初的灵感枯竭，不知道怎么写下去。创业者的放弃点，也许是最初的几个月之后，市场的反应不像朋友和家人那样热烈。艺术家的放弃点，也许是作品第一次上架后，意识到自己的愿景与能力之间存在巨大差距。
-
--- [《眼光过高是一种自我破坏》](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
+-- [《Framework 13 评测》](https://marius.federated.id/posts/2025/may/framework)
 
 
 <!-- End -->
