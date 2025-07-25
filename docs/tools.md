@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#工具)
+
+
+1、[RustScan](https://github.com/RustScan/RustScan)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082609.webp)
+
+一个命令行工具，用来扫描发现某台服务器开放了哪些端口。
+
+2、[tsx](https://tsx.is/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071803.webp)
+
+直接运行 TypeScript 代码的命令行工具，类似于 ts-node。
+
+3、[Colanode](https://github.com/colanode/colanode)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071903.webp)
+
+团队协作软件，包括文档（类似 notion）和聊天（类似 slack）功能，使用 JS 语言编写。
+
+4、[OSS Rebuild](https://oss-rebuild.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072417.webp)
+
+谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
+
+5、[vRain](https://github.com/shanleiguang/vRain)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071901.webp)
+
+制作中文古籍直排刻本的工具，使用 Perl 语言编写。（[@shanleiguang](https://github.com/ruanyf/weekly/issues/7303) 投稿）
+
+6、[OpenAPI-RS](https://github.com/baerwang/openapi-rs)
+
+一个 Rust 的 OpenAPI 库，可以解析 API 的规格文件，并进行数据验证。（[@baerwang](https://github.com/ruanyf/weekly/issues/7313) 投稿）
+
+7、[TrackWeight](https://github.com/KrishKrosh/TrackWeight)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072201.webp)
+
+把 MacBook 触摸板变成电子秤，使用时手指必须与触摸板保持接触。（[@XueshiQiao](https://github.com/ruanyf/weekly/issues/7324) 投稿）
+
+8、[se-script](https://github.com/hvhghv/se-script)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072401.webp)
+
+作者写的一些 Bash 脚本，用于 Linux 系统管理。（[@hvhghv](https://github.com/ruanyf/weekly/issues/7337) 投稿）
+
+9、[订阅管理系统](https://github.com/huhusmang/Subscription-Management)（Subscription Management System）
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072402.webp)
+
+一个开源的 Web 应用，管理和追踪各种订阅服务的费用及续订，支持多币种。（[@huhusmang](https://github.com/ruanyf/weekly/issues/7340) 投稿）
+
+10、[WIMOOR](https://github.com/wimoor-erp/wimoor)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072405.webp)
+
+一个开源的跨境电商 ERP 管理系统，用来商品管理、订单处理、物流运输、财务结算等。（[@bingodada893-boop](https://github.com/ruanyf/weekly/issues/7345) 投稿）
+
+
 ## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#工具)
 
 

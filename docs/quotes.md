@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#言论)
+
+
+1、
+
+人们不应该互相发送文件副本。副本下载后就无法自动更新，也没有任何保护措施，谁都可以打开，而且永远无法撤销。
+
+正确的做法是，不要把数据保存在自己电脑的某个文件中，也不要保存在云盘的文件夹。数据应该存在于数据库中，而不是 Excel 文件，然后针对每个人设置访问权限。
+
+-- [《我们必须停止互相发送文件》](https://simonwillison.net/2025/Jul/17/terence-eden/)
+
+2、
+
+如果人类文明崩溃，我计划用 U 盘装几个大模型，让它们在本地硬件上运行。这就像拥有一个精简的维基百科，我就可以借助 U 盘来重启文明社会。
+
+-- [《如何在笔记本电脑运行大模型》](https://simonwillison.net/2025/Jul/18/how-to-run-an-llm-on-your-laptop)
+
+3、
+
+假定 AI 每一步的正确率是95%，那么使用20步后，整个项目的正确率将只有36%。
+
+-- [《为什么我不好看当前的 AI 智能体》](https://utkarshkanwat.com/writing/betting-against-agents/)
+
+4、
+
+我有个朋友，经常阅读中国研究人员撰写的英语论文。多年来，这些论文都很难读懂，往往有无法理解的句子。
+
+突然间 AI 出现了，他收到的论文文笔优美，论证严谨，显然经过了 AI 改写。几十年来，美国一直拥有优势，因为英语是科学文献的主导语言，AI 一夜之间就摧毁了这种优势。 
+
+-- [美国 Los Alamos 国家实验室的工作人员](https://web.archive.org/web/20250513011050/https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+
+
 ## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#言论)
 
 

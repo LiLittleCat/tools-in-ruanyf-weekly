@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#资源)
+
+
+1、[购房指北](https://how-to-buy-house.vercel.app/home)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072106.webp)
+
+这个网站将国家统计局每月发布的全国70个大中城市的房价指数，做成趋势图，便于查看趋势，[代码开源](https://github.com/851235550/how-to-buy-house)。（[@851235550](https://github.com/ruanyf/weekly/issues/7312) 投稿）
+
+2、[手机博物馆](https://chaz.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072404.webp)
+
+该网站对一些经典的诺基亚手机，进行了建模，可以 3D 查看，甚至可以开机，进入系统操作。（[@hzh0292](https://github.com/ruanyf/weekly/issues/7344) 投稿）
+
+3、[微软3号楼](https://my.matterport.com/show/?m=SZSV6vjcf4L)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072101.webp)
+
+想参观微软办公楼吗？这是微软西雅图总部3号楼的 3D 导览，可以进入每一层楼的每一条走廊。
+
+这幢楼是早期办公楼，没有所有人共享办公空间的大平层，而是每个人都有自己的办公室。
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072102.webp)
+
+4、[CSS Exercises](https://github.com/TheOdinProject/css-exercises)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072109.webp)
+
+一个 CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案。（[@Codeniu](https://github.com/ruanyf/weekly/issues/7318) 投稿）
+
+
 ## [科技爱好者周刊（第 357 期）：稳定币的博弈](https://github.com/ruanyf/weekly/blob/master/docs/issue-357.md#资源)
 
 
