@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#资源)
+
+
+1、[LangShift.dev](https://langshift.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072601.webp)
+
+通过比较不同的计算机语言，学习新语言，[源码开源](https://github.com/erweixin/langshift.dev)。（[@erweixin](https://github.com/ruanyf/weekly/issues/7346) 投稿）
+
+2、[LaTeX 训练营](https://pipeak.share4y.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073004.webp)
+
+Latex 的免费中文课程，学习数学公式语法，在线动手练习，[代码开源](https://github.com/prehisle/pipeak)。（[@prehisle](https://github.com/ruanyf/weekly/issues/7397) 投稿）
+
+
 ## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#资源)
 
 

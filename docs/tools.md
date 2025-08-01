@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#工具)
+
+
+1、[Kelp](https://kelpui.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072609.webp)
+
+一个基于 Web Components 的网页组件库，提供网页样式的完整解决方案。
+
+2、[Ethersync](https://github.com/ethersync/ethersync)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073007.webp)
+
+一个同步服务器，使用者安装后，再选择它的编辑器插件（NeoVim/VScode/Web），就可以实现编辑器同步。
+
+3、[Ansible Web 管理面板](https://github.com/sky22333/ansible-ui)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072602.webp)
+
+提供 Ansible 的 Web 界面（批量主机管理、运行剧本任务、命令执行、文件传输和 Web 终端等）。（[@sky22333](https://github.com/ruanyf/weekly/issues/7352) 投稿）
+
+4、[WebSocket DevTools](https://github.com/law-chain-hot/websocket-devtools)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073104.webp)
+
+Chrome 开源插件，专门用于 WebSocket 调试，提供监控、拦截、模拟、收藏等功能。（[@law-chain-hot](https://github.com/ruanyf/weekly/issues/7407) 投稿）
+
+5、[PongHub](https://github.com/WCY-dt/ponghub)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072604.webp)
+
+一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线。（[@WCY-dt](https://github.com/ruanyf/weekly/issues/7361) 投稿）
+
+6、[TrendRadar](https://github.com/sansan0/TrendRadar)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072806.webp)
+
+开源的新闻热点助手，通过 GitHub Pages 抓取国内11个主流平台的热点新闻，可以指定主题。（[@sansan0](https://github.com/ruanyf/weekly/issues/7375) 投稿）
+
+7、[MUSIX](https://github.com/coolcode/musix)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072807.webp)
+
+Rust 语言写的终端 MP3 播放器。（[@coolcode](https://github.com/ruanyf/weekly/issues/7382) 投稿）
+
+8、[ImageKit](https://github.com/hzbd/imagekit)
+
+批量图片处理的命令行工具，使用 Rust 语言编写。（[@hzbd](https://github.com/ruanyf/weekly/issues/7387) 投稿）
+
+9、[刷新率体验](https://github.com/MaskerPRC/refresh-rate-expericence)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073001.webp)
+
+一个 Web 应用，让用户拖动虚拟窗口，体验不同的屏幕刷新率造成的 UI 延迟，[代码开源](https://fps.agitao.me/)。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/7396) 投稿）
+
+10、[weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073005.webp)
+
+一个命令行工具，根据 Git 提交记录生成周报。（[@yinzhenyu-su](https://github.com/ruanyf/weekly/issues/7398) 投稿）
+
+11、[Issue2File](https://github.com/ibarryyan/issue2file)
+
+一个 Go 语言编写的工具，一键将 GitHub 仓库的所有 issue 导出，保存为 Markdown 文件。（[@ibarryyan](https://github.com/ruanyf/weekly/issues/7403) 投稿）
+
+
 ## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#工具)
 
 

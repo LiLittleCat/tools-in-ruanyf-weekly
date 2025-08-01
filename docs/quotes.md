@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#言论)
+
+
+1、
+
+学习自己真正想学的东西，最容易学进去，学习效果最好。做自己想做的事，最有动力，最有满足感。
+
+这就是为什么你要锻炼意志力。只有意志坚强，你才能做出决定并付诸行动，选定自己的目标，去学去做。
+
+-- [《用 AI 发展自己》](https://simonwillison.net/2025/Jul/24/recurse-center/)
+
+2、
+
+对我来说，编程远不止是一项技能，而是一种探索、尝试和满足好奇心的方式。
+
+我好几次放弃编程了，但最终都重新捡起。编程是我与世界互动的方式。
+
+--[《我为什么从事编程》](https://esafev.com/notes/why-i-do-programming/)
+
+3、
+
+迟早有一天，互联网将变成一个信息污水池，99%都是 AI 生成的信息污水，搜索引擎不再有效。
+
+--[《GPT 可能是一种信息病毒》](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
+
+4、
+
+我进入软件行业是因为我对此充满热情。十年后，大部分热情都消失了，我被敏捷开发的 Scrum 仪式和无休止的产品需求变更打败了。现在，我做完我的工作就会回家。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=42639087)
+
+
 ## [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md#言论)
 
 

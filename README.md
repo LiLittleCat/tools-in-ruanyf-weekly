@@ -16,101 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>358</currentVersion> -->
+<!-- <currentVersion>359</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 358 期）：如何拯救一家濒临倒闭的创业公司](https://github.com/ruanyf/weekly/blob/master/docs/issue-358.md)
+# [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md)
 ### 工具
 
 
-1、[RustScan](https://github.com/RustScan/RustScan)
+1、[Kelp](https://kelpui.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023082609.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072609.webp)
 
-一个命令行工具，用来扫描发现某台服务器开放了哪些端口。
+一个基于 Web Components 的网页组件库，提供网页样式的完整解决方案。
 
-2、[tsx](https://tsx.is/)
+2、[Ethersync](https://github.com/ethersync/ethersync)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073007.webp)
 
-直接运行 TypeScript 代码的命令行工具，类似于 ts-node。
+一个同步服务器，使用者安装后，再选择它的编辑器插件（NeoVim/VScode/Web），就可以实现编辑器同步。
 
-3、[Colanode](https://github.com/colanode/colanode)
+3、[Ansible Web 管理面板](https://github.com/sky22333/ansible-ui)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072602.webp)
 
-团队协作软件，包括文档（类似 notion）和聊天（类似 slack）功能，使用 JS 语言编写。
+提供 Ansible 的 Web 界面（批量主机管理、运行剧本任务、命令执行、文件传输和 Web 终端等）。（[@sky22333](https://github.com/ruanyf/weekly/issues/7352) 投稿）
 
-4、[OSS Rebuild](https://oss-rebuild.dev/)
+4、[WebSocket DevTools](https://github.com/law-chain-hot/websocket-devtools)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072417.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073104.webp)
 
-谷歌本周推出的一项服务，用来验证网上的 NPM、PyPI、Rust 的软件包，是否跟源码构建出来的完全一样，保证软件供应链安全。
+Chrome 开源插件，专门用于 WebSocket 调试，提供监控、拦截、模拟、收藏等功能。（[@law-chain-hot](https://github.com/ruanyf/weekly/issues/7407) 投稿）
 
-5、[vRain](https://github.com/shanleiguang/vRain)
+5、[PongHub](https://github.com/WCY-dt/ponghub)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025071901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072604.webp)
 
-制作中文古籍直排刻本的工具，使用 Perl 语言编写。（[@shanleiguang](https://github.com/ruanyf/weekly/issues/7303) 投稿）
+一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线。（[@WCY-dt](https://github.com/ruanyf/weekly/issues/7361) 投稿）
 
-6、[OpenAPI-RS](https://github.com/baerwang/openapi-rs)
+6、[TrendRadar](https://github.com/sansan0/TrendRadar)
 
-一个 Rust 的 OpenAPI 库，可以解析 API 的规格文件，并进行数据验证。（[@baerwang](https://github.com/ruanyf/weekly/issues/7313) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072806.webp)
 
-7、[TrackWeight](https://github.com/KrishKrosh/TrackWeight)
+开源的新闻热点助手，通过 GitHub Pages 抓取国内11个主流平台的热点新闻，可以指定主题。（[@sansan0](https://github.com/ruanyf/weekly/issues/7375) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072201.webp)
+7、[MUSIX](https://github.com/coolcode/musix)
 
-把 MacBook 触摸板变成电子秤，使用时手指必须与触摸板保持接触。（[@XueshiQiao](https://github.com/ruanyf/weekly/issues/7324) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072807.webp)
 
-8、[se-script](https://github.com/hvhghv/se-script)
+Rust 语言写的终端 MP3 播放器。（[@coolcode](https://github.com/ruanyf/weekly/issues/7382) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072401.webp)
+8、[ImageKit](https://github.com/hzbd/imagekit)
 
-作者写的一些 Bash 脚本，用于 Linux 系统管理。（[@hvhghv](https://github.com/ruanyf/weekly/issues/7337) 投稿）
+批量图片处理的命令行工具，使用 Rust 语言编写。（[@hzbd](https://github.com/ruanyf/weekly/issues/7387) 投稿）
 
-9、[订阅管理系统](https://github.com/huhusmang/Subscription-Management)（Subscription Management System）
+9、[刷新率体验](https://github.com/MaskerPRC/refresh-rate-expericence)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073001.webp)
 
-一个开源的 Web 应用，管理和追踪各种订阅服务的费用及续订，支持多币种。（[@huhusmang](https://github.com/ruanyf/weekly/issues/7340) 投稿）
+一个 Web 应用，让用户拖动虚拟窗口，体验不同的屏幕刷新率造成的 UI 延迟，[代码开源](https://fps.agitao.me/)。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/7396) 投稿）
 
-10、[WIMOOR](https://github.com/wimoor-erp/wimoor)
+10、[weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072405.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073005.webp)
 
-一个开源的跨境电商 ERP 管理系统，用来商品管理、订单处理、物流运输、财务结算等。（[@bingodada893-boop](https://github.com/ruanyf/weekly/issues/7345) 投稿）
+一个命令行工具，根据 Git 提交记录生成周报。（[@yinzhenyu-su](https://github.com/ruanyf/weekly/issues/7398) 投稿）
+
+11、[Issue2File](https://github.com/ibarryyan/issue2file)
+
+一个 Go 语言编写的工具，一键将 GitHub 仓库的所有 issue 导出，保存为 Markdown 文件。（[@ibarryyan](https://github.com/ruanyf/weekly/issues/7403) 投稿）
 
 
 ### 资源
 
 
-1、[购房指北](https://how-to-buy-house.vercel.app/home)
+1、[LangShift.dev](https://langshift.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072601.webp)
 
-这个网站将国家统计局每月发布的全国70个大中城市的房价指数，做成趋势图，便于查看趋势，[代码开源](https://github.com/851235550/how-to-buy-house)。（[@851235550](https://github.com/ruanyf/weekly/issues/7312) 投稿）
+通过比较不同的计算机语言，学习新语言，[源码开源](https://github.com/erweixin/langshift.dev)。（[@erweixin](https://github.com/ruanyf/weekly/issues/7346) 投稿）
 
-2、[手机博物馆](https://chaz.fun/)
+2、[LaTeX 训练营](https://pipeak.share4y.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073004.webp)
 
-该网站对一些经典的诺基亚手机，进行了建模，可以 3D 查看，甚至可以开机，进入系统操作。（[@hzh0292](https://github.com/ruanyf/weekly/issues/7344) 投稿）
-
-3、[微软3号楼](https://my.matterport.com/show/?m=SZSV6vjcf4L)
-
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072101.webp)
-
-想参观微软办公楼吗？这是微软西雅图总部3号楼的 3D 导览，可以进入每一层楼的每一条走廊。
-
-这幢楼是早期办公楼，没有所有人共享办公空间的大平层，而是每个人都有自己的办公室。
-
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072102.webp)
-
-4、[CSS Exercises](https://github.com/TheOdinProject/css-exercises)
-
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072109.webp)
-
-一个 CSS 练习题仓库，分成初级、中级、高级，提供每道题的答案。（[@Codeniu](https://github.com/ruanyf/weekly/issues/7318) 投稿）
+Latex 的免费中文课程，学习数学公式语法，在线动手练习，[代码开源](https://github.com/prehisle/pipeak)。（[@prehisle](https://github.com/ruanyf/weekly/issues/7397) 投稿）
 
 
 ### 言论
@@ -118,31 +106,31 @@
 
 1、
 
-人们不应该互相发送文件副本。副本下载后就无法自动更新，也没有任何保护措施，谁都可以打开，而且永远无法撤销。
+学习自己真正想学的东西，最容易学进去，学习效果最好。做自己想做的事，最有动力，最有满足感。
 
-正确的做法是，不要把数据保存在自己电脑的某个文件中，也不要保存在云盘的文件夹。数据应该存在于数据库中，而不是 Excel 文件，然后针对每个人设置访问权限。
+这就是为什么你要锻炼意志力。只有意志坚强，你才能做出决定并付诸行动，选定自己的目标，去学去做。
 
--- [《我们必须停止互相发送文件》](https://simonwillison.net/2025/Jul/17/terence-eden/)
+-- [《用 AI 发展自己》](https://simonwillison.net/2025/Jul/24/recurse-center/)
 
 2、
 
-如果人类文明崩溃，我计划用 U 盘装几个大模型，让它们在本地硬件上运行。这就像拥有一个精简的维基百科，我就可以借助 U 盘来重启文明社会。
+对我来说，编程远不止是一项技能，而是一种探索、尝试和满足好奇心的方式。
 
--- [《如何在笔记本电脑运行大模型》](https://simonwillison.net/2025/Jul/18/how-to-run-an-llm-on-your-laptop)
+我好几次放弃编程了，但最终都重新捡起。编程是我与世界互动的方式。
+
+--[《我为什么从事编程》](https://esafev.com/notes/why-i-do-programming/)
 
 3、
 
-假定 AI 每一步的正确率是95%，那么使用20步后，整个项目的正确率将只有36%。
+迟早有一天，互联网将变成一个信息污水池，99%都是 AI 生成的信息污水，搜索引擎不再有效。
 
--- [《为什么我不好看当前的 AI 智能体》](https://utkarshkanwat.com/writing/betting-against-agents/)
+--[《GPT 可能是一种信息病毒》](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
 
 4、
 
-我有个朋友，经常阅读中国研究人员撰写的英语论文。多年来，这些论文都很难读懂，往往有无法理解的句子。
+我进入软件行业是因为我对此充满热情。十年后，大部分热情都消失了，我被敏捷开发的 Scrum 仪式和无休止的产品需求变更打败了。现在，我做完我的工作就会回家。
 
-突然间 AI 出现了，他收到的论文文笔优美，论证严谨，显然经过了 AI 改写。几十年来，美国一直拥有优势，因为英语是科学文献的主导语言，AI 一夜之间就摧毁了这种优势。 
-
--- [美国 Los Alamos 国家实验室的工作人员](https://web.archive.org/web/20250513011050/https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=42639087)
 
 
 <!-- End -->
