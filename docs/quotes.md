@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#言论)
+
+
+1、
+
+最糟糕的情况是，一个不懂编程的人使用 AI，编写出了一个需要长期维护的大型项目。这就好比把信用卡交给不懂事的孩子。
+
+一旦代码出问题，如果你不理解代码，就只能让 AI 为你修复，这就像用一张信用卡偿还另一张信用卡的债务。
+
+-- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
+
+2、
+
+人们总幻想，自己的晚年身边充满了朋友、儿女、孙辈，以及一群热情洋溢的亲人。但是，真正的现实是，很多人的晚年是家人疏远或者不和，自身视力不佳、行动不便，甚至大小便失禁和痴呆。
+
+日复一日地为每个孤独的人提供一个倾听者和诉说者，只有 AI 能做到。
+
+-- [《AI 将解决孤独问题》](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
+
+3、
+
+面试的现场编码环节，考察的不是你的编程能力，而是抗压能力。
+
+不擅长面试的现场编码，并不意味着你是一个糟糕的程序员，恰恰说明你是一个正常人。
+
+-- [《现场编码很糟糕》](https://hadid.dev/posts/living-coding/)
+
+4、
+
+我们只担心学生使用 AI 做作业，事实上，更应该担心的是教师使用 AI。
+
+很多老师为了节省时间，正在用 AI 快速生成低质量、毫无意义的 PPT 和讲义。
+
+-- [《教师使用 AI 正在失控》](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
+
+5、
+
+我这辈子认识的聪明人，没有一个是不大量读书的，一个也没有。巴菲特的阅读量之大，会让你大吃一惊。我的孩子们甚至嘲笑我，是一本伸出几条腿的书。
+
+-- [芒格](https://raohacker.com/rao-reading-algorithm/)，著名投资家
+
+
 ## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#言论)
 
 

@@ -16,89 +16,96 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>359</currentVersion> -->
+<!-- <currentVersion>360</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md)
+# [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md)
 ### 工具
 
 
-1、[Kelp](https://kelpui.com/)
+1、[Tinyauth](https://github.com/steveiliop56/tinyauth)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072609.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080306.webp)
 
-一个基于 Web Components 的网页组件库，提供网页样式的完整解决方案。
+一个自架设的身份认证方案，支持密码、OAuth、TOTP 和 LDAP 等，要比同样免费的 [Authelia](https://www.authelia.com/) 更简单易用。 
 
-2、[Ethersync](https://github.com/ethersync/ethersync)
+2、[copyparty](https://github.com/9001/copyparty)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073007.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072801.webp)
 
-一个同步服务器，使用者安装后，再选择它的编辑器插件（NeoVim/VScode/Web），就可以实现编辑器同步。
+一个 Python 程序，将目录变成文件服务器，可以查看文件，支持 http、webdav、ftp 等多种协议。
 
-3、[Ansible Web 管理面板](https://github.com/sky22333/ansible-ui)
+3、[Termix](https://github.com/LukeGus/Termix)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080701.webp)
 
-提供 Ansible 的 Web 界面（批量主机管理、运行剧本任务、命令执行、文件传输和 Web 终端等）。（[@sky22333](https://github.com/ruanyf/weekly/issues/7352) 投稿）
+一个自架设的 Web 服务，用来在网页上使用 SSH 连接远程服务器，让浏览器可以进行命令行操作，参见[介绍文章](https://www.xda-developers.com/access-terminal-anywhere-with-lightweight-browser-based-solution/)。
 
-4、[WebSocket DevTools](https://github.com/law-chain-hot/websocket-devtools)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073104.webp)
+4、[packetd](https://github.com/packetd/packetd)
 
-Chrome 开源插件，专门用于 WebSocket 调试，提供监控、拦截、模拟、收藏等功能。（[@law-chain-hot](https://github.com/ruanyf/weekly/issues/7407) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080507.webp)
 
-5、[PongHub](https://github.com/WCY-dt/ponghub)
+查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。（[@chenjiandongx](https://github.com/ruanyf/weekly/issues/7456) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072604.webp)
+5、[MiroTalk](https://github.com/miroslavpejic85/mirotalksfu)
 
-一个开源的服务监控平台，通过 GitHub Actions 去监控服务是否正常在线。（[@WCY-dt](https://github.com/ruanyf/weekly/issues/7361) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080204.webp)
 
-6、[TrendRadar](https://github.com/sansan0/TrendRadar)
+基于浏览器 WebRTC 的在线视频通信开源解决方案，链接是多人视频会议版本，另有[点对点通信版本](https://github.com/miroslavpejic85/mirotalk)、[一对一通信版本](https://github.com/miroslavpejic85/mirotalkc2c)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7412) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072806.webp)
+6、[AppCub](https://appcub.io/)
 
-开源的新闻热点助手，通过 GitHub Pages 抓取国内11个主流平台的热点新闻，可以指定主题。（[@sansan0](https://github.com/ruanyf/weekly/issues/7375) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080502.webp)
 
-7、[MUSIX](https://github.com/coolcode/musix)
+制作手机 App 截图的在线工具。（[@saviourdog](https://github.com/ruanyf/weekly/issues/7453) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072807.webp)
+7、[PanSou](https://github.com/fish2018/pansou)
 
-Rust 语言写的终端 MP3 播放器。（[@coolcode](https://github.com/ruanyf/weekly/issues/7382) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080503.webp)
 
-8、[ImageKit](https://github.com/hzbd/imagekit)
+开源的网盘资源搜索 API 服务，提供聚合搜索服务，需要自己架设。（[@fish2018](https://github.com/ruanyf/weekly/issues/7454) 投稿）
 
-批量图片处理的命令行工具，使用 Rust 语言编写。（[@hzbd](https://github.com/ruanyf/weekly/issues/7387) 投稿）
+8、[Canarytoken](https://canarytokens.org/nest/)
 
-9、[刷新率体验](https://github.com/MaskerPRC/refresh-rate-expericence)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080601.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073001.webp)
+一个蜜罐服务，创造出各种虚假的 URL、DNS、数据库、二维码等等。一旦攻击者访问该资源，你就会得到通知。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/7460) 投稿）
 
-一个 Web 应用，让用户拖动虚拟窗口，体验不同的屏幕刷新率造成的 UI 延迟，[代码开源](https://fps.agitao.me/)。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/7396) 投稿）
+9、[Pixel Motion](https://pixel-motion.yysuni.com/)
 
-10、[weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073005.webp)
+在线的像素图作图工具，可以同屏制作多个动画帧。（[@YYsuni](https://github.com/ruanyf/weekly/issues/7469) 投稿）
 
-一个命令行工具，根据 Git 提交记录生成周报。（[@yinzhenyu-su](https://github.com/ruanyf/weekly/issues/7398) 投稿）
+10、[snapDOM](https://github.com/zumerlab/snapdom)
 
-11、[Issue2File](https://github.com/ibarryyan/issue2file)
-
-一个 Go 语言编写的工具，一键将 GitHub 仓库的所有 issue 导出，保存为 Markdown 文件。（[@ibarryyan](https://github.com/ruanyf/weekly/issues/7403) 投稿）
+一个 JS 库，生成指定的 DOM 节点的截图。
 
 
 ### 资源
 
 
-1、[LangShift.dev](https://langshift.dev/)
+1、[SVG-LOGO](https://svglogo.top/?view=original)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080206.webp)
 
-通过比较不同的计算机语言，学习新语言，[源码开源](https://github.com/erweixin/langshift.dev)。（[@erweixin](https://github.com/ruanyf/weekly/issues/7346) 投稿）
+该网站收录中国国内的各种标志 LOGO 的 SVG 文件，目前有700多个。（[@HeyHuazi](https://github.com/ruanyf/weekly/issues/7436) 投稿）。
 
-2、[LaTeX 训练营](https://pipeak.share4y.cn/)
+2、[数学手册计算器](https://drhuang.com/chinese/science/mathematics/software/)（MathHand Calculator）
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025073004.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080501.webp)
 
-Latex 的免费中文课程，学习数学公式语法，在线动手练习，[代码开源](https://github.com/prehisle/pipeak)。（[@prehisle](https://github.com/ruanyf/weekly/issues/7397) 投稿）
+一个在线数学工具，包括[数学手册](https://drhuang.com/chinese/science/mathematics/handbook/)、计算器、数学图形绘制等功能。（[@DrHuangCom](https://github.com/ruanyf/weekly/issues/7450) 投稿）
+
+3、[Linux 服务器加固指南](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)（How To Secure A Linux Server）
+
+这个英文仓库收录了启用 Linux 服务器以后的各种安全措施。
+
+4、[SVG 入门](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080506.webp)
+
+一篇长文，介绍 SVG 格式的基础知识。
 
 
 ### 言论
@@ -106,31 +113,41 @@ Latex 的免费中文课程，学习数学公式语法，在线动手练习，[�
 
 1、
 
-学习自己真正想学的东西，最容易学进去，学习效果最好。做自己想做的事，最有动力，最有满足感。
+最糟糕的情况是，一个不懂编程的人使用 AI，编写出了一个需要长期维护的大型项目。这就好比把信用卡交给不懂事的孩子。
 
-这就是为什么你要锻炼意志力。只有意志坚强，你才能做出决定并付诸行动，选定自己的目标，去学去做。
+一旦代码出问题，如果你不理解代码，就只能让 AI 为你修复，这就像用一张信用卡偿还另一张信用卡的债务。
 
--- [《用 AI 发展自己》](https://simonwillison.net/2025/Jul/24/recurse-center/)
+-- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
 
 2、
 
-对我来说，编程远不止是一项技能，而是一种探索、尝试和满足好奇心的方式。
+人们总幻想，自己的晚年身边充满了朋友、儿女、孙辈，以及一群热情洋溢的亲人。但是，真正的现实是，很多人的晚年是家人疏远或者不和，自身视力不佳、行动不便，甚至大小便失禁和痴呆。
 
-我好几次放弃编程了，但最终都重新捡起。编程是我与世界互动的方式。
+日复一日地为每个孤独的人提供一个倾听者和诉说者，只有 AI 能做到。
 
---[《我为什么从事编程》](https://esafev.com/notes/why-i-do-programming/)
+-- [《AI 将解决孤独问题》](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
 
 3、
 
-迟早有一天，互联网将变成一个信息污水池，99%都是 AI 生成的信息污水，搜索引擎不再有效。
+面试的现场编码环节，考察的不是你的编程能力，而是抗压能力。
 
---[《GPT 可能是一种信息病毒》](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
+不擅长面试的现场编码，并不意味着你是一个糟糕的程序员，恰恰说明你是一个正常人。
+
+-- [《现场编码很糟糕》](https://hadid.dev/posts/living-coding/)
 
 4、
 
-我进入软件行业是因为我对此充满热情。十年后，大部分热情都消失了，我被敏捷开发的 Scrum 仪式和无休止的产品需求变更打败了。现在，我做完我的工作就会回家。
+我们只担心学生使用 AI 做作业，事实上，更应该担心的是教师使用 AI。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=42639087)
+很多老师为了节省时间，正在用 AI 快速生成低质量、毫无意义的 PPT 和讲义。
+
+-- [《教师使用 AI 正在失控》](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
+
+5、
+
+我这辈子认识的聪明人，没有一个是不大量读书的，一个也没有。巴菲特的阅读量之大，会让你大吃一惊。我的孩子们甚至嘲笑我，是一本伸出几条腿的书。
+
+-- [芒格](https://raohacker.com/rao-reading-algorithm/)，著名投资家
 
 
 <!-- End -->

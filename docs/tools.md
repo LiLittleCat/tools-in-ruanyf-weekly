@@ -1,5 +1,68 @@
 # 工具
 
+## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#工具)
+
+
+1、[Tinyauth](https://github.com/steveiliop56/tinyauth)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080306.webp)
+
+一个自架设的身份认证方案，支持密码、OAuth、TOTP 和 LDAP 等，要比同样免费的 [Authelia](https://www.authelia.com/) 更简单易用。 
+
+2、[copyparty](https://github.com/9001/copyparty)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072801.webp)
+
+一个 Python 程序，将目录变成文件服务器，可以查看文件，支持 http、webdav、ftp 等多种协议。
+
+3、[Termix](https://github.com/LukeGus/Termix)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080701.webp)
+
+一个自架设的 Web 服务，用来在网页上使用 SSH 连接远程服务器，让浏览器可以进行命令行操作，参见[介绍文章](https://www.xda-developers.com/access-terminal-anywhere-with-lightweight-browser-based-solution/)。
+
+
+4、[packetd](https://github.com/packetd/packetd)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080507.webp)
+
+查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。（[@chenjiandongx](https://github.com/ruanyf/weekly/issues/7456) 投稿）
+
+5、[MiroTalk](https://github.com/miroslavpejic85/mirotalksfu)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080204.webp)
+
+基于浏览器 WebRTC 的在线视频通信开源解决方案，链接是多人视频会议版本，另有[点对点通信版本](https://github.com/miroslavpejic85/mirotalk)、[一对一通信版本](https://github.com/miroslavpejic85/mirotalkc2c)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7412) 投稿）
+
+6、[AppCub](https://appcub.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080502.webp)
+
+制作手机 App 截图的在线工具。（[@saviourdog](https://github.com/ruanyf/weekly/issues/7453) 投稿）
+
+7、[PanSou](https://github.com/fish2018/pansou)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080503.webp)
+
+开源的网盘资源搜索 API 服务，提供聚合搜索服务，需要自己架设。（[@fish2018](https://github.com/ruanyf/weekly/issues/7454) 投稿）
+
+8、[Canarytoken](https://canarytokens.org/nest/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080601.webp)
+
+一个蜜罐服务，创造出各种虚假的 URL、DNS、数据库、二维码等等。一旦攻击者访问该资源，你就会得到通知。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/7460) 投稿）
+
+9、[Pixel Motion](https://pixel-motion.yysuni.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080706.webp)
+
+在线的像素图作图工具，可以同屏制作多个动画帧。（[@YYsuni](https://github.com/ruanyf/weekly/issues/7469) 投稿）
+
+10、[snapDOM](https://github.com/zumerlab/snapdom)
+
+一个 JS 库，生成指定的 DOM 节点的截图。
+
+
 ## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#工具)
 
 

@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#资源)
+
+
+1、[SVG-LOGO](https://svglogo.top/?view=original)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080206.webp)
+
+该网站收录中国国内的各种标志 LOGO 的 SVG 文件，目前有700多个。（[@HeyHuazi](https://github.com/ruanyf/weekly/issues/7436) 投稿）。
+
+2、[数学手册计算器](https://drhuang.com/chinese/science/mathematics/software/)（MathHand Calculator）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080501.webp)
+
+一个在线数学工具，包括[数学手册](https://drhuang.com/chinese/science/mathematics/handbook/)、计算器、数学图形绘制等功能。（[@DrHuangCom](https://github.com/ruanyf/weekly/issues/7450) 投稿）
+
+3、[Linux 服务器加固指南](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)（How To Secure A Linux Server）
+
+这个英文仓库收录了启用 Linux 服务器以后的各种安全措施。
+
+4、[SVG 入门](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080506.webp)
+
+一篇长文，介绍 SVG 格式的基础知识。
+
+
 ## [科技爱好者周刊（第 359 期）：Palantir 值得关注](https://github.com/ruanyf/weekly/blob/master/docs/issue-359.md#资源)
 
 
