@@ -1,5 +1,71 @@
 # 工具
 
+## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#工具)
+
+
+1、[Battery](https://github.com/actuallymentor/battery)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081103.webp)
+
+一个 Macbook 笔记本的小工具，使得充电只能充到80%。
+
+2、[Readeck](https://readeck.org)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081108.webp)
+
+一个自托管的 Web 应用，用来收藏书签，自动保存网页内容。
+
+3、[missing.css](https://missing.style/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081308.webp)
+
+一个 CSS 库，提供一套精简、可扩展的样式方案。
+
+4、[My idlers](https://github.com/cp6/my-idlers)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081109.webp)
+
+一个自托管的 Web 应用，用来统一管理你的虚拟主机、共享主机和域名，参见[介绍文章](https://www.xda-developers.com/use-self-hosted-app-tabs-home-server-vps-domains/)。
+
+5、[Kimu](https://trykimu.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081113.webp)
+
+基于 Web 的视频编辑器，支持接入 AI，[代码开源](https://github.com/robinroy03/videoeditor)。
+
+6、[vYinn](https://github.com/shanleiguang/vYinn)（殷人）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080901.webp)
+
+古籍印章图案的制作工具。（[@shanleiguang](https://github.com/ruanyf/weekly/issues/7486) 投稿）
+
+7、[Call-Me](https://github.com/miroslavpejic85/call-me)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080902.webp)
+
+一个开源网站，在浏览器中实现一对一视频通话，有 [Demo](https://cme.mirotalk.com/)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7500) 投稿）
+
+8、[Modern MD Editor](https://github.com/xiaobox/mdeditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081101.webp)
+
+一个基于 Web 的 Markdown 编辑器，生成适配微信公众号/社交平台的可视化 HTML 代码。（[@xiaobox](https://github.com/ruanyf/weekly/issues/7506) 投稿）
+
+另有一个使用 AI 生成的[微信 Markdown 编辑器](https://www.md2wechat.cn/)。（[@geekjourneyx](https://github.com/ruanyf/weekly/issues/7513) 投稿）
+
+9、[流畅阅读](https://github.com/Bistutu/FluentRead)（FluentRead）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081202.webp)
+
+浏览器开源插件，“[沉浸式翻译](https://immersivetranslate.com/zh-Hans/)”的开源替代品，支持多种翻译引擎和 AI 大模型，提供双语翻译、划词翻译等特性。（[@Bistutu](https://github.com/ruanyf/weekly/issues/7514) 投稿）
+
+10、[Diff Excel](https://github.com/zbuzhi/diff-excel)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081204.webp)
+
+一个开源的桌面应用，用来比较两个 Excel 表格的差异，使用 Go 语言编写。（[@zbuzhi](https://github.com/ruanyf/weekly/issues/7523) 投稿）
+
+
 ## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#工具)
 
 

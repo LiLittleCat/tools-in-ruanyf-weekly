@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#言论)
+
+
+1、
+
+AI 公司的融资有多么疯狂，前 OpenAI 公司首席科学家伊尔亚·苏茨克维在2024年筹集了10亿美元，几个月前又筹集了20亿美元，他的公司估值320亿美元。
+
+据我所知，它唯一的产出就是网站上仅有的370个词，每个词价值8000多万美元，其中148个词还是关于合伙人离开公司的事情。不过，至少他还有个网站，有些创始人拿到钱以后简直销声匿迹了。
+
+-- [Substack 周刊](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
+
+2、
+
+保险公司十分担心，随着全球变暖、极端天气越来越多，资产的损失风险快速上升，世界正变得无法保险了。
+
+-- [《世界很快将无法投保》](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
+
+3、
+
+Windows 11 的更新包，原本叫做春季包和秋季包。后来，有人反映，这不适用于南半球，就改名为 H1 更新包 和 H2 更新包。
+
+-- [《为什么 Windows 更新包叫做 H1 和 H2》](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
+
+4、
+
+十多年来，编程训练营一直是硅谷的支柱产业。如今，AI 使得公司减少入门级职位的招聘，并且学生可以跟随 AI 自学，编程训练营正在逐渐消失。
+
+-- [路透社](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
+
+5、
+
+人们以为自己在思考，其实是在重新编排自己的偏见。
+
+-- [威廉·詹姆斯](https://quoteinvestigator.com/2017/05/10/merely/)（William James），美国哲学家
+
+
 ## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#言论)
 
 

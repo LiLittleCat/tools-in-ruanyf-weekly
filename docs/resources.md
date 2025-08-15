@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#资源)
+
+
+1、[One Million Screenshots](https://onemillionscreenshots.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081104.webp)
+
+这个网页号称由100万张网页截图组成，可以放大缩小查看。
+
+2、[Engineering.fyi](https://engineering.fyi/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081105.webp)
+
+这个网站将各大互联网公司的技术文章（英文）收集在一起。
+
+3、[Touch Mapper](https://touch-mapper.org/en/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081011.webp)
+
+这个网站的创意很棒，你输入一个街道地址，它输出该地址的 3D 地图文件，可以 3D 打印出来，供视障人士触摸使用。
+
+4、[Pricing Pages Design](https://pricingpages.design/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081205.webp)
+
+这个网站收集各种定价页的设计。
+
+
 ## [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md#资源)
 
 

@@ -16,96 +16,101 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>360</currentVersion> -->
+<!-- <currentVersion>361</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 360 期）：Dan Wang 的新书](https://github.com/ruanyf/weekly/blob/master/docs/issue-360.md)
+# [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md)
 ### 工具
 
 
-1、[Tinyauth](https://github.com/steveiliop56/tinyauth)
+1、[Battery](https://github.com/actuallymentor/battery)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080306.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081103.webp)
 
-一个自架设的身份认证方案，支持密码、OAuth、TOTP 和 LDAP 等，要比同样免费的 [Authelia](https://www.authelia.com/) 更简单易用。 
+一个 Macbook 笔记本的小工具，使得充电只能充到80%。
 
-2、[copyparty](https://github.com/9001/copyparty)
+2、[Readeck](https://readeck.org)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081108.webp)
 
-一个 Python 程序，将目录变成文件服务器，可以查看文件，支持 http、webdav、ftp 等多种协议。
+一个自托管的 Web 应用，用来收藏书签，自动保存网页内容。
 
-3、[Termix](https://github.com/LukeGus/Termix)
+3、[missing.css](https://missing.style/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081308.webp)
 
-一个自架设的 Web 服务，用来在网页上使用 SSH 连接远程服务器，让浏览器可以进行命令行操作，参见[介绍文章](https://www.xda-developers.com/access-terminal-anywhere-with-lightweight-browser-based-solution/)。
+一个 CSS 库，提供一套精简、可扩展的样式方案。
 
+4、[My idlers](https://github.com/cp6/my-idlers)
 
-4、[packetd](https://github.com/packetd/packetd)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081109.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080507.webp)
+一个自托管的 Web 应用，用来统一管理你的虚拟主机、共享主机和域名，参见[介绍文章](https://www.xda-developers.com/use-self-hosted-app-tabs-home-server-vps-domains/)。
 
-查看网络数据包的命令行工具，支持解析多种网络协议，可以查看数据包来回的完整对话。（[@chenjiandongx](https://github.com/ruanyf/weekly/issues/7456) 投稿）
+5、[Kimu](https://trykimu.com/)
 
-5、[MiroTalk](https://github.com/miroslavpejic85/mirotalksfu)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081113.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080204.webp)
+基于 Web 的视频编辑器，支持接入 AI，[代码开源](https://github.com/robinroy03/videoeditor)。
 
-基于浏览器 WebRTC 的在线视频通信开源解决方案，链接是多人视频会议版本，另有[点对点通信版本](https://github.com/miroslavpejic85/mirotalk)、[一对一通信版本](https://github.com/miroslavpejic85/mirotalkc2c)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7412) 投稿）
+6、[vYinn](https://github.com/shanleiguang/vYinn)（殷人）
 
-6、[AppCub](https://appcub.io/)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080502.webp)
+古籍印章图案的制作工具。（[@shanleiguang](https://github.com/ruanyf/weekly/issues/7486) 投稿）
 
-制作手机 App 截图的在线工具。（[@saviourdog](https://github.com/ruanyf/weekly/issues/7453) 投稿）
+7、[Call-Me](https://github.com/miroslavpejic85/call-me)
 
-7、[PanSou](https://github.com/fish2018/pansou)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080503.webp)
+一个开源网站，在浏览器中实现一对一视频通话，有 [Demo](https://cme.mirotalk.com/)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7500) 投稿）
 
-开源的网盘资源搜索 API 服务，提供聚合搜索服务，需要自己架设。（[@fish2018](https://github.com/ruanyf/weekly/issues/7454) 投稿）
+8、[Modern MD Editor](https://github.com/xiaobox/mdeditor)
 
-8、[Canarytoken](https://canarytokens.org/nest/)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081101.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080601.webp)
+一个基于 Web 的 Markdown 编辑器，生成适配微信公众号/社交平台的可视化 HTML 代码。（[@xiaobox](https://github.com/ruanyf/weekly/issues/7506) 投稿）
 
-一个蜜罐服务，创造出各种虚假的 URL、DNS、数据库、二维码等等。一旦攻击者访问该资源，你就会得到通知。（[@jerrylususu](https://github.com/ruanyf/weekly/issues/7460) 投稿）
+另有一个使用 AI 生成的[微信 Markdown 编辑器](https://www.md2wechat.cn/)。（[@geekjourneyx](https://github.com/ruanyf/weekly/issues/7513) 投稿）
 
-9、[Pixel Motion](https://pixel-motion.yysuni.com/)
+9、[流畅阅读](https://github.com/Bistutu/FluentRead)（FluentRead）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081202.webp)
 
-在线的像素图作图工具，可以同屏制作多个动画帧。（[@YYsuni](https://github.com/ruanyf/weekly/issues/7469) 投稿）
+浏览器开源插件，“[沉浸式翻译](https://immersivetranslate.com/zh-Hans/)”的开源替代品，支持多种翻译引擎和 AI 大模型，提供双语翻译、划词翻译等特性。（[@Bistutu](https://github.com/ruanyf/weekly/issues/7514) 投稿）
 
-10、[snapDOM](https://github.com/zumerlab/snapdom)
+10、[Diff Excel](https://github.com/zbuzhi/diff-excel)
 
-一个 JS 库，生成指定的 DOM 节点的截图。
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081204.webp)
+
+一个开源的桌面应用，用来比较两个 Excel 表格的差异，使用 Go 语言编写。（[@zbuzhi](https://github.com/ruanyf/weekly/issues/7523) 投稿）
 
 
 ### 资源
 
 
-1、[SVG-LOGO](https://svglogo.top/?view=original)
+1、[One Million Screenshots](https://onemillionscreenshots.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081104.webp)
 
-该网站收录中国国内的各种标志 LOGO 的 SVG 文件，目前有700多个。（[@HeyHuazi](https://github.com/ruanyf/weekly/issues/7436) 投稿）。
+这个网页号称由100万张网页截图组成，可以放大缩小查看。
 
-2、[数学手册计算器](https://drhuang.com/chinese/science/mathematics/software/)（MathHand Calculator）
+2、[Engineering.fyi](https://engineering.fyi/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081105.webp)
 
-一个在线数学工具，包括[数学手册](https://drhuang.com/chinese/science/mathematics/handbook/)、计算器、数学图形绘制等功能。（[@DrHuangCom](https://github.com/ruanyf/weekly/issues/7450) 投稿）
+这个网站将各大互联网公司的技术文章（英文）收集在一起。
 
-3、[Linux 服务器加固指南](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)（How To Secure A Linux Server）
+3、[Touch Mapper](https://touch-mapper.org/en/)
 
-这个英文仓库收录了启用 Linux 服务器以后的各种安全措施。
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081011.webp)
 
-4、[SVG 入门](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)（英文）
+这个网站的创意很棒，你输入一个街道地址，它输出该地址的 3D 地图文件，可以 3D 打印出来，供视障人士触摸使用。
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080506.webp)
+4、[Pricing Pages Design](https://pricingpages.design/)
 
-一篇长文，介绍 SVG 格式的基础知识。
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081205.webp)
+
+这个网站收集各种定价页的设计。
 
 
 ### 言论
@@ -113,41 +118,35 @@
 
 1、
 
-最糟糕的情况是，一个不懂编程的人使用 AI，编写出了一个需要长期维护的大型项目。这就好比把信用卡交给不懂事的孩子。
+AI 公司的融资有多么疯狂，前 OpenAI 公司首席科学家伊尔亚·苏茨克维在2024年筹集了10亿美元，几个月前又筹集了20亿美元，他的公司估值320亿美元。
 
-一旦代码出问题，如果你不理解代码，就只能让 AI 为你修复，这就像用一张信用卡偿还另一张信用卡的债务。
+据我所知，它唯一的产出就是网站上仅有的370个词，每个词价值8000多万美元，其中148个词还是关于合伙人离开公司的事情。不过，至少他还有个网站，有些创始人拿到钱以后简直销声匿迹了。
 
--- [《氛围编程是技术债》](https://simonwillison.net/2025/Jul/30/steve-krouse/)
+-- [Substack 周刊](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
 
 2、
 
-人们总幻想，自己的晚年身边充满了朋友、儿女、孙辈，以及一群热情洋溢的亲人。但是，真正的现实是，很多人的晚年是家人疏远或者不和，自身视力不佳、行动不便，甚至大小便失禁和痴呆。
+保险公司十分担心，随着全球变暖、极端天气越来越多，资产的损失风险快速上升，世界正变得无法保险了。
 
-日复一日地为每个孤独的人提供一个倾听者和诉说者，只有 AI 能做到。
-
--- [《AI 将解决孤独问题》](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
+-- [《世界很快将无法投保》](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
 
 3、
 
-面试的现场编码环节，考察的不是你的编程能力，而是抗压能力。
+Windows 11 的更新包，原本叫做春季包和秋季包。后来，有人反映，这不适用于南半球，就改名为 H1 更新包 和 H2 更新包。
 
-不擅长面试的现场编码，并不意味着你是一个糟糕的程序员，恰恰说明你是一个正常人。
-
--- [《现场编码很糟糕》](https://hadid.dev/posts/living-coding/)
+-- [《为什么 Windows 更新包叫做 H1 和 H2》](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
 
 4、
 
-我们只担心学生使用 AI 做作业，事实上，更应该担心的是教师使用 AI。
+十多年来，编程训练营一直是硅谷的支柱产业。如今，AI 使得公司减少入门级职位的招聘，并且学生可以跟随 AI 自学，编程训练营正在逐渐消失。
 
-很多老师为了节省时间，正在用 AI 快速生成低质量、毫无意义的 PPT 和讲义。
-
--- [《教师使用 AI 正在失控》](https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/)
+-- [路透社](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
 
 5、
 
-我这辈子认识的聪明人，没有一个是不大量读书的，一个也没有。巴菲特的阅读量之大，会让你大吃一惊。我的孩子们甚至嘲笑我，是一本伸出几条腿的书。
+人们以为自己在思考，其实是在重新编排自己的偏见。
 
--- [芒格](https://raohacker.com/rao-reading-algorithm/)，著名投资家
+-- [威廉·詹姆斯](https://quoteinvestigator.com/2017/05/10/merely/)（William James），美国哲学家
 
 
 <!-- End -->
