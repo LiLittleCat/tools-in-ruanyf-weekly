@@ -16,101 +16,102 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>361</currentVersion> -->
+<!-- <currentVersion>362</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md)
+# [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md)
 ### 工具
 
 
-1、[Battery](https://github.com/actuallymentor/battery)
+1、[doxx](https://github.com/bgreenwell/doxx)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081809.webp)
 
-一个 Macbook 笔记本的小工具，使得充电只能充到80%。
+终端查看 docx 文件的命令行工具。
 
-2、[Readeck](https://readeck.org)
+2、[IntraScribe](https://github.com/weynechen/intrascribe)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081601.webp)
 
-一个自托管的 Web 应用，用来收藏书签，自动保存网页内容。
+面向企事业单位内网环境的一个“语音转文字”的管理协作平台。（[@weynechen](https://github.com/ruanyf/weekly/issues/7542) 投稿）
 
-3、[missing.css](https://missing.style/)
+3、[P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081308.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081602.webp)
 
-一个 CSS 库，提供一套精简、可扩展的样式方案。
+一个开源的 Windows 远程桌面工具，直接运行可执行文件打开远程桌面，无需配置和安装。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7547) 投稿）
 
-4、[My idlers](https://github.com/cp6/my-idlers)
+4、[CuteClock](https://github.com/AkenClub/CuteClock)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081109.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081703.webp)
 
-一个自托管的 Web 应用，用来统一管理你的虚拟主机、共享主机和域名，参见[介绍文章](https://www.xda-developers.com/use-self-hosted-app-tabs-home-server-vps-domains/)。
+一个开源硬件项目，基于 ESP8266 的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。（[@AkenClub](https://github.com/ruanyf/weekly/issues/7553) 投稿）
 
-5、[Kimu](https://trykimu.com/)
+5、[CleanYourMac](https://github.com/GitDzreal93/clean-your-mac)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081113.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081704.webp)
 
-基于 Web 的视频编辑器，支持接入 AI，[代码开源](https://github.com/robinroy03/videoeditor)。
+开源的 Mac 应用，智能清理工具，使用 AI 分析要删除的文件。（[@GitDzreal93](https://github.com/ruanyf/weekly/issues/7555) 投稿）
 
-6、[vYinn](https://github.com/shanleiguang/vYinn)（殷人）
+6、[Next QR Code Generator](https://github.com/chromium-style-qrcode/next-qrcode-generator)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081801.webp)
 
-古籍印章图案的制作工具。（[@shanleiguang](https://github.com/ruanyf/weekly/issues/7486) 投稿）
+Firefox 浏览器的开源插件，为页面生成类似 Chrome 的二维码。（[@liuliangsir](https://github.com/ruanyf/weekly/issues/7563) 投稿）
 
-7、[Call-Me](https://github.com/miroslavpejic85/call-me)
+7、[Translator 快速翻译](https://github.com/AnYi-0/Translator)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025080902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081802.webp)
 
-一个开源网站，在浏览器中实现一对一视频通话，有 [Demo](https://cme.mirotalk.com/)。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7500) 投稿）
+Chrome 浏览器的离线翻译插件，基于浏览器新的 Translator API 和 Language Detector API，不用网络也能翻译。（[@AnYi-0](https://github.com/ruanyf/weekly/issues/7562) 投稿）
 
-8、[Modern MD Editor](https://github.com/xiaobox/mdeditor)
+8、[Jupyter Notebook 转换网站](https://ipynbtopdf.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082003.webp)
 
-一个基于 Web 的 Markdown 编辑器，生成适配微信公众号/社交平台的可视化 HTML 代码。（[@xiaobox](https://github.com/ruanyf/weekly/issues/7506) 投稿）
+这个网站可以将 ipynb 文件转化为 PDF、HTML 和 Python。（[@CurioChen77](https://github.com/ruanyf/weekly/issues/7587) 投稿）
 
-另有一个使用 AI 生成的[微信 Markdown 编辑器](https://www.md2wechat.cn/)。（[@geekjourneyx](https://github.com/ruanyf/weekly/issues/7513) 投稿）
+9、[Docker Pull Script](https://github.com/luckfu/docker_pull)
 
-9、[流畅阅读](https://github.com/Bistutu/FluentRead)（FluentRead）
+一个 Python 脚本，用于从指定镜像源下载 Docker 镜像，支持并发下载、智能缓存（layer 增量更新）。（[@luckfu](
+https://github.com/ruanyf/weekly/issues/5931#issuecomment-3205330268) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081202.webp)
+10、[Make Graph](https://makegraph.app/editor)
 
-浏览器开源插件，“[沉浸式翻译](https://immersivetranslate.com/zh-Hans/)”的开源替代品，支持多种翻译引擎和 AI 大模型，提供双语翻译、划词翻译等特性。（[@Bistutu](https://github.com/ruanyf/weekly/issues/7514) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082102.webp)
 
-10、[Diff Excel](https://github.com/zbuzhi/diff-excel)
+在线图表制作网站，支持主流图表类型，可导出 SVG。（[@bimohxh](https://github.com/ruanyf/weekly/issues/7597) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081204.webp)
+另有一个类似工具 [ChartFromText](https://chartfromtext.com/)，输入数据，在线生成各种图表。（[@StevenWuHao](https://github.com/ruanyf/weekly/issues/7601) 投稿）
 
-一个开源的桌面应用，用来比较两个 Excel 表格的差异，使用 Go 语言编写。（[@zbuzhi](https://github.com/ruanyf/weekly/issues/7523) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082104.webp)
 
 
 ### 资源
 
 
-1、[One Million Screenshots](https://onemillionscreenshots.com)
+1、[中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081104.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081705.webp)
 
-这个网页号称由100万张网页截图组成，可以放大缩小查看。
+中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。（[@ZedeX](https://github.com/ruanyf/weekly/issues/7556) 投稿）
 
-2、[Engineering.fyi](https://engineering.fyi/)
+2、[在线硬件测试平台](https://volumeshader.org/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081702.webp)
 
-这个网站将各大互联网公司的技术文章（英文）收集在一起。
+网页测试各种硬件（GPU、屏幕、网络、摄像头、声音、鼠标、键盘）。（[@linhuaqian](https://github.com/ruanyf/weekly/issues/7552) 投稿）
 
-3、[Touch Mapper](https://touch-mapper.org/en/)
+3、[业余无线电执照考试模拟](https://github.com/AlliotTech/ham-exam-web)（2025 题库）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081011.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082002.webp)
 
-这个网站的创意很棒，你输入一个街道地址，它输出该地址的 3D 地图文件，可以 3D 打印出来，供视障人士触摸使用。
+基于官方最新题库构建的在线模拟与练习的 Web 应用。（[@AlliotTech](https://github.com/ruanyf/weekly/issues/7585) 投稿）
 
-4、[Pricing Pages Design](https://pricingpages.design/)
+4、[Citywalki](https://www.citywalki.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081804.webp)
 
-这个网站收集各种定价页的设计。
+这个网站让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的 Youtube 视频，体验不错。
 
 
 ### 言论
@@ -118,35 +119,33 @@
 
 1、
 
-AI 公司的融资有多么疯狂，前 OpenAI 公司首席科学家伊尔亚·苏茨克维在2024年筹集了10亿美元，几个月前又筹集了20亿美元，他的公司估值320亿美元。
+我计划写一本 Gleam 编程语言的书。但是，AI 已经能非常清晰地解释 Gleam 了，而且还能回应读者的任何要求。
 
-据我所知，它唯一的产出就是网站上仅有的370个词，每个词价值8000多万美元，其中148个词还是关于合伙人离开公司的事情。不过，至少他还有个网站，有些创始人拿到钱以后简直销声匿迹了。
+虽然我自信，自己目前写得要比 AI 好，但是实在没有理由，说服自己去这样做。你花数百小时写书，赚到的钱根本不值得这样付出。
 
--- [Substack 周刊](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
+有了 AI，我不知道，人们以后写书的动力是什么，大概只会为了乐趣而写作。
+
+-- [《AI 引发的身份危机》](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
 
 2、
 
-保险公司十分担心，随着全球变暖、极端天气越来越多，资产的损失风险快速上升，世界正变得无法保险了。
+让我难以抗拒的是，与中国打交道比与世界其他任何地方打交道都容易得多。我给中国某人发邮件，对方肯定会在24小时内回复，更有可能在4小时内。
 
--- [《世界很快将无法投保》](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html)
+给一家欧盟或美国公司发邮件，通常要等上好几天才能收到回复。在与中国公司打交道时，我从未见过这种情况，一次也没有。而且，他们的 B2B 大型电商平台几乎总是提供全天候在线客服和采购支持。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44936016)
 
 3、
 
-Windows 11 的更新包，原本叫做春季包和秋季包。后来，有人反映，这不适用于南半球，就改名为 H1 更新包 和 H2 更新包。
+AI 不会减少你掌握新技能所需要付出的努力，只会让你产生不必学习就已经学会的错觉。 
 
--- [《为什么 Windows 更新包叫做 H1 和 H2》](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
+-- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
 
 4、
 
-十多年来，编程训练营一直是硅谷的支柱产业。如今，AI 使得公司减少入门级职位的招聘，并且学生可以跟随 AI 自学，编程训练营正在逐渐消失。
+可靠、透明的程序通常不符合程序设计者的利益。
 
--- [路透社](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
-
-5、
-
-人们以为自己在思考，其实是在重新编排自己的偏见。
-
--- [威廉·詹姆斯](https://quoteinvestigator.com/2017/05/10/merely/)（William James），美国哲学家
+-- [尼克劳斯·维尔特](https://en.wikiquote.org/wiki/Niklaus_Wirth)（Niklaus Wirth），计算机科学家，图灵奖得主
 
 
 <!-- End -->

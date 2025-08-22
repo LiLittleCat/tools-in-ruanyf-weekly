@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#言论)
+
+
+1、
+
+我计划写一本 Gleam 编程语言的书。但是，AI 已经能非常清晰地解释 Gleam 了，而且还能回应读者的任何要求。
+
+虽然我自信，自己目前写得要比 AI 好，但是实在没有理由，说服自己去这样做。你花数百小时写书，赚到的钱根本不值得这样付出。
+
+有了 AI，我不知道，人们以后写书的动力是什么，大概只会为了乐趣而写作。
+
+-- [《AI 引发的身份危机》](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
+
+2、
+
+让我难以抗拒的是，与中国打交道比与世界其他任何地方打交道都容易得多。我给中国某人发邮件，对方肯定会在24小时内回复，更有可能在4小时内。
+
+给一家欧盟或美国公司发邮件，通常要等上好几天才能收到回复。在与中国公司打交道时，我从未见过这种情况，一次也没有。而且，他们的 B2B 大型电商平台几乎总是提供全天候在线客服和采购支持。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44936016)
+
+3、
+
+AI 不会减少你掌握新技能所需要付出的努力，只会让你产生不必学习就已经学会的错觉。 
+
+-- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
+
+4、
+
+可靠、透明的程序通常不符合程序设计者的利益。
+
+-- [尼克劳斯·维尔特](https://en.wikiquote.org/wiki/Niklaus_Wirth)（Niklaus Wirth），计算机科学家，图灵奖得主
+
+
 ## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#言论)
 
 

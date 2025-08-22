@@ -1,5 +1,72 @@
 # 工具
 
+## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#工具)
+
+
+1、[doxx](https://github.com/bgreenwell/doxx)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081809.webp)
+
+终端查看 docx 文件的命令行工具。
+
+2、[IntraScribe](https://github.com/weynechen/intrascribe)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081601.webp)
+
+面向企事业单位内网环境的一个“语音转文字”的管理协作平台。（[@weynechen](https://github.com/ruanyf/weekly/issues/7542) 投稿）
+
+3、[P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081602.webp)
+
+一个开源的 Windows 远程桌面工具，直接运行可执行文件打开远程桌面，无需配置和安装。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7547) 投稿）
+
+4、[CuteClock](https://github.com/AkenClub/CuteClock)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081703.webp)
+
+一个开源硬件项目，基于 ESP8266 的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。（[@AkenClub](https://github.com/ruanyf/weekly/issues/7553) 投稿）
+
+5、[CleanYourMac](https://github.com/GitDzreal93/clean-your-mac)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081704.webp)
+
+开源的 Mac 应用，智能清理工具，使用 AI 分析要删除的文件。（[@GitDzreal93](https://github.com/ruanyf/weekly/issues/7555) 投稿）
+
+6、[Next QR Code Generator](https://github.com/chromium-style-qrcode/next-qrcode-generator)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081801.webp)
+
+Firefox 浏览器的开源插件，为页面生成类似 Chrome 的二维码。（[@liuliangsir](https://github.com/ruanyf/weekly/issues/7563) 投稿）
+
+7、[Translator 快速翻译](https://github.com/AnYi-0/Translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081802.webp)
+
+Chrome 浏览器的离线翻译插件，基于浏览器新的 Translator API 和 Language Detector API，不用网络也能翻译。（[@AnYi-0](https://github.com/ruanyf/weekly/issues/7562) 投稿）
+
+8、[Jupyter Notebook 转换网站](https://ipynbtopdf.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082003.webp)
+
+这个网站可以将 ipynb 文件转化为 PDF、HTML 和 Python。（[@CurioChen77](https://github.com/ruanyf/weekly/issues/7587) 投稿）
+
+9、[Docker Pull Script](https://github.com/luckfu/docker_pull)
+
+一个 Python 脚本，用于从指定镜像源下载 Docker 镜像，支持并发下载、智能缓存（layer 增量更新）。（[@luckfu](
+https://github.com/ruanyf/weekly/issues/5931#issuecomment-3205330268) 投稿）
+
+10、[Make Graph](https://makegraph.app/editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082102.webp)
+
+在线图表制作网站，支持主流图表类型，可导出 SVG。（[@bimohxh](https://github.com/ruanyf/weekly/issues/7597) 投稿）
+
+另有一个类似工具 [ChartFromText](https://chartfromtext.com/)，输入数据，在线生成各种图表。（[@StevenWuHao](https://github.com/ruanyf/weekly/issues/7601) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082104.webp)
+
+
 ## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#工具)
 
 

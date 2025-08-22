@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#资源)
+
+
+1、[中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081705.webp)
+
+中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。（[@ZedeX](https://github.com/ruanyf/weekly/issues/7556) 投稿）
+
+2、[在线硬件测试平台](https://volumeshader.org/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081702.webp)
+
+网页测试各种硬件（GPU、屏幕、网络、摄像头、声音、鼠标、键盘）。（[@linhuaqian](https://github.com/ruanyf/weekly/issues/7552) 投稿）
+
+3、[业余无线电执照考试模拟](https://github.com/AlliotTech/ham-exam-web)（2025 题库）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082002.webp)
+
+基于官方最新题库构建的在线模拟与练习的 Web 应用。（[@AlliotTech](https://github.com/ruanyf/weekly/issues/7585) 投稿）
+
+4、[Citywalki](https://www.citywalki.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081804.webp)
+
+这个网站让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的 Youtube 视频，体验不错。
+
+
 ## [科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-361.md#资源)
 
 
