@@ -16,102 +16,111 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>362</currentVersion> -->
+<!-- <currentVersion>363</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md)
+# [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md)
 ### 工具
 
 
-1、[doxx](https://github.com/bgreenwell/doxx)
+1、[Gonzo](https://github.com/control-theory/gonzo)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081809.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082705.webp)
 
-终端查看 docx 文件的命令行工具。
+基于终端的日志文件查看工具。
 
-2、[IntraScribe](https://github.com/weynechen/intrascribe)
+2、[Filestash](https://github.com/mickael-kerjean/filestash)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082506.webp)
 
-面向企事业单位内网环境的一个“语音转文字”的管理协作平台。（[@weynechen](https://github.com/ruanyf/weekly/issues/7542) 投稿）
+一个网页版的文件管理器，支持 S3、FTP、WebDAV、Git、Mysql、Backblaze 等各种协议和云服务。
 
-3、[P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+3、[Anchor Relay](https://anchor.dev/relay)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082201.webp)
 
-一个开源的 Windows 远程桌面工具，直接运行可执行文件打开远程桌面，无需配置和安装。（[@miroslavpejic85](https://github.com/ruanyf/weekly/issues/7547) 投稿）
+生成免费 HTTPs 证书的网站。
 
-4、[CuteClock](https://github.com/AkenClub/CuteClock)
+4、[PlutoPrint](https://github.com/plutoprint/plutoprint)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082202.webp)
 
-一个开源硬件项目，基于 ESP8266 的智能时钟，可以显示时间和天气，支持小爱同学语音控制，自带 Web 和小程序客户端。（[@AkenClub](https://github.com/ruanyf/weekly/issues/7553) 投稿）
+一个 Python 库，将 HTML 网页/代码转为高质量的 PDF 文件。
 
-5、[CleanYourMac](https://github.com/GitDzreal93/clean-your-mac)
+5、[MarkFlowy](https://markflowy.vercel.app/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082402.webp)
 
-开源的 Mac 应用，智能清理工具，使用 AI 分析要删除的文件。（[@GitDzreal93](https://github.com/ruanyf/weekly/issues/7555) 投稿）
+跨平台的 Markdown 桌面编辑器，内置 AI 支持，代码开源。（[@drl990114](https://github.com/ruanyf/weekly/issues/7618) 投稿）
 
-6、[Next QR Code Generator](https://github.com/chromium-style-qrcode/next-qrcode-generator)
+6、[Pixel Art Generator](https://imgtopixel.art/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082404.webp)
 
-Firefox 浏览器的开源插件，为页面生成类似 Chrome 的二维码。（[@liuliangsir](https://github.com/ruanyf/weekly/issues/7563) 投稿）
+一个在线的 Web 应用，一键将图片转成像素画，可以设置像素尺寸、颜色数量、调色板风格。（[@leah626888](https://github.com/ruanyf/weekly/issues/7619) 投稿）
 
-7、[Translator 快速翻译](https://github.com/AnYi-0/Translator)
+7、[Peek Pop](https://github.com/u-Sir/peek-pop)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082503.webp)
 
-Chrome 浏览器的离线翻译插件，基于浏览器新的 Translator API 和 Language Detector API，不用网络也能翻译。（[@AnYi-0](https://github.com/ruanyf/weekly/issues/7562) 投稿）
+开源的浏览器插件，鼠标指向某个链接时，弹出一个窗口，可以预览该链接。（[@u-Sir](https://github.com/ruanyf/weekly/issues/7626) 投稿）
 
-8、[Jupyter Notebook 转换网站](https://ipynbtopdf.net/)
+8、[naive-ui-pro](https://github.com/Zheng-Changfu/naive-ui-pro)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082504.webp)
 
-这个网站可以将 ipynb 文件转化为 PDF、HTML 和 Python。（[@CurioChen77](https://github.com/ruanyf/weekly/issues/7587) 投稿）
+中后台管理面板的前端解决方案，基于 vue3 + vite。（[@Zheng-Changfu](https://github.com/ruanyf/weekly/issues/7627) 投稿）
 
-9、[Docker Pull Script](https://github.com/luckfu/docker_pull)
+9、[文件快传](https://github.com/MatrixSeven/file-transfer-go)
 
-一个 Python 脚本，用于从指定镜像源下载 Docker 镜像，支持并发下载、智能缓存（layer 增量更新）。（[@luckfu](
-https://github.com/ruanyf/weekly/issues/5931#issuecomment-3205330268) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082702.webp)
 
-10、[Make Graph](https://makegraph.app/editor)
+开源的 P2P 文件传输的网页应用，基于 WebRTC。（[@MatrixSeven](https://github.com/ruanyf/weekly/issues/7631) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082102.webp)
+10、[Dataset Viewer](https://github.com/stardustai/dataset-viewer)
 
-在线图表制作网站，支持主流图表类型，可导出 SVG。（[@bimohxh](https://github.com/ruanyf/weekly/issues/7597) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082703.webp)
 
-另有一个类似工具 [ChartFromText](https://chartfromtext.com/)，输入数据，在线生成各种图表。（[@StevenWuHao](https://github.com/ruanyf/weekly/issues/7601) 投稿）
+开源的桌面文件查看器，支持绝大部分常用格式，可以快速查看本地或云端的大文件和压缩包。（[@F-loat](https://github.com/ruanyf/weekly/issues/7634) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082104.webp)
+11、[字帖生成器](https://luhuadong.com/tools/calligraphy-generator)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082804.webp)
+
+输入中文文字，生成带有米字格和拼音的字帖的网页应用。（[@luhuadong](https://github.com/ruanyf/weekly/issues/7652) 投稿）
+
+12、[云之彼端串口助手](https://serial.xywml.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082805.webp)
+
+一款 Web 应用，在线串口调试助手，兼容 STM32、DSP、物联网 IoT 设备。（[@xywml](https://github.com/ruanyf/weekly/issues/7658) 投稿）
 
 
 ### 资源
 
 
-1、[中小学语文示范诵读库](https://zedex.github.io/mandarin-reading-resource/)
+1、[天体地图](https://atlasof.space/)（Atlas of Space）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082701.webp)
 
-中央人民广播电台[中小学语文示范诵读库](https://edu.cnr.cn/eduzt/ywkwsfsd/)的 Web 前端，课文按年级、学期分类。（[@ZedeX](https://github.com/ruanyf/weekly/issues/7556) 投稿）
+太阳系在线地图，会根据日期显示每个行星的运动。
 
-2、[在线硬件测试平台](https://volumeshader.org/zh)
+2、[all text in nyc](https://www.alltext.nyc/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081301.webp)
 
-网页测试各种硬件（GPU、屏幕、网络、摄像头、声音、鼠标、键盘）。（[@linhuaqian](https://github.com/ruanyf/weekly/issues/7552) 投稿）
+这个网站对纽约街景照片做了文字识别，可以搜索某个词在纽约街头（路牌/招牌）出现的地点。
 
-3、[业余无线电执照考试模拟](https://github.com/AlliotTech/ham-exam-web)（2025 题库）
+3、[机械图书馆](https://mechanical-library.org/)（Mechanical Library）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050407.webp)
 
-基于官方最新题库构建的在线模拟与练习的 Web 应用。（[@AlliotTech](https://github.com/ruanyf/weekly/issues/7585) 投稿）
+这个网站详细介绍8种机械装置（比如[减速齿轮](https://mechanical-library.org/gear-reduction)）。
 
-4、[Citywalki](https://www.citywalki.com)
+4、[Is this tech dead?](https://www.isthistechdead.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081804.webp)
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042903.webp)
 
-这个网站让你感受在世界200多个城市步行/开车/飞无人机。选择城市和移动方式后，它会全屏播放相应的 Youtube 视频，体验不错。
+用户输入一种技术的名字，这个网站会根据各种指标（网络热度、代码更新时间等等）判断该技术是否已经死亡。
 
 
 ### 言论
@@ -119,33 +128,33 @@ https://github.com/ruanyf/weekly/issues/5931#issuecomment-3205330268) 投稿）
 
 1、
 
-我计划写一本 Gleam 编程语言的书。但是，AI 已经能非常清晰地解释 Gleam 了，而且还能回应读者的任何要求。
+我认为台积电是人类史上最好的公司之一，任何想买台积电股票的都是非常聪明的人。
 
-虽然我自信，自己目前写得要比 AI 好，但是实在没有理由，说服自己去这样做。你花数百小时写书，赚到的钱根本不值得这样付出。
-
-有了 AI，我不知道，人们以后写书的动力是什么，大概只会为了乐趣而写作。
-
--- [《AI 引发的身份危机》](https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/)
+-- Nvidia 董事长黄仁勋，台湾记者问他怎么看待美国政府可能入股台积电。他做了上面的回答，谁也不得罪，而且听了都很开心，他太会说话了。
 
 2、
 
-让我难以抗拒的是，与中国打交道比与世界其他任何地方打交道都容易得多。我给中国某人发邮件，对方肯定会在24小时内回复，更有可能在4小时内。
+分布式系统，不是指系统分布在不同计算机，而是指系统包含两个或两个以上交互的进程，无论它们是否位于同一主机上。
 
-给一家欧盟或美国公司发邮件，通常要等上好几天才能收到回复。在与中国公司打交道时，我从未见过这种情况，一次也没有。而且，他们的 B2B 大型电商平台几乎总是提供全天候在线客服和采购支持。
-
--- [Hacker News 读者](https://news.ycombinator.com/item?id=44936016)
+-- [《什么是分布式系统》](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
 
 3、
 
-AI 不会减少你掌握新技能所需要付出的努力，只会让你产生不必学习就已经学会的错觉。 
+大模型是压缩信息的一种方式，即使不精确、有幻觉和遗漏，也比什么都没有要好。大模型已经是一个可用的、公开的、有损的互联网压缩视图。
 
--- [《AI 让人产生虚假的掌控感》](https://playtechnique.io/blog/ai-doesnt-lighten-the-burden-of-mastery.html)
+-- [《大模型的权重是历史的一部分》](https://antirez.com/news/147)
 
 4、
 
-可靠、透明的程序通常不符合程序设计者的利益。
+以前，编写软件好于手工操作；现在，编写 AI 提示好于编写软件。
 
--- [尼克劳斯·维尔特](https://en.wikiquote.org/wiki/Niklaus_Wirth)（Niklaus Wirth），计算机科学家，图灵奖得主
+-- [《提示式编程》](https://www.gibney.org/prompt_coding)
+
+5、
+
+whisper-large-v3 模型将中文视频的语音转成文字时，遇到静音的片段，会自动生成文字“仅供学习/研究，请在48小时后删除”，这说明它是用字幕组的字幕文件训练的。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44643922)
 
 
 <!-- End -->

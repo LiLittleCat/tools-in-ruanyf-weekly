@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md#资源)
+
+
+1、[天体地图](https://atlasof.space/)（Atlas of Space）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082701.webp)
+
+太阳系在线地图，会根据日期显示每个行星的运动。
+
+2、[all text in nyc](https://www.alltext.nyc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081301.webp)
+
+这个网站对纽约街景照片做了文字识别，可以搜索某个词在纽约街头（路牌/招牌）出现的地点。
+
+3、[机械图书馆](https://mechanical-library.org/)（Mechanical Library）
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050407.webp)
+
+这个网站详细介绍8种机械装置（比如[减速齿轮](https://mechanical-library.org/gear-reduction)）。
+
+4、[Is this tech dead?](https://www.isthistechdead.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042903.webp)
+
+用户输入一种技术的名字，这个网站会根据各种指标（网络热度、代码更新时间等等）判断该技术是否已经死亡。
+
+
 ## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#资源)
 
 

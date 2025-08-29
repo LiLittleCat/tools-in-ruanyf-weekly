@@ -1,5 +1,81 @@
 # 工具
 
+## [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md#工具)
+
+
+1、[Gonzo](https://github.com/control-theory/gonzo)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082705.webp)
+
+基于终端的日志文件查看工具。
+
+2、[Filestash](https://github.com/mickael-kerjean/filestash)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082506.webp)
+
+一个网页版的文件管理器，支持 S3、FTP、WebDAV、Git、Mysql、Backblaze 等各种协议和云服务。
+
+3、[Anchor Relay](https://anchor.dev/relay)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082201.webp)
+
+生成免费 HTTPs 证书的网站。
+
+4、[PlutoPrint](https://github.com/plutoprint/plutoprint)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082202.webp)
+
+一个 Python 库，将 HTML 网页/代码转为高质量的 PDF 文件。
+
+5、[MarkFlowy](https://markflowy.vercel.app/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082402.webp)
+
+跨平台的 Markdown 桌面编辑器，内置 AI 支持，代码开源。（[@drl990114](https://github.com/ruanyf/weekly/issues/7618) 投稿）
+
+6、[Pixel Art Generator](https://imgtopixel.art/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082404.webp)
+
+一个在线的 Web 应用，一键将图片转成像素画，可以设置像素尺寸、颜色数量、调色板风格。（[@leah626888](https://github.com/ruanyf/weekly/issues/7619) 投稿）
+
+7、[Peek Pop](https://github.com/u-Sir/peek-pop)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082503.webp)
+
+开源的浏览器插件，鼠标指向某个链接时，弹出一个窗口，可以预览该链接。（[@u-Sir](https://github.com/ruanyf/weekly/issues/7626) 投稿）
+
+8、[naive-ui-pro](https://github.com/Zheng-Changfu/naive-ui-pro)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082504.webp)
+
+中后台管理面板的前端解决方案，基于 vue3 + vite。（[@Zheng-Changfu](https://github.com/ruanyf/weekly/issues/7627) 投稿）
+
+9、[文件快传](https://github.com/MatrixSeven/file-transfer-go)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082702.webp)
+
+开源的 P2P 文件传输的网页应用，基于 WebRTC。（[@MatrixSeven](https://github.com/ruanyf/weekly/issues/7631) 投稿）
+
+10、[Dataset Viewer](https://github.com/stardustai/dataset-viewer)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082703.webp)
+
+开源的桌面文件查看器，支持绝大部分常用格式，可以快速查看本地或云端的大文件和压缩包。（[@F-loat](https://github.com/ruanyf/weekly/issues/7634) 投稿）
+
+11、[字帖生成器](https://luhuadong.com/tools/calligraphy-generator)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082804.webp)
+
+输入中文文字，生成带有米字格和拼音的字帖的网页应用。（[@luhuadong](https://github.com/ruanyf/weekly/issues/7652) 投稿）
+
+12、[云之彼端串口助手](https://serial.xywml.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082805.webp)
+
+一款 Web 应用，在线串口调试助手，兼容 STM32、DSP、物联网 IoT 设备。（[@xywml](https://github.com/ruanyf/weekly/issues/7658) 投稿）
+
+
 ## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#工具)
 
 

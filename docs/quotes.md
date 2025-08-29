@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md#言论)
+
+
+1、
+
+我认为台积电是人类史上最好的公司之一，任何想买台积电股票的都是非常聪明的人。
+
+-- Nvidia 董事长黄仁勋，台湾记者问他怎么看待美国政府可能入股台积电。他做了上面的回答，谁也不得罪，而且听了都很开心，他太会说话了。
+
+2、
+
+分布式系统，不是指系统分布在不同计算机，而是指系统包含两个或两个以上交互的进程，无论它们是否位于同一主机上。
+
+-- [《什么是分布式系统》](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
+
+3、
+
+大模型是压缩信息的一种方式，即使不精确、有幻觉和遗漏，也比什么都没有要好。大模型已经是一个可用的、公开的、有损的互联网压缩视图。
+
+-- [《大模型的权重是历史的一部分》](https://antirez.com/news/147)
+
+4、
+
+以前，编写软件好于手工操作；现在，编写 AI 提示好于编写软件。
+
+-- [《提示式编程》](https://www.gibney.org/prompt_coding)
+
+5、
+
+whisper-large-v3 模型将中文视频的语音转成文字时，遇到静音的片段，会自动生成文字“仅供学习/研究，请在48小时后删除”，这说明它是用字幕组的字幕文件训练的。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=44643922)
+
+
 ## [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-362.md#言论)
 
 
