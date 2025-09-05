@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md#资源)
+
+
+1、[OpenAnimation](https://github.com/orispok/OpenAnimationApp)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083103.webp)
+
+这个仓库专门收集各种基于 Lottie 的动画。
+
+2、[Jujutsu 入门教程](https://jj-for-everyone.github.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090102.webp)
+
+Jujutsu 是一个新兴的代码管理系统，号称比 Git 更好用、更易懂。这个英文教程写给完全不懂 Git 的人。
+
+3、[我收藏的 50 个键盘](https://aresluna.org/50-keyboards-from-my-collection/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090407.webp)
+
+作者是一个国外的键盘收藏家，他列出自己最奇特的50个键盘。
+
+比如，下面的键盘是竖立使用，还贴心地配上镜子，让你能看到按键。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090408.webp)
+
+再比如，手套上的键盘，用另一支手输入。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090409.webp)
+
+还有一个键盘，所有键帽都是一次性套上去的，可以随时换。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090410.webp)
+
+
 ## [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md#资源)
 
 

@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md#言论)
+
+
+1、
+
+一项美国研究发现，AI 对于非名校的毕业生就业冲击最大，对哈佛、MIT 之类的名校毕业生的就业没有什么冲击。
+
+AI 加剧了普通学校的贬值。
+
+-- [《AI 对就业市场的冲击》](https://www.facebook.com/rainchamber123/posts/pfbid02UhZG3w4BBw4CB2Wn334x787v3Hvxh24V51aH1DfyTfpCLgUoh9YtsSk9ptaufoECl)
+
+2、
+
+自己的电脑运行 AI 应用，有三大危险：它能够访问你的私人数据，能够加载不受信任的内容，能够进行外部通信。
+
+-- [Simon Willison](https://martinfowler.com/articles/202508-ai-thoughts.html)
+
+3、
+
+中国有一个概念“吃苦”，美国没有这个概念。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=45057112)
+
+4、
+
+氛围编码真的很有趣，你只需要构思，不需要自己编码。我用了以后才意识到，这才是我真正喜欢的。
+
+-- [《我作为 VC 的氛围编码》](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
+
+5、
+
+SEO（搜索引擎优化）的游戏早就结束了。
+
+大​部​分​人还​在​拼​命​追求 Google 排名，但​用户其实已经离开了 Google。现在只有27%的搜索发生在那里，剩下73%都发生​在 TikTok、Amazon、Reddit、YouTube、甚​至 ChatGPT。
+
+-- [Neil Patel](https://www.facebook.com/groups/403305889834821/?multi_permalinks=3290520761113305)，美国畅销书作者
+
+
 ## [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md#言论)
 
 

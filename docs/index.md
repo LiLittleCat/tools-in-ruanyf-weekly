@@ -16,111 +16,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>363</currentVersion> -->
+<!-- <currentVersion>364</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](https://github.com/ruanyf/weekly/blob/master/docs/issue-363.md)
+# [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md)
 ### 工具
 
 
-1、[Gonzo](https://github.com/control-theory/gonzo)
+1、[sping](https://dseltzer.gitlab.io/sping/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083006.webp)
 
-基于终端的日志文件查看工具。
+ping 命令的增强版，会在终端图形显示每个数据包的延迟。
 
-2、[Filestash](https://github.com/mickael-kerjean/filestash)
+2、[Beszel](https://github.com/henrygd/beszel)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052102.webp)
 
-一个网页版的文件管理器，支持 S3、FTP、WebDAV、Git、Mysql、Backblaze 等各种协议和云服务。
+轻量级服务器监控工具，带有 Web 界面，参考[介绍文章](https://www.xda-developers.com/beszel-feature/)。
 
-3、[Anchor Relay](https://anchor.dev/relay)
+3、[WinApps](https://github.com/winapps-org/winapps)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090411.webp)
 
-生成免费 HTTPs 证书的网站。
+Linux 系统运行 Windows 应用的工具，它会自动启动一个虚拟机来运行，跟 Wine 的原理不一样（它是模拟 Windows API）。
 
-4、[PlutoPrint](https://github.com/plutoprint/plutoprint)
+另有一个类似工具 [WinBoat](https://github.com/TibixDev/winboat)。
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090412.webp)
 
-一个 Python 库，将 HTML 网页/代码转为高质量的 PDF 文件。
+4、[YouTube TUI](https://github.com/Siriusmart/youtube-tui)
 
-5、[MarkFlowy](https://markflowy.vercel.app/zh)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083010.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082402.webp)
+YouTube 的终端客户端，在命令行操作 YouTube。
 
-跨平台的 Markdown 桌面编辑器，内置 AI 支持，代码开源。（[@drl990114](https://github.com/ruanyf/weekly/issues/7618) 投稿）
+5、[LabPlot](https://labplot.org/)
 
-6、[Pixel Art Generator](https://imgtopixel.art/)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083012.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082404.webp)
+数据可视化的桌面软件，会将数据集转成各种图形，据说功能很强。
 
-一个在线的 Web 应用，一键将图片转成像素画，可以设置像素尺寸、颜色数量、调色板风格。（[@leah626888](https://github.com/ruanyf/weekly/issues/7619) 投稿）
+6、[gitlab-to-github](https://github.com/wuuashen/gitlab-to-github)
 
-7、[Peek Pop](https://github.com/u-Sir/peek-pop)
+一个 Python 脚本，一键将你的 GitLab 仓库全部迁移到 GitHub。（[@wuuashen](https://github.com/wuuashen/gitlab-to-github) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082503.webp)
+7、[Telegram 广告拦截机器人](https://github.com/ramsayleung/bayes_spam_sniper)
 
-开源的浏览器插件，鼠标指向某个链接时，弹出一个窗口，可以预览该链接。（[@u-Sir](https://github.com/ruanyf/weekly/issues/7626) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090201.webp)
 
-8、[naive-ui-pro](https://github.com/Zheng-Changfu/naive-ui-pro)
+开源的 Telegram 机器人，使用贝叶斯算法自动拦截群组的广告帖，参见作者的[介绍文章](https://ramsayleung.github.io/zh/post/2025/%E4%B8%80%E4%B8%AA%E8%87%AA%E5%AD%A6%E4%B9%A0%E7%9A%84telegram%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E6%9C%BA%E5%99%A8%E4%BA%BA/)。（[@ramsayleung](https://github.com/ruanyf/weekly/issues/7686) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025082504.webp)
+8、[Foxel](https://github.com/DrizzleTime/Foxel)
 
-中后台管理面板的前端解决方案，基于 vue3 + vite。（[@Zheng-Changfu](https://github.com/ruanyf/weekly/issues/7627) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090202.webp)
 
-9、[文件快传](https://github.com/MatrixSeven/file-transfer-go)
+开源的私有云盘，支持 AI 语义搜索。（[@DrizzleTime](https://github.com/ruanyf/weekly/issues/7687) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082702.webp)
+9、[StoryMotion](https://storymotion.video/)
 
-开源的 P2P 文件传输的网页应用，基于 WebRTC。（[@MatrixSeven](https://github.com/ruanyf/weekly/issues/7631) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090406.webp)
 
-10、[Dataset Viewer](https://github.com/stardustai/dataset-viewer)
+一个基于 Web 的动画编辑器，用来制作嵌入网页的 Excalidraw 手绘风格动画，很适合用来演示。（[@chunrapeepat](https://github.com/ruanyf/weekly/issues/7695) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082703.webp)
+10、[Website Screenshot Online](https://websitescreenshot.online/zh-CN)
 
-开源的桌面文件查看器，支持绝大部分常用格式，可以快速查看本地或云端的大文件和压缩包。（[@F-loat](https://github.com/ruanyf/weekly/issues/7634) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090413.webp)
 
-11、[字帖生成器](https://luhuadong.com/tools/calligraphy-generator)
-
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082804.webp)
-
-输入中文文字，生成带有米字格和拼音的字帖的网页应用。（[@luhuadong](https://github.com/ruanyf/weekly/issues/7652) 投稿）
-
-12、[云之彼端串口助手](https://serial.xywml.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082805.webp)
-
-一款 Web 应用，在线串口调试助手，兼容 STM32、DSP、物联网 IoT 设备。（[@xywml](https://github.com/ruanyf/weekly/issues/7658) 投稿）
+在线免费截屏网站，用户输入网址，它返回该网址的截屏图片，另有[录制页面滚动视频](https://websitescreenshot.online/zh-CN/tools/record-website-video)的工具网站。（[@cryptobanksy](https://github.com/ruanyf/weekly/issues/7705) 投稿）
 
 
 ### 资源
 
 
-1、[天体地图](https://atlasof.space/)（Atlas of Space）
+1、[OpenAnimation](https://github.com/orispok/OpenAnimationApp)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025082701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083103.webp)
 
-太阳系在线地图，会根据日期显示每个行星的运动。
+这个仓库专门收集各种基于 Lottie 的动画。
 
-2、[all text in nyc](https://www.alltext.nyc/)
+2、[Jujutsu 入门教程](https://jj-for-everyone.github.io/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090102.webp)
 
-这个网站对纽约街景照片做了文字识别，可以搜索某个词在纽约街头（路牌/招牌）出现的地点。
+Jujutsu 是一个新兴的代码管理系统，号称比 Git 更好用、更易懂。这个英文教程写给完全不懂 Git 的人。
 
-3、[机械图书馆](https://mechanical-library.org/)（Mechanical Library）
+3、[我收藏的 50 个键盘](https://aresluna.org/50-keyboards-from-my-collection/)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090407.webp)
 
-这个网站详细介绍8种机械装置（比如[减速齿轮](https://mechanical-library.org/gear-reduction)）。
+作者是一个国外的键盘收藏家，他列出自己最奇特的50个键盘。
 
-4、[Is this tech dead?](https://www.isthistechdead.com/)
+比如，下面的键盘是竖立使用，还贴心地配上镜子，让你能看到按键。
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090408.webp)
 
-用户输入一种技术的名字，这个网站会根据各种指标（网络热度、代码更新时间等等）判断该技术是否已经死亡。
+再比如，手套上的键盘，用另一支手输入。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090409.webp)
+
+还有一个键盘，所有键帽都是一次性套上去的，可以随时换。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090410.webp)
 
 
 ### 言论
@@ -128,33 +124,37 @@
 
 1、
 
-我认为台积电是人类史上最好的公司之一，任何想买台积电股票的都是非常聪明的人。
+一项美国研究发现，AI 对于非名校的毕业生就业冲击最大，对哈佛、MIT 之类的名校毕业生的就业没有什么冲击。
 
--- Nvidia 董事长黄仁勋，台湾记者问他怎么看待美国政府可能入股台积电。他做了上面的回答，谁也不得罪，而且听了都很开心，他太会说话了。
+AI 加剧了普通学校的贬值。
+
+-- [《AI 对就业市场的冲击》](https://www.facebook.com/rainchamber123/posts/pfbid02UhZG3w4BBw4CB2Wn334x787v3Hvxh24V51aH1DfyTfpCLgUoh9YtsSk9ptaufoECl)
 
 2、
 
-分布式系统，不是指系统分布在不同计算机，而是指系统包含两个或两个以上交互的进程，无论它们是否位于同一主机上。
+自己的电脑运行 AI 应用，有三大危险：它能够访问你的私人数据，能够加载不受信任的内容，能够进行外部通信。
 
--- [《什么是分布式系统》](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
+-- [Simon Willison](https://martinfowler.com/articles/202508-ai-thoughts.html)
 
 3、
 
-大模型是压缩信息的一种方式，即使不精确、有幻觉和遗漏，也比什么都没有要好。大模型已经是一个可用的、公开的、有损的互联网压缩视图。
+中国有一个概念“吃苦”，美国没有这个概念。
 
--- [《大模型的权重是历史的一部分》](https://antirez.com/news/147)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=45057112)
 
 4、
 
-以前，编写软件好于手工操作；现在，编写 AI 提示好于编写软件。
+氛围编码真的很有趣，你只需要构思，不需要自己编码。我用了以后才意识到，这才是我真正喜欢的。
 
--- [《提示式编程》](https://www.gibney.org/prompt_coding)
+-- [《我作为 VC 的氛围编码》](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
 
 5、
 
-whisper-large-v3 模型将中文视频的语音转成文字时，遇到静音的片段，会自动生成文字“仅供学习/研究，请在48小时后删除”，这说明它是用字幕组的字幕文件训练的。
+SEO（搜索引擎优化）的游戏早就结束了。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=44643922)
+大​部​分​人还​在​拼​命​追求 Google 排名，但​用户其实已经离开了 Google。现在只有27%的搜索发生在那里，剩下73%都发生​在 TikTok、Amazon、Reddit、YouTube、甚​至 ChatGPT。
+
+-- [Neil Patel](https://www.facebook.com/groups/403305889834821/?multi_permalinks=3290520761113305)，美国畅销书作者
 
 
 <!-- End -->
