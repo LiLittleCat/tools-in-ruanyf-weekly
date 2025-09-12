@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#工具)
+
+
+1、[nuclear](https://nuclearplayer.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090709.webp)
+
+一个跨平台的桌面音乐播放器，可以搜索/播放/下载流媒体平台的音乐，免费无广告。
+
+2、[Voice Isolator](https://elevenlabs.io/voice-isolator)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071108.webp)
+
+一个从嘈杂音频提取清晰语音的在线工具。
+
+3、[Counterscale](https://counterscale.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071114.webp)
+
+基于 Cloudflare Worker 的网站访问统计工具。
+
+4、[Malai](https://malai.sh/hello-tcp/)
+
+一个命令行工具，将本机的 TCP 端口分享出去。
+
+5、[Optique](https://github.com/dahlia/optique)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090701.webp)
+
+一个 JS 模块，验证命令行传入的参数是否正确，采用整体判断的方式，比较新颖，参见[文档](https://optique.dev/tutorial)。
+
+6、[koreader](https://koreader.rocks/)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041106.webp)
+
+一个专为墨水屏设备开发的阅读器软件。
+
+7、[PocketBase](https://github.com/pocketbase/pocketbase)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090602.webp)
+
+一个单文件的网站通用后端，包含数据库、用户管理、Web 后台、RESTful API 等。（[@moreant](https://github.com/ruanyf/weekly/issues/7710) 投稿）
+
+8、[PicSharp](https://github.com/AkiraBit/PicSharp)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090603.webp)
+
+图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。（[@AkiraBit](https://github.com/ruanyf/weekly/issues/7717) 投稿）
+
+9、[潦草头像馆](https://github.com/xingxingc/stray_avatar)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090902.webp)
+
+开源的微信小程序，生成随机头像。（[@xingxingc](https://github.com/ruanyf/weekly/issues/7728) 投稿）
+
+10、[vue-renderer-markdown](https://github.com/Simon-He95/vue-markdown-render)
+
+Vue 框架的 markdown 渲染组件，针对 AI 的 markdown 流式传输场景。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/7747) 投稿）
+
+
 ## [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md#工具)
 
 

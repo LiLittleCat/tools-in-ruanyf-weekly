@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#资源)
+
+
+1、[星球大战官方地图](https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090604.webp)
+
+卢卡斯影业公司在官网上，发布了《星球大战官方地图》，标识了电影里面出现过的所有星球的位置。
+
+2、[CSS Bed](https://www.cssbed.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091103.webp)
+
+CSS 框架效果展示网站（类似 [CSS 禅意花园](https://csszengarden.com/)），收集各种无类（classless）的 CSS 框架。
+
+3、[浏览器指纹检测](https://fingerprint.goldenowl.ai/)（Browser Fingerprint Detector）
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091105.webp)
+
+这个网站告诉你，访问一个网页会泄漏多少个人信息。这些信息可以生成你的浏览器指纹，用来追踪你。
+
+
 ## [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md#资源)
 
 

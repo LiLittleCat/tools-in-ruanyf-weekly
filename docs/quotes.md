@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#言论)
+
+
+1、
+
+OpenAI 最近计划开一个网上学院，教授 AI 知识，帮助用户找到新工作。讽刺的是，第一批加入该计划的公司是沃尔玛。
+
+-- [《OpenAI 吃掉工作，然后主动提出帮你在沃尔玛找工作》](https://www.theregister.com/2025/09/05/openai_jobs_board/)
+
+2、
+
+如果美国想效仿中国，就应该从中国的优点开始效仿，比如在学校真正学习数学。
+
+-- [Hacker News 网友](https://news.ycombinator.com/item?id=45151719)
+
+3、
+
+假设一个大模型被要求回答某人的生日，但它不知道。如果它猜测“9月10日”，那么它有1/365的概率猜对。回答“我不知道”，则猜对的概率为零。
+
+-- [《为什么大模型会产生幻觉》](https://openai.com/index/why-language-models-hallucinate/)
+
+4、
+
+英国最近出版了一本魔幻小说，讲的是剑桥大学的研究生前往地狱，拯救导师的灵魂，以便导师能给他们写一封推荐信。
+
+任何读过研究生的人，都能理解这个故事并非玩笑。
+
+-- [PublicBooks.org](https://www.publicbooks.org/dark-academia-grows-up/)
+
+5、
+
+我最近加入一家 AI 公司，发现一位同事已经好几周没看过实际的代码了。他只用简单的英语编写设计文档，然后交给 AI 处理实现。当需要修复某些问题时，他会编辑文档，而不是代码。
+
+这让我深刻地意识到：我们正经历着人类手工将想法转化为代码的时代的终结。
+
+-- [《最后的程序员》](https://www.xipu.li/posts/the-last-programmers)
+
+
 ## [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md#言论)
 
 

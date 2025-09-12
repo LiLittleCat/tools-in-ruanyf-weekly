@@ -16,107 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>364</currentVersion> -->
+<!-- <currentVersion>365</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 364 期）：最难还原的魔方](https://github.com/ruanyf/weekly/blob/master/docs/issue-364.md)
+# [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md)
 ### 工具
 
 
-1、[sping](https://dseltzer.gitlab.io/sping/)
+1、[nuclear](https://nuclearplayer.com)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090709.webp)
 
-ping 命令的增强版，会在终端图形显示每个数据包的延迟。
+一个跨平台的桌面音乐播放器，可以搜索/播放/下载流媒体平台的音乐，免费无广告。
 
-2、[Beszel](https://github.com/henrygd/beszel)
+2、[Voice Isolator](https://elevenlabs.io/voice-isolator)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071108.webp)
 
-轻量级服务器监控工具，带有 Web 界面，参考[介绍文章](https://www.xda-developers.com/beszel-feature/)。
+一个从嘈杂音频提取清晰语音的在线工具。
 
-3、[WinApps](https://github.com/winapps-org/winapps)
+3、[Counterscale](https://counterscale.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090411.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071114.webp)
 
-Linux 系统运行 Windows 应用的工具，它会自动启动一个虚拟机来运行，跟 Wine 的原理不一样（它是模拟 Windows API）。
+基于 Cloudflare Worker 的网站访问统计工具。
 
-另有一个类似工具 [WinBoat](https://github.com/TibixDev/winboat)。
+4、[Malai](https://malai.sh/hello-tcp/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090412.webp)
+一个命令行工具，将本机的 TCP 端口分享出去。
 
-4、[YouTube TUI](https://github.com/Siriusmart/youtube-tui)
+5、[Optique](https://github.com/dahlia/optique)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083010.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090701.webp)
 
-YouTube 的终端客户端，在命令行操作 YouTube。
+一个 JS 模块，验证命令行传入的参数是否正确，采用整体判断的方式，比较新颖，参见[文档](https://optique.dev/tutorial)。
 
-5、[LabPlot](https://labplot.org/)
+6、[koreader](https://koreader.rocks/)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083012.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041106.webp)
 
-数据可视化的桌面软件，会将数据集转成各种图形，据说功能很强。
+一个专为墨水屏设备开发的阅读器软件。
 
-6、[gitlab-to-github](https://github.com/wuuashen/gitlab-to-github)
+7、[PocketBase](https://github.com/pocketbase/pocketbase)
 
-一个 Python 脚本，一键将你的 GitLab 仓库全部迁移到 GitHub。（[@wuuashen](https://github.com/wuuashen/gitlab-to-github) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090602.webp)
 
-7、[Telegram 广告拦截机器人](https://github.com/ramsayleung/bayes_spam_sniper)
+一个单文件的网站通用后端，包含数据库、用户管理、Web 后台、RESTful API 等。（[@moreant](https://github.com/ruanyf/weekly/issues/7710) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090201.webp)
+8、[PicSharp](https://github.com/AkiraBit/PicSharp)
 
-开源的 Telegram 机器人，使用贝叶斯算法自动拦截群组的广告帖，参见作者的[介绍文章](https://ramsayleung.github.io/zh/post/2025/%E4%B8%80%E4%B8%AA%E8%87%AA%E5%AD%A6%E4%B9%A0%E7%9A%84telegram%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E6%9C%BA%E5%99%A8%E4%BA%BA/)。（[@ramsayleung](https://github.com/ruanyf/weekly/issues/7686) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090603.webp)
 
-8、[Foxel](https://github.com/DrizzleTime/Foxel)
+图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。（[@AkiraBit](https://github.com/ruanyf/weekly/issues/7717) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090202.webp)
+9、[潦草头像馆](https://github.com/xingxingc/stray_avatar)
 
-开源的私有云盘，支持 AI 语义搜索。（[@DrizzleTime](https://github.com/ruanyf/weekly/issues/7687) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090902.webp)
 
-9、[StoryMotion](https://storymotion.video/)
+开源的微信小程序，生成随机头像。（[@xingxingc](https://github.com/ruanyf/weekly/issues/7728) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090406.webp)
+10、[vue-renderer-markdown](https://github.com/Simon-He95/vue-markdown-render)
 
-一个基于 Web 的动画编辑器，用来制作嵌入网页的 Excalidraw 手绘风格动画，很适合用来演示。（[@chunrapeepat](https://github.com/ruanyf/weekly/issues/7695) 投稿）
-
-10、[Website Screenshot Online](https://websitescreenshot.online/zh-CN)
-
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090413.webp)
-
-在线免费截屏网站，用户输入网址，它返回该网址的截屏图片，另有[录制页面滚动视频](https://websitescreenshot.online/zh-CN/tools/record-website-video)的工具网站。（[@cryptobanksy](https://github.com/ruanyf/weekly/issues/7705) 投稿）
+Vue 框架的 markdown 渲染组件，针对 AI 的 markdown 流式传输场景。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/7747) 投稿）
 
 
 ### 资源
 
 
-1、[OpenAnimation](https://github.com/orispok/OpenAnimationApp)
+1、[星球大战官方地图](https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025083103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090604.webp)
 
-这个仓库专门收集各种基于 Lottie 的动画。
+卢卡斯影业公司在官网上，发布了《星球大战官方地图》，标识了电影里面出现过的所有星球的位置。
 
-2、[Jujutsu 入门教程](https://jj-for-everyone.github.io/)
+2、[CSS Bed](https://www.cssbed.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091103.webp)
 
-Jujutsu 是一个新兴的代码管理系统，号称比 Git 更好用、更易懂。这个英文教程写给完全不懂 Git 的人。
+CSS 框架效果展示网站（类似 [CSS 禅意花园](https://csszengarden.com/)），收集各种无类（classless）的 CSS 框架。
 
-3、[我收藏的 50 个键盘](https://aresluna.org/50-keyboards-from-my-collection/)
+3、[浏览器指纹检测](https://fingerprint.goldenowl.ai/)（Browser Fingerprint Detector）
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091105.webp)
 
-作者是一个国外的键盘收藏家，他列出自己最奇特的50个键盘。
-
-比如，下面的键盘是竖立使用，还贴心地配上镜子，让你能看到按键。
-
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090408.webp)
-
-再比如，手套上的键盘，用另一支手输入。
-
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090409.webp)
-
-还有一个键盘，所有键帽都是一次性套上去的，可以随时换。
-
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090410.webp)
+这个网站告诉你，访问一个网页会泄漏多少个人信息。这些信息可以生成你的浏览器指纹，用来追踪你。
 
 
 ### 言论
@@ -124,37 +106,37 @@ Jujutsu 是一个新兴的代码管理系统，号称比 Git 更好用、更易�
 
 1、
 
-一项美国研究发现，AI 对于非名校的毕业生就业冲击最大，对哈佛、MIT 之类的名校毕业生的就业没有什么冲击。
+OpenAI 最近计划开一个网上学院，教授 AI 知识，帮助用户找到新工作。讽刺的是，第一批加入该计划的公司是沃尔玛。
 
-AI 加剧了普通学校的贬值。
-
--- [《AI 对就业市场的冲击》](https://www.facebook.com/rainchamber123/posts/pfbid02UhZG3w4BBw4CB2Wn334x787v3Hvxh24V51aH1DfyTfpCLgUoh9YtsSk9ptaufoECl)
+-- [《OpenAI 吃掉工作，然后主动提出帮你在沃尔玛找工作》](https://www.theregister.com/2025/09/05/openai_jobs_board/)
 
 2、
 
-自己的电脑运行 AI 应用，有三大危险：它能够访问你的私人数据，能够加载不受信任的内容，能够进行外部通信。
+如果美国想效仿中国，就应该从中国的优点开始效仿，比如在学校真正学习数学。
 
--- [Simon Willison](https://martinfowler.com/articles/202508-ai-thoughts.html)
+-- [Hacker News 网友](https://news.ycombinator.com/item?id=45151719)
 
 3、
 
-中国有一个概念“吃苦”，美国没有这个概念。
+假设一个大模型被要求回答某人的生日，但它不知道。如果它猜测“9月10日”，那么它有1/365的概率猜对。回答“我不知道”，则猜对的概率为零。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=45057112)
+-- [《为什么大模型会产生幻觉》](https://openai.com/index/why-language-models-hallucinate/)
 
 4、
 
-氛围编码真的很有趣，你只需要构思，不需要自己编码。我用了以后才意识到，这才是我真正喜欢的。
+英国最近出版了一本魔幻小说，讲的是剑桥大学的研究生前往地狱，拯救导师的灵魂，以便导师能给他们写一封推荐信。
 
--- [《我作为 VC 的氛围编码》](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
+任何读过研究生的人，都能理解这个故事并非玩笑。
+
+-- [PublicBooks.org](https://www.publicbooks.org/dark-academia-grows-up/)
 
 5、
 
-SEO（搜索引擎优化）的游戏早就结束了。
+我最近加入一家 AI 公司，发现一位同事已经好几周没看过实际的代码了。他只用简单的英语编写设计文档，然后交给 AI 处理实现。当需要修复某些问题时，他会编辑文档，而不是代码。
 
-大​部​分​人还​在​拼​命​追求 Google 排名，但​用户其实已经离开了 Google。现在只有27%的搜索发生在那里，剩下73%都发生​在 TikTok、Amazon、Reddit、YouTube、甚​至 ChatGPT。
+这让我深刻地意识到：我们正经历着人类手工将想法转化为代码的时代的终结。
 
--- [Neil Patel](https://www.facebook.com/groups/403305889834821/?multi_permalinks=3290520761113305)，美国畅销书作者
+-- [《最后的程序员》](https://www.xipu.li/posts/the-last-programmers)
 
 
 <!-- End -->
