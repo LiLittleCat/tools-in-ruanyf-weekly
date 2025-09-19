@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#言论)
+
+
+1、
+
+有了 AI，代码不再珍贵。
+
+-- [鲍里斯·切尔尼](https://etsd.tech/posts/coders-end/)（Boris Cherny），Claude Code 产品负责人
+
+2、
+
+现在的博物馆大量使用电子屏幕，但是我带儿子去博物馆不是为了看屏幕，否则在家使用平板电脑就可以了。
+
+-- [美国网友](https://sethpurcell.com/writing/screens-in-museums/)
+
+3、
+
+职业生涯就像一场吃馅饼比赛，获胜的奖品是你要接着吃更多的馅饼。
+
+这是否是一件好事，取决于你是否喜欢这项工作。
+
+-- [杰森·朗斯托夫](https://jason.energy/more-pie/)（Jason Lengstorf），美国前端工程师
+
+4、
+
+许多人，尤其是新工程师，错误地认为使用复杂的工具和语言会做出更强大、更具创新性的产品。
+
+事实恰恰相反。最有效的组件是简单、可预测、枯燥无趣的成熟技术。它们为我们提供了进一步开发复杂项目所需的基础。
+
+你不是要建造一座有趣的桥梁，你要建造的是人们以后要充满信心走在上面的坚固桥梁。
+
+-- [《选择无聊和灵活的技术》](https://dkarlovi.github.io/choose-boring/)
+
+
 ## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#言论)
 
 

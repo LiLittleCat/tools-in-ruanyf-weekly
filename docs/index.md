@@ -16,89 +16,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>365</currentVersion> -->
+<!-- <currentVersion>366</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md)
+# [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md)
 ### 工具
 
 
-1、[nuclear](https://nuclearplayer.com)
+1、[Seelen UI](https://github.com/eythaann/Seelen-UI)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090709.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091303.webp)
 
-一个跨平台的桌面音乐播放器，可以搜索/播放/下载流媒体平台的音乐，免费无广告。
+一个 Windows 应用，可以让 Windows 桌面变得像 Mac 桌面，同时集成了工作区和平铺式窗口管理器，参见[介绍文章](https://www.xda-developers.com/4-reasons-seelen-ui-makes-windows-feel-like-new-operating-system/)。
 
-2、[Voice Isolator](https://elevenlabs.io/voice-isolator)
+2、[Ladder](https://github.com/kubero-dev/ladder)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071108.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110703.webp)
 
-一个从嘈杂音频提取清晰语音的在线工具。
+开源的网页抓取查看工具。用户输入网址，它会自动将网页抓取展示出来。
 
-3、[Counterscale](https://counterscale.dev/)
+3、[oq](https://github.com/plutov/oq)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024071114.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091201.webp)
 
-基于 Cloudflare Worker 的网站访问统计工具。
+终端查看 OpenAPI 规格文件的工具。
 
-4、[Malai](https://malai.sh/hello-tcp/)
+4、[httpjail](https://github.com/coder/httpjail)
 
-一个命令行工具，将本机的 TCP 端口分享出去。
+一个跨平台的命令行程序，可以限制本机的 HTTP/HTTPs 请求，只有开白名单，才能发出请求。
 
-5、[Optique](https://github.com/dahlia/optique)
+5、[highlight.io](https://github.com/highlight/highlight)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110711.webp)
 
-一个 JS 模块，验证命令行传入的参数是否正确，采用整体判断的方式，比较新颖，参见[文档](https://optique.dev/tutorial)。
+一个开源的报错监控平台。
 
-6、[koreader](https://koreader.rocks/)
+6、[草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091402.webp)
 
-一个专为墨水屏设备开发的阅读器软件。
+基于 Nuxt 框架的登录平台，支持 OAuth2.0 协议，有邮箱、用户名、手机、验证码、社交媒体等多种登录方式。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/7760) 投稿）
 
-7、[PocketBase](https://github.com/pocketbase/pocketbase)
+7、[Neovide](https://neovide.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072509.webp)
 
-一个单文件的网站通用后端，包含数据库、用户管理、Web 后台、RESTful API 等。（[@moreant](https://github.com/ruanyf/weekly/issues/7710) 投稿）
+Neovim 编辑器的一个跨平台图形界面封装，很多功能都配置好了。
 
-8、[PicSharp](https://github.com/AkiraBit/PicSharp)
+8、[Gokapi](https://github.com/Forceu/Gokapi)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072602.webp)
 
-图片文件压缩的开源桌面软件，跨平台，底层使用 Rust 语言编写。（[@AkiraBit](https://github.com/ruanyf/weekly/issues/7717) 投稿）
+一个自托管的文件分享服务，只有管理员才能上传。
 
-9、[潦草头像馆](https://github.com/xingxingc/stray_avatar)
+9、[Swap.js](https://github.com/josephernest/Swap)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090902.webp)
-
-开源的微信小程序，生成随机头像。（[@xingxingc](https://github.com/ruanyf/weekly/issues/7728) 投稿）
-
-10、[vue-renderer-markdown](https://github.com/Simon-He95/vue-markdown-render)
-
-Vue 框架的 markdown 渲染组件，针对 AI 的 markdown 流式传输场景。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/7747) 投稿）
+一个很简单的 JS 库，通过 Ajax 让普通的多页面网站，产生单页应用的“局部更新”效果。
 
 
 ### 资源
 
 
-1、[星球大战官方地图](https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy)
+1、[PostHog](https://posthog.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025090604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091304.webp)
 
-卢卡斯影业公司在官网上，发布了《星球大战官方地图》，标识了电影里面出现过的所有星球的位置。
+这是一家公司的官网，做得好像操作系统的桌面一样，如果长时间无操作，甚至还会出现屏保。
 
-2、[CSS Bed](https://www.cssbed.com/)
+2、[Katalog](https://www.katalog-barbaraiweins.com/#images)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010205.webp)
 
-CSS 框架效果展示网站（类似 [CSS 禅意花园](https://csszengarden.com/)），收集各种无类（classless）的 CSS 框架。
+一位摄影师为她的每一件个人物品（书籍、衣服、药品等等），拍了一张照片，放到网站上，一共有12795张。
 
-3、[浏览器指纹检测](https://fingerprint.goldenowl.ai/)（Browser Fingerprint Detector）
+她想告诉大家，不要低估你拥有的物品数量。
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091105.webp)
+3、[大数据教科书](https://ghislainfourny.github.io/big-data-textbook/)（The Big Data Textbook）
 
-这个网站告诉你，访问一个网页会泄漏多少个人信息。这些信息可以生成你的浏览器指纹，用来追踪你。
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072404.webp)
+
+苏黎世联邦理工学院的大数据英文教科书，免费阅读。
 
 
 ### 言论
@@ -106,37 +102,33 @@ CSS 框架效果展示网站（类似 [CSS 禅意花园](https://csszengarden.co
 
 1、
 
-OpenAI 最近计划开一个网上学院，教授 AI 知识，帮助用户找到新工作。讽刺的是，第一批加入该计划的公司是沃尔玛。
+有了 AI，代码不再珍贵。
 
--- [《OpenAI 吃掉工作，然后主动提出帮你在沃尔玛找工作》](https://www.theregister.com/2025/09/05/openai_jobs_board/)
+-- [鲍里斯·切尔尼](https://etsd.tech/posts/coders-end/)（Boris Cherny），Claude Code 产品负责人
 
 2、
 
-如果美国想效仿中国，就应该从中国的优点开始效仿，比如在学校真正学习数学。
+现在的博物馆大量使用电子屏幕，但是我带儿子去博物馆不是为了看屏幕，否则在家使用平板电脑就可以了。
 
--- [Hacker News 网友](https://news.ycombinator.com/item?id=45151719)
+-- [美国网友](https://sethpurcell.com/writing/screens-in-museums/)
 
 3、
 
-假设一个大模型被要求回答某人的生日，但它不知道。如果它猜测“9月10日”，那么它有1/365的概率猜对。回答“我不知道”，则猜对的概率为零。
+职业生涯就像一场吃馅饼比赛，获胜的奖品是你要接着吃更多的馅饼。
 
--- [《为什么大模型会产生幻觉》](https://openai.com/index/why-language-models-hallucinate/)
+这是否是一件好事，取决于你是否喜欢这项工作。
+
+-- [杰森·朗斯托夫](https://jason.energy/more-pie/)（Jason Lengstorf），美国前端工程师
 
 4、
 
-英国最近出版了一本魔幻小说，讲的是剑桥大学的研究生前往地狱，拯救导师的灵魂，以便导师能给他们写一封推荐信。
+许多人，尤其是新工程师，错误地认为使用复杂的工具和语言会做出更强大、更具创新性的产品。
 
-任何读过研究生的人，都能理解这个故事并非玩笑。
+事实恰恰相反。最有效的组件是简单、可预测、枯燥无趣的成熟技术。它们为我们提供了进一步开发复杂项目所需的基础。
 
--- [PublicBooks.org](https://www.publicbooks.org/dark-academia-grows-up/)
+你不是要建造一座有趣的桥梁，你要建造的是人们以后要充满信心走在上面的坚固桥梁。
 
-5、
-
-我最近加入一家 AI 公司，发现一位同事已经好几周没看过实际的代码了。他只用简单的英语编写设计文档，然后交给 AI 处理实现。当需要修复某些问题时，他会编辑文档，而不是代码。
-
-这让我深刻地意识到：我们正经历着人类手工将想法转化为代码的时代的终结。
-
--- [《最后的程序员》](https://www.xipu.li/posts/the-last-programmers)
+-- [《选择无聊和灵活的技术》](https://dkarlovi.github.io/choose-boring/)
 
 
 <!-- End -->

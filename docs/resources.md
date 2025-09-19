@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#资源)
+
+
+1、[PostHog](https://posthog.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091304.webp)
+
+这是一家公司的官网，做得好像操作系统的桌面一样，如果长时间无操作，甚至还会出现屏保。
+
+2、[Katalog](https://www.katalog-barbaraiweins.com/#images)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010205.webp)
+
+一位摄影师为她的每一件个人物品（书籍、衣服、药品等等），拍了一张照片，放到网站上，一共有12795张。
+
+她想告诉大家，不要低估你拥有的物品数量。
+
+3、[大数据教科书](https://ghislainfourny.github.io/big-data-textbook/)（The Big Data Textbook）
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072404.webp)
+
+苏黎世联邦理工学院的大数据英文教科书，免费阅读。
+
+
 ## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#资源)
 
 

@@ -1,5 +1,59 @@
 # 工具
 
+## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#工具)
+
+
+1、[Seelen UI](https://github.com/eythaann/Seelen-UI)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091303.webp)
+
+一个 Windows 应用，可以让 Windows 桌面变得像 Mac 桌面，同时集成了工作区和平铺式窗口管理器，参见[介绍文章](https://www.xda-developers.com/4-reasons-seelen-ui-makes-windows-feel-like-new-operating-system/)。
+
+2、[Ladder](https://github.com/kubero-dev/ladder)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110703.webp)
+
+开源的网页抓取查看工具。用户输入网址，它会自动将网页抓取展示出来。
+
+3、[oq](https://github.com/plutov/oq)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091201.webp)
+
+终端查看 OpenAPI 规格文件的工具。
+
+4、[httpjail](https://github.com/coder/httpjail)
+
+一个跨平台的命令行程序，可以限制本机的 HTTP/HTTPs 请求，只有开白名单，才能发出请求。
+
+5、[highlight.io](https://github.com/highlight/highlight)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110711.webp)
+
+一个开源的报错监控平台。
+
+6、[草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091402.webp)
+
+基于 Nuxt 框架的登录平台，支持 OAuth2.0 协议，有邮箱、用户名、手机、验证码、社交媒体等多种登录方式。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/7760) 投稿）
+
+7、[Neovide](https://neovide.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072509.webp)
+
+Neovim 编辑器的一个跨平台图形界面封装，很多功能都配置好了。
+
+8、[Gokapi](https://github.com/Forceu/Gokapi)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072602.webp)
+
+一个自托管的文件分享服务，只有管理员才能上传。
+
+9、[Swap.js](https://github.com/josephernest/Swap)
+
+一个很简单的 JS 库，通过 Ajax 让普通的多页面网站，产生单页应用的“局部更新”效果。
+
+
 ## [科技爱好者周刊（第 365 期）：流量变现正在崩塌](https://github.com/ruanyf/weekly/blob/master/docs/issue-365.md#工具)
 
 
