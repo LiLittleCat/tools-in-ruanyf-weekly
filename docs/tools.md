@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#工具)
+
+
+1、[gpu-kill](https://github.com/kagehq/gpu-kill)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092201.webp)
+
+显示 GPU 运行信息的一个工具，自带 Web 管理面板，支持 Nvidia/AMD/Intel/Apple 各种品牌。
+
+另有一个在线 GPU 性能测试网站 [Volume Shader BM](https://www.volumeshader.dev/)。（[@BOS1980](https://github.com/ruanyf/weekly/issues/7804) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092410.webp)
+
+2、[RustNet](https://github.com/domcyrus/rustnet)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092011.webp)
+
+监控网络流量的终端工具，会显示连接的详细信息，跨平台。
+
+3、[PortNote](https://github.com/crocofied/PortNote)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060114.webp)
+
+一个自托管的仪表盘，列出被各种服务占用的本地端口。与 Compose 文件结合后，可以启动/停止 Docker 容器，参见[介绍文章](https://www.xda-developers.com/reasons-why-portnote-port-of-call-on-every-server/)。
+
+4、[Atlas](https://github.com/karam-ajaj/atlas)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092407.webp)
+
+一个 Docker 容器，扫描当前网络，图形化显示网络节点信息。
+
+5、[Midnight Commander](https://github.com/MidnightCommander/mc)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060107.webp)
+
+基于终端的文件管理器，支持 Linux 和 Mac。
+
+另有一个类似的终端文件管理器 [Yazi](https://github.com/sxyazi/yazi)。
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092408.webp)
+
+6、[frp-tunnel-cli](https://github.com/openapphub/frpc-cli)
+
+内网穿透工具 [frp](https://gofrp.org/zh-cn/docs/overview/) 的一个客户端辅助 Bash 脚本，简化隧道的创建和管理。（[@openapphub](https://github.com/ruanyf/weekly/issues/7785) 投稿）
+
+7、[Hamsterbase Tasks](https://github.com/hamsterbase/tasks)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092101.webp)
+
+开源的任务管理软件，支持 Web/手机/桌面各个平台，可以 Docker 部署。（[@CaryTrivett](https://github.com/ruanyf/weekly/issues/7792) 投稿）
+
+8、[db-back-tool](https://github.com/iKeepLearn/db-back-tool)
+
+网友自己写的 PostgreSQL/MySQL 数据库的备份工具，可以自动备份、加密、压缩数据库，并将备份文件上传至腾讯云 COS 或阿里云 OSS。（[@iKeepLearn](https://github.com/ruanyf/weekly/issues/7798) 投稿）
+
+9、[X-CMD](https://github.com/x-cmd/x-cmd)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092412.webp)
+
+一个命令行工具集，一键启用 1000+ CLI 工具，跨平台，支持 AI 功能。（[@Zhengqbbb](https://github.com/ruanyf/weekly/issues/7806) 投稿）
+
+
 ## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#工具)
 
 

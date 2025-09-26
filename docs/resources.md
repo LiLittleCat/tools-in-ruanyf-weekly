@@ -1,5 +1,19 @@
 # 资源
 
+## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#资源)
+
+
+1、[99个物理小实验](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092003.webp)
+
+一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。
+
+2、[NPM 安全最佳实践](https://github.com/bodadotsh/npm-security-best-practices)
+
+最近爆出了一系列 npm 软件包投毒事件，这个仓库收录了各种 npm 安全措施，分为使用者和发布者两大部分。
+
+
 ## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#资源)
 
 

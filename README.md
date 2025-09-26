@@ -16,85 +16,83 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>366</currentVersion> -->
+<!-- <currentVersion>367</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md)
+# [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md)
 ### 工具
 
 
-1、[Seelen UI](https://github.com/eythaann/Seelen-UI)
+1、[gpu-kill](https://github.com/kagehq/gpu-kill)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092201.webp)
 
-一个 Windows 应用，可以让 Windows 桌面变得像 Mac 桌面，同时集成了工作区和平铺式窗口管理器，参见[介绍文章](https://www.xda-developers.com/4-reasons-seelen-ui-makes-windows-feel-like-new-operating-system/)。
+显示 GPU 运行信息的一个工具，自带 Web 管理面板，支持 Nvidia/AMD/Intel/Apple 各种品牌。
 
-2、[Ladder](https://github.com/kubero-dev/ladder)
+另有一个在线 GPU 性能测试网站 [Volume Shader BM](https://www.volumeshader.dev/)。（[@BOS1980](https://github.com/ruanyf/weekly/issues/7804) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092410.webp)
 
-开源的网页抓取查看工具。用户输入网址，它会自动将网页抓取展示出来。
+2、[RustNet](https://github.com/domcyrus/rustnet)
 
-3、[oq](https://github.com/plutov/oq)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092011.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091201.webp)
+监控网络流量的终端工具，会显示连接的详细信息，跨平台。
 
-终端查看 OpenAPI 规格文件的工具。
+3、[PortNote](https://github.com/crocofied/PortNote)
 
-4、[httpjail](https://github.com/coder/httpjail)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060114.webp)
 
-一个跨平台的命令行程序，可以限制本机的 HTTP/HTTPs 请求，只有开白名单，才能发出请求。
+一个自托管的仪表盘，列出被各种服务占用的本地端口。与 Compose 文件结合后，可以启动/停止 Docker 容器，参见[介绍文章](https://www.xda-developers.com/reasons-why-portnote-port-of-call-on-every-server/)。
 
-5、[highlight.io](https://github.com/highlight/highlight)
+4、[Atlas](https://github.com/karam-ajaj/atlas)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110711.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092407.webp)
 
-一个开源的报错监控平台。
+一个 Docker 容器，扫描当前网络，图形化显示网络节点信息。
 
-6、[草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)
+5、[Midnight Commander](https://github.com/MidnightCommander/mc)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060107.webp)
 
-基于 Nuxt 框架的登录平台，支持 OAuth2.0 协议，有邮箱、用户名、手机、验证码、社交媒体等多种登录方式。（[@CaoMeiYouRen](https://github.com/ruanyf/weekly/issues/7760) 投稿）
+基于终端的文件管理器，支持 Linux 和 Mac。
 
-7、[Neovide](https://neovide.dev/)
+另有一个类似的终端文件管理器 [Yazi](https://github.com/sxyazi/yazi)。
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072509.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092408.webp)
 
-Neovim 编辑器的一个跨平台图形界面封装，很多功能都配置好了。
+6、[frp-tunnel-cli](https://github.com/openapphub/frpc-cli)
 
-8、[Gokapi](https://github.com/Forceu/Gokapi)
+内网穿透工具 [frp](https://gofrp.org/zh-cn/docs/overview/) 的一个客户端辅助 Bash 脚本，简化隧道的创建和管理。（[@openapphub](https://github.com/ruanyf/weekly/issues/7785) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072602.webp)
+7、[Hamsterbase Tasks](https://github.com/hamsterbase/tasks)
 
-一个自托管的文件分享服务，只有管理员才能上传。
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092101.webp)
 
-9、[Swap.js](https://github.com/josephernest/Swap)
+开源的任务管理软件，支持 Web/手机/桌面各个平台，可以 Docker 部署。（[@CaryTrivett](https://github.com/ruanyf/weekly/issues/7792) 投稿）
 
-一个很简单的 JS 库，通过 Ajax 让普通的多页面网站，产生单页应用的“局部更新”效果。
+8、[db-back-tool](https://github.com/iKeepLearn/db-back-tool)
+
+网友自己写的 PostgreSQL/MySQL 数据库的备份工具，可以自动备份、加密、压缩数据库，并将备份文件上传至腾讯云 COS 或阿里云 OSS。（[@iKeepLearn](https://github.com/ruanyf/weekly/issues/7798) 投稿）
+
+9、[X-CMD](https://github.com/x-cmd/x-cmd)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092412.webp)
+
+一个命令行工具集，一键启用 1000+ CLI 工具，跨平台，支持 AI 功能。（[@Zhengqbbb](https://github.com/ruanyf/weekly/issues/7806) 投稿）
 
 
 ### 资源
 
 
-1、[PostHog](https://posthog.com/)
+1、[99个物理小实验](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025091304.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092003.webp)
 
-这是一家公司的官网，做得好像操作系统的桌面一样，如果长时间无操作，甚至还会出现屏保。
+一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。
 
-2、[Katalog](https://www.katalog-barbaraiweins.com/#images)
+2、[NPM 安全最佳实践](https://github.com/bodadotsh/npm-security-best-practices)
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025010205.webp)
-
-一位摄影师为她的每一件个人物品（书籍、衣服、药品等等），拍了一张照片，放到网站上，一共有12795张。
-
-她想告诉大家，不要低估你拥有的物品数量。
-
-3、[大数据教科书](https://ghislainfourny.github.io/big-data-textbook/)（The Big Data Textbook）
-
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072404.webp)
-
-苏黎世联邦理工学院的大数据英文教科书，免费阅读。
+最近爆出了一系列 npm 软件包投毒事件，这个仓库收录了各种 npm 安全措施，分为使用者和发布者两大部分。
 
 
 ### 言论
@@ -102,33 +100,37 @@ Neovim 编辑器的一个跨平台图形界面封装，很多功能都配置好�
 
 1、
 
-有了 AI，代码不再珍贵。
+AI 会一直扩展，一直到大部分太阳的能量都被用于计算。
 
--- [鲍里斯·切尔尼](https://etsd.tech/posts/coders-end/)（Boris Cherny），Claude Code 产品负责人
+-- [马斯克最新访谈](https://t.wangbase.com/0ZKey)
 
 2、
 
-现在的博物馆大量使用电子屏幕，但是我带儿子去博物馆不是为了看屏幕，否则在家使用平板电脑就可以了。
+我认为，火星可以在30年内自给自足。每两年，行星会排成一条直线，你就可以出发去火星。所以，30年内大约有10到15个左右的火星出发窗口。
 
--- [美国网友](https://sethpurcell.com/writing/screens-in-museums/)
+每次出发，运往火星的货物吨位会呈指数级增长，那么30年内，我们可以让火星自给自足。
+
+-- [马斯克最新访谈](https://t.wangbase.com/0ZKey)
 
 3、
 
-职业生涯就像一场吃馅饼比赛，获胜的奖品是你要接着吃更多的馅饼。
+软件业悄然兴起一种新的工作“氛围清理”（Vibe Coding cleanup），专门解决“氛围编程”导致的问题。这真是 AI 时代最大的讽刺：人类被雇来清理 AI 的垃圾。
 
-这是否是一件好事，取决于你是否喜欢这项工作。
-
--- [杰森·朗斯托夫](https://jason.energy/more-pie/)（Jason Lengstorf），美国前端工程师
+-- [《氛围清理即服务》](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 
 4、
 
-许多人，尤其是新工程师，错误地认为使用复杂的工具和语言会做出更强大、更具创新性的产品。
+AI 泡沫是很有可能的，但对于 Meta 这样的公司来说，更大的风险是犹豫不决。
 
-事实恰恰相反。最有效的组件是简单、可预测、枯燥无趣的成熟技术。它们为我们提供了进一步开发复杂项目所需的基础。
+如果我们最终为 AI 浪费了数千亿美元，显然非常不幸，但我实际上认为错过 AI 的风险更高。对于我们来说，风险不是过于激进，而是不够激进。
 
-你不是要建造一座有趣的桥梁，你要建造的是人们以后要充满信心走在上面的坚固桥梁。
+-- [扎克伯格](https://finance.sina.cn/7x24/2025-09-19/detail-infqzkhk9726343.d.html)
 
--- [《选择无聊和灵活的技术》](https://dkarlovi.github.io/choose-boring/)
+5、
+
+今天的计算机是响应者（responder）：你让它做某事，它就会去做。下一阶段的计算机是“代理”（agent），它就像一个盒子里的小人，开始预测你想要什么。它不是帮助你，而是引导你处理大量的信息，就像你在盒子里有一个小伙伴。
+
+-- [乔布斯](https://simonwillison.net/2025/Sep/18/steve-jobs/)，1984年的采访
 
 
 <!-- End -->

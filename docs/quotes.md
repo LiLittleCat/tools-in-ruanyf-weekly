@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#言论)
+
+
+1、
+
+AI 会一直扩展，一直到大部分太阳的能量都被用于计算。
+
+-- [马斯克最新访谈](https://t.wangbase.com/0ZKey)
+
+2、
+
+我认为，火星可以在30年内自给自足。每两年，行星会排成一条直线，你就可以出发去火星。所以，30年内大约有10到15个左右的火星出发窗口。
+
+每次出发，运往火星的货物吨位会呈指数级增长，那么30年内，我们可以让火星自给自足。
+
+-- [马斯克最新访谈](https://t.wangbase.com/0ZKey)
+
+3、
+
+软件业悄然兴起一种新的工作“氛围清理”（Vibe Coding cleanup），专门解决“氛围编程”导致的问题。这真是 AI 时代最大的讽刺：人类被雇来清理 AI 的垃圾。
+
+-- [《氛围清理即服务》](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
+
+4、
+
+AI 泡沫是很有可能的，但对于 Meta 这样的公司来说，更大的风险是犹豫不决。
+
+如果我们最终为 AI 浪费了数千亿美元，显然非常不幸，但我实际上认为错过 AI 的风险更高。对于我们来说，风险不是过于激进，而是不够激进。
+
+-- [扎克伯格](https://finance.sina.cn/7x24/2025-09-19/detail-infqzkhk9726343.d.html)
+
+5、
+
+今天的计算机是响应者（responder）：你让它做某事，它就会去做。下一阶段的计算机是“代理”（agent），它就像一个盒子里的小人，开始预测你想要什么。它不是帮助你，而是引导你处理大量的信息，就像你在盒子里有一个小伙伴。
+
+-- [乔布斯](https://simonwillison.net/2025/Sep/18/steve-jobs/)，1984年的采访
+
+
 ## [科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](https://github.com/ruanyf/weekly/blob/master/docs/issue-366.md#言论)
 
 
