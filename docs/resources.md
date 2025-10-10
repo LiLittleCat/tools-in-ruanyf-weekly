@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#资源)
+
+
+1、[中国女性择偶数据实验室](https://hermatch-svelte.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092504.webp)
+
+这个网站可以输入女性的择偶条件，然后根据中国男性的统计数据，给出100万男性中有多少人符合条件。（[@hongtaoh](https://github.com/ruanyf/weekly/issues/7808) 投稿）
+
+2、[历史气温数据查询](https://historicaltemperature.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092901.webp)
+
+查询全球各地历史气象数据的在线工具。（[@pipi32167](https://github.com/ruanyf/weekly/issues/7821) 投稿）
+
+3、[AppleWalls](https://www.applewalls.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025093002.webp)
+
+苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。（[@fenggit](https://github.com/ruanyf/weekly/issues/7829) 投稿）
+
+4、[邮箱服务器配置查询](https://www.email4.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100801.webp)
+
+这个网站可以一键查询邮箱服务器配置。输入邮箱地址，就能获取 SMTP 、IMAP 、POP3 、EAS 等参数。（[@Leaking](https://github.com/ruanyf/weekly/issues/7854) 投稿）
+
+5、[全球儿歌乐园](https://beddysongs.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100803.webp)
+
+这个网站收录全球各国儿歌，可以在线播放。（[@yimiqidage](https://github.com/ruanyf/weekly/issues/7857) 投稿）
+
+
 ## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#资源)
 
 

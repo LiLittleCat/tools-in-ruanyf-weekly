@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#工具)
+
+
+1、[Scribe OCR](https://github.com/scribeocr/scribeocr)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100701.webp)
+
+一个开源的 Web 应用，对图片和 PDF 文件进行 OCR（文字识别）。
+
+2、[pdoc](https://pdoc.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100804.webp)
+
+一个 Python 工具，根据代码注释生成 API 的网页文档。
+
+3、[Sumo Paint](https://paint.sumo.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100901.webp)
+
+一个基于 Web 的图片编辑器，可以当作 PhotoShop 的简单替代品。
+
+4、[Cat TV](https://cat-tv.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092503.webp)
+
+这个网站可以在画布上，添加动态生物和静态物体，然后播放给猫咪看。（[@lyf22351-debug](https://github.com/ruanyf/weekly/issues/7810) 投稿）
+
+5、[AppShots.top](https://www.appshots.top/editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092702.webp)
+
+一键生成 App Store 和 Google Play 应用商店标准截图的 Web 应用。（[@wengqianshan](https://github.com/ruanyf/weekly/issues/7812) 投稿）
+
+6、[linkding-cn](https://github.com/WooHooDai/linkding-cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025093001.webp)
+
+基于网络书签应用 [linkding](https://github.com/sissbruecker/linkding) 的中文加强版。（[@WooHooDai](https://github.com/ruanyf/weekly/issues/7828) 投稿）
+
+7、[electron-async-storage](https://github.com/YougLin-dev/electron-async-storage)
+
+专为 Electron 应用打造的高性能异步存储库。（[@YougLin-dev](https://github.com/ruanyf/weekly/issues/7847) 投稿）
+
+8、[P2P Live Share](https://github.com/kermanx/p2p-live-share)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100802.webp)
+
+开源的 VS Code 插件，通过 P2P 连接，实现多人实时协作开发。（[@kermanx](https://github.com/ruanyf/weekly/issues/7856) 投稿）
+
+9、[apple refund assistant](https://github.com/seth-shi/apple-refund-assistant)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100806.webp)
+
+一个开源的 Web 应用，用于即时处理苹果回传的消费数据，帮助开发者防范欺诈退款。（[@seth-shi](https://github.com/ruanyf/weekly/issues/7858) 投稿）
+
+10、[Translator](https://github.com/DavidVentura/firefox-translator)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092904.webp)
+
+开源的安卓应用，使用 Firefox 翻译模型提供本地翻译，支持图片翻译。
+
+
 ## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#工具)
 
 

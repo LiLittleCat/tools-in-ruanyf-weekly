@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#言论)
+
+
+1、
+
+AI 不会导致大规模失业，因为人类的欲望和需求是无限的，我们总能找到新的事情让人们去做。
+
+AI 的问题是，它会导致大规模愚蠢。人们会用它来替代思考，并在此过程中失去自己的智能，结果就是愚蠢的人们依赖着智能的机器。
+
+-- [一位美国软件公司 CEO](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
+
+2、
+
+大多数 AI 应用的创始人认为，他们正在构建 AI 产品。但是实际上，他们是在构建上下文选择系统。
+
+-- [《怎样让 AI 应用真正发挥作用》](https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually)
+
+3、
+
+2010年的估计是，破解一个768位 RSA 密钥，所需的能量可以将两个奥林匹克标准游泳池的水，从 20°C 加热至沸腾。
+
+--[《使用沸水估计加密强度》](https://www.johndcook.com/blog/2025/09/02/cryptographic-strength/)
+
+4、
+
+看到 TikTok 在美国流行后，Facebook 才意识到，将自己定位为社交网络实际上限制了发展。
+
+互联网唯一的稀缺资源是用户的注意力，限制用户只能看到社交网络的内容，无异于束缚自己，陌生人的内容能更能抓住用户的目光。TikTok 的成功不仅仅是因为它的操作形式，还因为它根本不是一个社交网络。
+
+-- [stratechery.com](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
+
+5、
+
+土豆被认为是健康食品，橄榄油也被认为是健康的，但是使用橄榄油炸出的土豆片，就被认为是垃圾食品。这是怎么回事？
+
+-- [Reddit 用户](https://theheartattackdiet.substack.com/p/chips-paradox)
+
+
 ## [科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md#言论)
 
 
