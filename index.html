@@ -402,63 +402,73 @@
 - <a href="https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/tools.md">工具</a>
 - <a href="https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md">资源</a></p>
 <h2 id="_4">最新一期<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
-<!-- <currentVersion>367</currentVersion> -->
+<!-- <currentVersion>368</currentVersion> -->
 <!-- Begin -->
-<h1 id="367-nano-banana"><a href="https://github.com/ruanyf/weekly/blob/master/docs/issue-367.md">科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用</a><a class="headerlink" href="#367-nano-banana" title="Permanent link">&para;</a></h1>
+<h1 id="368"><a href="https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md">科技爱好者周刊（第 368 期）：不要这样管理软件团队</a><a class="headerlink" href="#368" title="Permanent link">&para;</a></h1>
 <h3 id="_5">工具<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
-<p>1、<a href="https://github.com/kagehq/gpu-kill">gpu-kill</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092201.webp" /></p>
-<p>显示 GPU 运行信息的一个工具，自带 Web 管理面板，支持 Nvidia/AMD/Intel/Apple 各种品牌。</p>
-<p>另有一个在线 GPU 性能测试网站 <a href="https://www.volumeshader.dev/">Volume Shader BM</a>。（<a href="https://github.com/ruanyf/weekly/issues/7804">@BOS1980</a> 投稿）</p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092410.webp" /></p>
-<p>2、<a href="https://github.com/domcyrus/rustnet">RustNet</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092011.webp" /></p>
-<p>监控网络流量的终端工具，会显示连接的详细信息，跨平台。</p>
-<p>3、<a href="https://github.com/crocofied/PortNote">PortNote</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202506/bg2025060114.webp" /></p>
-<p>一个自托管的仪表盘，列出被各种服务占用的本地端口。与 Compose 文件结合后，可以启动/停止 Docker 容器，参见<a href="https://www.xda-developers.com/reasons-why-portnote-port-of-call-on-every-server/">介绍文章</a>。</p>
-<p>4、<a href="https://github.com/karam-ajaj/atlas">Atlas</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092407.webp" /></p>
-<p>一个 Docker 容器，扫描当前网络，图形化显示网络节点信息。</p>
-<p>5、<a href="https://github.com/MidnightCommander/mc">Midnight Commander</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202506/bg2025060107.webp" /></p>
-<p>基于终端的文件管理器，支持 Linux 和 Mac。</p>
-<p>另有一个类似的终端文件管理器 <a href="https://github.com/sxyazi/yazi">Yazi</a>。</p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092408.webp" /></p>
-<p>6、<a href="https://github.com/openapphub/frpc-cli">frp-tunnel-cli</a></p>
-<p>内网穿透工具 <a href="https://gofrp.org/zh-cn/docs/overview/">frp</a> 的一个客户端辅助 Bash 脚本，简化隧道的创建和管理。（<a href="https://github.com/ruanyf/weekly/issues/7785">@openapphub</a> 投稿）</p>
-<p>7、<a href="https://github.com/hamsterbase/tasks">Hamsterbase Tasks</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092101.webp" /></p>
-<p>开源的任务管理软件，支持 Web/手机/桌面各个平台，可以 Docker 部署。（<a href="https://github.com/ruanyf/weekly/issues/7792">@CaryTrivett</a> 投稿）</p>
-<p>8、<a href="https://github.com/iKeepLearn/db-back-tool">db-back-tool</a></p>
-<p>网友自己写的 PostgreSQL/MySQL 数据库的备份工具，可以自动备份、加密、压缩数据库，并将备份文件上传至腾讯云 COS 或阿里云 OSS。（<a href="https://github.com/ruanyf/weekly/issues/7798">@iKeepLearn</a> 投稿）</p>
-<p>9、<a href="https://github.com/x-cmd/x-cmd">X-CMD</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092412.webp" /></p>
-<p>一个命令行工具集，一键启用 1000+ CLI 工具，跨平台，支持 AI 功能。（<a href="https://github.com/ruanyf/weekly/issues/7806">@Zhengqbbb</a> 投稿）</p>
+<p>1、<a href="https://github.com/scribeocr/scribeocr">Scribe OCR</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100701.webp" /></p>
+<p>一个开源的 Web 应用，对图片和 PDF 文件进行 OCR（文字识别）。</p>
+<p>2、<a href="https://pdoc.dev/">pdoc</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100804.webp" /></p>
+<p>一个 Python 工具，根据代码注释生成 API 的网页文档。</p>
+<p>3、<a href="https://paint.sumo.app/">Sumo Paint</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100901.webp" /></p>
+<p>一个基于 Web 的图片编辑器，可以当作 PhotoShop 的简单替代品。</p>
+<p>4、<a href="https://cat-tv.net/">Cat TV</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092503.webp" /></p>
+<p>这个网站可以在画布上，添加动态生物和静态物体，然后播放给猫咪看。（<a href="https://github.com/ruanyf/weekly/issues/7810">@lyf22351-debug</a> 投稿）</p>
+<p>5、<a href="https://www.appshots.top/editor">AppShots.top</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092702.webp" /></p>
+<p>一键生成 App Store 和 Google Play 应用商店标准截图的 Web 应用。（<a href="https://github.com/ruanyf/weekly/issues/7812">@wengqianshan</a> 投稿）</p>
+<p>6、<a href="https://github.com/WooHooDai/linkding-cn">linkding-cn</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025093001.webp" /></p>
+<p>基于网络书签应用 <a href="https://github.com/sissbruecker/linkding">linkding</a> 的中文加强版。（<a href="https://github.com/ruanyf/weekly/issues/7828">@WooHooDai</a> 投稿）</p>
+<p>7、<a href="https://github.com/YougLin-dev/electron-async-storage">electron-async-storage</a></p>
+<p>专为 Electron 应用打造的高性能异步存储库。（<a href="https://github.com/ruanyf/weekly/issues/7847">@YougLin-dev</a> 投稿）</p>
+<p>8、<a href="https://github.com/kermanx/p2p-live-share">P2P Live Share</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100802.webp" /></p>
+<p>开源的 VS Code 插件，通过 P2P 连接，实现多人实时协作开发。（<a href="https://github.com/ruanyf/weekly/issues/7856">@kermanx</a> 投稿）</p>
+<p>9、<a href="https://github.com/seth-shi/apple-refund-assistant">apple refund assistant</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100806.webp" /></p>
+<p>一个开源的 Web 应用，用于即时处理苹果回传的消费数据，帮助开发者防范欺诈退款。（<a href="https://github.com/ruanyf/weekly/issues/7858">@seth-shi</a> 投稿）</p>
+<p>10、<a href="https://github.com/DavidVentura/firefox-translator">Translator</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092904.webp" /></p>
+<p>开源的安卓应用，使用 Firefox 翻译模型提供本地翻译，支持图片翻译。</p>
 <h3 id="_6">资源<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h3>
-<p>1、<a href="https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html">99个物理小实验</a></p>
-<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092003.webp" /></p>
-<p>一本在线的英文书籍，精选了荷兰中学物理的99个小实验，涉及各个领域（力、光、磁、波等等）。</p>
-<p>2、<a href="https://github.com/bodadotsh/npm-security-best-practices">NPM 安全最佳实践</a></p>
-<p>最近爆出了一系列 npm 软件包投毒事件，这个仓库收录了各种 npm 安全措施，分为使用者和发布者两大部分。</p>
+<p>1、<a href="https://hermatch-svelte.vercel.app/">中国女性择偶数据实验室</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092504.webp" /></p>
+<p>这个网站可以输入女性的择偶条件，然后根据中国男性的统计数据，给出100万男性中有多少人符合条件。（<a href="https://github.com/ruanyf/weekly/issues/7808">@hongtaoh</a> 投稿）</p>
+<p>2、<a href="https://historicaltemperature.org/">历史气温数据查询</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025092901.webp" /></p>
+<p>查询全球各地历史气象数据的在线工具。（<a href="https://github.com/ruanyf/weekly/issues/7821">@pipi32167</a> 投稿）</p>
+<p>3、<a href="https://www.applewalls.com/">AppleWalls</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202509/bg2025093002.webp" /></p>
+<p>苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。（<a href="https://github.com/ruanyf/weekly/issues/7829">@fenggit</a> 投稿）</p>
+<p>4、<a href="https://www.email4.fun/">邮箱服务器配置查询</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100801.webp" /></p>
+<p>这个网站可以一键查询邮箱服务器配置。输入邮箱地址，就能获取 SMTP 、IMAP 、POP3 、EAS 等参数。（<a href="https://github.com/ruanyf/weekly/issues/7854">@Leaking</a> 投稿）</p>
+<p>5、<a href="https://beddysongs.com/zh">全球儿歌乐园</a></p>
+<p><img alt="" src="https://cdn.beekka.com/blogimg/asset/202510/bg2025100803.webp" /></p>
+<p>这个网站收录全球各国儿歌，可以在线播放。（<a href="https://github.com/ruanyf/weekly/issues/7857">@yimiqidage</a> 投稿）</p>
 <h3 id="_7">言论<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
 <p>1、</p>
-<p>AI 会一直扩展，一直到大部分太阳的能量都被用于计算。</p>
-<p>-- <a href="https://t.wangbase.com/0ZKey">马斯克最新访谈</a></p>
+<p>AI 不会导致大规模失业，因为人类的欲望和需求是无限的，我们总能找到新的事情让人们去做。</p>
+<p>AI 的问题是，它会导致大规模愚蠢。人们会用它来替代思考，并在此过程中失去自己的智能，结果就是愚蠢的人们依赖着智能的机器。</p>
+<p>-- <a href="https://www.theregister.com/2025/09/26/ai_catholic_uni/">一位美国软件公司 CEO</a></p>
 <p>2、</p>
-<p>我认为，火星可以在30年内自给自足。每两年，行星会排成一条直线，你就可以出发去火星。所以，30年内大约有10到15个左右的火星出发窗口。</p>
-<p>每次出发，运往火星的货物吨位会呈指数级增长，那么30年内，我们可以让火星自给自足。</p>
-<p>-- <a href="https://t.wangbase.com/0ZKey">马斯克最新访谈</a></p>
+<p>大多数 AI 应用的创始人认为，他们正在构建 AI 产品。但是实际上，他们是在构建上下文选择系统。</p>
+<p>-- <a href="https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually">《怎样让 AI 应用真正发挥作用》</a></p>
 <p>3、</p>
-<p>软件业悄然兴起一种新的工作“氛围清理”（Vibe Coding cleanup），专门解决“氛围编程”导致的问题。这真是 AI 时代最大的讽刺：人类被雇来清理 AI 的垃圾。</p>
-<p>-- <a href="https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/">《氛围清理即服务》</a></p>
+<p>2010年的估计是，破解一个768位 RSA 密钥，所需的能量可以将两个奥林匹克标准游泳池的水，从 20°C 加热至沸腾。</p>
+<p>--<a href="https://www.johndcook.com/blog/2025/09/02/cryptographic-strength/">《使用沸水估计加密强度》</a></p>
 <p>4、</p>
-<p>AI 泡沫是很有可能的，但对于 Meta 这样的公司来说，更大的风险是犹豫不决。</p>
-<p>如果我们最终为 AI 浪费了数千亿美元，显然非常不幸，但我实际上认为错过 AI 的风险更高。对于我们来说，风险不是过于激进，而是不够激进。</p>
-<p>-- <a href="https://finance.sina.cn/7x24/2025-09-19/detail-infqzkhk9726343.d.html">扎克伯格</a></p>
+<p>看到 TikTok 在美国流行后，Facebook 才意识到，将自己定位为社交网络实际上限制了发展。</p>
+<p>互联网唯一的稀缺资源是用户的注意力，限制用户只能看到社交网络的内容，无异于束缚自己，陌生人的内容能更能抓住用户的目光。TikTok 的成功不仅仅是因为它的操作形式，还因为它根本不是一个社交网络。</p>
+<p>-- <a href="https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/">stratechery.com</a></p>
 <p>5、</p>
-<p>今天的计算机是响应者（responder）：你让它做某事，它就会去做。下一阶段的计算机是“代理”（agent），它就像一个盒子里的小人，开始预测你想要什么。它不是帮助你，而是引导你处理大量的信息，就像你在盒子里有一个小伙伴。</p>
-<p>-- <a href="https://simonwillison.net/2025/Sep/18/steve-jobs/">乔布斯</a>，1984年的采访</p>
+<p>土豆被认为是健康食品，橄榄油也被认为是健康的，但是使用橄榄油炸出的土豆片，就被认为是垃圾食品。这是怎么回事？</p>
+<p>-- <a href="https://theheartattackdiet.substack.com/p/chips-paradox">Reddit 用户</a></p>
 <!-- End -->
 
 <p><a href="https://dartnode.com" title="Powered by DartNode - Free VPS for Open Source"><img alt="Powered by DartNode" src="https://dartnode.com/branding/DN-Open-Source-sm.png" /></a></p>
