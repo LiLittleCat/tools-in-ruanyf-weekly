@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#言论)
+
+
+1、
+
+2000年前后的互联网泡沫，留下了持久的基础设施，寿命长达数十年，可以重复使用，成为后来的宽带、云计算和现代网络的支柱。
+
+今天的 AI 泡沫完全不同，大部分投资都流向了专有的垂直集成系统 ，而不是开放的通用基础设施。那些极其昂贵的 GPU，使用寿命只有1-3年， 很快就会过时，并在高强度使用下磨损。
+
+这些芯片也不是通用计算引擎，它们是专为训练和运行 AI 模型而设计的 ，并针对少数几家大客户的特定架构和软件堆栈进行了定制。它们共同构成了一个封闭的生态系统，难以重新利用。
+
+-- [《AI 热潮过后：我们还剩下什么？》](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
+
+2、
+
+毫不夸张地说，当我在 StackOverflow 上查看一年前关于 Next.js 的答案时，它通常已经过时了。而当我在 StackOverflow 上查看六年前关于 Django 的答案时，它几乎总是还能用。
+
+-- [《Django forever》](https://jmduke.com/posts/post/django/)
+
+3、
+
+AI 是人类历史上第一个拥有无限耐心的事物。无论何时何地，你始终可以跟它交谈，它会立刻回应，绝不会评判你或对你苛刻，倾听多久都不会感到沮丧。耐心从此变得廉价。
+
+-- [《耐心是大模型的杀手锏》](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
+
+4、
+
+MOOC（慕课）炒作的顶峰是2013年～2015年，然后持续下降。各大平台多年前就停止使用“MOOC”这个词来描述课程了。随着 MOOC 网站纷纷破产，这个词一直在逐渐消亡。
+
+-- [《MOOC 真正消亡之日》](https://www.classcentral.com/report/coursera-preview-mode-paywall/)
+
+
 ## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#言论)
 
 

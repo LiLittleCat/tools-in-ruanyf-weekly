@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#资源)
+
+
+1、[NCE Flow](https://github.com/luzhenhua/NCE-Flow)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101101.webp)
+
+《新概念英语》点读，可以选择任一句开始播放，也可以自动朗读。（[@luzhenhua](https://github.com/ruanyf/weekly/issues/7875) 投稿）
+
+2、[Type Words](https://github.com/zyronon/TypeWords)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101503.webp)
+
+开源的 Web 应用，通过打字学习英语单词，加深记忆，有发音和例句，内置多个常用词库，可以[线上试用](https://2study.top/)。（[@zyronon](https://github.com/ruanyf/weekly/issues/7913) 投稿）
+
+
 ## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#资源)
 
 

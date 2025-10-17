@@ -16,103 +16,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>368</currentVersion> -->
+<!-- <currentVersion>369</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md)
+# [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md)
 ### 工具
 
 
-1、[Scribe OCR](https://github.com/scribeocr/scribeocr)
+1、[GPU Hot](https://github.com/psalias2006/gpu-hot)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101003.webp)
 
-一个开源的 Web 应用，对图片和 PDF 文件进行 OCR（文字识别）。
+一个本地程序，Web 界面的 Nvidia GPU 实时面板。
 
-2、[pdoc](https://pdoc.dev/)
+2、[DebDroid](https://github.com/NICUP14/DebDroid)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100804.webp)
+在安卓手机上安装 Debian 系统，提供一个沙盒 Linux 环境。
 
-一个 Python 工具，根据代码注释生成 API 的网页文档。
+3、[Tab Hive](https://github.com/MaskerPRC/tab-hive)
 
-3、[Sumo Paint](https://paint.sumo.app/)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101211.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100901.webp)
+多个窗格同时打开网页，省去切换标签页的麻烦，点击可以全屏查看单个网站。有网页版，也有桌面版。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/7886) 投稿）
 
-一个基于 Web 的图片编辑器，可以当作 PhotoShop 的简单替代品。
+4、[bkhtmltopdf](https://github.com/bkhtmltopdf/bkhtmltopdf)
 
-4、[Cat TV](https://cat-tv.net/)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092503.webp)
+一个 Jar 包，将 HTML 代码渲染为 PDF 文件，基于 Chromium 的渲染引擎 Blink，是 wkhtmltopdf 的替代品。（[@hstyi](https://github.com/ruanyf/weekly/issues/7889) 投稿）
 
-这个网站可以在画布上，添加动态生物和静态物体，然后播放给猫咪看。（[@lyf22351-debug](https://github.com/ruanyf/weekly/issues/7810) 投稿）
+5、[在线拼贴制作器](https://www.online-collage-maker.com/editor)
 
-5、[AppShots.top](https://www.appshots.top/editor)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101005.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092702.webp)
+在浏览器里完成各种图片拼贴。（[@LiveMediaTools](https://github.com/ruanyf/weekly/issues/7865) 投稿）
 
-一键生成 App Store 和 Google Play 应用商店标准截图的 Web 应用。（[@wengqianshan](https://github.com/ruanyf/weekly/issues/7812) 投稿）
+6、[小米笔记备份助手](https://github.com/idootop/mi-note-export)
 
-6、[linkding-cn](https://github.com/WooHooDai/linkding-cn)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025093001.webp)
+一键备份小米笔记（包含图片、录音等文件），并可以将其变为个人博客网站。（[@idootop](https://github.com/ruanyf/weekly/issues/7893) 投稿）
 
-基于网络书签应用 [linkding](https://github.com/sissbruecker/linkding) 的中文加强版。（[@WooHooDai](https://github.com/ruanyf/weekly/issues/7828) 投稿）
+7、[CrossDesk](https://github.com/kunkundi/crossdesk)
 
-7、[electron-async-storage](https://github.com/YougLin-dev/electron-async-storage)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101304.webp)
 
-专为 Electron 应用打造的高性能异步存储库。（[@YougLin-dev](https://github.com/ruanyf/weekly/issues/7847) 投稿）
+一个轻量级的跨平台远程桌面软件。（[@kunkundi](https://github.com/ruanyf/weekly/issues/7894) 投稿）
 
-8、[P2P Live Share](https://github.com/kermanx/p2p-live-share)
+8、[灵卡面板](https://github.com/baby7/agile-tiles)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100802.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101501.webp)
 
-开源的 VS Code 插件，通过 P2P 连接，实现多人实时协作开发。（[@kermanx](https://github.com/ruanyf/weekly/issues/7856) 投稿）
+Windows 桌面应用，隐藏到侧边的面板，可以自定义卡片布局。（[@baby7](https://github.com/ruanyf/weekly/issues/7911) 投稿）
 
-9、[apple refund assistant](https://github.com/seth-shi/apple-refund-assistant)
+9、[Git Assistant](https://gitassistant.pages.dev)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101601.webp)
 
-一个开源的 Web 应用，用于即时处理苹果回传的消费数据，帮助开发者防范欺诈退款。（[@seth-shi](https://github.com/ruanyf/weekly/issues/7858) 投稿）
+IntelliJ IDEA 插件，基于 Git 日志提供可视化分析，并可以使用 AI 生成提交信息。（[@coolbeevip](https://github.com/ruanyf/weekly/issues/7914) 投稿）
 
-10、[Translator](https://github.com/DavidVentura/firefox-translator)
+10、[term.everything](https://github.com/mmulet/term.everything)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101602.webp)
 
-开源的安卓应用，使用 Firefox 翻译模型提供本地翻译，支持图片翻译。
+一个神奇的实验软件，在 Linux 终端里面运行任何 GUI 程序，也就是字符界面运行图形界面。（[@kero990](https://github.com/ruanyf/weekly/issues/7920) 投稿）
 
 
 ### 资源
 
 
-1、[中国女性择偶数据实验室](https://hermatch-svelte.vercel.app/)
+1、[NCE Flow](https://github.com/luzhenhua/NCE-Flow)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101101.webp)
 
-这个网站可以输入女性的择偶条件，然后根据中国男性的统计数据，给出100万男性中有多少人符合条件。（[@hongtaoh](https://github.com/ruanyf/weekly/issues/7808) 投稿）
+《新概念英语》点读，可以选择任一句开始播放，也可以自动朗读。（[@luzhenhua](https://github.com/ruanyf/weekly/issues/7875) 投稿）
 
-2、[历史气温数据查询](https://historicaltemperature.org/)
+2、[Type Words](https://github.com/zyronon/TypeWords)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101503.webp)
 
-查询全球各地历史气象数据的在线工具。（[@pipi32167](https://github.com/ruanyf/weekly/issues/7821) 投稿）
-
-3、[AppleWalls](https://www.applewalls.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025093002.webp)
-
-苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。（[@fenggit](https://github.com/ruanyf/weekly/issues/7829) 投稿）
-
-4、[邮箱服务器配置查询](https://www.email4.fun/)
-
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100801.webp)
-
-这个网站可以一键查询邮箱服务器配置。输入邮箱地址，就能获取 SMTP 、IMAP 、POP3 、EAS 等参数。（[@Leaking](https://github.com/ruanyf/weekly/issues/7854) 投稿）
-
-5、[全球儿歌乐园](https://beddysongs.com/zh)
-
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100803.webp)
-
-这个网站收录全球各国儿歌，可以在线播放。（[@yimiqidage](https://github.com/ruanyf/weekly/issues/7857) 投稿）
+开源的 Web 应用，通过打字学习英语单词，加深记忆，有发音和例句，内置多个常用词库，可以[线上试用](https://2study.top/)。（[@zyronon](https://github.com/ruanyf/weekly/issues/7913) 投稿）
 
 
 ### 言论
@@ -120,37 +102,31 @@
 
 1、
 
-AI 不会导致大规模失业，因为人类的欲望和需求是无限的，我们总能找到新的事情让人们去做。
+2000年前后的互联网泡沫，留下了持久的基础设施，寿命长达数十年，可以重复使用，成为后来的宽带、云计算和现代网络的支柱。
 
-AI 的问题是，它会导致大规模愚蠢。人们会用它来替代思考，并在此过程中失去自己的智能，结果就是愚蠢的人们依赖着智能的机器。
+今天的 AI 泡沫完全不同，大部分投资都流向了专有的垂直集成系统 ，而不是开放的通用基础设施。那些极其昂贵的 GPU，使用寿命只有1-3年， 很快就会过时，并在高强度使用下磨损。
 
--- [一位美国软件公司 CEO](https://www.theregister.com/2025/09/26/ai_catholic_uni/)
+这些芯片也不是通用计算引擎，它们是专为训练和运行 AI 模型而设计的 ，并针对少数几家大客户的特定架构和软件堆栈进行了定制。它们共同构成了一个封闭的生态系统，难以重新利用。
+
+-- [《AI 热潮过后：我们还剩下什么？》](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
 
 2、
 
-大多数 AI 应用的创始人认为，他们正在构建 AI 产品。但是实际上，他们是在构建上下文选择系统。
+毫不夸张地说，当我在 StackOverflow 上查看一年前关于 Next.js 的答案时，它通常已经过时了。而当我在 StackOverflow 上查看六年前关于 Django 的答案时，它几乎总是还能用。
 
--- [《怎样让 AI 应用真正发挥作用》](https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually)
+-- [《Django forever》](https://jmduke.com/posts/post/django/)
 
 3、
 
-2010年的估计是，破解一个768位 RSA 密钥，所需的能量可以将两个奥林匹克标准游泳池的水，从 20°C 加热至沸腾。
+AI 是人类历史上第一个拥有无限耐心的事物。无论何时何地，你始终可以跟它交谈，它会立刻回应，绝不会评判你或对你苛刻，倾听多久都不会感到沮丧。耐心从此变得廉价。
 
---[《使用沸水估计加密强度》](https://www.johndcook.com/blog/2025/09/02/cryptographic-strength/)
+-- [《耐心是大模型的杀手锏》](https://www.seangoedecke.com/patience-too-cheap-to-meter/)
 
 4、
 
-看到 TikTok 在美国流行后，Facebook 才意识到，将自己定位为社交网络实际上限制了发展。
+MOOC（慕课）炒作的顶峰是2013年～2015年，然后持续下降。各大平台多年前就停止使用“MOOC”这个词来描述课程了。随着 MOOC 网站纷纷破产，这个词一直在逐渐消亡。
 
-互联网唯一的稀缺资源是用户的注意力，限制用户只能看到社交网络的内容，无异于束缚自己，陌生人的内容能更能抓住用户的目光。TikTok 的成功不仅仅是因为它的操作形式，还因为它根本不是一个社交网络。
-
--- [stratechery.com](https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/)
-
-5、
-
-土豆被认为是健康食品，橄榄油也被认为是健康的，但是使用橄榄油炸出的土豆片，就被认为是垃圾食品。这是怎么回事？
-
--- [Reddit 用户](https://theheartattackdiet.substack.com/p/chips-paradox)
+-- [《MOOC 真正消亡之日》](https://www.classcentral.com/report/coursera-preview-mode-paywall/)
 
 
 <!-- End -->

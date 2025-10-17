@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#工具)
+
+
+1、[GPU Hot](https://github.com/psalias2006/gpu-hot)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101003.webp)
+
+一个本地程序，Web 界面的 Nvidia GPU 实时面板。
+
+2、[DebDroid](https://github.com/NICUP14/DebDroid)
+
+在安卓手机上安装 Debian 系统，提供一个沙盒 Linux 环境。
+
+3、[Tab Hive](https://github.com/MaskerPRC/tab-hive)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101211.webp)
+
+多个窗格同时打开网页，省去切换标签页的麻烦，点击可以全屏查看单个网站。有网页版，也有桌面版。（[@MaskerPRC](https://github.com/ruanyf/weekly/issues/7886) 投稿）
+
+4、[bkhtmltopdf](https://github.com/bkhtmltopdf/bkhtmltopdf)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101302.webp)
+
+一个 Jar 包，将 HTML 代码渲染为 PDF 文件，基于 Chromium 的渲染引擎 Blink，是 wkhtmltopdf 的替代品。（[@hstyi](https://github.com/ruanyf/weekly/issues/7889) 投稿）
+
+5、[在线拼贴制作器](https://www.online-collage-maker.com/editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101005.webp)
+
+在浏览器里完成各种图片拼贴。（[@LiveMediaTools](https://github.com/ruanyf/weekly/issues/7865) 投稿）
+
+6、[小米笔记备份助手](https://github.com/idootop/mi-note-export)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101303.webp)
+
+一键备份小米笔记（包含图片、录音等文件），并可以将其变为个人博客网站。（[@idootop](https://github.com/ruanyf/weekly/issues/7893) 投稿）
+
+7、[CrossDesk](https://github.com/kunkundi/crossdesk)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101304.webp)
+
+一个轻量级的跨平台远程桌面软件。（[@kunkundi](https://github.com/ruanyf/weekly/issues/7894) 投稿）
+
+8、[灵卡面板](https://github.com/baby7/agile-tiles)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101501.webp)
+
+Windows 桌面应用，隐藏到侧边的面板，可以自定义卡片布局。（[@baby7](https://github.com/ruanyf/weekly/issues/7911) 投稿）
+
+9、[Git Assistant](https://gitassistant.pages.dev)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101601.webp)
+
+IntelliJ IDEA 插件，基于 Git 日志提供可视化分析，并可以使用 AI 生成提交信息。（[@coolbeevip](https://github.com/ruanyf/weekly/issues/7914) 投稿）
+
+10、[term.everything](https://github.com/mmulet/term.everything)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101602.webp)
+
+一个神奇的实验软件，在 Linux 终端里面运行任何 GUI 程序，也就是字符界面运行图形界面。（[@kero990](https://github.com/ruanyf/weekly/issues/7920) 投稿）
+
+
 ## [科技爱好者周刊（第 368 期）：不要这样管理软件团队](https://github.com/ruanyf/weekly/blob/master/docs/issue-368.md#工具)
 
 
