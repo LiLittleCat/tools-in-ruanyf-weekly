@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#资源)
+
+
+1、[EndlessWiki](https://www.endlesswiki.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092704.webp)
+
+世界第一本 AI 生成的百科全书，读者想查什么条目，AI 实时生成。
+
+2、[ISBN Visualization](https://phiresky.github.io/isbn-visualization/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102101.webp)
+
+世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，[代码开源](https://github.com/phiresky/isbn-visualization/)。（[@kohunglee](https://github.com/ruanyf/weekly/issues/7957) 投稿）
+
+3、[Clone Wars](https://github.com/GorvGoyl/Clone-Wars)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101605.webp)
+
+这个仓库收集了各种流行网站（Airbnb, Amazon, Instagram, Netflix, TikTok 等）的开源克隆，已经超过100多个网站了。
+
+
 ## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#资源)
 
 

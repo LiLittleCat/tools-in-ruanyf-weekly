@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#工具)
+
+
+1、[OpenZL](https://github.com/facebook/openzl)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101008.webp)
+
+Meta 公司新推出的一种压缩工具，适合压缩结构化数据（比如数据库），压缩比更高，速度更快，参见[介绍文章](https://linuxiac.com/meta-unveils-openzl-a-new-open-source-data-compression-framework/)。
+
+2、[Handy](https://github.com/cjpais/Handy)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092905.webp)
+
+免费、开源的跨平台桌面应用，用来语音转文本。
+
+3、[Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102111.webp)
+
+一个自搭建的 Web 服务，用户输入网址，并指定 CSS 选择器，它就生成该网址的 RSS 源，[代码开源](https://gitlab.com/vincenttunru/feed-me-up-scotty)。
+
+4、[Judo](https://judojj.com/releases/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102306.webp)
+
+一个跨平台的 Git/JJ 桌面图形客户端。
+
+5、[htmldocs](https://github.com/htmldocs-js/htmldocs)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101701.webp)
+
+一个 React 组件，用来在网页中创建、编辑、预览 PDF 文档。（[@Haopeng138](https://github.com/ruanyf/weekly/issues/7925) 投稿）
+
+6、[Cent](http://github.com/glink25/Cent)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101703.webp)
+
+开源的多人协作记账 Web 应用，数据保存在你的私人 GitHub 仓库。（[@glink25](https://github.com/ruanyf/weekly/issues/7929) 投稿）
+
+7、[Shell360](https://github.com/nashaofu/shell360) 
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101901.webp)
+
+开源的跨平台 SSH 客户端，支持 Windows、macOS、Linux、Android 和 iOS。（[@nashaofu](https://github.com/ruanyf/weekly/issues/7942) 投稿）
+
+8、[015](https://github.com/keven1024/015)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102003.webp)
+
+自托管的临时文件共享平台。（[@keven1024](https://github.com/ruanyf/weekly/issues/7952) 投稿）
+
+9、[MHtool](https://github.com/sudo1123/MHtool)
+
+一个命令行的 Python 数学工具包，一个脚本集成了数学计算、数据处理和图形绘制功能。（[@sudo1123](https://github.com/ruanyf/weekly/issues/7965) 投稿）
+
+10、[TextGO](https://github.com/C5H12O5/TextGO)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102204.webp)
+
+一个跨平台的桌面应用，可以指定统一的快捷键，各种应用都适用，并能根据选中的内容，执行不同的操作。（[@C5H12O5](https://github.com/ruanyf/weekly/issues/7970) 投稿）
+
+
 ## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#工具)
 
 

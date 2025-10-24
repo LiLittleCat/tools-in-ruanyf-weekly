@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#言论)
+
+
+1、
+
+我们要习惯 AI 培养出来的一代学生，他们的屏幕上满是文字，脑子里却空无一物。
+
+-- [《OpenAI “学习模式”的风险》](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
+
+2、
+
+最明智的举措不是追逐潮流，而是种下一棵树，让时间来发挥作用。树木不会在明天带来回报，它们十年后才会产生回报。它们默默地生长，使周围的一切都变得更好：树荫、价值、美感、寿命。
+
+-- [《设计的复利》](https://designobserver.com/the-compound-interest-of-design-what-not-to-build/)
+
+3、
+
+OpenAI 发布了自家的浏览器 Atlas，但它其实是反浏览器，尽可能避免用户浏览互联网。比如，你用它搜索“泰勒·斯威夫特”，它会告诉你那是谁，但不会返回任何指向泰勒·斯威夫特个人网站的链接。
+
+-- [《ChatGPT 的 Atlas：反 Web 的浏览器》](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
+
+4、
+
+工程师不仅需要具备技术技能，还要具备软技能，也就是人际交往的技能。
+
+如果你不理解人类社会的复杂性，就无法理解公司或团队的工作方式，最终影响到自己的产出和扩大影响力。
+
+-- [《被低估的软技能》](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
+
+
 ## [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](https://github.com/ruanyf/weekly/blob/master/docs/issue-369.md#言论)
 
 
