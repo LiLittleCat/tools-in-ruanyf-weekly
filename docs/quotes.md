@@ -1,5 +1,41 @@
 # 言论
 
+## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#言论)
+
+
+1、
+
+我已经不觉得文档有多重要了，大模型没有文档也能读懂代码。
+
+-- [Simon Willison](https://simonwillison.net/2025/Oct/25/coding-agent-tips/)
+
+2、
+
+文化危机并不是书籍的消亡，而是人们的注意力分散了，热衷于参加肤浅的活动。
+
+这个时代感觉患上了“文明多动症”，一代人焦躁不安、注意力不集中、漫无目的的过度活动，思考难以捉摸且转瞬即逝。
+
+-- [《把研究当作消遣已经失传》](https://kasurian.com/p/research-as-leisure)
+
+3、
+
+要真正理解一个概念，你必须在某种程度上自己“发明”这个概念。理解并非源于被动的内容消费，而是源于一个主动的、自我导向的创建和调试过程。
+
+-- [François Chollet](https://x.com/fchollet/status/1983279755823853724)，《Python 深度学习的作者》
+
+4、
+
+人可以怒，而不可以苦闷。怒可以构成壮美，苦闷却是一无所成，只是自我的崩溃。
+
+-- 康德，德国哲学家
+
+5、
+
+AI 带给我的好处，不是我的速度变快了，而是我的项目范围变大了，我可以做出以前涉及不到的事情。
+
+-- [Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)，著名个人网站 [Neal.fun](https://neal.fun/) 的作者
+
+
 ## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#言论)
 
 

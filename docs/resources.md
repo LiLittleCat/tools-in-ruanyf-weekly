@@ -1,5 +1,29 @@
 # 资源
 
+## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#资源)
+
+
+1、[Grokipedia](https://grokipedia.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102902.webp)
+
+马斯克本周推出的百科全书，并[表示](https://x.com/elonmusk/status/1983219953533665720)他想用激光将该网站的页面刻在石头上，再将石碑发射到太空中，以“防止文明倒退”。
+
+据说，它的80多万篇条目都是 AI 生成的，但好像只是对维基百科进行了编辑，详见[评论文章](https://www.pcmag.com/news/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)。
+
+2、[ShadCN Themes](https://shadcnthemer.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102601.webp)
+
+这个网站收集 ShadCN UI 的各种主题。
+
+3、[Scrimba](https://scrimba.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042815.webp)
+
+IT 视频课程学习网站，部分课程免费。
+
+
 ## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#资源)
 
 

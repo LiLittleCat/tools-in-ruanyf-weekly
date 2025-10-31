@@ -16,91 +16,87 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>370</currentVersion> -->
+<!-- <currentVersion>371</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md)
+# [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md)
 ### 工具
 
 
-1、[OpenZL](https://github.com/facebook/openzl)
+1、[MacOS Live Screensaver](https://github.com/hauxir/macos-live-screensaver)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102501.webp)
 
-Meta 公司新推出的一种压缩工具，适合压缩结构化数据（比如数据库），压缩比更高，速度更快，参见[介绍文章](https://linuxiac.com/meta-unveils-openzl-a-new-open-source-data-compression-framework/)。
+一个开源的 macOS 屏保程序，能够播放流媒体，支持接入 Youtube。
 
-2、[Handy](https://github.com/cjpais/Handy)
+2、[Valetudo](https://valetudo.cloud/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092905.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102508.webp)
 
-免费、开源的跨平台桌面应用，用来语音转文本。
+扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。
 
-3、[Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/)
+3、[oxdraw](https://github.com/RohanAdwankar/oxdraw)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102111.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102602.webp)
 
-一个自搭建的 Web 服务，用户输入网址，并指定 CSS 选择器，它就生成该网址的 RSS 源，[代码开源](https://gitlab.com/vincenttunru/feed-me-up-scotty)。
+一个 Rust 语言编写的 Web 服务，用来可视化生成图表，同时给出对应的 Mermaid 语法代码。 
 
-4、[Judo](https://judojj.com/releases/)
+4、[dLine](https://github.com/jazz-it/dline)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102306.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121805.webp)
 
-一个跨平台的 Git/JJ 桌面图形客户端。
+命令行的日程管理工具。
 
-5、[htmldocs](https://github.com/htmldocs-js/htmldocs)
+5、[EternalTerminal](https://github.com/MisterTea/EternalTerminal)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121901.webp)
 
-一个 React 组件，用来在网页中创建、编辑、预览 PDF 文档。（[@Haopeng138](https://github.com/ruanyf/weekly/issues/7925) 投稿）
+基于 SSH 的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
 
-6、[Cent](http://github.com/glink25/Cent)
+6、[Docs](https://github.com/suitenumerique/docs)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031701.webp)
 
-开源的多人协作记账 Web 应用，数据保存在你的私人 GitHub 仓库。（[@glink25](https://github.com/ruanyf/weekly/issues/7929) 投稿）
+一个开源的内容管理系统，支持多人实时协作，需要自搭建。
 
-7、[Shell360](https://github.com/nashaofu/shell360) 
+7、[UChart](https://www.uwarp.design/uchart)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102510.webp)
 
-开源的跨平台 SSH 客户端，支持 Windows、macOS、Linux、Android 和 iOS。（[@nashaofu](https://github.com/ruanyf/weekly/issues/7942) 投稿）
+在线的数据图表生成器，让没有编程背景的用户也能创建专业数据图表。（[@sherotree](https://github.com/ruanyf/weekly/issues/7981) 投稿）
 
-8、[015](https://github.com/keven1024/015)
+8、[filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102003.webp)
+一个 Rust 语言写的工具，用来改写 Git 仓库历史，比如不小心提交了敏感信息，可以用它来修改提交历史。（[@Cactusinhand](https://github.com/ruanyf/weekly/issues/7983) 投稿）
 
-自托管的临时文件共享平台。（[@keven1024](https://github.com/ruanyf/weekly/issues/7952) 投稿）
+9、[AI Elements Vue](https://github.com/cwandev/ai-elements-vue)
 
-9、[MHtool](https://github.com/sudo1123/MHtool)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102702.webp)
 
-一个命令行的 Python 数学工具包，一个脚本集成了数学计算、数据处理和图形绘制功能。（[@sudo1123](https://github.com/ruanyf/weekly/issues/7965) 投稿）
-
-10、[TextGO](https://github.com/C5H12O5/TextGO)
-
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102204.webp)
-
-一个跨平台的桌面应用，可以指定统一的快捷键，各种应用都适用，并能根据选中的内容，执行不同的操作。（[@C5H12O5](https://github.com/ruanyf/weekly/issues/7970) 投稿）
+一个用于 AI 应用的前端组件库，将 [AI Elements 组件库](https://ai-sdk.dev/elements/overview)移植到 shadcn-vue。（[@cwandev](https://github.com/ruanyf/weekly/issues/7991) 投稿）
 
 
 ### 资源
 
 
-1、[EndlessWiki](https://www.endlesswiki.com)
+1、[Grokipedia](https://grokipedia.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102902.webp)
 
-世界第一本 AI 生成的百科全书，读者想查什么条目，AI 实时生成。
+马斯克本周推出的百科全书，并[表示](https://x.com/elonmusk/status/1983219953533665720)他想用激光将该网站的页面刻在石头上，再将石碑发射到太空中，以“防止文明倒退”。
 
-2、[ISBN Visualization](https://phiresky.github.io/isbn-visualization/)
+据说，它的80多万篇条目都是 AI 生成的，但好像只是对维基百科进行了编辑，详见[评论文章](https://www.pcmag.com/news/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)。
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102101.webp)
+2、[ShadCN Themes](https://shadcnthemer.com/)
 
-世界上所有书籍的国际书号（ISBN），可视化成一个图书馆的书架。查询某本书，可以显示该书所在的书架，[代码开源](https://github.com/phiresky/isbn-visualization/)。（[@kohunglee](https://github.com/ruanyf/weekly/issues/7957) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102601.webp)
 
-3、[Clone Wars](https://github.com/GorvGoyl/Clone-Wars)
+这个网站收集 ShadCN UI 的各种主题。
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025101605.webp)
+3、[Scrimba](https://scrimba.com)
 
-这个仓库收集了各种流行网站（Airbnb, Amazon, Instagram, Netflix, TikTok 等）的开源克隆，已经超过100多个网站了。
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042815.webp)
+
+IT 视频课程学习网站，部分课程免费。
 
 
 ### 言论
@@ -108,29 +104,35 @@ Meta 公司新推出的一种压缩工具，适合压缩结构化数据（比如
 
 1、
 
-我们要习惯 AI 培养出来的一代学生，他们的屏幕上满是文字，脑子里却空无一物。
+我已经不觉得文档有多重要了，大模型没有文档也能读懂代码。
 
--- [《OpenAI “学习模式”的风险》](https://resobscura.substack.com/p/openais-new-study-mode-and-the-risks)
+-- [Simon Willison](https://simonwillison.net/2025/Oct/25/coding-agent-tips/)
 
 2、
 
-最明智的举措不是追逐潮流，而是种下一棵树，让时间来发挥作用。树木不会在明天带来回报，它们十年后才会产生回报。它们默默地生长，使周围的一切都变得更好：树荫、价值、美感、寿命。
+文化危机并不是书籍的消亡，而是人们的注意力分散了，热衷于参加肤浅的活动。
 
--- [《设计的复利》](https://designobserver.com/the-compound-interest-of-design-what-not-to-build/)
+这个时代感觉患上了“文明多动症”，一代人焦躁不安、注意力不集中、漫无目的的过度活动，思考难以捉摸且转瞬即逝。
+
+-- [《把研究当作消遣已经失传》](https://kasurian.com/p/research-as-leisure)
 
 3、
 
-OpenAI 发布了自家的浏览器 Atlas，但它其实是反浏览器，尽可能避免用户浏览互联网。比如，你用它搜索“泰勒·斯威夫特”，它会告诉你那是谁，但不会返回任何指向泰勒·斯威夫特个人网站的链接。
+要真正理解一个概念，你必须在某种程度上自己“发明”这个概念。理解并非源于被动的内容消费，而是源于一个主动的、自我导向的创建和调试过程。
 
--- [《ChatGPT 的 Atlas：反 Web 的浏览器》](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
+-- [François Chollet](https://x.com/fchollet/status/1983279755823853724)，《Python 深度学习的作者》
 
 4、
 
-工程师不仅需要具备技术技能，还要具备软技能，也就是人际交往的技能。
+人可以怒，而不可以苦闷。怒可以构成壮美，苦闷却是一无所成，只是自我的崩溃。
 
-如果你不理解人类社会的复杂性，就无法理解公司或团队的工作方式，最终影响到自己的产出和扩大影响力。
+-- 康德，德国哲学家
 
--- [《被低估的软技能》](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
+5、
+
+AI 带给我的好处，不是我的速度变快了，而是我的项目范围变大了，我可以做出以前涉及不到的事情。
+
+-- [Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)，著名个人网站 [Neal.fun](https://neal.fun/) 的作者
 
 
 <!-- End -->

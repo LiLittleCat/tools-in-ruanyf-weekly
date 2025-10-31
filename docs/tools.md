@@ -1,5 +1,61 @@
 # 工具
 
+## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#工具)
+
+
+1、[MacOS Live Screensaver](https://github.com/hauxir/macos-live-screensaver)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102501.webp)
+
+一个开源的 macOS 屏保程序，能够播放流媒体，支持接入 Youtube。
+
+2、[Valetudo](https://valetudo.cloud/)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102508.webp)
+
+扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。
+
+3、[oxdraw](https://github.com/RohanAdwankar/oxdraw)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102602.webp)
+
+一个 Rust 语言编写的 Web 服务，用来可视化生成图表，同时给出对应的 Mermaid 语法代码。 
+
+4、[dLine](https://github.com/jazz-it/dline)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121805.webp)
+
+命令行的日程管理工具。
+
+5、[EternalTerminal](https://github.com/MisterTea/EternalTerminal)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121901.webp)
+
+基于 SSH 的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
+
+6、[Docs](https://github.com/suitenumerique/docs)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031701.webp)
+
+一个开源的内容管理系统，支持多人实时协作，需要自搭建。
+
+7、[UChart](https://www.uwarp.design/uchart)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102510.webp)
+
+在线的数据图表生成器，让没有编程背景的用户也能创建专业数据图表。（[@sherotree](https://github.com/ruanyf/weekly/issues/7981) 投稿）
+
+8、[filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs)
+
+一个 Rust 语言写的工具，用来改写 Git 仓库历史，比如不小心提交了敏感信息，可以用它来修改提交历史。（[@Cactusinhand](https://github.com/ruanyf/weekly/issues/7983) 投稿）
+
+9、[AI Elements Vue](https://github.com/cwandev/ai-elements-vue)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102702.webp)
+
+一个用于 AI 应用的前端组件库，将 [AI Elements 组件库](https://ai-sdk.dev/elements/overview)移植到 shadcn-vue。（[@cwandev](https://github.com/ruanyf/weekly/issues/7991) 投稿）
+
+
 ## [科技爱好者周刊（第 370 期）：正确的代码高亮](https://github.com/ruanyf/weekly/blob/master/docs/issue-370.md#工具)
 
 
