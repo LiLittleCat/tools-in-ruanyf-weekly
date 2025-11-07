@@ -16,87 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>371</currentVersion> -->
+<!-- <currentVersion>372</currentVersion> -->
 <!-- Begin -->
-# [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md)
+# [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md)
 ### 工具
 
 
-1、[MacOS Live Screensaver](https://github.com/hauxir/macos-live-screensaver)
+1、[Zensical](https://github.com/zensical/zensical)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110613.webp)
 
-一个开源的 macOS 屏保程序，能够播放流媒体，支持接入 Youtube。
+静态文档网站生成器 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material/) 的作者，写的升级版，完全兼容 MkDocs，但是解决了它的很多痛点。
 
-2、[Valetudo](https://valetudo.cloud/)
+2、[Affinity](https://www.affinity.studio/)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102508.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110203.webp)
 
-扫地机器人的开源固件，提供完整功能，并且不跟云端服务器进行通信。
+用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
 
-3、[oxdraw](https://github.com/RohanAdwankar/oxdraw)
+3、[FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062610.webp)
 
-一个 Rust 语言编写的 Web 服务，用来可视化生成图表，同时给出对应的 Mermaid 语法代码。 
+一个自搭建的、基于 Web 的文件管理器，参见[介绍文章](https://www.xda-developers.com/self-hosted-free-open-source-web-based-file-browser/)。
 
-4、[dLine](https://github.com/jazz-it/dline)
+4、[Texo](https://github.com/alephpi/Texo)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121805.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110202.webp)
 
-命令行的日程管理工具。
+开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。（[@alephpi](https://github.com/ruanyf/weekly/issues/8026) 投稿）
 
-5、[EternalTerminal](https://github.com/MisterTea/EternalTerminal)
+5、[TDesign uniapp](https://github.com/novlan1/tdesign-uniapp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121901.webp)
+腾讯 TDesign 组件库的非官方 uniapp 适配，兼容 H5/微信小程序/支付宝小程序/APP 等。（[@novlan1](https://github.com/ruanyf/weekly/issues/8022) 投稿）
 
-基于 SSH 的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
+6、[GreenWall](https://github.com/zmrlft/GreenWall)
 
-6、[Docs](https://github.com/suitenumerique/docs)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110201.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031701.webp)
+这个工具可以在 GitHub 提交日历上绘出指定的图形。（[@zmrlft](https://github.com/ruanyf/weekly/issues/8024) 投稿）
 
-一个开源的内容管理系统，支持多人实时协作，需要自搭建。
+7、[BakLab](https://github.com/biliqiqi/baklab-web)
 
-7、[UChart](https://www.uwarp.design/uchart)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102510.webp)
+一个开源的社区平台，将论坛发现功能和实时聊天互动结合在一起，标题链接是前端仓库，参考[官网](https://baklab.app)。（[@oodzchen](https://github.com/ruanyf/weekly/issues/8050) 投稿）
 
-在线的数据图表生成器，让没有编程背景的用户也能创建专业数据图表。（[@sherotree](https://github.com/ruanyf/weekly/issues/7981) 投稿）
+8、[中国节假日](https://github.com/vsme/chinese-days)
 
-8、[filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110512.webp)
 
-一个 Rust 语言写的工具，用来改写 Git 仓库历史，比如不小心提交了敏感信息，可以用它来修改提交历史。（[@Cactusinhand](https://github.com/ruanyf/weekly/issues/7983) 投稿）
+这个仓库提供一系列函数，方便你查询中国节假日、节气等等，每日通过 Action 自动更新数据，支持 iCal 日历订阅。（[@vsme](https://github.com/ruanyf/weekly/issues/8059) 投稿）
 
-9、[AI Elements Vue](https://github.com/cwandev/ai-elements-vue)
+另有一个[类似的项目](https://github.com/tomandjerry136/hodiday)，提供中国节假日的 JSON 文件。（[@tomandjerry136](https://github.com/ruanyf/weekly/issues/8062) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102702.webp)
+9、[QiLuo](https://github.com/chelunfu/qiluo_admin)（祺洛）
 
-一个用于 AI 应用的前端组件库，将 [AI Elements 组件库](https://ai-sdk.dev/elements/overview)移植到 shadcn-vue。（[@cwandev](https://github.com/ruanyf/weekly/issues/7991) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110605.webp)
+
+Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。（[@chelunfu](https://github.com/ruanyf/weekly/issues/8106) 投稿）
+
+10、[navsite](https://github.com/wubh2012/navsite)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110606.webp)
+
+将飞书多维表格转成一个导航网站。（[@wubh2012](https://github.com/ruanyf/weekly/issues/8109) 投稿）
 
 
 ### 资源
 
 
-1、[Grokipedia](https://grokipedia.com/)
+1、[苹果应用商店（网页版）](https://apps.apple.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110504.webp)
 
-马斯克本周推出的百科全书，并[表示](https://x.com/elonmusk/status/1983219953533665720)他想用激光将该网站的页面刻在石头上，再将石碑发射到太空中，以“防止文明倒退”。
+苹果本周终于推出了“应用商店”的网页版 apps.apple.com ，可以用浏览器访问。虽然无法从网站安装 App，但至少提供了一个 App 搜索和发现的 Web 入口。
 
-据说，它的80多万篇条目都是 AI 生成的，但好像只是对维基百科进行了编辑，详见[评论文章](https://www.pcmag.com/news/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)。
+网友扒了它的[前端代码](https://github.com/rxliuli/apps.apple.com)，发现用的是 Svelte 框架。
 
-2、[ShadCN Themes](https://shadcnthemer.com/)
+2、[ASCIIMoon](https://asciimoon.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202510/bg2025102601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070313.webp)
 
-这个网站收集 ShadCN UI 的各种主题。
-
-3、[Scrimba](https://scrimba.com)
-
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042815.webp)
-
-IT 视频课程学习网站，部分课程免费。
+这个网站使用 ASCII 码展示当天的月相（新月、弯月、满月）。
 
 
 ### 言论
@@ -104,35 +106,39 @@ IT 视频课程学习网站，部分课程免费。
 
 1、
 
-我已经不觉得文档有多重要了，大模型没有文档也能读懂代码。
+我说过永远不会有 htmx 的第三版，但没说过不会有第四版。
 
--- [Simon Willison](https://simonwillison.net/2025/Oct/25/coding-agent-tips/)
+-- [Carson Gross](https://htmx.org/essays/the-fetchening/)，htmx 项目创始人，曾经公开说不会有 htmx 3.0版，本周宣布直接发布4.0版。
 
 2、
 
-文化危机并不是书籍的消亡，而是人们的注意力分散了，热衷于参加肤浅的活动。
+我们收到谷歌的报告，他们在我们的代码中发现了一个漏洞。
 
-这个时代感觉患上了“文明多动症”，一代人焦躁不安、注意力不集中、漫无目的的过度活动，思考难以捉摸且转瞬即逝。
+我们很重视安全，但是互联网巨头使用 AI 扫描志愿者维护的代码，然后提交安全漏洞，希望志愿者免费修复，这真的公平吗？
 
--- [《把研究当作消遣已经失传》](https://kasurian.com/p/research-as-leisure)
+-- [FFmpeg 团队](https://x.com/FFmpeg/status/1984178359354483058)
 
 3、
 
-要真正理解一个概念，你必须在某种程度上自己“发明”这个概念。理解并非源于被动的内容消费，而是源于一个主动的、自我导向的创建和调试过程。
+未来十年，全球将有超过70万亿美元的遗产财富直接交给继承人，这将加剧社会的不平等。
 
--- [François Chollet](https://x.com/fchollet/status/1983279755823853724)，《Python 深度学习的作者》
+-- [英国《卫报》](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
 
 4、
 
-人可以怒，而不可以苦闷。怒可以构成壮美，苦闷却是一无所成，只是自我的崩溃。
+为什么运气很重要？因为它会缩短积累的时间，让你接触到更大的机会。这就像当你已经有钱的时候，赚更多的钱就容易得多。
 
--- 康德，德国哲学家
+-- [《人生是一场概率游戏》](https://zachholman.com/posts/money-off-the-table)
 
 5、
 
-AI 带给我的好处，不是我的速度变快了，而是我的项目范围变大了，我可以做出以前涉及不到的事情。
+AI 出现以后，程序员的发展方向彻底变了。
 
--- [Neal Agarwal](https://www.workingtheorys.com/p/the-craft-neal-agarwal)，著名个人网站 [Neal.fun](https://neal.fun/) 的作者
+你必须专注于理解系统而非理解语法，你的技能必须从编写代码转移到架构、安全、人机协作等方面。
+
+未来属于那些能够构想、开发和维护复杂系统的人。
+
+-- [《软件开发的演变》](https://guptadeepak.com/the-evolution-of-software-development-from-machine-code-to-ai-orchestration/)
 
 
 <!-- End -->

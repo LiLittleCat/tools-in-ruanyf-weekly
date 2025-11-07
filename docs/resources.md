@@ -1,5 +1,23 @@
 # 资源
 
+## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#资源)
+
+
+1、[苹果应用商店（网页版）](https://apps.apple.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110504.webp)
+
+苹果本周终于推出了“应用商店”的网页版 apps.apple.com ，可以用浏览器访问。虽然无法从网站安装 App，但至少提供了一个 App 搜索和发现的 Web 入口。
+
+网友扒了它的[前端代码](https://github.com/rxliuli/apps.apple.com)，发现用的是 Svelte 框架。
+
+2、[ASCIIMoon](https://asciimoon.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070313.webp)
+
+这个网站使用 ASCII 码展示当天的月相（新月、弯月、满月）。
+
+
 ## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#资源)
 
 

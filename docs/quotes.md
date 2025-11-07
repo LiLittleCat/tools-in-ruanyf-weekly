@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#言论)
+
+
+1、
+
+我说过永远不会有 htmx 的第三版，但没说过不会有第四版。
+
+-- [Carson Gross](https://htmx.org/essays/the-fetchening/)，htmx 项目创始人，曾经公开说不会有 htmx 3.0版，本周宣布直接发布4.0版。
+
+2、
+
+我们收到谷歌的报告，他们在我们的代码中发现了一个漏洞。
+
+我们很重视安全，但是互联网巨头使用 AI 扫描志愿者维护的代码，然后提交安全漏洞，希望志愿者免费修复，这真的公平吗？
+
+-- [FFmpeg 团队](https://x.com/FFmpeg/status/1984178359354483058)
+
+3、
+
+未来十年，全球将有超过70万亿美元的遗产财富直接交给继承人，这将加剧社会的不平等。
+
+-- [英国《卫报》](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
+
+4、
+
+为什么运气很重要？因为它会缩短积累的时间，让你接触到更大的机会。这就像当你已经有钱的时候，赚更多的钱就容易得多。
+
+-- [《人生是一场概率游戏》](https://zachholman.com/posts/money-off-the-table)
+
+5、
+
+AI 出现以后，程序员的发展方向彻底变了。
+
+你必须专注于理解系统而非理解语法，你的技能必须从编写代码转移到架构、安全、人机协作等方面。
+
+未来属于那些能够构想、开发和维护复杂系统的人。
+
+-- [《软件开发的演变》](https://guptadeepak.com/the-evolution-of-software-development-from-machine-code-to-ai-orchestration/)
+
+
 ## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#言论)
 
 

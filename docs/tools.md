@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#工具)
+
+
+1、[Zensical](https://github.com/zensical/zensical)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110613.webp)
+
+静态文档网站生成器 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material/) 的作者，写的升级版，完全兼容 MkDocs，但是解决了它的很多痛点。
+
+2、[Affinity](https://www.affinity.studio/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110203.webp)
+
+用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
+
+3、[FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062610.webp)
+
+一个自搭建的、基于 Web 的文件管理器，参见[介绍文章](https://www.xda-developers.com/self-hosted-free-open-source-web-based-file-browser/)。
+
+4、[Texo](https://github.com/alephpi/Texo)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110202.webp)
+
+开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。（[@alephpi](https://github.com/ruanyf/weekly/issues/8026) 投稿）
+
+5、[TDesign uniapp](https://github.com/novlan1/tdesign-uniapp)
+
+腾讯 TDesign 组件库的非官方 uniapp 适配，兼容 H5/微信小程序/支付宝小程序/APP 等。（[@novlan1](https://github.com/ruanyf/weekly/issues/8022) 投稿）
+
+6、[GreenWall](https://github.com/zmrlft/GreenWall)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110201.webp)
+
+这个工具可以在 GitHub 提交日历上绘出指定的图形。（[@zmrlft](https://github.com/ruanyf/weekly/issues/8024) 投稿）
+
+7、[BakLab](https://github.com/biliqiqi/baklab-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110502.webp)
+
+一个开源的社区平台，将论坛发现功能和实时聊天互动结合在一起，标题链接是前端仓库，参考[官网](https://baklab.app)。（[@oodzchen](https://github.com/ruanyf/weekly/issues/8050) 投稿）
+
+8、[中国节假日](https://github.com/vsme/chinese-days)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110512.webp)
+
+这个仓库提供一系列函数，方便你查询中国节假日、节气等等，每日通过 Action 自动更新数据，支持 iCal 日历订阅。（[@vsme](https://github.com/ruanyf/weekly/issues/8059) 投稿）
+
+另有一个[类似的项目](https://github.com/tomandjerry136/hodiday)，提供中国节假日的 JSON 文件。（[@tomandjerry136](https://github.com/ruanyf/weekly/issues/8062) 投稿）
+
+9、[QiLuo](https://github.com/chelunfu/qiluo_admin)（祺洛）
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110605.webp)
+
+Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。（[@chelunfu](https://github.com/ruanyf/weekly/issues/8106) 投稿）
+
+10、[navsite](https://github.com/wubh2012/navsite)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110606.webp)
+
+将飞书多维表格转成一个导航网站。（[@wubh2012](https://github.com/ruanyf/weekly/issues/8109) 投稿）
+
+
 ## [#科技爱好者周刊（第 371 期）：一个乐观主义者的专访](https://github.com/ruanyf/weekly/blob/master/docs/issue-371.md#工具)
 
 
