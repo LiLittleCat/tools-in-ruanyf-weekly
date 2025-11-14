@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#工具)
+
+
+1、[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110901.webp)
+
+一个显示各种信息的面板应用，可以用于信息屏或者智能镜子。
+
+2、[btop](https://github.com/aristocratos/btop)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111208.webp)
+
+htop 命令的升级版，在终端里面详细展示系统信息。
+
+3、[DroidDock](https://github.com/rajivm1991/DroidDock)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111206.webp)
+
+一个 Mac 桌面应用，可以连接安卓手机，管理手机文件。
+
+4、[RedisFX](https://github.com/tanhuang2016/RedisFX)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110801.webp)
+
+轻量级的 Redis 图形界面，使用 JavaFX 开发，运行在 JVM 上。（[@tanhuang2016](https://github.com/ruanyf/weekly/issues/8120) 投稿）
+
+5、[Pingap](https://github.com/vicanso/pingap)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111007.webp)
+
+一个 Rust 语言开发的反向代理服务器，类似于 nginx，内置各种插件（身份验证、安全、流量控制、内容修改等）。（[@vicanso](https://github.com/ruanyf/weekly/issues/8133) 投稿）
+
+6、[Alle](https://github.com/bestruirui/Alle)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111008.webp)
+
+开源的邮件聚合管理平台，基于 Cloudflare Workers 部署。在一个界面查看所有邮箱的收件，并带有邮件的 AI 处理。（[@bestruirui](https://github.com/ruanyf/weekly/issues/8140) 投稿）
+
+7、[gocron](https://github.com/gocronx-team/gocron)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111010.webp)
+
+Linux 的定时任务管理系统，使用 Go 语言开发，自带 Web 界面，用于替代原生的 crontab。（[@gocronx](https://github.com/ruanyf/weekly/issues/8143) 投稿）
+
+8、[markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts)
+
+Markdown 语法解析库 markdown-it 的 TypeScript 重写。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/8145) 投稿）
+
+9、[TUIOS](https://github.com/Gaurav-Gosain/tuios)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111109.webp)
+
+一个很奇特的软件，终端窗口内部的窗口管理器，在一个终端里面管理多个终端对话窗口。（[@kero990](https://github.com/ruanyf/weekly/issues/8148) 投稿）
+
+10、[XMSLEEP](https://github.com/Tosencen/XMSLEEP)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111215.webp)
+
+开源的安卓白噪音应用。（[@Tosencen](https://github.com/ruanyf/weekly/issues/8157) 投稿）
+
+
 ## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#工具)
 
 

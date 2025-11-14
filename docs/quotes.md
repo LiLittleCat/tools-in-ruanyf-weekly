@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#言论)
+
+
+1、
+
+跟常规 API 不同，MCP 作为接口有一个好处。
+
+常规 API 是对开发者的一种承诺，发布后不能轻易改变。但是，MCP 接口只供大模型调用，而大模型每次都会动态读取使用规范，因此我们能够随时更改 MCP 服务器，不会有任何问题。
+
+-- [史蒂夫·克劳斯](https://simonwillison.net/2025/Nov/12/steve-krouse/)，美国程序员
+
+2、
+
+如果你向人们展示问题，又向他们展示解决方案，人们就会受到触动并采取行动。
+
+-- [比尔·盖茨](https://www.goodreads.com/quotes/731935-i-believe-that-if-you-show-people-the-problems-and)
+
+3、
+
+地球表面的岩石，25%属于碳酸盐岩。这种石头大部分源于生物的有机体分解。这意味着，很多碳酸盐岩以前是生命体。
+
+-- [《我对死亡的思考》](https://doc.searls.com/2025/10/06/leavings/)
+
+4、
+
+那些鼓吹 AI 编程的人是否意识到，AI 必定会带来大量垃圾代码和“理解债务”。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=45491685)
+
+5、
+
+最近，我在思考一个问题，如果 AI 能够将我们的语言翻译成可运行的代码，那么我们还需要编程语言吗？
+
+-- [《语言无关的编程》](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
+
+
 ## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#言论)
 
 

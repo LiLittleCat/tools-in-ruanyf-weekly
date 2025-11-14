@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#资源)
+
+
+1、[stickertop.art](https://stickertop.art/main/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111204.webp)
+
+这个网站收集贴了贴纸的笔记本照片。
+
+2、[TypeScript 类型图解](https://types.kitlangton.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111301.webp)
+
+这个网站用图形讲解 TypeScript 类型。
+
+3、[各国现金使用比例](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111302.webp)
+
+这个网站有2025年各国使用现金的比例，可以作为出国参考。中国的现金比例是10%，是最低的国家之一。
+
+
 ## [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md#资源)
 
 

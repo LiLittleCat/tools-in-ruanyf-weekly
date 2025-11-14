@@ -16,89 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>372</currentVersion> -->
+<!-- <currentVersion>373</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 372 期）：软件界面如何设计](https://github.com/ruanyf/weekly/blob/master/docs/issue-372.md)
+# [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md)
 ### 工具
 
 
-1、[Zensical](https://github.com/zensical/zensical)
+1、[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110613.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110901.webp)
 
-静态文档网站生成器 [Material for MkDocs](https://github.com/squidfunk/mkdocs-material/) 的作者，写的升级版，完全兼容 MkDocs，但是解决了它的很多痛点。
+一个显示各种信息的面板应用，可以用于信息屏或者智能镜子。
 
-2、[Affinity](https://www.affinity.studio/)
+2、[btop](https://github.com/aristocratos/btop)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111208.webp)
 
-用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
+htop 命令的升级版，在终端里面详细展示系统信息。
 
-3、[FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser)
+3、[DroidDock](https://github.com/rajivm1991/DroidDock)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062610.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111206.webp)
 
-一个自搭建的、基于 Web 的文件管理器，参见[介绍文章](https://www.xda-developers.com/self-hosted-free-open-source-web-based-file-browser/)。
+一个 Mac 桌面应用，可以连接安卓手机，管理手机文件。
 
-4、[Texo](https://github.com/alephpi/Texo)
+4、[RedisFX](https://github.com/tanhuang2016/RedisFX)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110801.webp)
 
-开源的数学公式 OCR 引擎，通过前端加载模型，将数学公式的截图转成 LaTex 语法，[在线试用](https://texocr.netlify.app/ocr)。（[@alephpi](https://github.com/ruanyf/weekly/issues/8026) 投稿）
+轻量级的 Redis 图形界面，使用 JavaFX 开发，运行在 JVM 上。（[@tanhuang2016](https://github.com/ruanyf/weekly/issues/8120) 投稿）
 
-5、[TDesign uniapp](https://github.com/novlan1/tdesign-uniapp)
+5、[Pingap](https://github.com/vicanso/pingap)
 
-腾讯 TDesign 组件库的非官方 uniapp 适配，兼容 H5/微信小程序/支付宝小程序/APP 等。（[@novlan1](https://github.com/ruanyf/weekly/issues/8022) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111007.webp)
 
-6、[GreenWall](https://github.com/zmrlft/GreenWall)
+一个 Rust 语言开发的反向代理服务器，类似于 nginx，内置各种插件（身份验证、安全、流量控制、内容修改等）。（[@vicanso](https://github.com/ruanyf/weekly/issues/8133) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110201.webp)
+6、[Alle](https://github.com/bestruirui/Alle)
 
-这个工具可以在 GitHub 提交日历上绘出指定的图形。（[@zmrlft](https://github.com/ruanyf/weekly/issues/8024) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111008.webp)
 
-7、[BakLab](https://github.com/biliqiqi/baklab-web)
+开源的邮件聚合管理平台，基于 Cloudflare Workers 部署。在一个界面查看所有邮箱的收件，并带有邮件的 AI 处理。（[@bestruirui](https://github.com/ruanyf/weekly/issues/8140) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110502.webp)
+7、[gocron](https://github.com/gocronx-team/gocron)
 
-一个开源的社区平台，将论坛发现功能和实时聊天互动结合在一起，标题链接是前端仓库，参考[官网](https://baklab.app)。（[@oodzchen](https://github.com/ruanyf/weekly/issues/8050) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111010.webp)
 
-8、[中国节假日](https://github.com/vsme/chinese-days)
+Linux 的定时任务管理系统，使用 Go 语言开发，自带 Web 界面，用于替代原生的 crontab。（[@gocronx](https://github.com/ruanyf/weekly/issues/8143) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110512.webp)
+8、[markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts)
 
-这个仓库提供一系列函数，方便你查询中国节假日、节气等等，每日通过 Action 自动更新数据，支持 iCal 日历订阅。（[@vsme](https://github.com/ruanyf/weekly/issues/8059) 投稿）
+Markdown 语法解析库 markdown-it 的 TypeScript 重写。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/8145) 投稿）
 
-另有一个[类似的项目](https://github.com/tomandjerry136/hodiday)，提供中国节假日的 JSON 文件。（[@tomandjerry136](https://github.com/ruanyf/weekly/issues/8062) 投稿）
+9、[TUIOS](https://github.com/Gaurav-Gosain/tuios)
 
-9、[QiLuo](https://github.com/chelunfu/qiluo_admin)（祺洛）
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111109.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110605.webp)
+一个很奇特的软件，终端窗口内部的窗口管理器，在一个终端里面管理多个终端对话窗口。（[@kero990](https://github.com/ruanyf/weekly/issues/8148) 投稿）
 
-Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。（[@chelunfu](https://github.com/ruanyf/weekly/issues/8106) 投稿）
+10、[XMSLEEP](https://github.com/Tosencen/XMSLEEP)
 
-10、[navsite](https://github.com/wubh2012/navsite)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111215.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110606.webp)
-
-将飞书多维表格转成一个导航网站。（[@wubh2012](https://github.com/ruanyf/weekly/issues/8109) 投稿）
+开源的安卓白噪音应用。（[@Tosencen](https://github.com/ruanyf/weekly/issues/8157) 投稿）
 
 
 ### 资源
 
 
-1、[苹果应用商店（网页版）](https://apps.apple.com/)
+1、[stickertop.art](https://stickertop.art/main/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110504.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111204.webp)
 
-苹果本周终于推出了“应用商店”的网页版 apps.apple.com ，可以用浏览器访问。虽然无法从网站安装 App，但至少提供了一个 App 搜索和发现的 Web 入口。
+这个网站收集贴了贴纸的笔记本照片。
 
-网友扒了它的[前端代码](https://github.com/rxliuli/apps.apple.com)，发现用的是 Svelte 框架。
+2、[TypeScript 类型图解](https://types.kitlangton.com/)
 
-2、[ASCIIMoon](https://asciimoon.com/)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070313.webp)
+这个网站用图形讲解 TypeScript 类型。
 
-这个网站使用 ASCII 码展示当天的月相（新月、弯月、满月）。
+3、[各国现金使用比例](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111302.webp)
+
+这个网站有2025年各国使用现金的比例，可以作为出国参考。中国的现金比例是10%，是最低的国家之一。
 
 
 ### 言论
@@ -106,39 +108,35 @@ Rust 技术栈开发的网站管理后台，采用 Axum 框架 + Sea ORM。（[@
 
 1、
 
-我说过永远不会有 htmx 的第三版，但没说过不会有第四版。
+跟常规 API 不同，MCP 作为接口有一个好处。
 
--- [Carson Gross](https://htmx.org/essays/the-fetchening/)，htmx 项目创始人，曾经公开说不会有 htmx 3.0版，本周宣布直接发布4.0版。
+常规 API 是对开发者的一种承诺，发布后不能轻易改变。但是，MCP 接口只供大模型调用，而大模型每次都会动态读取使用规范，因此我们能够随时更改 MCP 服务器，不会有任何问题。
+
+-- [史蒂夫·克劳斯](https://simonwillison.net/2025/Nov/12/steve-krouse/)，美国程序员
 
 2、
 
-我们收到谷歌的报告，他们在我们的代码中发现了一个漏洞。
+如果你向人们展示问题，又向他们展示解决方案，人们就会受到触动并采取行动。
 
-我们很重视安全，但是互联网巨头使用 AI 扫描志愿者维护的代码，然后提交安全漏洞，希望志愿者免费修复，这真的公平吗？
-
--- [FFmpeg 团队](https://x.com/FFmpeg/status/1984178359354483058)
+-- [比尔·盖茨](https://www.goodreads.com/quotes/731935-i-believe-that-if-you-show-people-the-problems-and)
 
 3、
 
-未来十年，全球将有超过70万亿美元的遗产财富直接交给继承人，这将加剧社会的不平等。
+地球表面的岩石，25%属于碳酸盐岩。这种石头大部分源于生物的有机体分解。这意味着，很多碳酸盐岩以前是生命体。
 
--- [英国《卫报》](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn)
+-- [《我对死亡的思考》](https://doc.searls.com/2025/10/06/leavings/)
 
 4、
 
-为什么运气很重要？因为它会缩短积累的时间，让你接触到更大的机会。这就像当你已经有钱的时候，赚更多的钱就容易得多。
+那些鼓吹 AI 编程的人是否意识到，AI 必定会带来大量垃圾代码和“理解债务”。
 
--- [《人生是一场概率游戏》](https://zachholman.com/posts/money-off-the-table)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=45491685)
 
 5、
 
-AI 出现以后，程序员的发展方向彻底变了。
+最近，我在思考一个问题，如果 AI 能够将我们的语言翻译成可运行的代码，那么我们还需要编程语言吗？
 
-你必须专注于理解系统而非理解语法，你的技能必须从编写代码转移到架构、安全、人机协作等方面。
-
-未来属于那些能够构想、开发和维护复杂系统的人。
-
--- [《软件开发的演变》](https://guptadeepak.com/the-evolution-of-software-development-from-machine-code-to-ai-orchestration/)
+-- [《语言无关的编程》](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
 
 
 <!-- End -->
