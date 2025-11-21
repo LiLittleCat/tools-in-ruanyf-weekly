@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#资源)
+
+
+1、[随机性测试指南](https://random.tastemaker.design/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111311.webp)
+
+这个网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
+
+2、[强化学习的数学基础](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)（Mathematical Foundations of Reinforcement Learning）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031101.webp)
+
+开源的英文电子书，介绍强化学习的基础数学知识。
+
+3、[Erlang 初学者教程](https://learnyousomeerlang.com/content)（learn you some Erlang）
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031702.webp)
+
+Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
+
+
 ## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#资源)
 
 

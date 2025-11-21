@@ -16,91 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>373</currentVersion> -->
+<!-- <currentVersion>374</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md)
+# [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md)
 ### 工具
 
 
-1、[MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror)
+1、[LibrePods](https://github.com/kavishdevar/librepods)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111806.webp)
 
-一个显示各种信息的面板应用，可以用于信息屏或者智能镜子。
+在非苹果设备上（比如安卓手机和 Linux），使用 AirPods 耳机的工具。
 
-2、[btop](https://github.com/aristocratos/btop)
+2、[IDEmacs](https://codeberg.org/IDEmacs/IDEmacs)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111208.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111807.webp)
 
-htop 命令的升级版，在终端里面详细展示系统信息。
+将 Emacs 配置成 VS Code 样式的一套配置。
 
-3、[DroidDock](https://github.com/rajivm1991/DroidDock)
+3、[Kratos](https://github.com/ory/kratos)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111310.webp)
 
-一个 Mac 桌面应用，可以连接安卓手机，管理手机文件。
+开源的身份认证服务器，支持多种认证方式，可以替代 Auth0 和 Okta。
 
-4、[RedisFX](https://github.com/tanhuang2016/RedisFX)
+4、[Biu](https://github.com/wood3n/biu)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025110801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111307.webp)
 
-轻量级的 Redis 图形界面，使用 JavaFX 开发，运行在 JVM 上。（[@tanhuang2016](https://github.com/ruanyf/weekly/issues/8120) 投稿）
+一个开源的跨平台桌面应用，基于 API 来搜索和播放 Bilibili 平台的音乐，支持登录获取收藏夹歌曲。（[@wood3n](https://github.com/ruanyf/weekly/issues/8202) 投稿）
 
-5、[Pingap](https://github.com/vicanso/pingap)
+5、[Enjoy Git](https://enjoygit.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111007.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111401.webp)
 
-一个 Rust 语言开发的反向代理服务器，类似于 nginx，内置各种插件（身份验证、安全、流量控制、内容修改等）。（[@vicanso](https://github.com/ruanyf/weekly/issues/8133) 投稿）
+中文的 Git 桌面图形客户端，暂时只有 Windows 版。（[@huangcs427](https://github.com/ruanyf/weekly/issues/8207) 投稿）
 
-6、[Alle](https://github.com/bestruirui/Alle)
+6、[Readdig](https://github.com/readdig/readdig)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111705.webp)
 
-开源的邮件聚合管理平台，基于 Cloudflare Workers 部署。在一个界面查看所有邮箱的收件，并带有邮件的 AI 处理。（[@bestruirui](https://github.com/ruanyf/weekly/issues/8140) 投稿）
+开源 RSS 阅读和 Podcasts 播放网站。（[@copilot-is](https://github.com/ruanyf/weekly/issues/8223) 投稿）
 
-7、[gocron](https://github.com/gocronx-team/gocron)
+7、[Tiny SVG](https://github.com/hehehai/tiny-svg)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111010.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111706.webp)
 
-Linux 的定时任务管理系统，使用 Go 语言开发，自带 Web 界面，用于替代原生的 crontab。（[@gocronx](https://github.com/ruanyf/weekly/issues/8143) 投稿）
+开源的网页版 SVG 压缩，可以[在线试用](https://tiny-svg.actnow.dev/)。（[@mutou981](https://github.com/ruanyf/weekly/issues/8225) 投稿）
 
-8、[markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts)
+8、[fssh](https://github.com/Mister-leo/fssh)
 
-Markdown 语法解析库 markdown-it 的 TypeScript 重写。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/8145) 投稿）
+苹果笔记本的 SSH 私钥保护器，登录服务器时直接指纹认证。（[@Mister-leo](https://github.com/ruanyf/weekly/issues/8226) 投稿）
 
-9、[TUIOS](https://github.com/Gaurav-Gosain/tuios)
+9、[CrossDesk](https://www.crossdesk.cn/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111109.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112001.webp)
 
-一个很奇特的软件，终端窗口内部的窗口管理器，在一个终端里面管理多个终端对话窗口。（[@kero990](https://github.com/ruanyf/weekly/issues/8148) 投稿）
+开源的远程桌面软件，跨平台，支持硬件加速和 Web 访问。（[@kunkundi](https://github.com/ruanyf/weekly/issues/8251) 投稿）
 
-10、[XMSLEEP](https://github.com/Tosencen/XMSLEEP)
+10、[Git PR AI](https://github.com/leochiu-a/git-pr-ai)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111215.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112002.webp)
 
-开源的安卓白噪音应用。（[@Tosencen](https://github.com/ruanyf/weekly/issues/8157) 投稿）
+一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。（[@leochiu-a](https://github.com/ruanyf/weekly/issues/8252) 投稿）
 
 
 ### 资源
 
 
-1、[stickertop.art](https://stickertop.art/main/)
+1、[随机性测试指南](https://random.tastemaker.design/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111311.webp)
 
-这个网站收集贴了贴纸的笔记本照片。
+这个网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
 
-2、[TypeScript 类型图解](https://types.kitlangton.com/)
+2、[强化学习的数学基础](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)（Mathematical Foundations of Reinforcement Learning）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031101.webp)
 
-这个网站用图形讲解 TypeScript 类型。
+开源的英文电子书，介绍强化学习的基础数学知识。
 
-3、[各国现金使用比例](https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090)
+3、[Erlang 初学者教程](https://learnyousomeerlang.com/content)（learn you some Erlang）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031702.webp)
 
-这个网站有2025年各国使用现金的比例，可以作为出国参考。中国的现金比例是10%，是最低的国家之一。
+Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
 
 
 ### 言论
@@ -108,35 +108,41 @@ Markdown 语法解析库 markdown-it 的 TypeScript 重写。（[@Simon-He95](ht
 
 1、
 
-跟常规 API 不同，MCP 作为接口有一个好处。
+我希望让机器人坐在自动驾驶的出租车里运送包裹。
 
-常规 API 是对开发者的一种承诺，发布后不能轻易改变。但是，MCP 接口只供大模型调用，而大模型每次都会动态读取使用规范，因此我们能够随时更改 MCP 服务器，不会有任何问题。
+出租车自动驾驶到达目的地后，机器人负责搬运货物到门口。
 
--- [史蒂夫·克劳斯](https://simonwillison.net/2025/Nov/12/steve-krouse/)，美国程序员
+-- [马斯克](https://stratechery.com/2025/robotaxis-and-suburbia/)谈对于 Optimus 机器人的发展愿景
 
 2、
 
-如果你向人们展示问题，又向他们展示解决方案，人们就会受到触动并采取行动。
+亚洲常见的一种攻击方法是，诈骗分子打电话给受害者，冒充银行员工，警告受害者账户已被盗用，并指示他们安装一个应用程序来保护资金安全。
 
--- [比尔·盖茨](https://www.goodreads.com/quotes/731935-i-believe-that-if-you-show-people-the-problems-and)
+诈骗分子还会蒙骗受害者，让他们在安装应用程序的过程中忽略安全警告。这个应用是伪装成合法应用的恶意软件，会窃取受害者的登录信息，并拦截访问银行账户所需的双因素验证码。
+
+-- [谷歌](https://www.engadget.com/apps/google-will-allow-experienced-users-to-sideload-unverified-android-apps-130000130.html)用这个案例解释，为什么需要实施“安卓开发者认证计划”
 
 3、
 
-地球表面的岩石，25%属于碳酸盐岩。这种石头大部分源于生物的有机体分解。这意味着，很多碳酸盐岩以前是生命体。
+既然 AI 可以按需提供你的代码所需的特定功能，为什么还要增加额外的供应链风险，引入另一个依赖项呢？
 
--- [《我对死亡的思考》](https://doc.searls.com/2025/10/06/leavings/)
+因此，小型的、低价值的依赖项在未来会消失。
+
+-- [《“小型”开源软件的命运 》](https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/)
 
 4、
 
-那些鼓吹 AI 编程的人是否意识到，AI 必定会带来大量垃圾代码和“理解债务”。
+基因疗法可能实现一次治愈病人，这对于公司的持续收入很不利。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=45491685)
+相比慢性疗法，治愈病人是一种可持续的商业模式吗？
+
+-- [高盛公司](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)的一份研究报告
 
 5、
 
-最近，我在思考一个问题，如果 AI 能够将我们的语言翻译成可运行的代码，那么我们还需要编程语言吗？
+去年，互联网上机器人流量第一次超过了人类流量。根据一份报告，自动化系统在2024年占所有网络流量的51%，而且 AI 生成的文章数量也在2024年底首次超过了人类撰写的文章。
 
--- [《语言无关的编程》](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
+-- [《互联网已死》](https://decrypt.co/348837/dead-internet-theory-gains-traction-ai-content-surges-online)
 
 
 <!-- End -->

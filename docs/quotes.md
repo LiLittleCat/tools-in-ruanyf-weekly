@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#言论)
+
+
+1、
+
+我希望让机器人坐在自动驾驶的出租车里运送包裹。
+
+出租车自动驾驶到达目的地后，机器人负责搬运货物到门口。
+
+-- [马斯克](https://stratechery.com/2025/robotaxis-and-suburbia/)谈对于 Optimus 机器人的发展愿景
+
+2、
+
+亚洲常见的一种攻击方法是，诈骗分子打电话给受害者，冒充银行员工，警告受害者账户已被盗用，并指示他们安装一个应用程序来保护资金安全。
+
+诈骗分子还会蒙骗受害者，让他们在安装应用程序的过程中忽略安全警告。这个应用是伪装成合法应用的恶意软件，会窃取受害者的登录信息，并拦截访问银行账户所需的双因素验证码。
+
+-- [谷歌](https://www.engadget.com/apps/google-will-allow-experienced-users-to-sideload-unverified-android-apps-130000130.html)用这个案例解释，为什么需要实施“安卓开发者认证计划”
+
+3、
+
+既然 AI 可以按需提供你的代码所需的特定功能，为什么还要增加额外的供应链风险，引入另一个依赖项呢？
+
+因此，小型的、低价值的依赖项在未来会消失。
+
+-- [《“小型”开源软件的命运 》](https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/)
+
+4、
+
+基因疗法可能实现一次治愈病人，这对于公司的持续收入很不利。
+
+相比慢性疗法，治愈病人是一种可持续的商业模式吗？
+
+-- [高盛公司](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)的一份研究报告
+
+5、
+
+去年，互联网上机器人流量第一次超过了人类流量。根据一份报告，自动化系统在2024年占所有网络流量的51%，而且 AI 生成的文章数量也在2024年底首次超过了人类撰写的文章。
+
+-- [《互联网已死》](https://decrypt.co/348837/dead-internet-theory-gains-traction-ai-content-surges-online)
+
+
 ## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#言论)
 
 

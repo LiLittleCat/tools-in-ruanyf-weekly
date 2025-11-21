@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#工具)
+
+
+1、[LibrePods](https://github.com/kavishdevar/librepods)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111806.webp)
+
+在非苹果设备上（比如安卓手机和 Linux），使用 AirPods 耳机的工具。
+
+2、[IDEmacs](https://codeberg.org/IDEmacs/IDEmacs)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111807.webp)
+
+将 Emacs 配置成 VS Code 样式的一套配置。
+
+3、[Kratos](https://github.com/ory/kratos)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111310.webp)
+
+开源的身份认证服务器，支持多种认证方式，可以替代 Auth0 和 Okta。
+
+4、[Biu](https://github.com/wood3n/biu)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111307.webp)
+
+一个开源的跨平台桌面应用，基于 API 来搜索和播放 Bilibili 平台的音乐，支持登录获取收藏夹歌曲。（[@wood3n](https://github.com/ruanyf/weekly/issues/8202) 投稿）
+
+5、[Enjoy Git](https://enjoygit.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111401.webp)
+
+中文的 Git 桌面图形客户端，暂时只有 Windows 版。（[@huangcs427](https://github.com/ruanyf/weekly/issues/8207) 投稿）
+
+6、[Readdig](https://github.com/readdig/readdig)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111705.webp)
+
+开源 RSS 阅读和 Podcasts 播放网站。（[@copilot-is](https://github.com/ruanyf/weekly/issues/8223) 投稿）
+
+7、[Tiny SVG](https://github.com/hehehai/tiny-svg)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111706.webp)
+
+开源的网页版 SVG 压缩，可以[在线试用](https://tiny-svg.actnow.dev/)。（[@mutou981](https://github.com/ruanyf/weekly/issues/8225) 投稿）
+
+8、[fssh](https://github.com/Mister-leo/fssh)
+
+苹果笔记本的 SSH 私钥保护器，登录服务器时直接指纹认证。（[@Mister-leo](https://github.com/ruanyf/weekly/issues/8226) 投稿）
+
+9、[CrossDesk](https://www.crossdesk.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112001.webp)
+
+开源的远程桌面软件，跨平台，支持硬件加速和 Web 访问。（[@kunkundi](https://github.com/ruanyf/weekly/issues/8251) 投稿）
+
+10、[Git PR AI](https://github.com/leochiu-a/git-pr-ai)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112002.webp)
+
+一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。（[@leochiu-a](https://github.com/ruanyf/weekly/issues/8252) 投稿）
+
+
 ## [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](https://github.com/ruanyf/weekly/blob/master/docs/issue-373.md#工具)
 
 
