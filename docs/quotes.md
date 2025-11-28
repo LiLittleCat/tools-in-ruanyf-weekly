@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md#言论)
+
+
+1、
+
+编程是我遇到过的最能抑制傲慢的良药。如果一个人很傲慢，你就让他去编程。
+
+-- [tratt.net](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
+
+2、
+
+训练一个观点与众不同的模型，会越来越困难。因为如果你的观点与真实数据和真实世界不符，你就不能简单地用外部材料来训练模型。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=46050177)
+
+3、
+
+现在是2025年，AI 像病毒一样迅速传播。哪怕你还在坚持手工制作精品，人们也很容易将你的辛勤劳动误认为是毫无灵魂、缺乏灵感的机器垃圾。
+
+-- [tonsky.me](https://tonsky.me/blog/hiring-ai/)
+
+4、
+
+人生苦短，死亡来得如此轻易。如果我只是随波逐流，转眼间就会变成老翁。
+
+-- [小畑五郎](https://kottke.org/25/11/my-pace)，一个日本 Youtuber
+
+5、
+
+如果一件东西100%实用，它就一定是漂亮的，比如没有丑陋的钉子或丑陋的锤子。但是，有很多丑陋的汽车，因为汽车并不是所有部分都实用。
+
+-- [Dan Gelbart](https://www.bedelstein.com/post/mcmaster-carr)，一位工业发明家
+
+
 ## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#言论)
 
 

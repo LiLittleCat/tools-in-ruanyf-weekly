@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md#资源)
+
+
+1、[LangGraph 1.0 完全指南](https://www.luochang.ink/dive-into-langgraph/quickstart/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112501.webp)
+
+LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。（[@luochang212](https://github.com/ruanyf/weekly/issues/8283) 投稿）
+
+2、[Nano Banana Pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112702.webp)
+
+这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。（[@DophinL](https://github.com/ruanyf/weekly/issues/8297) 投稿）
+
+3、[OCR Arena](https://www.ocrarena.ai)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112507.webp)
+
+这个网站是一个 AI 竞技场，比较不同模型的 OCR（光学识别）能力，目前排名第一的是 Gemini 3。
+
+
 ## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#资源)
 
 

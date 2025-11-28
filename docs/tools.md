@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md#工具)
+
+
+1、[DNS Benchmark Tool](https://github.com/frankovo/dns-benchmark-tool)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112101.webp)
+
+测试 DNS 服务器的命令行工具，可以测试本地到 DNS 服务器的延迟，以及 DNS 解析获取域名的 IP 地址的耗时。
+
+2、[iDescriptor](https://github.com/iDescriptor/iDescriptor)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112405.webp)
+
+一个跨平台的桌面应用，让电脑连接管理 iPhone。
+
+3、[SVG.js](https://svgjs.dev)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112406.webp)
+
+一个网页 JS 库，用来生成和操作 SVG 图片动画。
+
+4、[impala](https://github.com/pythops/impala)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112303.webp)
+
+Linux 平台管理 WiFi 的一个终端应用。
+
+5、[2025-blog-public](https://github.com/YYsuni/2025-blog-public)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112106.webp)
+
+一个基于 Next.js 的静态博客网站模版。（[@YYsuni](https://github.com/ruanyf/weekly/issues/8262) 投稿）
+
+6、[pdfpc-ts](https://github.com/Master-Hash/pdfpc-ts)
+
+一个开源网站，用于幻灯片演示，特点是同时带有演示者视图，用于提词，类似于桌面应用 [pdfpc](https://github.com/pdfpc/pdfpc)。（[@Master-Hash](https://github.com/ruanyf/weekly/issues/8264) 投稿）
+
+7、[剪存](https://github.com/snsogbl/clip-save)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112302.webp)
+
+开源的桌面软件，用来保存剪贴板历史，支持 Windows/Mac。（[@snsogbl](https://github.com/ruanyf/weekly/issues/8269) 投稿）
+
+8、[Hoa](https://github.com/hoa-js/hoa)
+
+一个受 Koa 和 Hono 启发的 JS 服务器框架，适用于 Cloudflare Worker。（[@nswbmw](https://github.com/ruanyf/weekly/issues/8289) 投稿）
+
+9、[NodeBBS](https://github.com/aiprojecthub/nodebbs)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112701.webp)
+
+开源的基于 JS 语言的现代论坛系统。（[@wengqianshan](https://github.com/ruanyf/weekly/issues/8294) 投稿）
+
+10、[MyTube](https://github.com/franklioxygen/MyTube)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112704.webp)
+
+一个需要自搭建的 Web 服务，用来下载与管理 Youtube/Bilibili 两大平台的视频。（[@franklioxygen](https://github.com/ruanyf/weekly/issues/8300) 投稿）
+
+
 ## [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md#工具)
 
 

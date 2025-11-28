@@ -16,91 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>374</currentVersion> -->
+<!-- <currentVersion>375</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 374 期）：6GHz 的问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-374.md)
+# [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md)
 ### 工具
 
 
-1、[LibrePods](https://github.com/kavishdevar/librepods)
+1、[DNS Benchmark Tool](https://github.com/frankovo/dns-benchmark-tool)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112101.webp)
 
-在非苹果设备上（比如安卓手机和 Linux），使用 AirPods 耳机的工具。
+测试 DNS 服务器的命令行工具，可以测试本地到 DNS 服务器的延迟，以及 DNS 解析获取域名的 IP 地址的耗时。
 
-2、[IDEmacs](https://codeberg.org/IDEmacs/IDEmacs)
+2、[iDescriptor](https://github.com/iDescriptor/iDescriptor)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111807.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112405.webp)
 
-将 Emacs 配置成 VS Code 样式的一套配置。
+一个跨平台的桌面应用，让电脑连接管理 iPhone。
 
-3、[Kratos](https://github.com/ory/kratos)
+3、[SVG.js](https://svgjs.dev)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111310.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112406.webp)
 
-开源的身份认证服务器，支持多种认证方式，可以替代 Auth0 和 Okta。
+一个网页 JS 库，用来生成和操作 SVG 图片动画。
 
-4、[Biu](https://github.com/wood3n/biu)
+4、[impala](https://github.com/pythops/impala)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111307.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112303.webp)
 
-一个开源的跨平台桌面应用，基于 API 来搜索和播放 Bilibili 平台的音乐，支持登录获取收藏夹歌曲。（[@wood3n](https://github.com/ruanyf/weekly/issues/8202) 投稿）
+Linux 平台管理 WiFi 的一个终端应用。
 
-5、[Enjoy Git](https://enjoygit.com/)
+5、[2025-blog-public](https://github.com/YYsuni/2025-blog-public)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112106.webp)
 
-中文的 Git 桌面图形客户端，暂时只有 Windows 版。（[@huangcs427](https://github.com/ruanyf/weekly/issues/8207) 投稿）
+一个基于 Next.js 的静态博客网站模版。（[@YYsuni](https://github.com/ruanyf/weekly/issues/8262) 投稿）
 
-6、[Readdig](https://github.com/readdig/readdig)
+6、[pdfpc-ts](https://github.com/Master-Hash/pdfpc-ts)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111705.webp)
+一个开源网站，用于幻灯片演示，特点是同时带有演示者视图，用于提词，类似于桌面应用 [pdfpc](https://github.com/pdfpc/pdfpc)。（[@Master-Hash](https://github.com/ruanyf/weekly/issues/8264) 投稿）
 
-开源 RSS 阅读和 Podcasts 播放网站。（[@copilot-is](https://github.com/ruanyf/weekly/issues/8223) 投稿）
+7、[剪存](https://github.com/snsogbl/clip-save)
 
-7、[Tiny SVG](https://github.com/hehehai/tiny-svg)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111706.webp)
+开源的桌面软件，用来保存剪贴板历史，支持 Windows/Mac。（[@snsogbl](https://github.com/ruanyf/weekly/issues/8269) 投稿）
 
-开源的网页版 SVG 压缩，可以[在线试用](https://tiny-svg.actnow.dev/)。（[@mutou981](https://github.com/ruanyf/weekly/issues/8225) 投稿）
+8、[Hoa](https://github.com/hoa-js/hoa)
 
-8、[fssh](https://github.com/Mister-leo/fssh)
+一个受 Koa 和 Hono 启发的 JS 服务器框架，适用于 Cloudflare Worker。（[@nswbmw](https://github.com/ruanyf/weekly/issues/8289) 投稿）
 
-苹果笔记本的 SSH 私钥保护器，登录服务器时直接指纹认证。（[@Mister-leo](https://github.com/ruanyf/weekly/issues/8226) 投稿）
+9、[NodeBBS](https://github.com/aiprojecthub/nodebbs)
 
-9、[CrossDesk](https://www.crossdesk.cn/)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112701.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112001.webp)
+开源的基于 JS 语言的现代论坛系统。（[@wengqianshan](https://github.com/ruanyf/weekly/issues/8294) 投稿）
 
-开源的远程桌面软件，跨平台，支持硬件加速和 Web 访问。（[@kunkundi](https://github.com/ruanyf/weekly/issues/8251) 投稿）
+10、[MyTube](https://github.com/franklioxygen/MyTube)
 
-10、[Git PR AI](https://github.com/leochiu-a/git-pr-ai)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112704.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112002.webp)
-
-一个命令行工具，跟 JIRA 配套，可以直接从 JIRA Ticket 生成 Git 分支，并带有 AI 功能。（[@leochiu-a](https://github.com/ruanyf/weekly/issues/8252) 投稿）
+一个需要自搭建的 Web 服务，用来下载与管理 Youtube/Bilibili 两大平台的视频。（[@franklioxygen](https://github.com/ruanyf/weekly/issues/8300) 投稿）
 
 
 ### 资源
 
 
-1、[随机性测试指南](https://random.tastemaker.design/)（英文）
+1、[LangGraph 1.0 完全指南](https://www.luochang.ink/dive-into-langgraph/quickstart/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025111311.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112501.webp)
 
-这个网站给出一系列方法，测试某种随机数生成器是否足够随机，所有测试方法都有详细易懂的解释，可以用来学习统计学。
+LangGraph 是一个开源 Agent 开发框架，本教程是基于 Jupyter Notebook 的可交互教程，介绍这个框架的具体实践。（[@luochang212](https://github.com/ruanyf/weekly/issues/8283) 投稿）
 
-2、[强化学习的数学基础](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)（Mathematical Foundations of Reinforcement Learning）
+2、[Nano Banana Pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112702.webp)
 
-开源的英文电子书，介绍强化学习的基础数学知识。
+这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。（[@DophinL](https://github.com/ruanyf/weekly/issues/8297) 投稿）
 
-3、[Erlang 初学者教程](https://learnyousomeerlang.com/content)（learn you some Erlang）
+3、[OCR Arena](https://www.ocrarena.ai)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112507.webp)
 
-Erlang 是一种函数式语言，适合分布式、高可用环境。这个网站是面向初学者的英文教程。
+这个网站是一个 AI 竞技场，比较不同模型的 OCR（光学识别）能力，目前排名第一的是 Gemini 3。
 
 
 ### 言论
@@ -108,41 +106,33 @@ Erlang 是一种函数式语言，适合分布式、高可用环境。这个网�
 
 1、
 
-我希望让机器人坐在自动驾驶的出租车里运送包裹。
+编程是我遇到过的最能抑制傲慢的良药。如果一个人很傲慢，你就让他去编程。
 
-出租车自动驾驶到达目的地后，机器人负责搬运货物到门口。
-
--- [马斯克](https://stratechery.com/2025/robotaxis-and-suburbia/)谈对于 Optimus 机器人的发展愿景
+-- [tratt.net](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 
 2、
 
-亚洲常见的一种攻击方法是，诈骗分子打电话给受害者，冒充银行员工，警告受害者账户已被盗用，并指示他们安装一个应用程序来保护资金安全。
+训练一个观点与众不同的模型，会越来越困难。因为如果你的观点与真实数据和真实世界不符，你就不能简单地用外部材料来训练模型。
 
-诈骗分子还会蒙骗受害者，让他们在安装应用程序的过程中忽略安全警告。这个应用是伪装成合法应用的恶意软件，会窃取受害者的登录信息，并拦截访问银行账户所需的双因素验证码。
-
--- [谷歌](https://www.engadget.com/apps/google-will-allow-experienced-users-to-sideload-unverified-android-apps-130000130.html)用这个案例解释，为什么需要实施“安卓开发者认证计划”
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=46050177)
 
 3、
 
-既然 AI 可以按需提供你的代码所需的特定功能，为什么还要增加额外的供应链风险，引入另一个依赖项呢？
+现在是2025年，AI 像病毒一样迅速传播。哪怕你还在坚持手工制作精品，人们也很容易将你的辛勤劳动误认为是毫无灵魂、缺乏灵感的机器垃圾。
 
-因此，小型的、低价值的依赖项在未来会消失。
-
--- [《“小型”开源软件的命运 》](https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/)
+-- [tonsky.me](https://tonsky.me/blog/hiring-ai/)
 
 4、
 
-基因疗法可能实现一次治愈病人，这对于公司的持续收入很不利。
+人生苦短，死亡来得如此轻易。如果我只是随波逐流，转眼间就会变成老翁。
 
-相比慢性疗法，治愈病人是一种可持续的商业模式吗？
-
--- [高盛公司](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)的一份研究报告
+-- [小畑五郎](https://kottke.org/25/11/my-pace)，一个日本 Youtuber
 
 5、
 
-去年，互联网上机器人流量第一次超过了人类流量。根据一份报告，自动化系统在2024年占所有网络流量的51%，而且 AI 生成的文章数量也在2024年底首次超过了人类撰写的文章。
+如果一件东西100%实用，它就一定是漂亮的，比如没有丑陋的钉子或丑陋的锤子。但是，有很多丑陋的汽车，因为汽车并不是所有部分都实用。
 
--- [《互联网已死》](https://decrypt.co/348837/dead-internet-theory-gains-traction-ai-content-surges-online)
+-- [Dan Gelbart](https://www.bedelstein.com/post/mcmaster-carr)，一位工业发明家
 
 
 <!-- End -->
