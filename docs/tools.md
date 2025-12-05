@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md#工具)
+
+
+1、[Fizzy](https://github.com/basecamp/fizzy)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120401.webp)
+
+37Signals 公司开源了他们内部使用的看板应用。
+
+2、[Fresh](https://github.com/sinelaw/fresh)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120402.webp)
+
+一个基于终端的文本编辑器。
+
+3、[Gitmal](https://github.com/antonmedv/gitmal)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120216.webp)
+
+这个工具将 Git 仓库变成一个静态网站，网页内容就是文件、提交、代码高亮等。
+
+4、[GitHub Card](https://githubcard.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112802.webp)
+
+该网站可以生成 GitHub 用户和仓库的分享卡片。（[@Cactusinhand](https://github.com/ruanyf/weekly/issues/8303) 投稿）
+
+5、[EasyDB](https://github.com/shencangsheng/easydb_app)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112804.webp)
+
+跨平台的桌面应用，使用 SQL 查询数据文件，包括数据库、CSV、Excel、JSON 等。（[@shencangsheng](https://github.com/ruanyf/weekly/issues/8313) 投稿）
+
+6、[Webhooker](https://github.com/TokenRollAI/webhooker)
+
+一个 Webhook 的转发网关，比如把 Slack 消息转发到飞书和钉钉。（[@Disdjj](https://github.com/ruanyf/weekly/issues/8318) 投稿）
+
+7、[PySInfo](https://github.com/EasyCam/Pysinfo)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120101.webp)
+
+一个 Python 脚本，用来在命令行显示系统信息，类似于 [fastfetch](https://github.com/fastfetch-cli/fastfetch)。（[@cycleuser](https://github.com/ruanyf/weekly/issues/8333) 投稿）
+
+8、[PocketMocker](https://github.com/tianchangNorth/pocket-mocker)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120204.webp)
+
+一个网页前端的 Mock 库，通过网页中拦截 fetch 和 XMLHttpRequest 来 Mock 数据，带有可视化控制台。（[@tianchangNorth](https://github.com/ruanyf/weekly/issues/8345) 投稿）
+
+9、[code996](https://github.com/hellodigua/code996)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120302.webp)
+
+一个命令行工具，通过分析 Git 仓库的提交时间，判断项目的编码工作强度和加班情况。（[@hellodigua](https://github.com/ruanyf/weekly/issues/8361) 投稿）
+
+10、[玉桃文飨轩](https://github.com/nicejade/markdown2png)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120305.webp)
+
+一款开源网页应用，将 Markdown 文本转成图片。（[@nicejade](https://github.com/ruanyf/weekly/issues/8363) 投稿）
+
+
 ## [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md#工具)
 
 

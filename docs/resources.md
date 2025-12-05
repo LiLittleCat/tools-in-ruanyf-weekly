@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md#资源)
+
+
+1、[百大年度照片](https://time.com/7336112/top-100-photos-2025/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112901.webp)
+
+《时代》杂志评选的2025年100张照片，另有[路透社的年度照片](https://www.reuters.com/investigates/special-report/year-end-2025-photos-best/)。
+
+2、[维基百科2025年阅读量最高的文章](https://wikimediafoundation.org/news/2025/12/02/announcing-wikipedias-most-read-articles-of-2025/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120303.webp)
+
+维基百科公布，2025年它的英文版阅读量最高的20篇文章，主要集中于政治、流行文化和逝者。
+
+3、[HummingbirdSpot](https://hummingbirdspot.com/all-hummingbird-species/)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112707.webp)
+
+这是一个美国退休女教师的网站，她立志要拍摄所有种类的蜂鸟。全世界共有366种蜂鸟，她已经拍到了277种。
+
+
 ## [科技爱好者周刊（第 375 期）：一扇门的 Bug](https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md#资源)
 
 
