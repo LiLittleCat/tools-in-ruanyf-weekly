@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#工具)
+
+
+1、[Mission Center](https://gitlab.com/mission-center-devs/mission-center)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120921.webp)
+
+Linux 的资源管理器，图形化实时显示本机的资源占用情况。
+
+2、[tunnel.gg](https://tunnl.gg/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120406.webp)
+
+一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
+
+3、[Puter](https://github.com/HeyPuter/puter)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070506.webp)
+
+一个开源的云桌面，需要自己架设，包含文件管理器、画笔、笔记本、照相机、Code 等组件，试用 [demo](https://puter.com/)。
+
+4、[Feedsmith](https://github.com/macieklamberski/feedsmith)
+
+一个用于 RSS 解析和生成的 JS 库。
+
+5、[react-sounds](https://www.reactsounds.com/)
+
+一个为网页加入各种音效的 React 组件。
+
+6、[dbdiagram.io](https://dbdiagram.io/home)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042703.webp)
+
+输入 SQL 语句，就能生成数据库的实体-关系图。
+
+7、[QM-Music](https://github.com/chenqimiao/qm-music)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120507.webp)
+
+基于 Subsonic 的私有云音乐服务器，采用 Docker 部署，兼容各种 Subsonic 客户端。（[@chenqimiao](https://github.com/ruanyf/weekly/issues/8382) 投稿）
+
+8、[React DevTools Plus](https://github.com/wzc520pyfm/react-devtools-plus)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120801.webp)
+
+React 调试工具，以 Vite/Webpack 插件形式提供，一键即可在浏览器唤起调试面板。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8393) 投稿）
+
+9、[京墨文库](https://github.com/hefengbao/jingmo-for-HarmonyOS)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120802.webp)
+
+开源的鸿蒙应用，另有[安卓版](https://github.com/hefengbao/jingmo)。（[@hefengbao](https://github.com/ruanyf/weekly/issues/8398) 投稿）
+
+10、[hyperlane](https://github.com/hyperlane-dev/hyperlane-quick-start)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121102.webp)
+
+一个轻量级、高性能的 Rust Web 服务端框架，简化现代 Web 服务开发。（[@eastspire](https://github.com/ruanyf/weekly/issues/8420) 投稿）
+
+
 ## [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md#工具)
 
 

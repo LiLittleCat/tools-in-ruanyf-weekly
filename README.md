@@ -16,91 +16,89 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>376</currentVersion> -->
+<!-- <currentVersion>377</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md)
+# [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md)
 ### 工具
 
 
-1、[Fizzy](https://github.com/basecamp/fizzy)
+1、[Mission Center](https://gitlab.com/mission-center-devs/mission-center)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120921.webp)
 
-37Signals 公司开源了他们内部使用的看板应用。
+Linux 的资源管理器，图形化实时显示本机的资源占用情况。
 
-2、[Fresh](https://github.com/sinelaw/fresh)
+2、[tunnel.gg](https://tunnl.gg/)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120406.webp)
 
-一个基于终端的文本编辑器。
+一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
 
-3、[Gitmal](https://github.com/antonmedv/gitmal)
+3、[Puter](https://github.com/HeyPuter/puter)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120216.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070506.webp)
 
-这个工具将 Git 仓库变成一个静态网站，网页内容就是文件、提交、代码高亮等。
+一个开源的云桌面，需要自己架设，包含文件管理器、画笔、笔记本、照相机、Code 等组件，试用 [demo](https://puter.com/)。
 
-4、[GitHub Card](https://githubcard.com)
+4、[Feedsmith](https://github.com/macieklamberski/feedsmith)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112802.webp)
+一个用于 RSS 解析和生成的 JS 库。
 
-该网站可以生成 GitHub 用户和仓库的分享卡片。（[@Cactusinhand](https://github.com/ruanyf/weekly/issues/8303) 投稿）
+5、[react-sounds](https://www.reactsounds.com/)
 
-5、[EasyDB](https://github.com/shencangsheng/easydb_app)
+一个为网页加入各种音效的 React 组件。
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112804.webp)
+6、[dbdiagram.io](https://dbdiagram.io/home)
 
-跨平台的桌面应用，使用 SQL 查询数据文件，包括数据库、CSV、Excel、JSON 等。（[@shencangsheng](https://github.com/ruanyf/weekly/issues/8313) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042703.webp)
 
-6、[Webhooker](https://github.com/TokenRollAI/webhooker)
+输入 SQL 语句，就能生成数据库的实体-关系图。
 
-一个 Webhook 的转发网关，比如把 Slack 消息转发到飞书和钉钉。（[@Disdjj](https://github.com/ruanyf/weekly/issues/8318) 投稿）
+7、[QM-Music](https://github.com/chenqimiao/qm-music)
 
-7、[PySInfo](https://github.com/EasyCam/Pysinfo)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120507.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120101.webp)
+基于 Subsonic 的私有云音乐服务器，采用 Docker 部署，兼容各种 Subsonic 客户端。（[@chenqimiao](https://github.com/ruanyf/weekly/issues/8382) 投稿）
 
-一个 Python 脚本，用来在命令行显示系统信息，类似于 [fastfetch](https://github.com/fastfetch-cli/fastfetch)。（[@cycleuser](https://github.com/ruanyf/weekly/issues/8333) 投稿）
+8、[React DevTools Plus](https://github.com/wzc520pyfm/react-devtools-plus)
 
-8、[PocketMocker](https://github.com/tianchangNorth/pocket-mocker)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120801.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120204.webp)
+React 调试工具，以 Vite/Webpack 插件形式提供，一键即可在浏览器唤起调试面板。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8393) 投稿）
 
-一个网页前端的 Mock 库，通过网页中拦截 fetch 和 XMLHttpRequest 来 Mock 数据，带有可视化控制台。（[@tianchangNorth](https://github.com/ruanyf/weekly/issues/8345) 投稿）
+9、[京墨文库](https://github.com/hefengbao/jingmo-for-HarmonyOS)
 
-9、[code996](https://github.com/hellodigua/code996)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120302.webp)
+开源的鸿蒙应用，另有[安卓版](https://github.com/hefengbao/jingmo)。（[@hefengbao](https://github.com/ruanyf/weekly/issues/8398) 投稿）
 
-一个命令行工具，通过分析 Git 仓库的提交时间，判断项目的编码工作强度和加班情况。（[@hellodigua](https://github.com/ruanyf/weekly/issues/8361) 投稿）
+10、[hyperlane](https://github.com/hyperlane-dev/hyperlane-quick-start)
 
-10、[玉桃文飨轩](https://github.com/nicejade/markdown2png)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120305.webp)
-
-一款开源网页应用，将 Markdown 文本转成图片。（[@nicejade](https://github.com/ruanyf/weekly/issues/8363) 投稿）
+一个轻量级、高性能的 Rust Web 服务端框架，简化现代 Web 服务开发。（[@eastspire](https://github.com/ruanyf/weekly/issues/8420) 投稿）
 
 
 ### 资源
 
 
-1、[百大年度照片](https://time.com/7336112/top-100-photos-2025/)
+1、[大模型 SVG 生成基准测试](https://gally.net/temp/20251107pelican-alternatives/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112517.webp)
 
-《时代》杂志评选的2025年100张照片，另有[路透社的年度照片](https://www.reuters.com/investigates/special-report/year-end-2025-photos-best/)。
+这个网站测试了9个大模型，让它们生成30个场景的 SVG 文件，来比较谁的生成能力强。
 
-2、[维基百科2025年阅读量最高的文章](https://wikimediafoundation.org/news/2025/12/02/announcing-wikipedias-most-read-articles-of-2025/)
+2、[Gemini CLI 使用指南](https://github.com/addyosmani/gemini-cli-tips)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112705.webp)
 
-维基百科公布，2025年它的英文版阅读量最高的20篇文章，主要集中于政治、流行文化和逝者。
+这个仓库收集了30多个详细的 Gemini CLI 的用法和技巧介绍。
 
-3、[HummingbirdSpot](https://hummingbirdspot.com/all-hummingbird-species/)
+3、[2025年 CSS 进展](https://chrome.dev/css-wrapped-2025/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121001.webp)
 
-这是一个美国退休女教师的网站，她立志要拍摄所有种类的蜂鸟。全世界共有366种蜂鸟，她已经拍到了277种。
+Chrome 团队推出的 CSS 年度总结，今年的一些语法进展。
 
 
 ### 言论
@@ -108,33 +106,35 @@
 
 1、
 
-亚洲人民处在从艰苦的农业生活过渡到城市工厂生活，这种转变似乎带来了一种热情，一种愿意为在今天的欧洲被认为微不足道的东西而努力工作的意愿。
+两家公司的平均智商都提高了。
 
-这对他们来说是好事。但在欧洲，我们已经经历过这种转变，变得无所事事，毫无士气。我们生活所需的一切都由他人制造时，这种情况是不可持续的。
+-- 苹果公司设计主管艾伦·戴伊最新辞职，加入 Meta 公司，这是推特上对此事的[评论](https://daringfireball.net/2025/12/bad_dye_job)。
 
--- [一个德国的 Hacker News 读者](https://news.ycombinator.com/item?id=46072570)
+艾伦·戴伊在苹果公司内部评价不高，而 Meta 公司的专长并不是交互设计，他或许能提高 Meta 的设计水平。
 
 2、
 
-汽车的电子屏幕，夜间使用非常有害，尤其对于40岁以上的人。他们的视力开始下降，聚焦和光线平衡的反应速度都会减慢，使用电子屏幕会改变他们的夜视能力，不容易看清前方的道路。
+2025年还在写博客的感受，就好像对着虚空呐喊。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=46092397)
+-- [Askmike.org](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
 
 3、
 
-普通人看不懂数学论文，但是圈外人不知道的是，数学家也看不懂很多数学论文。
+Meta 公司发售了一副 AR 眼镜，据说有很多功能。但是，这种眼镜本质上是绑在脸上的摄像头，供 Meta 公司观察世界。
 
--- [《科学》杂志](https://www.science.org/doi/10.1126/science.aec9014)
+-- [Victoria Song](https://www.aaronland.info/weblog/2025/11/20/cafeteria/)，网络媒体记者
 
 4、
 
-大模型时代，我们正在失去一些珍贵的东西：自己独特的声音。
+AI 公司股价大涨的原因是，它向投资者描绘了一幅场景：AI 将来会承担人类工作，当老板解雇员工并用 AI 替代时，老板会省下你的一半工资，并将另一半工资交给 AI 公司。
 
-所有大模型生成的文章，看上去都像是同一个公共经理发布的。
+-- [《AI 批判指南》](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
-如果你让大模型帮你写所有文章，你就放弃自己的声音了。你的声音是一种财富，是你一生的生活经历塑造而成，没有人的声音会和你完全一样。
+5、
 
--- [《大模型让我们失去声音》](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
+创作者平台（比如抖音）的问题是，它们只向创作者支付很少的报酬，导致每个知名创作者最终都会转向销售产品、寻求赞助和品牌合作。
+
+--[《创作者经济如何摧毁了互联网》](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
 
 
 <!-- End -->

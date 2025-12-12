@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#资源)
+
+
+1、[大模型 SVG 生成基准测试](https://gally.net/temp/20251107pelican-alternatives/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112517.webp)
+
+这个网站测试了9个大模型，让它们生成30个场景的 SVG 文件，来比较谁的生成能力强。
+
+2、[Gemini CLI 使用指南](https://github.com/addyosmani/gemini-cli-tips)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112705.webp)
+
+这个仓库收集了30多个详细的 Gemini CLI 的用法和技巧介绍。
+
+3、[2025年 CSS 进展](https://chrome.dev/css-wrapped-2025/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121001.webp)
+
+Chrome 团队推出的 CSS 年度总结，今年的一些语法进展。
+
+
 ## [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md#资源)
 
 

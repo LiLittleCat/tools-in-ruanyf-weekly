@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#言论)
+
+
+1、
+
+两家公司的平均智商都提高了。
+
+-- 苹果公司设计主管艾伦·戴伊最新辞职，加入 Meta 公司，这是推特上对此事的[评论](https://daringfireball.net/2025/12/bad_dye_job)。
+
+艾伦·戴伊在苹果公司内部评价不高，而 Meta 公司的专长并不是交互设计，他或许能提高 Meta 的设计水平。
+
+2、
+
+2025年还在写博客的感受，就好像对着虚空呐喊。
+
+-- [Askmike.org](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
+
+3、
+
+Meta 公司发售了一副 AR 眼镜，据说有很多功能。但是，这种眼镜本质上是绑在脸上的摄像头，供 Meta 公司观察世界。
+
+-- [Victoria Song](https://www.aaronland.info/weblog/2025/11/20/cafeteria/)，网络媒体记者
+
+4、
+
+AI 公司股价大涨的原因是，它向投资者描绘了一幅场景：AI 将来会承担人类工作，当老板解雇员工并用 AI 替代时，老板会省下你的一半工资，并将另一半工资交给 AI 公司。
+
+-- [《AI 批判指南》](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+
+5、
+
+创作者平台（比如抖音）的问题是，它们只向创作者支付很少的报酬，导致每个知名创作者最终都会转向销售产品、寻求赞助和品牌合作。
+
+--[《创作者经济如何摧毁了互联网》](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
+
+
 ## [科技爱好者周刊（第 376 期）：太空数据中心的争议](https://github.com/ruanyf/weekly/blob/master/docs/issue-376.md#言论)
 
 
