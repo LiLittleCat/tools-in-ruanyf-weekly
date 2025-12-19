@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#言论)
+
+
+1、
+
+为什么我们有两个鼻孔，而不是一个大洞？
+
+因为肺部持续需要空气，两个鼻孔可以交替工作，让鼻子的一侧得到休息。
+
+-- [美国《大众科学》](https://www.popsci.com/science/why-we-have-nostrils/)
+
+2、
+
+报社招我去当撰稿人，我以为是去写稿，结果却是以极低的薪水让我编辑 AI 生成的文案草稿，理由是“大部分工作已经完成了”。
+
+这让我深受打击，我曾经觉得自己很有价值，受人重视，对未来充满希望，渴望拥有辉煌的职业生涯，现在却只能修改 AI 生成的文字。
+
+-- [一位自由撰稿人](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
+
+3、
+
+SaaS 行业将会萎缩，尤其是那些功能简单的 SaaS，因为企业现在可以用 AI 快速生成内部服务。
+
+-- [《AI 正在蚕食 SaaS》](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
+
+4、
+
+我发现，中文不喜欢直接说 True，更倾向说 !False。比如，英文说“很好”，中文说“不坏”，英文说“对的”，中文说“没错”，英文说“正常”，中文说“没问题”。
+
+中文更喜欢双重否定“否定词+否定词”，这种表达方式增加了模糊性（含糊其辞）和灵活性（模棱两可），创造了回旋余地，避免了肯定答复导致的态度明确、归类迅速、立场鲜明。
+
+-- [《为什么中文拒绝说 true》](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
+
+
 ## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#言论)
 
 

@@ -16,89 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>377</currentVersion> -->
+<!-- <currentVersion>378</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md)
+# [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md)
 ### 工具
 
 
-1、[Mission Center](https://gitlab.com/mission-center-devs/mission-center)
+1、[Cosmic](https://system76.com/cosmic)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120921.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121202.webp)
 
-Linux 的资源管理器，图形化实时显示本机的资源占用情况。
+上周，Cosmic 1.0版正式发布了。它是一个全新的 Linux 桌面，美观且功能强大，为用户提供了 Gnome 和 KDE 之外的另一个选择。
 
-2、[tunnel.gg](https://tunnl.gg/)
+2、[Keyden](https://github.com/tasselx/Keyden)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121502.webp)
 
-一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
+macOS 菜单栏的开源 TOTP 双因素认证器，密钥加密存储在 macOS Keychain。（[@tasselx](https://github.com/ruanyf/weekly/issues/8446) 投稿）
 
-3、[Puter](https://github.com/HeyPuter/puter)
+3、[WeMD](https://github.com/tenngoxars/WeMD)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121205.webp)
 
-一个开源的云桌面，需要自己架设，包含文件管理器、画笔、笔记本、照相机、Code 等组件，试用 [demo](https://puter.com/)。
+开源的 Markdown 微信公众号编辑器。（[@tenngoxars](https://github.com/ruanyf/weekly/issues/8432) 投稿）
 
-4、[Feedsmith](https://github.com/macieklamberski/feedsmith)
+4、[starling-speak](https://starling-speak.online/)
 
-一个用于 RSS 解析和生成的 JS 库。
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121106.webp)
 
-5、[react-sounds](https://www.reactsounds.com/)
+文本朗读网站，支持多种语言，带有录音功能。（[@Keldon-Pro](https://github.com/ruanyf/weekly/issues/8424) 投稿）
 
-一个为网页加入各种音效的 React 组件。
+5、[shift](https://github.com/hubenchang0515/shift)
 
-6、[dbdiagram.io](https://dbdiagram.io/home)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121312.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042703.webp)
+一个基于 WebAssembly 的在线代码编辑器，支持直接在网页运行 Python、Lua、Ruby 等语言。（[@hubenchang0515](https://github.com/ruanyf/weekly/issues/8440) 投稿）
 
-输入 SQL 语句，就能生成数据库的实体-关系图。
+6、[EasyImg](https://github.com/chaos-zhu/easyimg)
 
-7、[QM-Music](https://github.com/chenqimiao/qm-music)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121404.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120507.webp)
+基于 Nuxt 4 构建的个人图床，丰富的后台配置。（[@chaos-zhu](https://github.com/ruanyf/weekly/issues/8443) 投稿）
 
-基于 Subsonic 的私有云音乐服务器，采用 Docker 部署，兼容各种 Subsonic 客户端。（[@chenqimiao](https://github.com/ruanyf/weekly/issues/8382) 投稿）
+7、[Go-WXPush](https://github.com/hezhizheng/go-wxpush)
 
-8、[React DevTools Plus](https://github.com/wzc520pyfm/react-devtools-plus)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121503.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120801.webp)
+Go 语言开发的微信消息推送服务，提供了一个简单的 API 消息推送接口。代码开源，每天10万次推送额度，个人用不完。（[@hezhizheng](https://github.com/ruanyf/weekly/issues/8445) 投稿）
 
-React 调试工具，以 Vite/Webpack 插件形式提供，一键即可在浏览器唤起调试面板。（[@wzc520pyfm](https://github.com/ruanyf/weekly/issues/8393) 投稿）
+8、[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)
 
-9、[京墨文库](https://github.com/hefengbao/jingmo-for-HarmonyOS)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121504.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120802.webp)
+Windows 应用启动器，拼音模糊匹配，基于 Rust + Tauri + Vue.js。（[@ghost-him](https://github.com/ruanyf/weekly/issues/8453) 投稿）
 
-开源的鸿蒙应用，另有[安卓版](https://github.com/hefengbao/jingmo)。（[@hefengbao](https://github.com/ruanyf/weekly/issues/8398) 投稿）
+9、[MrRSS](https://github.com/WCY-dt/MrRSS)
 
-10、[hyperlane](https://github.com/hyperlane-dev/hyperlane-quick-start)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121505.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121102.webp)
+跨平台的开源桌面 RSS 阅读器，支持自动翻译、自动总结、新订阅源发现。（[@ch3ny4ng](https://github.com/ruanyf/weekly/issues/8454) 投稿）
 
-一个轻量级、高性能的 Rust Web 服务端框架，简化现代 Web 服务开发。（[@eastspire](https://github.com/ruanyf/weekly/issues/8420) 投稿）
+10、[PVE Touch](https://github.com/hanxi/pve-touch)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121601.webp)
+
+为移动设备优化的 Proxmox VE 管理界面，方便通过手机管理虚拟机。（[@hanxi](https://github.com/ruanyf/weekly/issues/8455) 投稿）
 
 
 ### 资源
 
 
-1、[大模型 SVG 生成基准测试](https://gally.net/temp/20251107pelican-alternatives/index.html)
+1、[生命的尺寸](https://neal.fun/size-of-life/)
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112517.webp)
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121104.webp)
 
-这个网站测试了9个大模型，让它们生成30个场景的 SVG 文件，来比较谁的生成能力强。
+这个网站用图形展示各种生命体的大小比较，从 DNA 一直到蓝鲸。
 
-2、[Gemini CLI 使用指南](https://github.com/addyosmani/gemini-cli-tips)（英文）
+2、[写一个你自己的 C 语言编译器](https://buildyourownlisp.com/contents)（Build Your Own Lisp）
 
-![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081112.webp)
 
-这个仓库收集了30多个详细的 Gemini CLI 的用法和技巧介绍。
+一本面向初学者的免费英文电子书，介绍怎么用 C 语言写编译器，以 Lisp 语言的编译器为例。
 
-3、[2025年 CSS 进展](https://chrome.dev/css-wrapped-2025/)
+3、[A Soft Murmur](https://asoftmurmur.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111011.webp)
 
-Chrome 团队推出的 CSS 年度总结，今年的一些语法进展。
+一个背景音网站，可以开关不同的音效，并调节它们的音量。
 
 
 ### 言论
@@ -106,35 +110,33 @@ Chrome 团队推出的 CSS 年度总结，今年的一些语法进展。
 
 1、
 
-两家公司的平均智商都提高了。
+为什么我们有两个鼻孔，而不是一个大洞？
 
--- 苹果公司设计主管艾伦·戴伊最新辞职，加入 Meta 公司，这是推特上对此事的[评论](https://daringfireball.net/2025/12/bad_dye_job)。
+因为肺部持续需要空气，两个鼻孔可以交替工作，让鼻子的一侧得到休息。
 
-艾伦·戴伊在苹果公司内部评价不高，而 Meta 公司的专长并不是交互设计，他或许能提高 Meta 的设计水平。
+-- [美国《大众科学》](https://www.popsci.com/science/why-we-have-nostrils/)
 
 2、
 
-2025年还在写博客的感受，就好像对着虚空呐喊。
+报社招我去当撰稿人，我以为是去写稿，结果却是以极低的薪水让我编辑 AI 生成的文案草稿，理由是“大部分工作已经完成了”。
 
--- [Askmike.org](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/)
+这让我深受打击，我曾经觉得自己很有价值，受人重视，对未来充满希望，渴望拥有辉煌的职业生涯，现在却只能修改 AI 生成的文字。
+
+-- [一位自由撰稿人](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/)
 
 3、
 
-Meta 公司发售了一副 AR 眼镜，据说有很多功能。但是，这种眼镜本质上是绑在脸上的摄像头，供 Meta 公司观察世界。
+SaaS 行业将会萎缩，尤其是那些功能简单的 SaaS，因为企业现在可以用 AI 快速生成内部服务。
 
--- [Victoria Song](https://www.aaronland.info/weblog/2025/11/20/cafeteria/)，网络媒体记者
+-- [《AI 正在蚕食 SaaS》](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/)
 
 4、
 
-AI 公司股价大涨的原因是，它向投资者描绘了一幅场景：AI 将来会承担人类工作，当老板解雇员工并用 AI 替代时，老板会省下你的一半工资，并将另一半工资交给 AI 公司。
+我发现，中文不喜欢直接说 True，更倾向说 !False。比如，英文说“很好”，中文说“不坏”，英文说“对的”，中文说“没错”，英文说“正常”，中文说“没问题”。
 
--- [《AI 批判指南》](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+中文更喜欢双重否定“否定词+否定词”，这种表达方式增加了模糊性（含糊其辞）和灵活性（模棱两可），创造了回旋余地，避免了肯定答复导致的态度明确、归类迅速、立场鲜明。
 
-5、
-
-创作者平台（比如抖音）的问题是，它们只向创作者支付很少的报酬，导致每个知名创作者最终都会转向销售产品、寻求赞助和品牌合作。
-
---[《创作者经济如何摧毁了互联网》](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
+-- [《为什么中文拒绝说 true》](https://suggger.substack.com/p/the-architecture-of-not-bad-decoding)
 
 
 <!-- End -->

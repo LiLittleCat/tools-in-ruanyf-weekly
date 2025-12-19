@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#资源)
+
+
+1、[生命的尺寸](https://neal.fun/size-of-life/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121104.webp)
+
+这个网站用图形展示各种生命体的大小比较，从 DNA 一直到蓝鲸。
+
+2、[写一个你自己的 C 语言编译器](https://buildyourownlisp.com/contents)（Build Your Own Lisp）
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081112.webp)
+
+一本面向初学者的免费英文电子书，介绍怎么用 C 语言写编译器，以 Lisp 语言的编译器为例。
+
+3、[A Soft Murmur](https://asoftmurmur.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111011.webp)
+
+一个背景音网站，可以开关不同的音效，并调节它们的音量。
+
+
 ## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#资源)
 
 

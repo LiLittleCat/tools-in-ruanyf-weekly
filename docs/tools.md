@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#工具)
+
+
+1、[Cosmic](https://system76.com/cosmic)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121202.webp)
+
+上周，Cosmic 1.0版正式发布了。它是一个全新的 Linux 桌面，美观且功能强大，为用户提供了 Gnome 和 KDE 之外的另一个选择。
+
+2、[Keyden](https://github.com/tasselx/Keyden)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121502.webp)
+
+macOS 菜单栏的开源 TOTP 双因素认证器，密钥加密存储在 macOS Keychain。（[@tasselx](https://github.com/ruanyf/weekly/issues/8446) 投稿）
+
+3、[WeMD](https://github.com/tenngoxars/WeMD)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121205.webp)
+
+开源的 Markdown 微信公众号编辑器。（[@tenngoxars](https://github.com/ruanyf/weekly/issues/8432) 投稿）
+
+4、[starling-speak](https://starling-speak.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121106.webp)
+
+文本朗读网站，支持多种语言，带有录音功能。（[@Keldon-Pro](https://github.com/ruanyf/weekly/issues/8424) 投稿）
+
+5、[shift](https://github.com/hubenchang0515/shift)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121312.webp)
+
+一个基于 WebAssembly 的在线代码编辑器，支持直接在网页运行 Python、Lua、Ruby 等语言。（[@hubenchang0515](https://github.com/ruanyf/weekly/issues/8440) 投稿）
+
+6、[EasyImg](https://github.com/chaos-zhu/easyimg)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121404.webp)
+
+基于 Nuxt 4 构建的个人图床，丰富的后台配置。（[@chaos-zhu](https://github.com/ruanyf/weekly/issues/8443) 投稿）
+
+7、[Go-WXPush](https://github.com/hezhizheng/go-wxpush)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121503.webp)
+
+Go 语言开发的微信消息推送服务，提供了一个简单的 API 消息推送接口。代码开源，每天10万次推送额度，个人用不完。（[@hezhizheng](https://github.com/ruanyf/weekly/issues/8445) 投稿）
+
+8、[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121504.webp)
+
+Windows 应用启动器，拼音模糊匹配，基于 Rust + Tauri + Vue.js。（[@ghost-him](https://github.com/ruanyf/weekly/issues/8453) 投稿）
+
+9、[MrRSS](https://github.com/WCY-dt/MrRSS)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121505.webp)
+
+跨平台的开源桌面 RSS 阅读器，支持自动翻译、自动总结、新订阅源发现。（[@ch3ny4ng](https://github.com/ruanyf/weekly/issues/8454) 投稿）
+
+10、[PVE Touch](https://github.com/hanxi/pve-touch)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121601.webp)
+
+为移动设备优化的 Proxmox VE 管理界面，方便通过手机管理虚拟机。（[@hanxi](https://github.com/ruanyf/weekly/issues/8455) 投稿）
+
+
 ## [科技爱好者周刊（第 377 期）：14万美元的贫困线](https://github.com/ruanyf/weekly/blob/master/docs/issue-377.md#工具)
 
 
