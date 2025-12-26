@@ -1,5 +1,91 @@
 # 工具
 
+## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#工具)
+
+
+1、[MADOLA](https://github.com/AI4Engr/MADOLA)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121907.webp)
+
+一种新的数学脚本语言，像编程一样写数学公式，可以编译成 HTML 格式作为文档，也可以编译成 C++ 或 WebAssembly 直接运行。（[@AI4Engr](https://github.com/ruanyf/weekly/issues/8478) 投稿）
+
+2、[CattoPic](https://github.com/Yuri-NagaSaki/CattoPic)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121910.webp)
+
+一个基于 Cloudflare Worker 的图片托管服务，将图片上传到 Cloudflare 进行推过，支持自动格式转换、标签管理。（[@Yuri-NagaSaki](https://github.com/ruanyf/weekly/issues/8487) 投稿）
+
+3、[termdev](https://github.com/taotao7/termdev)
+
+直接在终端，通过连接 Chrome Devtool 调试网页。（[@taotao7](https://github.com/ruanyf/weekly/issues/8488) 投稿）
+
+4、[tui-banner](https://tui-banner-website.pages.dev)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122102.webp)
+
+为 Rust 语言的命令行项目添加一个横幅图案。（[@coolbeevip](https://github.com/ruanyf/weekly/issues/8493) 投稿）
+
+5、[Alertivity](https://github.com/nobbbbby/Alertivity)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122103.webp)
+
+macOS 菜单栏的资源监控工具，监控 CPU、内存、磁盘、网络和进程活动。（[@nobbbbby](https://github.com/ruanyf/weekly/issues/8495) 投稿）
+
+6、[cpp‑linter](https://cpp-linter.github.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122106.webp)
+
+C/C++ 代码的静态检查工具，可以接入 CI/CD 流程，简化代码质量管理。（[@shenxianpeng](https://github.com/ruanyf/weekly/issues/8497) 投稿）
+
+7、[Rote](https://github.com/Rabithua/Rote)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122301.webp)
+
+开源的 Web 笔记软件，需要自己架设。（[@Rabithua](https://github.com/ruanyf/weekly/issues/8498) 投稿）
+
+8、[Infographic](https://github.com/antvis/infographic)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122401.webp)
+
+JS 的数据可视化框架，用于在网页生成各种信息图，内置200多种模板。（[@Aarebecca](https://github.com/ruanyf/weekly/issues/8516) 投稿）
+
+9、[Clock Dashboard](https://github.com/teojs/clock-dashboard)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122402.webp)
+
+天气时钟看板，适合老旧的电子设备再利用。（[@teojs](https://github.com/ruanyf/weekly/issues/8517) 投稿）
+
+10、[离线版问卷](https://github.com/chenbz777/questionnaire_web)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122403.webp)
+
+开源 Web 应用，用来设计和托管调查问卷/报名表。（[@chenbz777](https://github.com/ruanyf/weekly/issues/8518) 投稿）
+
+11、[Xget](https://github.com/xixu-me/xget)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122404.webp)
+
+基于边缘计算（如 Cloudflare Workers/Vercel/Netlify）的加速引擎，可以加速程序员网站的访问速度，比如将`github.com`域名替换成`xget.xi-xu.me/gh`。（[@xixu-me](https://github.com/ruanyf/weekly/issues/8519) 投稿）
+
+12、[BoxLite](https://github.com/boxlite-labs/boxlite)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122406.webp)
+
+一个 Python 库，可以在脚本中运行一个微型虚拟机，提供硬件隔离。（[@DorianZheng](https://github.com/ruanyf/weekly/issues/8501) 投稿）
+
+13、[Green Wall](https://github.com/Codennnn/Green-Wall)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122408.webp)
+
+生成你的 GitHub 年度报告。（[@Codennnn](https://github.com/ruanyf/weekly/issues/8527) 投稿）
+
+14、[edge-next-starter](https://github.com/TangSY/edge-next-starter)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121701.webp)
+
+面向出海项目的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储。（[@TangSY](https://github.com/ruanyf/weekly/issues/8466) 投稿）
+
+
 ## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#工具)
 
 

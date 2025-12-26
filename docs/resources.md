@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#资源)
+
+
+1、[大模型原理](https://ngrok.com/blog/prompt-caching/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121903.webp)
+
+一篇相对好懂的大模型原理解释，文章不长，并且还有大量的互动图形，写得非常好，推荐阅读。
+
+2、[编程语言速度比较](https://niklas-heer.github.io/speed-comparison/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122003.webp)
+
+这个网站使用不同的计算机语言，通过莱布尼茨公式计算 π 值，然后给出运行速度的排名，最快是 C++（clang++），最慢是 Python （CPython）。
+
+3、[更好的 ZIP 炸弹](https://www.bamsoftware.com/hacks/zipbomb/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122002.webp)
+
+这个网页提供三个 ZIP 炸弹文件的下载，其中最小一个只有 42KB，但是解压后的大小是 5.5GB。
+
+
 ## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#资源)
 
 

@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#言论)
+
+
+1、
+
+我使用氛围编程会感到疲惫，AI 生成代码的速度太快了，我的大脑跟不上，无法及时完成代码验收或审查。我必须休息一段时间，才能重新开始。
+
+-- [《氛围编程疲劳》](https://www.tabulamag.com/p/too-fast-to-think-the-hidden-fatigue)
+
+2、
+
+制造汽车是非常困难的一件事。一辆车大约有3万个独立零部件，公司可能只会采购3000个，因为像车头灯这样的部件，是作为一个整体采购的，但它实际上包含很多组件。
+
+里面的二级、三级、四级供应商提供的零部件，任何一个出现问题都可能导致整车的问题。
+
+-- [汽车创业公司 Rivian 的 CEO 专访](https://stratechery.com/2025/an-interview-with-rivian-ceo-rj-scaringe-about-building-a-car-company-and-autonomy/)
+
+3、
+
+数码世界的现状是，很多人（尤其是大多数老年人）已经放弃了抵抗，任由电子设备将他们带到任何地方。
+
+因为一旦你想搞清楚电子设备的运作，就会发现，在便利的幌子下，一切都充满了敌意，暗箱操作无处不在，不可能完全理清。你想从它们手中夺回个人数据和隐私会非常艰苦，而且注定失败，最终只会带来更大的挫败感。
+
+-- [《一切并非必然》](https://blog.mathieui.net/this-is-not-the-future.html)
+
+4、
+
+现在的学生拥有前所未有的优质教育资源，但他们却陷入成千上万种选择中不知该学什么、该用什么资源的困境。拥有资源并不意味着就能找到方向。
+
+-- [《不要关闭你的大脑》](https://computingeducationthings.substack.com/p/22-dont-turn-your-brain-off)
+
+5、
+
+危险并非来自中国的崛起，而是美国的思维模式。如果把科学视为零和博弈，那么每一项中国专利看起来都像是美国的损失。但创意是非竞争性的：中国的科研突破不会让美国人变穷，而是会让世界变得更富有。多极化的科学世界意味着更快的增长、更大的财富和加速的技术进步。
+
+-- [《中国的创新》](https://marginalrevolution.com/marginalrevolution/2025/09/the-simple-mathematics-of-chinese-innovation.html)
+
+
 ## [科技爱好者周刊（第 378 期）：预测是新的互联网热点](https://github.com/ruanyf/weekly/blob/master/docs/issue-378.md#言论)
 
 
