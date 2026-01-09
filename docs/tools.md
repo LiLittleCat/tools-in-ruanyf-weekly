@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#工具)
+
+
+1、[ZenOps](https://github.com/opsre/ZenOps)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121705.webp)
+
+一个命令行工具，在本地终端里查询阿里云/腾讯云等云平台的运行数据，并提供钉钉、飞书、企微机器人，进行自然语言查询。（[@eryajf](https://github.com/ruanyf/weekly/issues/8475) 投稿）
+
+2、[白虎面板](https://github.com/engigu/baihu-panel)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122803.webp)
+
+轻量级的服务器定时任务管理系统，适合低配置的服务器。（[@engigu](https://github.com/ruanyf/weekly/issues/8546) 投稿）
+
+3、[OnlinePlayer](https://onlineplayer.app/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122804.webp)
+
+一个网页播放器，可以播放本地视频和云盘视频。（[@13068240601](https://github.com/ruanyf/weekly/issues/8553) 投稿）
+
+4、[gitstats](https://github.com/shenxianpeng/gitstats)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122805.webp)
+
+命令行工具，生成 Git 仓库的统计数据。（[@shenxianpeng](https://github.com/ruanyf/weekly/issues/8560) 投稿）
+
+5、[云图](https://github.com/qazzxxx/cloudimgs)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122806.webp)
+
+一个极简风格的图床，可以搭建到自己的 NAS，提供灵活的 API。（[@qazzxxx](https://github.com/ruanyf/weekly/issues/8561) 投稿）
+
+6、[KeyStats](https://github.com/debugtheworldbot/keyStats)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010104.webp)
+
+开源的 macOS 小工具，对按键行为进行统计。（[@debugtheworldbot](https://github.com/ruanyf/weekly/issues/8574) 投稿）
+
+7、[py2dist](https://github.com/xxnuo/py2dist)
+
+这个工具可以将 Python 脚本编译成二进制模块，方便隐藏源码。（[@xxnuo](https://github.com/ruanyf/weekly/issues/8575) 投稿）
+
+8、[Stream Panel](https://github.com/bywwcnll/StreamPanel)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010105.webp)
+
+Chrome 浏览器开发者工具的一个扩展，用来调试服务器发送事件 (SSE) 和 Fetch 的流式连接。（[@bywwcnll](https://github.com/ruanyf/weekly/issues/8582) 投稿）
+
+9、[Zedis](https://github.com/vicanso/zedis)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010106.webp)
+
+Redis 的图形客户端，跨平台的桌面应用，不使用 Electron，而是使用 Rust + GPUI，性能更好。（[@vicanso](https://github.com/ruanyf/weekly/issues/8588) 投稿）
+
+10、[QDav](https://qdav.top/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010602.webp)
+
+这个网站可以为夸克网盘加入 WebDAV 协议，从而挂载到网盘播放器来播放夸克网盘的视频。（[@ZhouCai-bo](https://github.com/ruanyf/weekly/issues/8607) 投稿）
+
+11、[XApi](https://github.com/lustan/XApi)
+
+开源的 Chrome 浏览器插件，自动捕获当前网页的 Fetch 与 XHR 网络请求，支持改写 Cookie、Origin、Referer 字段，方便开发调试。（[@lustan](https://github.com/ruanyf/weekly/issues/8610) 投稿）
+
+12、[PDFCraft](https://github.com/PDFCraftTool/pdfcraft)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010603.webp)
+
+纯浏览器的 PDF 开源工具集，目前有80多个工具。（[@pccprint](https://github.com/ruanyf/weekly/issues/8611) 投稿）
+
+
 ## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#工具)
 
 

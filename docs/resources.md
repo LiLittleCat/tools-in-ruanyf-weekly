@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#资源)
+
+
+1、[100万首页截图](https://onemillionscreenshots.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122801.webp)
+
+这个网站收集了100万个热门网站的首页截图，将它们做在一个页面，可以放大查看。
+
+2、[Emulator Gamer](https://emulatorgamer.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010204.webp)
+
+各种老游戏机的经典游戏，通过模拟器免费在线游玩。（[@SinanWang](https://github.com/ruanyf/weekly/issues/8592) 投稿）
+
+
 ## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#资源)
 
 

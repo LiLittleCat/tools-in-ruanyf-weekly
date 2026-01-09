@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#言论)
+
+
+1、
+
+在美国东海岸（纽约和华盛顿），人们会问：“中国是否就要失败了”，而在西海岸（洛杉矶和旧金山），人们更倾向于问：“万一中国成功了会怎样？”
+
+这一定程度上反映了硅谷的特点：更注重收益最大化，而非风险最小化。东海岸的问题也值得认真对待，但过分关注中国是否失败，会助长一种美国无需做出任何改变就能击败对手的论调，从而削弱美国改革的紧迫性。
+
+-- [Dan Wang《2025年度信件》](https://danwang.co/2025-letter/)
+
+2、
+
+如果美国或中国在某个方面落后太多，落后者就会奋起直追。这将是未来数年甚至数十年世界变化的动力。
+
+-- [Dan Wang《2025年度信件》](https://danwang.co/2025-letter/)
+
+3、
+
+程序员对待 AI 有两种态度：一种以结果为导向，渴望通过 AI 更快拿到结果；另一种以过程为导向，他们从工程本身获得意义，对于被剥夺这种体验感到不满。
+
+-- [Ben Werdmuller](https://simonwillison.net/2026/Jan/2/ben-werdmuller/)
+
+4、
+
+AI 数据中心的建设热潮，导致内存价格暴涨，进而产生一系列连锁反应。
+
+手机和电脑厂商别无选择，只能提价。我们估计，2026年全球的手机市场和电脑市场都会萎缩。手机萎缩2.9%到5.2%，电脑萎缩4.9%到8.9%。
+
+-- [IDC 公司的预测](https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/)
+
+5、
+
+eSIM 手机卡一旦更换就可能失效，相比之下，实体 SIM 卡可以随意插上插下，几乎不会出现故障。推广 eSIM 的后果就是，手机号丢失的事件会大大增多。
+
+-- [《我后悔使用 eSIM》](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/)
+
+
 ## [科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](https://github.com/ruanyf/weekly/blob/master/docs/issue-379.md#言论)
 
 
