@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#言论)
+
+
+1
+
+我对自己的代码被大模型吸收感觉如何？
+
+我很高兴这样，因为我把这看作是我一生努力的延续：民主化代码、系统和知识。
+
+大模型让我们更快编写更好、更高效的软件，并让小团队有机会与大公司竞争。这和 90 年代开源软件所做的事情一样。然而，这项技术太重要，绝不能只掌握在少数公司手中。
+
+-- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
+
+2、
+
+即使你不相信 AI，但跳过它对你和你的职业都没有帮助。
+
+以前，你熬夜编程，看到项目顺利运行时，心潮翻滚。现在，如果你能有效利用 AI，可以建造更多更好的项目。乐趣依旧存在，未受影响。
+
+-- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
+
+3、
+
+如果你不写作，你就是一个有限状态机。写作时，你拥有图灵机的非凡力量。
+
+-- [曼纽尔·布卢姆](http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html)（Manuel Blum），图灵奖得主
+
+4、
+
+人们陷入困境有三个主要原因：（1）行动力不足，（2）行动方向错误，（3）等待天上掉馅饼（幻想问题会缓解而拒绝采取行动）。
+
+-- [《当你想摆脱困境》](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+
+
 ## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#言论)
 
 

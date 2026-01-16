@@ -1,5 +1,70 @@
 # 工具
 
+## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#工具)
+
+
+1、[whenwords](https://github.com/dbreunig/whenwords)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011105.webp)
+
+本周，GitHub 出现了一个奇特的库，没有一行代码，只有一个接口文档。
+
+用户需要自己将接口文档输入大模型，并指定编程语言，生成相应的库代码再使用。
+
+以后会不会都是这样，软件库没有代码，只有接口描述？
+
+2、[Hongdown](https://github.com/dahlia/hongdown)
+
+Markdown 文本的格式美化器，根据预设的规则，修改 Markdown 文本的风格样式。
+
+3、[VAM Seek](https://github.com/unhaya/vam-seek)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011204.webp)
+
+一个开源的网页视频播放器，会自动显示多个时点的视频缩略图，便于快速点击跳转。
+
+4、[kodbox](https://github.com/kalcaddle/kodbox)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011205.webp)
+
+开源的网页文件管理器。
+
+5、[Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011103.webp)
+
+让 Mac 电脑读写 NTFS 磁盘的开源工具。（[@hoochanlon](https://github.com/ruanyf/weekly/issues/8672) 投稿）
+
+6、[Flippy Lid](https://github.com/huanglizhuo/Flappy.Lid)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011206.webp)
+
+一个实验性软件，把 macbook 铰链开合作为输入，可以玩 Flippy Lid，也可以作为密码解锁。（[@huanglizhuo](https://github.com/ruanyf/weekly/issues/8683) 投稿）
+
+7、[Jumble](https://github.com/CodyTseng/jumble)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011301.webp)
+
+nostr 网络的开源 Web 客户端，专门用来浏览以 feed 内容为主的 relay 节点。（[@CodyTseng](https://github.com/ruanyf/weekly/issues/8692) 投稿）
+
+8、[Clash Kit](https://github.com/wangrongding/clash-kit)
+
+一个基于 Node.js 的 Clash 命令行管理工具。（[@wangrongding](https://github.com/ruanyf/weekly/issues/8703) 投稿）
+
+9、[SlideNote](https://github.com/maoruibin/SlideNote)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011501.webp)
+
+开源的 Chrome 浏览器插件，在侧边栏做笔记，支持跨设备自动同步。（[@maoruibin](https://github.com/ruanyf/weekly/issues/8715) 投稿）
+
+10、[NginxPulse](https://github.com/likaia/nginxpulse)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011502.webp)
+
+开源的 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地、客户端解析。
+（[@likaia](https://github.com/ruanyf/weekly/issues/8696) 投稿）
+
+
 ## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#工具)
 
 

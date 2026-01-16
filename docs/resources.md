@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#资源)
+
+
+1、[EverMsg](https://www.evermsg.com/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010902.webp)
+
+这个网站可以查看 BTC 区块链的 OP_RETURN 字段，该字段记录了一段文本，只要发上区块链就永远不会删除和修改。（[@blueslmj](https://www.evermsg.com/zh) 投稿）
+
+2、[DeepTime Mammalia](https://github.com/SeanWong17/Mammalia-tree)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011208.webp)
+
+沉浸式 3D/2D 网页可视化项目，交互式哺乳纲演化树，探索哺乳动物2亿年的演化。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8688) 投稿）
+
+
 ## [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md#资源)
 
 

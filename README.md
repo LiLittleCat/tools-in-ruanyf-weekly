@@ -16,133 +16,122 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>380</currentVersion> -->
+<!-- <currentVersion>381</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 380 期）：为什么人们拥抱“不对称收益”](https://github.com/ruanyf/weekly/blob/master/docs/issue-380.md)
+# [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md)
 ### 工具
 
 
-1、[ZenOps](https://github.com/opsre/ZenOps)
+1、[whenwords](https://github.com/dbreunig/whenwords)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121705.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011105.webp)
 
-一个命令行工具，在本地终端里查询阿里云/腾讯云等云平台的运行数据，并提供钉钉、飞书、企微机器人，进行自然语言查询。（[@eryajf](https://github.com/ruanyf/weekly/issues/8475) 投稿）
+本周，GitHub 出现了一个奇特的库，没有一行代码，只有一个接口文档。
 
-2、[白虎面板](https://github.com/engigu/baihu-panel)
+用户需要自己将接口文档输入大模型，并指定编程语言，生成相应的库代码再使用。
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122803.webp)
+以后会不会都是这样，软件库没有代码，只有接口描述？
 
-轻量级的服务器定时任务管理系统，适合低配置的服务器。（[@engigu](https://github.com/ruanyf/weekly/issues/8546) 投稿）
+2、[Hongdown](https://github.com/dahlia/hongdown)
 
-3、[OnlinePlayer](https://onlineplayer.app/zh)
+Markdown 文本的格式美化器，根据预设的规则，修改 Markdown 文本的风格样式。
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122804.webp)
+3、[VAM Seek](https://github.com/unhaya/vam-seek)
 
-一个网页播放器，可以播放本地视频和云盘视频。（[@13068240601](https://github.com/ruanyf/weekly/issues/8553) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011204.webp)
 
-4、[gitstats](https://github.com/shenxianpeng/gitstats)
+一个开源的网页视频播放器，会自动显示多个时点的视频缩略图，便于快速点击跳转。
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122805.webp)
+4、[kodbox](https://github.com/kalcaddle/kodbox)
 
-命令行工具，生成 Git 仓库的统计数据。（[@shenxianpeng](https://github.com/ruanyf/weekly/issues/8560) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011205.webp)
 
-5、[云图](https://github.com/qazzxxx/cloudimgs)
+开源的网页文件管理器。
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122806.webp)
+5、[Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-一个极简风格的图床，可以搭建到自己的 NAS，提供灵活的 API。（[@qazzxxx](https://github.com/ruanyf/weekly/issues/8561) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011103.webp)
 
-6、[KeyStats](https://github.com/debugtheworldbot/keyStats)
+让 Mac 电脑读写 NTFS 磁盘的开源工具。（[@hoochanlon](https://github.com/ruanyf/weekly/issues/8672) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010104.webp)
+6、[Flippy Lid](https://github.com/huanglizhuo/Flappy.Lid)
 
-开源的 macOS 小工具，对按键行为进行统计。（[@debugtheworldbot](https://github.com/ruanyf/weekly/issues/8574) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011206.webp)
 
-7、[py2dist](https://github.com/xxnuo/py2dist)
+一个实验性软件，把 macbook 铰链开合作为输入，可以玩 Flippy Lid，也可以作为密码解锁。（[@huanglizhuo](https://github.com/ruanyf/weekly/issues/8683) 投稿）
 
-这个工具可以将 Python 脚本编译成二进制模块，方便隐藏源码。（[@xxnuo](https://github.com/ruanyf/weekly/issues/8575) 投稿）
+7、[Jumble](https://github.com/CodyTseng/jumble)
 
-8、[Stream Panel](https://github.com/bywwcnll/StreamPanel)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010105.webp)
+nostr 网络的开源 Web 客户端，专门用来浏览以 feed 内容为主的 relay 节点。（[@CodyTseng](https://github.com/ruanyf/weekly/issues/8692) 投稿）
 
-Chrome 浏览器开发者工具的一个扩展，用来调试服务器发送事件 (SSE) 和 Fetch 的流式连接。（[@bywwcnll](https://github.com/ruanyf/weekly/issues/8582) 投稿）
+8、[Clash Kit](https://github.com/wangrongding/clash-kit)
 
-9、[Zedis](https://github.com/vicanso/zedis)
+一个基于 Node.js 的 Clash 命令行管理工具。（[@wangrongding](https://github.com/ruanyf/weekly/issues/8703) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010106.webp)
+9、[SlideNote](https://github.com/maoruibin/SlideNote)
 
-Redis 的图形客户端，跨平台的桌面应用，不使用 Electron，而是使用 Rust + GPUI，性能更好。（[@vicanso](https://github.com/ruanyf/weekly/issues/8588) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011501.webp)
 
-10、[QDav](https://qdav.top/)
+开源的 Chrome 浏览器插件，在侧边栏做笔记，支持跨设备自动同步。（[@maoruibin](https://github.com/ruanyf/weekly/issues/8715) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010602.webp)
+10、[NginxPulse](https://github.com/likaia/nginxpulse)
 
-这个网站可以为夸克网盘加入 WebDAV 协议，从而挂载到网盘播放器来播放夸克网盘的视频。（[@ZhouCai-bo](https://github.com/ruanyf/weekly/issues/8607) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011502.webp)
 
-11、[XApi](https://github.com/lustan/XApi)
-
-开源的 Chrome 浏览器插件，自动捕获当前网页的 Fetch 与 XHR 网络请求，支持改写 Cookie、Origin、Referer 字段，方便开发调试。（[@lustan](https://github.com/ruanyf/weekly/issues/8610) 投稿）
-
-12、[PDFCraft](https://github.com/PDFCraftTool/pdfcraft)
-
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010603.webp)
-
-纯浏览器的 PDF 开源工具集，目前有80多个工具。（[@pccprint](https://github.com/ruanyf/weekly/issues/8611) 投稿）
+开源的 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地、客户端解析。
+（[@likaia](https://github.com/ruanyf/weekly/issues/8696) 投稿）
 
 
 ### 资源
 
 
-1、[100万首页截图](https://onemillionscreenshots.com/)
+1、[EverMsg](https://www.evermsg.com/zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010902.webp)
 
-这个网站收集了100万个热门网站的首页截图，将它们做在一个页面，可以放大查看。
+这个网站可以查看 BTC 区块链的 OP_RETURN 字段，该字段记录了一段文本，只要发上区块链就永远不会删除和修改。（[@blueslmj](https://www.evermsg.com/zh) 投稿）
 
-2、[Emulator Gamer](https://emulatorgamer.com)
+2、[DeepTime Mammalia](https://github.com/SeanWong17/Mammalia-tree)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011208.webp)
 
-各种老游戏机的经典游戏，通过模拟器免费在线游玩。（[@SinanWang](https://github.com/ruanyf/weekly/issues/8592) 投稿）
+沉浸式 3D/2D 网页可视化项目，交互式哺乳纲演化树，探索哺乳动物2亿年的演化。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8688) 投稿）
 
 
 ### 言论
 
 
-1、
+1
 
-在美国东海岸（纽约和华盛顿），人们会问：“中国是否就要失败了”，而在西海岸（洛杉矶和旧金山），人们更倾向于问：“万一中国成功了会怎样？”
+我对自己的代码被大模型吸收感觉如何？
 
-这一定程度上反映了硅谷的特点：更注重收益最大化，而非风险最小化。东海岸的问题也值得认真对待，但过分关注中国是否失败，会助长一种美国无需做出任何改变就能击败对手的论调，从而削弱美国改革的紧迫性。
+我很高兴这样，因为我把这看作是我一生努力的延续：民主化代码、系统和知识。
 
--- [Dan Wang《2025年度信件》](https://danwang.co/2025-letter/)
+大模型让我们更快编写更好、更高效的软件，并让小团队有机会与大公司竞争。这和 90 年代开源软件所做的事情一样。然而，这项技术太重要，绝不能只掌握在少数公司手中。
+
+-- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
 
 2、
 
-如果美国或中国在某个方面落后太多，落后者就会奋起直追。这将是未来数年甚至数十年世界变化的动力。
+即使你不相信 AI，但跳过它对你和你的职业都没有帮助。
 
--- [Dan Wang《2025年度信件》](https://danwang.co/2025-letter/)
+以前，你熬夜编程，看到项目顺利运行时，心潮翻滚。现在，如果你能有效利用 AI，可以建造更多更好的项目。乐趣依旧存在，未受影响。
+
+-- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
 
 3、
 
-程序员对待 AI 有两种态度：一种以结果为导向，渴望通过 AI 更快拿到结果；另一种以过程为导向，他们从工程本身获得意义，对于被剥夺这种体验感到不满。
+如果你不写作，你就是一个有限状态机。写作时，你拥有图灵机的非凡力量。
 
--- [Ben Werdmuller](https://simonwillison.net/2026/Jan/2/ben-werdmuller/)
+-- [曼纽尔·布卢姆](http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html)（Manuel Blum），图灵奖得主
 
 4、
 
-AI 数据中心的建设热潮，导致内存价格暴涨，进而产生一系列连锁反应。
+人们陷入困境有三个主要原因：（1）行动力不足，（2）行动方向错误，（3）等待天上掉馅饼（幻想问题会缓解而拒绝采取行动）。
 
-手机和电脑厂商别无选择，只能提价。我们估计，2026年全球的手机市场和电脑市场都会萎缩。手机萎缩2.9%到5.2%，电脑萎缩4.9%到8.9%。
-
--- [IDC 公司的预测](https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/)
-
-5、
-
-eSIM 手机卡一旦更换就可能失效，相比之下，实体 SIM 卡可以随意插上插下，几乎不会出现故障。推广 eSIM 的后果就是，手机号丢失的事件会大大增多。
-
--- [《我后悔使用 eSIM》](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/)
+-- [《当你想摆脱困境》](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 
 
 <!-- End -->
