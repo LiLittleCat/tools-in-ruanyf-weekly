@@ -1,5 +1,73 @@
 # 工具
 
+## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#工具)
+
+
+1、[GoRead](https://github.com/zhashut/goread)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011704.webp)
+
+开源的电子书阅读器应用，支持桌面与移动端（Android/iOS）。（[@zhashut](https://github.com/ruanyf/weekly/issues/8732) 投稿）
+
+2、[EasyPostman](https://github.com/lakernote/EasyPostman)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011705.webp)
+
+用于 API 调试的跨平台桌面应用，对标 Postman + JMeter。（[@lakernote](https://github.com/ruanyf/weekly/issues/8733) 投稿）
+
+3、[Port Sentinel](https://github.com/Sanjeever/port_sentinel)（端口哨兵）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011706.webp)
+
+Windows 桌面应用，查看端口占用情况。（[@Sanjeever](https://github.com/ruanyf/weekly/issues/8721) 投稿）
+
+4、[Building Sunlight Simulator](https://github.com/SeanWong17/building-sunlight-simulator)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011901.webp)
+
+基于 Web 的楼盘采光 3D 日照模拟工具，帮助购房者评估小区采光。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8744) 投稿）
+
+5、[Office App](https://github.com/baotlake/office-website)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012001.webp)
+
+一个纯本地的 Office 网页应用，可以离线在网页创建/编辑 Word、Excel、PowerPoint 文件。（[@baotlake](https://github.com/ruanyf/weekly/issues/8757) 投稿）
+
+6、[ScreenshotSnap](https://screenshotsnap.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011902.webp)
+
+免费的网站截屏在线工具，提供 API，可以直接将截图代码插入网页。（[@phpiscute](https://github.com/ruanyf/weekly/issues/8746) 投稿）
+
+7、[tsshd](https://github.com/trzsz/tsshd)
+
+SSH 服务器登录协议的全新实现，特点是连接不掉线，可以重连前一个对话。（[@lonnywong](https://github.com/ruanyf/weekly/issues/8751) 投稿）
+
+8、[AirScan-QR](https://github.com/topcss/AirScan-QR)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012002.webp)
+
+一个开源网页应用，通过动态二维码发送/接收文件。（[@topcss](https://github.com/ruanyf/weekly/issues/8758) 投稿）
+
+9、[LuCI Bandix](https://github.com/ruanyf/weekly/issues/8761)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012005.webp)
+
+开源路由器操作系统 OpenWRT 的一个插件，可以监控局域网各设备的实时流量和目的地。（[@timsaya](https://github.com/ruanyf/weekly/issues/8761) 投稿）
+
+10、[pure-genealogy](https://github.com/yunfengsa/pure-genealogy)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012104.webp)
+
+开源的网页族谱工具，用来生成家族族谱，基于 Next.js + Supabase。（[@yunfengsa](https://github.com/ruanyf/weekly/issues/8768) 投稿）
+
+11、[mdto.page](https://mdto.page/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011708.webp)
+
+这个网站免费将 Markdown 文件转成 HTML 格式，发布成公开访问的网页。
+
+
 ## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#工具)
 
 

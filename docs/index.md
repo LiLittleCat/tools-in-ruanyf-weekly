@@ -16,122 +16,137 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>381</currentVersion> -->
+<!-- <currentVersion>382</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md)
+# [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md)
 ### 工具
 
 
-1、[whenwords](https://github.com/dbreunig/whenwords)
+1、[GoRead](https://github.com/zhashut/goread)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011105.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011704.webp)
 
-本周，GitHub 出现了一个奇特的库，没有一行代码，只有一个接口文档。
+开源的电子书阅读器应用，支持桌面与移动端（Android/iOS）。（[@zhashut](https://github.com/ruanyf/weekly/issues/8732) 投稿）
 
-用户需要自己将接口文档输入大模型，并指定编程语言，生成相应的库代码再使用。
+2、[EasyPostman](https://github.com/lakernote/EasyPostman)
 
-以后会不会都是这样，软件库没有代码，只有接口描述？
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011705.webp)
 
-2、[Hongdown](https://github.com/dahlia/hongdown)
+用于 API 调试的跨平台桌面应用，对标 Postman + JMeter。（[@lakernote](https://github.com/ruanyf/weekly/issues/8733) 投稿）
 
-Markdown 文本的格式美化器，根据预设的规则，修改 Markdown 文本的风格样式。
+3、[Port Sentinel](https://github.com/Sanjeever/port_sentinel)（端口哨兵）
 
-3、[VAM Seek](https://github.com/unhaya/vam-seek)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011706.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011204.webp)
+Windows 桌面应用，查看端口占用情况。（[@Sanjeever](https://github.com/ruanyf/weekly/issues/8721) 投稿）
 
-一个开源的网页视频播放器，会自动显示多个时点的视频缩略图，便于快速点击跳转。
+4、[Building Sunlight Simulator](https://github.com/SeanWong17/building-sunlight-simulator)
 
-4、[kodbox](https://github.com/kalcaddle/kodbox)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011901.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011205.webp)
+基于 Web 的楼盘采光 3D 日照模拟工具，帮助购房者评估小区采光。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8744) 投稿）
 
-开源的网页文件管理器。
+5、[Office App](https://github.com/baotlake/office-website)
 
-5、[Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011103.webp)
+一个纯本地的 Office 网页应用，可以离线在网页创建/编辑 Word、Excel、PowerPoint 文件。（[@baotlake](https://github.com/ruanyf/weekly/issues/8757) 投稿）
 
-让 Mac 电脑读写 NTFS 磁盘的开源工具。（[@hoochanlon](https://github.com/ruanyf/weekly/issues/8672) 投稿）
+6、[ScreenshotSnap](https://screenshotsnap.com/)
 
-6、[Flippy Lid](https://github.com/huanglizhuo/Flappy.Lid)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011206.webp)
+免费的网站截屏在线工具，提供 API，可以直接将截图代码插入网页。（[@phpiscute](https://github.com/ruanyf/weekly/issues/8746) 投稿）
 
-一个实验性软件，把 macbook 铰链开合作为输入，可以玩 Flippy Lid，也可以作为密码解锁。（[@huanglizhuo](https://github.com/ruanyf/weekly/issues/8683) 投稿）
+7、[tsshd](https://github.com/trzsz/tsshd)
 
-7、[Jumble](https://github.com/CodyTseng/jumble)
+SSH 服务器登录协议的全新实现，特点是连接不掉线，可以重连前一个对话。（[@lonnywong](https://github.com/ruanyf/weekly/issues/8751) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011301.webp)
+8、[AirScan-QR](https://github.com/topcss/AirScan-QR)
 
-nostr 网络的开源 Web 客户端，专门用来浏览以 feed 内容为主的 relay 节点。（[@CodyTseng](https://github.com/ruanyf/weekly/issues/8692) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012002.webp)
 
-8、[Clash Kit](https://github.com/wangrongding/clash-kit)
+一个开源网页应用，通过动态二维码发送/接收文件。（[@topcss](https://github.com/ruanyf/weekly/issues/8758) 投稿）
 
-一个基于 Node.js 的 Clash 命令行管理工具。（[@wangrongding](https://github.com/ruanyf/weekly/issues/8703) 投稿）
+9、[LuCI Bandix](https://github.com/ruanyf/weekly/issues/8761)
 
-9、[SlideNote](https://github.com/maoruibin/SlideNote)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012005.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011501.webp)
+开源路由器操作系统 OpenWRT 的一个插件，可以监控局域网各设备的实时流量和目的地。（[@timsaya](https://github.com/ruanyf/weekly/issues/8761) 投稿）
 
-开源的 Chrome 浏览器插件，在侧边栏做笔记，支持跨设备自动同步。（[@maoruibin](https://github.com/ruanyf/weekly/issues/8715) 投稿）
+10、[pure-genealogy](https://github.com/yunfengsa/pure-genealogy)
 
-10、[NginxPulse](https://github.com/likaia/nginxpulse)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011502.webp)
+开源的网页族谱工具，用来生成家族族谱，基于 Next.js + Supabase。（[@yunfengsa](https://github.com/ruanyf/weekly/issues/8768) 投稿）
 
-开源的 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地、客户端解析。
-（[@likaia](https://github.com/ruanyf/weekly/issues/8696) 投稿）
+11、[mdto.page](https://mdto.page/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011708.webp)
+
+这个网站免费将 Markdown 文件转成 HTML 格式，发布成公开访问的网页。
 
 
 ### 资源
 
 
-1、[EverMsg](https://www.evermsg.com/zh)
+1、[维基百科25周年](https://wikipedia25.org/en/the-first-day)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011604.webp)
 
-这个网站可以查看 BTC 区块链的 OP_RETURN 字段，该字段记录了一段文本，只要发上区块链就永远不会删除和修改。（[@blueslmj](https://www.evermsg.com/zh) 投稿）
+维基百科是2001年1月13日上线的，今年是25周年纪念。这个网站是官方的纪念网站，以互动形式展示了发展历程。
 
-2、[DeepTime Mammalia](https://github.com/SeanWong17/Mammalia-tree)
+另外，还有一篇文章，介绍[互联网档案馆的历史](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)（下图）。
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011208.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011605.webp)
 
-沉浸式 3D/2D 网页可视化项目，交互式哺乳纲演化树，探索哺乳动物2亿年的演化。（[@SeanWong17](https://github.com/ruanyf/weekly/issues/8688) 投稿）
+2、[HTTP:COLON](https://httpcolon.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012004.webp)
+
+这个网页可以查看指定网站返回的 HTTP 标头，详细解释每个字段的含义。
+
+3、[现代 Java](https://github.com/Together-Java/ModernJava)（Modern Java）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011601.webp)
+
+面向初学者的 Java 语言教程。
 
 
 ### 言论
 
 
-1
+1、
 
-我对自己的代码被大模型吸收感觉如何？
+AGI（通用人工智能）中的 A 代表广告（advertisement）。
 
-我很高兴这样，因为我把这看作是我一生努力的延续：民主化代码、系统和知识。
-
-大模型让我们更快编写更好、更高效的软件，并让小团队有机会与大公司竞争。这和 90 年代开源软件所做的事情一样。然而，这项技术太重要，绝不能只掌握在少数公司手中。
-
--- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
+-- [一位程序员](https://ossa-ma.github.io/blog/openads)评论 OpenAI 宣布在 AI 对话中加入广告
 
 2、
 
-即使你不相信 AI，但跳过它对你和你的职业都没有帮助。
+Netflix 的电影不追求视觉效果，因为大多数观众是在手机、平板和笔记本电脑上看，内容不需要为大银幕制作、而是为小屏幕制作的。
 
-以前，你熬夜编程，看到项目顺利运行时，心潮翻滚。现在，如果你能有效利用 AI，可以建造更多更好的项目。乐趣依旧存在，未受影响。
-
--- [Antirez](https://antirez.com/news/158)，Redis 项目的创始人
+-- [马特·达蒙](https://x.com/nexta_tv/status/2012595777831678142)，美国著名演员
 
 3、
 
-如果你不写作，你就是一个有限状态机。写作时，你拥有图灵机的非凡力量。
+我从未见过哪个群体比程序员更热衷于分享知识。其他行业都是严守知识、保守秘密，程序员则是免费提供源代码、书籍、博客文章、演示文稿、视频教程等等。
 
--- [曼纽尔·布卢姆](http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html)（Manuel Blum），图灵奖得主
+编程领域没有什么神圣不可侵犯的东西。如果你想学习，你可以找到免费书籍、完整的源代码、论坛、聊天室、邮件列表、线下聚会、博客文章、视频讲座、教程以及你可能需要的一切资源。尽管举手，总会有人乐于助人，倾囊相授。
+
+-- [《我是如何学习所有编程知识的》](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
 
 4、
 
-人们陷入困境有三个主要原因：（1）行动力不足，（2）行动方向错误，（3）等待天上掉馅饼（幻想问题会缓解而拒绝采取行动）。
+今年的 iOS 26 中，一些 UI 元素利用 HDR 屏幕，采用高光，比纯白色更亮。如果你曾经在 iPhone（或其他任何支持 HDR 的屏幕）上看过 HDR 照片，然后再看看以 SDR 模式显示的 UI，你就会知道它看起来有多么灰暗黯淡。
 
--- [《当你想摆脱困境》](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
+-- [《亮模式的膨胀》](https://willhbr.net/2025/10/20/light-mode-infffffflation/)，作者发现 iOS 每年都变得更亮，容易产生视觉疲劳，让他不得不使用暗模式
+
+5、
+
+如果你想批评大型组织的运作方式，首先要了解它们为何如此运作。否则，批评会显得尖锐，但却毫无意义。
+
+-- [《关于大型软件公司的常见误解》](https://philipotoole.com/common-misunderstandings-about-large-software-companies/)
 
 
 <!-- End -->

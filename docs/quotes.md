@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#言论)
+
+
+1、
+
+AGI（通用人工智能）中的 A 代表广告（advertisement）。
+
+-- [一位程序员](https://ossa-ma.github.io/blog/openads)评论 OpenAI 宣布在 AI 对话中加入广告
+
+2、
+
+Netflix 的电影不追求视觉效果，因为大多数观众是在手机、平板和笔记本电脑上看，内容不需要为大银幕制作、而是为小屏幕制作的。
+
+-- [马特·达蒙](https://x.com/nexta_tv/status/2012595777831678142)，美国著名演员
+
+3、
+
+我从未见过哪个群体比程序员更热衷于分享知识。其他行业都是严守知识、保守秘密，程序员则是免费提供源代码、书籍、博客文章、演示文稿、视频教程等等。
+
+编程领域没有什么神圣不可侵犯的东西。如果你想学习，你可以找到免费书籍、完整的源代码、论坛、聊天室、邮件列表、线下聚会、博客文章、视频讲座、教程以及你可能需要的一切资源。尽管举手，总会有人乐于助人，倾囊相授。
+
+-- [《我是如何学习所有编程知识的》](https://agentultra.com/blog/how-i-learned-everything-i-know/index.html)
+
+4、
+
+今年的 iOS 26 中，一些 UI 元素利用 HDR 屏幕，采用高光，比纯白色更亮。如果你曾经在 iPhone（或其他任何支持 HDR 的屏幕）上看过 HDR 照片，然后再看看以 SDR 模式显示的 UI，你就会知道它看起来有多么灰暗黯淡。
+
+-- [《亮模式的膨胀》](https://willhbr.net/2025/10/20/light-mode-infffffflation/)，作者发现 iOS 每年都变得更亮，容易产生视觉疲劳，让他不得不使用暗模式
+
+5、
+
+如果你想批评大型组织的运作方式，首先要了解它们为何如此运作。否则，批评会显得尖锐，但却毫无意义。
+
+-- [《关于大型软件公司的常见误解》](https://philipotoole.com/common-misunderstandings-about-large-software-companies/)
+
+
 ## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#言论)
 
 

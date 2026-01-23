@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 382 期）：独立软件的黄昏](https://github.com/ruanyf/weekly/blob/master/docs/issue-382.md#资源)
+
+
+1、[维基百科25周年](https://wikipedia25.org/en/the-first-day)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011604.webp)
+
+维基百科是2001年1月13日上线的，今年是25周年纪念。这个网站是官方的纪念网站，以互动形式展示了发展历程。
+
+另外，还有一篇文章，介绍[互联网档案馆的历史](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)（下图）。
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011605.webp)
+
+2、[HTTP:COLON](https://httpcolon.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012004.webp)
+
+这个网页可以查看指定网站返回的 HTTP 标头，详细解释每个字段的含义。
+
+3、[现代 Java](https://github.com/Together-Java/ModernJava)（Modern Java）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011601.webp)
+
+面向初学者的 Java 语言教程。
+
+
 ## [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](https://github.com/ruanyf/weekly/blob/master/docs/issue-381.md#资源)
 
 
