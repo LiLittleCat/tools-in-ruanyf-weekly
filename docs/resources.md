@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#资源)
+
+
+1、[Flashpoint Database](https://flashpointproject.github.io/flashpoint-database/)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021602.webp)
+
+这个网站收集各种网页游戏和动画，目前有18万个游戏和3万个动画。
+
+2、[Claude Code 中文教程](https://github.com/KimYx0207/Claude-Code-Guide-Zh)
+
+包含10个完整章节的 Claude Code 中文教程仓库。（[@KimYx0207](https://github.com/ruanyf/weekly/issues/9022) 投稿）
+
+3、[海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022614.webp)
+
+用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/9070) 投稿）
+
+4、[diode](https://www.withdiode.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022408.webp)
+
+面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。
+
+
 ## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#资源)
 
 

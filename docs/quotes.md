@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#言论)
+
+
+1、
+
+美国最大的创业孵化器 YC 如今几乎只投人工智能领域，最新一轮它的投资组合中，高达88%的公司都基于人工智能。
+
+这与它曾经倡导的逆向思维背道而驰，转而倾向于稳妥的追随潮流。
+
+-- [《YC 是收留懦夫吗？》](https://stanfordreview.org/is-yc-for-cowards/)
+
+2、
+
+我们应该帮助实体店生存下去。当一家实体店开业，它会让其他人受益，会帮助街区吸引居民和潜在顾客，最终让本地区变得有活力和适合生活。
+
+-- [《零售业提升土地价值》](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
+
+3、
+
+如果 AI 主导一切，那些无法被 AI 量化的东西，不是会特立独行，而是最终会被淘汰。
+
+-- [Ben Thompson](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/)，美国著名科技 UP 主
+
+4、
+
+美国企业有一个方面做得很好，那就是他们不会把时间和精力浪费在自己不擅长的事情上，而是对自己擅长的领域加倍投入。
+
+他们只关注收益最大化，不关注成本最小化。
+
+-- [Ben Thompson](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/)，美国著名科技 UP 主
+
+5、
+
+创造力需要你有勇气去放弃确定性。
+
+-- [埃里希·弗罗姆](https://newsletter.squishy.computer/p/folding-context)，德国哲学家
+
+
 ## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#言论)
 
 

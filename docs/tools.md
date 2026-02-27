@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#工具)
+
+
+1、[Oat](https://github.com/knadh/oat)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021601.webp)
+
+轻量级的 HTML + CSS + 极简 JS 的语义化 UI 组件库。
+
+2、[jsonriver](https://github.com/rictic/jsonriver)
+
+一个 JS 库，用于解析 JSON 字符流，可以作用 JSON.parse() 的替代品，后者不支持流模式。
+
+3、[Arcmark](https://github.com/Geek-1001/arcmark)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021607.webp)
+
+一款开源的 macOS 桌面应用，用来管理浏览器书签，可以自动吸附在浏览器窗口的侧边。
+
+4、[Systemd manager tui](https://github.com/matheus-git/systemd-manager-tui)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021611.webp)
+
+一个通过终端界面管理 Systemd 服务的工具。
+
+5、[weathr](https://github.com/Veirt/weathr)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022104.webp)
+
+一个终端应用，用来查看指定地点的天气，以动画形式展示。
+
+6、[CursorLens](https://github.com/blueberrycongee/CursorLens)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021603.webp)
+
+开源的录屏桌面应用，用于制作产品演示与讲解视频。（[@blueberrycongee](https://github.com/ruanyf/weekly/issues/9019) 投稿）
+
+7、[结印](https://github.com/huanglizhuo/Ketsuin)（Ketsuin）
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021502.webp)
+
+一个 Web 应用，通过火影忍者的手势输入法，摄像头识别手势进行文字输入。（[@huanglizhuo](https://github.com/ruanyf/weekly/issues/9018) 投稿）
+
+8、[Puter](https://github.com/HeyPuter/puter)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061105.webp)
+
+一个需要自搭建、通过浏览器使用的云操作系统，参见[介绍文章](https://www.xda-developers.com/this-cracking-cloud-computer-can-be-anything/)。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/9043) 投稿）
+
+9、[Penio](https://github.com/game1024/Penio)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022102.webp)
+
+跨平台的教学可视化桌面应用，让鼠标、键盘在屏幕可视化凸显出来。（[@game1024](https://github.com/ruanyf/weekly/issues/9046) 投稿）
+
+10、[openhare](https://github.com/sjjian/openhare)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022401.webp)
+
+基于 Flutter 的跨平台桌面 SQL 查询工具，支持多种数据库，可以 AI 生成 SQL 查询和数据分析。（[@sjjian](https://github.com/ruanyf/weekly/issues/9056) 投稿）
+
+
 ## [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md#工具)
 
 

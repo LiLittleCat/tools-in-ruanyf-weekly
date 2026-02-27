@@ -16,93 +16,95 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>385</currentVersion> -->
+<!-- <currentVersion>386</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](https://github.com/ruanyf/weekly/blob/master/docs/issue-385.md)
+# [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md)
 ### 工具
 
 
-1、[Subtrace](https://github.com/subtrace/subtrace)
+1、[Oat](https://github.com/knadh/oat)
 
-![](https://cdn.beekka.com/blogimg/asset/202502/bg2025022206.webp)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021601.webp)
 
-一个开源的 Docker 应用，在浏览器里观察本机 Docker 容器的网络通信。
+轻量级的 HTML + CSS + 极简 JS 的语义化 UI 组件库。
 
-2、[ScrapeServ](https://github.com/goodreasonai/ScrapeServ)
+2、[jsonriver](https://github.com/rictic/jsonriver)
 
-一个抓取网页截图的服务器，需要自己架设，通过 API 调用。
+一个 JS 库，用于解析 JSON 字符流，可以作用 JSON.parse() 的替代品，后者不支持流模式。
 
-3、[QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file)
+3、[Arcmark](https://github.com/Geek-1001/arcmark)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024042605.webp)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021607.webp)
 
-电脑操作手机的工具，可以将手机投屏到电脑，然后用键盘和鼠标操作手机。
+一款开源的 macOS 桌面应用，用来管理浏览器书签，可以自动吸附在浏览器窗口的侧边。
 
-它是用 Qt 重新实现的 [scrcpy](https://github.com/Genymobile/scrcpy)。
+4、[Systemd manager tui](https://github.com/matheus-git/systemd-manager-tui)
 
-4、[ProxyPin](https://github.com/wanghongenpin/proxypin)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021611.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020605.webp)
+一个通过终端界面管理 Systemd 服务的工具。
 
-全平台的开源抓包软件，拦截和重写 HTTP(S) 流量。（[@wanghongenpin](https://github.com/ruanyf/weekly/issues/8934) 投稿）
+5、[weathr](https://github.com/Veirt/weathr)
 
-5、[luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021041.webp)
+一个终端应用，用来查看指定地点的天气，以动画形式展示。
 
-一款 OpenWrt LuCI 现代感主题，基于 Vite 和 Tailwind CSS。（[@eamonxg](https://github.com/ruanyf/weekly/issues/8974) 投稿）
+6、[CursorLens](https://github.com/blueberrycongee/CursorLens)
 
-6、[BetterCapture](https://github.com/jsattler/BetterCapture)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021603.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021101.webp)
+开源的录屏桌面应用，用于制作产品演示与讲解视频。（[@blueberrycongee](https://github.com/ruanyf/weekly/issues/9019) 投稿）
 
-开源的 Mac 录屏软件。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/8979) 投稿）
+7、[结印](https://github.com/huanglizhuo/Ketsuin)（Ketsuin）
 
-7、[FeedCraft](https://github.com/Colin-XKL/FeedCraft)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021502.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021102.webp)
+一个 Web 应用，通过火影忍者的手势输入法，摄像头识别手势进行文字输入。（[@huanglizhuo](https://github.com/ruanyf/weekly/issues/9018) 投稿）
 
-开源的 Web 服务，生成处理后的 RSS 源，可用来提取全文、翻译、摘要、过滤等。（[@Colin-XKL](https://github.com/ruanyf/weekly/issues/8980) 投稿）
+8、[Puter](https://github.com/HeyPuter/puter)
 
-8、[Extension.js](https://github.com/cezaraugusto/extension.js)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061105.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024050101.webp)
+一个需要自搭建、通过浏览器使用的云操作系统，参见[介绍文章](https://www.xda-developers.com/this-cracking-cloud-computer-can-be-anything/)。（[@cosmicqbit](https://github.com/ruanyf/weekly/issues/9043) 投稿）
 
-一个浏览器插件开发的工具库，帮你快速开发一个插件。
+9、[Penio](https://github.com/game1024/Penio)
 
-9、[Yaak](https://yaak.app/)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022102.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051606.webp)
+跨平台的教学可视化桌面应用，让鼠标、键盘在屏幕可视化凸显出来。（[@game1024](https://github.com/ruanyf/weekly/issues/9046) 投稿）
 
-一个跨平台的桌面软件，可以用来调试 API（包括 REST、GraphQL 和 gRPC），是 Postman 的替代品。
+10、[openhare](https://github.com/sjjian/openhare)
 
-10、[Neko Master](https://github.com/foru17/neko-master)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022401.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021231.webp)
-
-网络流量的轻量级分析面板，展示与统计本地网关的流量数据。（[@foru17](https://github.com/ruanyf/weekly/issues/8995) 投稿）
+基于 Flutter 的跨平台桌面 SQL 查询工具，支持多种数据库，可以 AI 生成 SQL 查询和数据分析。（[@sjjian](https://github.com/ruanyf/weekly/issues/9056) 投稿）
 
 
 ### 资源
 
 
-1、[神经网络的视觉解释](https://visualrambling.space/neural-network/)
+1、[Flashpoint Database](https://flashpointproject.github.io/flashpoint-database/)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021602.webp)
 
-这个网站用动画解释“什么是神经网络”。
+这个网站收集各种网页游戏和动画，目前有18万个游戏和3万个动画。
 
-2、[DevOps Engineer](https://labex.io)
+2、[Claude Code 中文教程](https://github.com/KimYx0207/Claude-Code-Guide-Zh)
 
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026020708.webp)
+包含10个完整章节的 Claude Code 中文教程仓库。（[@KimYx0207](https://github.com/ruanyf/weekly/issues/9022) 投稿）
 
-一个 IT 课程网站，学习 Linux 和 DevOps 的实践技能，在网页上连接远程虚拟机进行交互操作，有中文版，免费额度是每天3次虚拟机。（[@huhuhuhang](https://github.com/ruanyf/weekly/issues/8949) 投稿）
+3、[海平面上升模拟器](https://www.runcell.dev/tool/true-size-map/sea-level-rise-simulator)
 
-3、[理解机器学习：从理论到算法](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)（英文）
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022614.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040503.webp)
+用户在网页上设定海平面的上升高度，查看地球卫星地图的变化，哪些地区被淹没。（[@ObservedObserver](https://github.com/ruanyf/weekly/issues/9070) 投稿）
 
-免费的英文电子书。
+4、[diode](https://www.withdiode.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022408.webp)
+
+面包板在线模拟网站，在网页上用各种电子元件，可视化模拟面包板电路项目，可以查看运行效果。
 
 
 ### 言论
@@ -110,39 +112,37 @@
 
 1、
 
-根据亚马逊老板贝佐斯的定义，小团队就是可以用两张大披萨喂饱的团队，也就是5到8人。
+美国最大的创业孵化器 YC 如今几乎只投人工智能领域，最新一轮它的投资组合中，高达88%的公司都基于人工智能。
 
-AI 出现以后，小团队将变得只用一张大披萨就可以喂饱，只需要2到3人（含产品经理和设计师）。
+这与它曾经倡导的逆向思维背道而驰，转而倾向于稳妥的追随潮流。
 
--- [《单披萨工程团队的兴起》](https://www.jampa.dev/p/the-rise-of-one-pizza-engineering)
+-- [《YC 是收留懦夫吗？》](https://stanfordreview.org/is-yc-for-cowards/)
 
 2、
 
-我们的规则是：（1）代码绝不能由人编写。（2）代码不得由人进行审查。（3）如果每位工程师每天消耗的 token 不到1000美元，那么就还有提升空间。
+我们应该帮助实体店生存下去。当一家实体店开业，它会让其他人受益，会帮助街区吸引居民和潜在顾客，最终让本地区变得有活力和适合生活。
 
--- [《StrongDM AI 的故事》](https://factory.strongdm.ai/)
+-- [《零售业提升土地价值》](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
 
 3、
 
-AI 热潮对于美国的影响是，电工越来越难找，一些建筑项目被迫暂停。
+如果 AI 主导一切，那些无法被 AI 量化的东西，不是会特立独行，而是最终会被淘汰。
 
-亚马逊、谷歌、微软、Meta 和 Oracle 这五家公司，2026年的 AI 硬件投资，将相当于美国军费的四分之三。
-
--- [《华盛顿邮报》](https://archive.ph/CBkDq)
+-- [Ben Thompson](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/)，美国著名科技 UP 主
 
 4、
 
-创业公司可以分成两种：O(n) 与 O(n^2)，其中的 n 表示时间。
+美国企业有一个方面做得很好，那就是他们不会把时间和精力浪费在自己不擅长的事情上，而是对自己擅长的领域加倍投入。
 
-O(n) 公司随着时间大致呈线性增长，而 O(n^2) 公司会呈超线性的加速增长。
+他们只关注收益最大化，不关注成本最小化。
 
--- [《O(n) 与 O(n^2) 创业企业》](https://rohan.ga/blog/startup_types/)
+-- [Ben Thompson](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/)，美国著名科技 UP 主
 
 5、
 
-进入物理学领域是我一生的最大错误，我应该选择计算机科学。虽然我还是不会有女朋友，但至少会赚得盆满钵满。
+创造力需要你有勇气去放弃确定性。
 
--- [《锗的电子带结构》](https://pages.cs.wisc.edu/~kovar/hall.html)
+-- [埃里希·弗罗姆](https://newsletter.squishy.computer/p/folding-context)，德国哲学家
 
 
 <!-- End -->
