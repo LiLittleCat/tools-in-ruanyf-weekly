@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#言论)
+
+
+1、
+
+让我非常惊讶的是，人们最近突然开始做一些早就应该做的事情：
+
+（1）撰写简洁、直截了当的文档，把它放在 AGENTS.md 文件里。
+
+（2）实现非常有价值的工作流程，以技能或 MCP 服务器的形式暴露出来。
+
+（3）改进测试和命令行工具的输出，使其带有更多信息。
+
+-- [《AI=true 是反模式》](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
+
+2、
+
+GitHub 最近频繁宕机，我认为原因并不是他们在运行 AI 生成的代码，而是用户在提交 AI 生成的代码，导致提交内容和频率远超以往，GitHub 不堪重负。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=47238176)
+
+3、
+
+GitHub Star 曾经是一个很好的指标，直到人们逐渐意识到它确实是一个很好的指标。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=47220006)
+
+4、
+
+有了 AI，工程师一个迭代可以做七个功能，晋升毫无难度。
+
+-- [《当代码生成速度超过理解速度》](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
+
+5、
+
+吃掉大象只有一种方法：一口一口地吃。
+
+-- [南非主教图图](https://www.huddleupgroup.com/post/one-bite-at-a-time)
+
+
 ## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#言论)
 
 

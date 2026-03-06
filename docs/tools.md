@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#工具)
+
+
+1、[yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030402.webp)
+
+开源的安卓应用，检查你的周围有没有智能眼镜。
+
+2、[explain-my-curl](https://github.com/akgitrepos/explain-my-curl)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030403.webp)
+
+curl 命令的一个终端界面，可以解释命令的运行结果。
+
+3、[Pocket ID](https://github.com/pocket-id/pocket-id)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030501.webp)
+
+一个需要自搭建的 OIDC 身份认证服务，支持 Passkey 无密码登录，设置参考[这篇文章](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)。
+
+4、[R2 Web](https://github.com/vikiboss/r2-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022703.webp)
+
+文件存储服务 Cloudflare R2 的 Web 客户端，可以上传/管理文件。（[@vikiboss](https://github.com/ruanyf/weekly/issues/9081) 投稿）
+
+5、[Voxt](https://github.com/hehehai/voxt)
+
+macOS 应用，用于语音转文本、语音的实时翻译。（[@hehehai](https://github.com/ruanyf/weekly/issues/9091) 投稿）
+
+6、[Cutia](https://github.com/msgbyte/cutia)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030103.webp)
+
+开源的网页视频编辑器，网页版的 [CapCut](https://www.capcut.com/) 替代品，试用 [Demo](https://cutia.msgbyte.com/)。（[@moonrailgun](https://github.com/ruanyf/weekly/issues/9092) 投稿）
+
+7、[Gorse](https://github.com/gorse-io/gorse)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030201.webp)
+
+开源的推荐引擎，会自动对数据进行训练，为每个用户生成推荐，方便接入各种在线服务。（[@zhenghaoz](https://github.com/ruanyf/weekly/issues/9098) 投稿）
+
+8、[vscode-stylelint-plus](https://github.com/hex-ci/vscode-stylelint-plus)
+
+一个 VSCode 插件，对 CSS、SCSS、Less 等进行代码检查。（[@hex-ci](https://github.com/ruanyf/weekly/issues/9111) 投稿）
+
+9、[OneDroid](https://qingge.tech/onedroid/web/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030401.webp)
+
+开源的安卓应用，提供多种实用工具，来管理你的安卓设备。（[@QingGeTech](https://github.com/ruanyf/weekly/issues/9126) 投稿）
+
+10、[NoteCalc](https://github.com/2234839/TsFullStack)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030502.webp)
+
+所见即所得实时计算笔记本。（[@2234839](https://github.com/ruanyf/weekly/issues/9139) 投稿）
+
+
 ## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#工具)
 
 

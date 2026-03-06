@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#资源)
+
+
+1、[MicroGPT 交互式讲解](https://growingswe.com/blog/microgpt)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030203.webp)
+
+MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法。
+
+2、[2026年全国樱花花期预测](https://rogerzhu.github.io/yinghua-map/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030305.webp)
+
+预报全国各地樱花开花的日期。（[@rogerzhu](https://github.com/ruanyf/weekly/issues/9114) 投稿）
+
+3、[Now I Get It!](https://nowigetit.us/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030101.webp)
+
+上传一个科学论文 PDF 文件，该网站将其转成一个互动式网页（上图），用浅显英语来解释论文，目前是免费服务。
+
+
 ## [科技爱好者周刊（第 386 期）：当外卖员接入 AI](https://github.com/ruanyf/weekly/blob/master/docs/issue-386.md#资源)
 
 
