@@ -1,5 +1,61 @@
 # 工具
 
+## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#工具)
+
+
+1、[KULA](https://github.com/c0m4r/kula)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030706.webp)
+
+Linux 服务器的监控工具，只有一个二进制文件。
+
+2、[AnsiSaver](https://github.com/lardissone/ansi-saver)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030803.webp)
+
+mac 电脑的屏保程序，用彩色的 Ansi 字符画作为屏保图案。
+
+3、[upiano](https://github.com/eliasdorneles/upiano)
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081012.webp)
+
+在命令行下模拟钢琴弹奏。
+
+4、[WSL Distro Manager](https://github.com/bostrot/wsl2-distro-manager)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031207.webp)
+
+一个开源 Windows 应用，通过图形界面管理 Windows Subsystem for Linux（WSL）发行版。
+
+5、[Mole](https://github.com/tw93/Mole)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031213.webp)
+
+开源的 Mac 电脑清理和优化工具。
+
+6、[PipeGate](https://github.com/janbjorge/pipegate)
+
+一个将内网服务映射到外网的隧道工具，特点是比较简单，就是几个 Python 脚本，并且可以设置 UUID 客户端认证。
+
+7、[HookListener](https://www.hooklistener.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121804.webp)
+
+一个管理、测试 Webhook 的在线工具，个人可以免费使用。
+
+8、[Sentinel](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031201.webp)
+
+将安卓手机转化为网络摄像头，实现实时监控和图像采集。（[@suzuran0](https://github.com/ruanyf/weekly/issues/9201) 投稿）
+
+9、[Flux Monitor](https://github.com/chentao1006/FluxMonitor)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031203.webp)
+
+Mac 电脑的系统监控、管理面板。（[@chentao1006](https://github.com/ruanyf/weekly/issues/9207) 投稿）
+
+
 ## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#工具)
 
 

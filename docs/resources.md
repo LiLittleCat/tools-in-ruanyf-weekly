@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#资源)
+
+
+1、[世界监控](https://www.worldmonitor.app)（World Monitor）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030801.webp)
+
+世界局势的一个实时看板，把各种消息源都放在一个网页里。
+
+2、[炼油厂探索](https://fuelingcuriosity.com/game.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031204.webp)
+
+一个动画互动网站，展示炼油厂怎样将石油变成汽柴油。
+
+3、[Mechanical Pencil](https://mechanical-pencil.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031001.webp)
+
+弹簧笔、打火机等生活小物品的机械装置动画。
+
+
 ## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#资源)
 
 

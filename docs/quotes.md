@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#言论)
+
+
+1、
+
+2021年，我感觉做一名优秀的软件工程师棒极了。软件行业蓬勃发展，机会很多，我热爱这份工作，觉得可以永远做下去。
+
+2026年，我已经不确定软件行业十年后会怎样，即使还存在，必定与现在极不相同。我也许能找到出路，也许不得不离开这个行业。无论如何，我热爱的软件工作即将消失。
+
+-- [《我不知道十年后我的工作是否还存在》](https://www.seangoedecke.com/will-my-job-still-exist/)
+
+2、
+
+与强大的 AI 对抗会是什么感觉？
+
+你会感觉自己莫名其妙地弱了不少，AI 做的每件事都超出你的预期。
+
+这就好像你和一位实力强劲的玩家玩一款随机性很强的游戏，你会感觉这位高手总是运气爆棚。
+
+-- [probablydance.com](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
+
+3、
+
+阅读商战书籍是浪费时间。它们将简单的故事变成通用的建议，将偶然的成功转化为普遍的策略，并用激励人心的口号取代复杂的市场。
+
+这些书的成功并不是因为内容正确，而是因为易于阅读并且让读者感觉良好。
+
+-- [《阅读商战书籍是浪费时间》](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
+
+4、
+
+我想让 AI 告诉我怎么使用一种全新的、AI 也不会用的工具，就会提示 AI “执行 xxx-tool --help 来了解该工具”（假定工具名字是 xxx-tool），然后 AI 就学会用了。
+
+-- [Simon Willison](https://simonwillison.net/2026/Mar/9/not-so-boring/)，著名开发者
+
+5、
+
+时间是唯一不可再生的资源。AI 大模型是目前我所知的最便宜的赚取额外时间的方式。
+
+-- [《不要太看重 AI 大模型的订阅费》](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
+
+
 ## [科技爱好者周刊（第 387 期）：你是领先的](https://github.com/ruanyf/weekly/blob/master/docs/issue-387.md#言论)
 
 
