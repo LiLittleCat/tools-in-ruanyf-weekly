@@ -1,5 +1,33 @@
 # 言论
 
+## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#言论)
+
+
+1、
+
+我想要的网络世界，是一个万物皆可塑的世界，让你不由自主地成为创造者。
+
+-- [David Miranda](https://plumbing-of-everyday-magic.hyperclay.com/)
+
+2、
+
+AI 让软件的成本从代码转移到测试和文档，一套好的测试套件的价值可能比编写代码本身更高。
+
+-- [lucumr.pocoo.org](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/)
+
+3、
+
+编程的核心在于抽象，即用一种远离底层技术的高级思维方式来思考代码。
+
+-- [《生活在“平面国”的程序员》](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
+
+4、
+
+领导力就是让别人去做你想让他们做的事，而且是心甘情愿的。
+
+-- [艾森豪威尔](https://hebfdn.org/portfolio/eisenhower-on-leadership/)，美国前总统
+
+
 ## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#言论)
 
 

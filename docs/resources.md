@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#资源)
+
+
+1、[canirun.ai](https://www.canirun.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031402.webp)
+
+网页检测你的机器，能够运行哪些本地的 AI 模型。
+
+2、[AI 是怎么回事](https://wmyskxz.cn/wiki/whats_ai/)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031304.webp)
+
+面向普通读者的通俗 AI 原理教程。（[@wmyskxz](https://github.com/ruanyf/weekly/issues/9218) 投稿）
+
+3、[TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)（Algorithms with TypeScript）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031403.webp)
+
+免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。
+
+4、[频道冲浪者](https://channelsurfer.tv)（Channel Surfer）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031404.webp)
+
+这个网页把 Youtube 改成传统的电视频道，每个频道都有节目表，可以切换频道。如果你不知道用 Youtube 看什么，就可以看这个网站。
+
+
 ## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#资源)
 
 

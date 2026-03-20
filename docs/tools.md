@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#工具)
+
+
+1、[APTUI](https://github.com/mexirica/aptui)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031301.webp)
+
+一个 Linux 的终端应用，用于充当 Debian/Ubuntu 安装管理器，管理 APT 软件包。
+
+2、[my.WordPress.net](https://my.wordpress.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031502.webp)
+
+如果你想尝试 WordPress，但没有服务器，可以使用官方新推出的这个服务，打开上面网址就可以了。
+
+它把所有 PHP 脚本编译成 JS，在本地运行，不需要服务器，而且数据都在你的浏览器，下次打开这个网址，网站数据还在，参见[介绍文章](https://wordpress.org/news/2026/03/announcing-my-wordpress/)。
+
+3、[GrobPaint](https://github.com/groverburger/grobpaint)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031503.webp)
+
+一个跨平台的图像编辑器，特点就是非常轻量级，可以在浏览器运行，也可以编译成二进制文件。
+
+4、[Apple Matting](https://matting.lingxiangtools.top)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031407.webp)
+
+一个 Mac 抠图软件，大小只有 8MB。（[@pangxiaobin](https://github.com/ruanyf/weekly/issues/9241) 投稿）
+
+5、[HealthTick](https://github.com/lifedever/health-tick-release)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031409.webp)
+
+macOS 菜单栏久坐提醒工具。（[@lifedever](https://github.com/ruanyf/weekly/issues/9242) 投稿）
+
+6、[CheatReader](https://github.com/yaoyao2mm/cheatreader)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031501.webp)
+
+一个跨平台的阅读软件，可以悬浮在桌面上，支持单行模式，适合想在工作流里“偷偷读书”的人。（[@yaoyao2mm](https://github.com/ruanyf/weekly/issues/9247) 投稿）
+
+7、[锤子便签](https://github.com/zhaoolee/notes)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031702.webp)
+
+开源的网页版锤子便签，可以作为 Skill 调用。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/9274) 投稿）
+
+8、[WeChat Download API](https://github.com/tmwgsicp/wechat-download-api)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031917.webp)
+
+开源的微信公众号转 RSS 工具。（[@tmwgsicp](https://github.com/ruanyf/weekly/issues/9295) 投稿）
+
+9、[Speech Speed](https://github.com/ywong137/speech-speed)
+
+一个很有意思的 Chrome 插件，根据语速调节视频播放速度。如果剧中人说话慢，视频就快速播放，说话快，就慢速播放。
+
+
 ## [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md#工具)
 
 

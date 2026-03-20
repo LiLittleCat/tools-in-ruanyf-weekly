@@ -16,85 +16,93 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>388</currentVersion> -->
+<!-- <currentVersion>389</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 388 期）：测试是新的护城河](https://github.com/ruanyf/weekly/blob/master/docs/issue-388.md)
+# [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md)
 ### 工具
 
 
-1、[KULA](https://github.com/c0m4r/kula)
+1、[APTUI](https://github.com/mexirica/aptui)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030706.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031301.webp)
 
-Linux 服务器的监控工具，只有一个二进制文件。
+一个 Linux 的终端应用，用于充当 Debian/Ubuntu 安装管理器，管理 APT 软件包。
 
-2、[AnsiSaver](https://github.com/lardissone/ansi-saver)
+2、[my.WordPress.net](https://my.wordpress.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031502.webp)
 
-mac 电脑的屏保程序，用彩色的 Ansi 字符画作为屏保图案。
+如果你想尝试 WordPress，但没有服务器，可以使用官方新推出的这个服务，打开上面网址就可以了。
 
-3、[upiano](https://github.com/eliasdorneles/upiano)
+它把所有 PHP 脚本编译成 JS，在本地运行，不需要服务器，而且数据都在你的浏览器，下次打开这个网址，网站数据还在，参见[介绍文章](https://wordpress.org/news/2026/03/announcing-my-wordpress/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081012.webp)
+3、[GrobPaint](https://github.com/groverburger/grobpaint)
 
-在命令行下模拟钢琴弹奏。
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031503.webp)
 
-4、[WSL Distro Manager](https://github.com/bostrot/wsl2-distro-manager)
+一个跨平台的图像编辑器，特点就是非常轻量级，可以在浏览器运行，也可以编译成二进制文件。
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031207.webp)
+4、[Apple Matting](https://matting.lingxiangtools.top)
 
-一个开源 Windows 应用，通过图形界面管理 Windows Subsystem for Linux（WSL）发行版。
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031407.webp)
 
-5、[Mole](https://github.com/tw93/Mole)
+一个 Mac 抠图软件，大小只有 8MB。（[@pangxiaobin](https://github.com/ruanyf/weekly/issues/9241) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031213.webp)
+5、[HealthTick](https://github.com/lifedever/health-tick-release)
 
-开源的 Mac 电脑清理和优化工具。
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031409.webp)
 
-6、[PipeGate](https://github.com/janbjorge/pipegate)
+macOS 菜单栏久坐提醒工具。（[@lifedever](https://github.com/ruanyf/weekly/issues/9242) 投稿）
 
-一个将内网服务映射到外网的隧道工具，特点是比较简单，就是几个 Python 脚本，并且可以设置 UUID 客户端认证。
+6、[CheatReader](https://github.com/yaoyao2mm/cheatreader)
 
-7、[HookListener](https://www.hooklistener.com)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031501.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024121804.webp)
+一个跨平台的阅读软件，可以悬浮在桌面上，支持单行模式，适合想在工作流里“偷偷读书”的人。（[@yaoyao2mm](https://github.com/ruanyf/weekly/issues/9247) 投稿）
 
-一个管理、测试 Webhook 的在线工具，个人可以免费使用。
+7、[锤子便签](https://github.com/zhaoolee/notes)
 
-8、[Sentinel](https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031702.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031201.webp)
+开源的网页版锤子便签，可以作为 Skill 调用。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/9274) 投稿）
 
-将安卓手机转化为网络摄像头，实现实时监控和图像采集。（[@suzuran0](https://github.com/ruanyf/weekly/issues/9201) 投稿）
+8、[WeChat Download API](https://github.com/tmwgsicp/wechat-download-api)
 
-9、[Flux Monitor](https://github.com/chentao1006/FluxMonitor)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031917.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031203.webp)
+开源的微信公众号转 RSS 工具。（[@tmwgsicp](https://github.com/ruanyf/weekly/issues/9295) 投稿）
 
-Mac 电脑的系统监控、管理面板。（[@chentao1006](https://github.com/ruanyf/weekly/issues/9207) 投稿）
+9、[Speech Speed](https://github.com/ywong137/speech-speed)
+
+一个很有意思的 Chrome 插件，根据语速调节视频播放速度。如果剧中人说话慢，视频就快速播放，说话快，就慢速播放。
 
 
 ### 资源
 
 
-1、[世界监控](https://www.worldmonitor.app)（World Monitor）
+1、[canirun.ai](https://www.canirun.ai/)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030801.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031402.webp)
 
-世界局势的一个实时看板，把各种消息源都放在一个网页里。
+网页检测你的机器，能够运行哪些本地的 AI 模型。
 
-2、[炼油厂探索](https://fuelingcuriosity.com/game.html)
+2、[AI 是怎么回事](https://wmyskxz.cn/wiki/whats_ai/)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031304.webp)
 
-一个动画互动网站，展示炼油厂怎样将石油变成汽柴油。
+面向普通读者的通俗 AI 原理教程。（[@wmyskxz](https://github.com/ruanyf/weekly/issues/9218) 投稿）
 
-3、[Mechanical Pencil](https://mechanical-pencil.com)
+3、[TypeScript 数据结构与算法](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)（Algorithms with TypeScript）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031403.webp)
 
-弹簧笔、打火机等生活小物品的机械装置动画。
+免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。
+
+4、[频道冲浪者](https://channelsurfer.tv)（Channel Surfer）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026031404.webp)
+
+这个网页把 Youtube 改成传统的电视频道，每个频道都有节目表，可以切换频道。如果你不知道用 Youtube 看什么，就可以看这个网站。
 
 
 ### 言论
@@ -102,41 +110,27 @@ Mac 电脑的系统监控、管理面板。（[@chentao1006](https://github.com/
 
 1、
 
-2021年，我感觉做一名优秀的软件工程师棒极了。软件行业蓬勃发展，机会很多，我热爱这份工作，觉得可以永远做下去。
+我想要的网络世界，是一个万物皆可塑的世界，让你不由自主地成为创造者。
 
-2026年，我已经不确定软件行业十年后会怎样，即使还存在，必定与现在极不相同。我也许能找到出路，也许不得不离开这个行业。无论如何，我热爱的软件工作即将消失。
-
--- [《我不知道十年后我的工作是否还存在》](https://www.seangoedecke.com/will-my-job-still-exist/)
+-- [David Miranda](https://plumbing-of-everyday-magic.hyperclay.com/)
 
 2、
 
-与强大的 AI 对抗会是什么感觉？
+AI 让软件的成本从代码转移到测试和文档，一套好的测试套件的价值可能比编写代码本身更高。
 
-你会感觉自己莫名其妙地弱了不少，AI 做的每件事都超出你的预期。
-
-这就好像你和一位实力强劲的玩家玩一款随机性很强的游戏，你会感觉这位高手总是运气爆棚。
-
--- [probablydance.com](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
+-- [lucumr.pocoo.org](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/)
 
 3、
 
-阅读商战书籍是浪费时间。它们将简单的故事变成通用的建议，将偶然的成功转化为普遍的策略，并用激励人心的口号取代复杂的市场。
+编程的核心在于抽象，即用一种远离底层技术的高级思维方式来思考代码。
 
-这些书的成功并不是因为内容正确，而是因为易于阅读并且让读者感觉良好。
-
--- [《阅读商战书籍是浪费时间》](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
+-- [《生活在“平面国”的程序员》](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/)
 
 4、
 
-我想让 AI 告诉我怎么使用一种全新的、AI 也不会用的工具，就会提示 AI “执行 xxx-tool --help 来了解该工具”（假定工具名字是 xxx-tool），然后 AI 就学会用了。
+领导力就是让别人去做你想让他们做的事，而且是心甘情愿的。
 
--- [Simon Willison](https://simonwillison.net/2026/Mar/9/not-so-boring/)，著名开发者
-
-5、
-
-时间是唯一不可再生的资源。AI 大模型是目前我所知的最便宜的赚取额外时间的方式。
-
--- [《不要太看重 AI 大模型的订阅费》](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
+-- [艾森豪威尔](https://hebfdn.org/portfolio/eisenhower-on-leadership/)，美国前总统
 
 
 <!-- End -->
