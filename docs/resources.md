@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#资源)
+
+
+1、[Project N.O.M.A.D.](https://github.com/Crosstalk-Solutions/project-nomad)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032302.webp)
+
+一个 Linux 应用，集成了各种人类知识（维基百科、全球地图、在线课程、本地 AI 助手）等等，用于在断网时查阅。（[@15x3](https://github.com/ruanyf/weekly/issues/9345) 投稿）
+
+2、[用于数据分析的 AI Coding Agent](https://simonw.github.io/nicar-2026-coding-agents/index.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032204.webp)
+
+著名开发者 Simon Willison 的培训班讲课资料，通过 AI 工具进行数据分析，有详细步骤。
+
+3、[TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011203.webp)
+
+一本开源的 TypeScript 教程，有中文版。
+
+
 ## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#资源)
 
 

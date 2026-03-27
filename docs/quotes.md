@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#言论)
+
+
+1、
+
+我们创造了一个文明，其中最重要的元素都深深地依赖于科学技术，但是我们还让科学技术变得如此难懂。这会带来灾难，我们可能暂时侥幸逃脱，但迟早，这种无知和权力的易燃混合物会爆炸。
+
+-- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)
+
+2、
+
+巴黎以前总是堵车，市长想出一个办法，大幅减少停车位，后来果然少有人开车了。
+
+-- [CNN](https://edition.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
+
+3、
+
+一项研究发现，远程教学下，外形出众学生的作业成绩，要比面对面教学时更低。
+
+-- [《经济学快报》](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
+
+4、
+
+这些年对我影响最大的事情，就是我变成了一个“白天型”的人。
+
+我以前经常熬夜，有时会到天亮。最近五年，我强迫自己养成早起的习惯。现在，我的生活都在白天，亲眼看到黎明和黄昏，让我感到心安，生命与自然循环和谐一致。
+
+-- [《成为一个白天生活的人》](https://herman.bearblog.dev/becoming-a-day-person/)
+
+5、
+
+AI 很擅长将清晰的想法转化为可运行的代码。真正耗时的是弄清楚我到底想开发什么。
+
+-- [lustin.fr](https://lustin.fr/blog/building-digs/)
+
+
 ## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#言论)
 
 

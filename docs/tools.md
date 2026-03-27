@@ -1,5 +1,55 @@
 # 工具
 
+## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#工具)
+
+
+1、[proxychains-rs](https://github.com/tianrking/proxychains-rs)
+
+proxychains4 的 Rust 实现，指定某个进程走代理链。（[@tianrking](https://github.com/ruanyf/weekly/issues/9316) 投稿）
+
+2、[Flare Stack Blog](https://github.com/du2333/flare-stack-blog)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032001.webp)
+
+一个基于 Cloudflare Worker 的博客系统，集成 D1、R2、KV、Workflow 等服务。（[@du2333](https://github.com/ruanyf/weekly/issues/9312) 投稿）
+
+3、[Tunelo](https://github.com/jiweiyuan/tunelo)
+
+一行命令将本地服务暴露到公网，只需要单个 4MB 二进制文件，使用 QUIC 协议。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/9328) 投稿）
+
+4、[ReadAny](https://github.com/codedogQBY/ReadAny)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032208.webp)
+
+桌面端 + 安卓端的电子书阅读工具，自带 AI 功能、语音朗读和多端同步。（[@codedogQBY](https://github.com/ruanyf/weekly/issues/9342) 投稿）
+
+5、[RaTeX](https://github.com/erweixin/RaTeX)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032401.webp)
+
+纯 Rust 实现的 KaTeX 兼容的数学渲染引擎，原生解析、排版 LaTeX 数学公式，支持各种环境。（[@erweixin](https://github.com/ruanyf/weekly/issues/9350) 投稿）
+
+6、[Work Review](https://github.com/wm94i/Work_Review)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032509.webp)
+
+开源的 Win/Mac 桌面应用，在后台持续记录当天使用过的应用、访问过的网站等，便于整理成个人的工作轨迹。（[@wm94i](https://github.com/ruanyf/weekly/issues/9382) 投稿）
+
+7、[Valdi](https://github.com/Snapchat/Valdi)
+
+SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。
+
+8、[Npflared](https://npflared.thomas-cogez.fr/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122502.webp)
+
+架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
+
+9、[Chokidar](https://github.com/paulmillr/chokidar)
+
+一个 Node.js 模块，用来监听文件系统的各种事件（新增、删除、编辑等），比原生的 fs.watch / fs.watchFile 功能强。
+
+
 ## [科技爱好者周刊（第 389 期）：未来如何招聘程序员](https://github.com/ruanyf/weekly/blob/master/docs/issue-389.md#工具)
 
 
