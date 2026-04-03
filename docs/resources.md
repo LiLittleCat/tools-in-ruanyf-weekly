@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#资源)
+
+
+1、[Claude Code 动手教程](https://claude.nagdy.me/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033102.webp)
+
+Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
+
+2、[Claude Code Unpacked](https://ccunpacked.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040108.webp)
+
+根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
+
+3、[机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033108.webp)
+
+工程师的机器学习教程，解释基本概念。
+
+
 ## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#资源)
 
 

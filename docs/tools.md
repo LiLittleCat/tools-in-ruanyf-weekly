@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#工具)
+
+
+1、[EmDash](https://github.com/emdash-cms/emdash)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040202.webp)
+
+AI 生成的 WordPress 复刻，基于 TypeScript 语言，支持插件，据说功能基本一样，参见[介绍文章](https://blog.cloudflare.com/emdash-wordpress/)。
+
+2、[SubsTracker](https://github.com/wangwangit/SubsTracker)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032706.webp)
+
+基于 Cloudflare Workers 的订阅管理系统，可以发送各种订阅的到期通知，通过 Telegram、Webhook 等通知渠道。（[@wangwangit](https://github.com/ruanyf/weekly/issues/9411) 投稿）
+
+3、[OpeniLink Hub](https://github.com/openilink/openilink-hub)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032705.webp)
+
+开源的微信机器人消息管理平台，自带应用市场，通过点击安装应用，给微信 Bot 加功能。（[@xixihhhh](https://github.com/ruanyf/weekly/issues/9404) 投稿）
+
+另有一个类似项目 [wxWebHook](https://github.com/aristorechina/wxWebHook)，通过 WebHook 向微信用户发消息。（[@aristorechina](https://github.com/ruanyf/weekly/issues/9412) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032707.webp)
+
+4、[Lixian.Online](https://lixian.online/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033115.webp)
+
+获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具，[代码开源](https://github.com/LiaoGuoYin/lixian.online)。（[@LiaoGuoYin](https://github.com/ruanyf/weekly/issues/9455) 投稿）
+
+5、[Rename.Tools](https://rename.tools/zh/app)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033116.webp)
+
+浏览器端的批量文件重命名工具，支持各种规则设定，[代码开源](https://github.com/chenz24/rename.tools)。（[@chenz24](https://github.com/ruanyf/weekly/issues/9461) 投稿）
+
+6、[FontInAss](https://github.com/Yuri-NagaSaki/FontInAss)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033117.webp)
+
+开源的字幕字体子集化工具，将所需的字体字形嵌入字幕文件。（[@Yuri-NagaSaki](https://github.com/ruanyf/weekly/issues/9466) 投稿）
+
+7、[pretext.video](https://github.com/fifteen42/pretext-video)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040101.webp)
+
+基于 [Pretext](https://github.com/chenglou/pretext)（文字排版计算库）的一个小应用，将摄像头捕捉的人体轮廓通过文字排版实时展示。（[@fifteen42](https://github.com/ruanyf/weekly/issues/9472) 投稿）
+
+8、[OxideTerm](https://github.com/AnalyseDeCircuit/oxideterm)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040103.webp)
+
+基于 Rust 语言的跨平台 SSH 终端，功能较多，使用 Tauri 桌面框架。（[@AnalyseDeCircuit](https://github.com/ruanyf/weekly/issues/9474) 投稿）
+
+9、[wtree](https://github.com/FatDoge/wtree)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040104.webp)
+
+git worktree 的图形化管理界面。（[@FatDoge](https://github.com/ruanyf/weekly/issues/9483) 投稿）
+
+
 ## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#工具)
 
 

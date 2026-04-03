@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#言论)
+
+
+1、
+
+源代码的 map 文件不小心发布到 npm，这种错误听起来似乎不可能，但当你意识到很大一部分代码库很可能是由你正在发布的 AI 编写的，一切就容易理解了。
+
+-- [网友评论](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) Claude Code 源码泄漏事件
+
+2、
+
+人工智能的蓬勃发展，使得某些办公室工作的需求可能并不大，而将创造大量电工、焊工和水管工的工作岗位。
+
+以前，我们告诉所有年轻人去上大学，从事银行业、媒体或法律行业，现在需要平衡一下，有些人或许更适合做体力劳动者，在水暖工和电工这些领域，职业生涯同样可以很成功。
+
+-- [拉里·芬克](https://www.bbc.com/news/articles/c9wqrdkx8ppo)，美国金融巨头贝莱德集团的老板
+
+3、
+
+写作的目的不在于写完，而在于增进你自己的理解，进而增进周围人的理解。
+
+让 AI 为你写作，就像花钱请人为你健身一样。
+
+-- [《别让 AI 替你写作》](https://alexhwoods.com/dont-let-ai-write-for-you/)
+
+4、
+
+程序员的工作不是编程，而是通过抽象，来管理软件的复杂性。如果你做到了这一点，那么编程就很容易了。
+
+-- [《你的工作不是编程》](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
+
+
 ## [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md#言论)
 
 

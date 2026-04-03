@@ -16,79 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>390</currentVersion> -->
+<!-- <currentVersion>391</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](https://github.com/ruanyf/weekly/blob/master/docs/issue-390.md)
+# [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md)
 ### 工具
 
 
-1、[proxychains-rs](https://github.com/tianrking/proxychains-rs)
+1、[EmDash](https://github.com/emdash-cms/emdash)
 
-proxychains4 的 Rust 实现，指定某个进程走代理链。（[@tianrking](https://github.com/ruanyf/weekly/issues/9316) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040202.webp)
 
-2、[Flare Stack Blog](https://github.com/du2333/flare-stack-blog)
+AI 生成的 WordPress 复刻，基于 TypeScript 语言，支持插件，据说功能基本一样，参见[介绍文章](https://blog.cloudflare.com/emdash-wordpress/)。
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032001.webp)
+2、[SubsTracker](https://github.com/wangwangit/SubsTracker)
 
-一个基于 Cloudflare Worker 的博客系统，集成 D1、R2、KV、Workflow 等服务。（[@du2333](https://github.com/ruanyf/weekly/issues/9312) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032706.webp)
 
-3、[Tunelo](https://github.com/jiweiyuan/tunelo)
+基于 Cloudflare Workers 的订阅管理系统，可以发送各种订阅的到期通知，通过 Telegram、Webhook 等通知渠道。（[@wangwangit](https://github.com/ruanyf/weekly/issues/9411) 投稿）
 
-一行命令将本地服务暴露到公网，只需要单个 4MB 二进制文件，使用 QUIC 协议。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/9328) 投稿）
+3、[OpeniLink Hub](https://github.com/openilink/openilink-hub)
 
-4、[ReadAny](https://github.com/codedogQBY/ReadAny)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032705.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032208.webp)
+开源的微信机器人消息管理平台，自带应用市场，通过点击安装应用，给微信 Bot 加功能。（[@xixihhhh](https://github.com/ruanyf/weekly/issues/9404) 投稿）
 
-桌面端 + 安卓端的电子书阅读工具，自带 AI 功能、语音朗读和多端同步。（[@codedogQBY](https://github.com/ruanyf/weekly/issues/9342) 投稿）
+另有一个类似项目 [wxWebHook](https://github.com/aristorechina/wxWebHook)，通过 WebHook 向微信用户发消息。（[@aristorechina](https://github.com/ruanyf/weekly/issues/9412) 投稿）
 
-5、[RaTeX](https://github.com/erweixin/RaTeX)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032707.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032401.webp)
+4、[Lixian.Online](https://lixian.online/)
 
-纯 Rust 实现的 KaTeX 兼容的数学渲染引擎，原生解析、排版 LaTeX 数学公式，支持各种环境。（[@erweixin](https://github.com/ruanyf/weekly/issues/9350) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033115.webp)
 
-6、[Work Review](https://github.com/wm94i/Work_Review)
+获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具，[代码开源](https://github.com/LiaoGuoYin/lixian.online)。（[@LiaoGuoYin](https://github.com/ruanyf/weekly/issues/9455) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032509.webp)
+5、[Rename.Tools](https://rename.tools/zh/app)
 
-开源的 Win/Mac 桌面应用，在后台持续记录当天使用过的应用、访问过的网站等，便于整理成个人的工作轨迹。（[@wm94i](https://github.com/ruanyf/weekly/issues/9382) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033116.webp)
 
-7、[Valdi](https://github.com/Snapchat/Valdi)
+浏览器端的批量文件重命名工具，支持各种规则设定，[代码开源](https://github.com/chenz24/rename.tools)。（[@chenz24](https://github.com/ruanyf/weekly/issues/9461) 投稿）
 
-SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。
+6、[FontInAss](https://github.com/Yuri-NagaSaki/FontInAss)
 
-8、[Npflared](https://npflared.thomas-cogez.fr/index.html)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033117.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122502.webp)
+开源的字幕字体子集化工具，将所需的字体字形嵌入字幕文件。（[@Yuri-NagaSaki](https://github.com/ruanyf/weekly/issues/9466) 投稿）
 
-架设私有 NPM 镜像的工具，适合企业用来提供内部的 JS 软件包。
+7、[pretext.video](https://github.com/fifteen42/pretext-video)
 
-9、[Chokidar](https://github.com/paulmillr/chokidar)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040101.webp)
 
-一个 Node.js 模块，用来监听文件系统的各种事件（新增、删除、编辑等），比原生的 fs.watch / fs.watchFile 功能强。
+基于 [Pretext](https://github.com/chenglou/pretext)（文字排版计算库）的一个小应用，将摄像头捕捉的人体轮廓通过文字排版实时展示。（[@fifteen42](https://github.com/ruanyf/weekly/issues/9472) 投稿）
+
+8、[OxideTerm](https://github.com/AnalyseDeCircuit/oxideterm)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040103.webp)
+
+基于 Rust 语言的跨平台 SSH 终端，功能较多，使用 Tauri 桌面框架。（[@AnalyseDeCircuit](https://github.com/ruanyf/weekly/issues/9474) 投稿）
+
+9、[wtree](https://github.com/FatDoge/wtree)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040104.webp)
+
+git worktree 的图形化管理界面。（[@FatDoge](https://github.com/ruanyf/weekly/issues/9483) 投稿）
 
 
 ### 资源
 
 
-1、[Project N.O.M.A.D.](https://github.com/Crosstalk-Solutions/project-nomad)
+1、[Claude Code 动手教程](https://claude.nagdy.me/)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033102.webp)
 
-一个 Linux 应用，集成了各种人类知识（维基百科、全球地图、在线课程、本地 AI 助手）等等，用于在断网时查阅。（[@15x3](https://github.com/ruanyf/weekly/issues/9345) 投稿）
+Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
 
-2、[用于数据分析的 AI Coding Agent](https://simonw.github.io/nicar-2026-coding-agents/index.html)（英文）
+2、[Claude Code Unpacked](https://ccunpacked.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040108.webp)
 
-著名开发者 Simon Willison 的培训班讲课资料，通过 AI 工具进行数据分析，有详细步骤。
+根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
 
-3、[TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)
+3、[机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026033108.webp)
 
-一本开源的 TypeScript 教程，有中文版。
+工程师的机器学习教程，解释基本概念。
 
 
 ### 言论
@@ -96,35 +108,31 @@ SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然
 
 1、
 
-我们创造了一个文明，其中最重要的元素都深深地依赖于科学技术，但是我们还让科学技术变得如此难懂。这会带来灾难，我们可能暂时侥幸逃脱，但迟早，这种无知和权力的易燃混合物会爆炸。
+源代码的 map 文件不小心发布到 npm，这种错误听起来似乎不可能，但当你意识到很大一部分代码库很可能是由你正在发布的 AI 编写的，一切就容易理解了。
 
--- [卡尔·萨根](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)
+-- [网友评论](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) Claude Code 源码泄漏事件
 
 2、
 
-巴黎以前总是堵车，市长想出一个办法，大幅减少停车位，后来果然少有人开车了。
+人工智能的蓬勃发展，使得某些办公室工作的需求可能并不大，而将创造大量电工、焊工和水管工的工作岗位。
 
--- [CNN](https://edition.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor)
+以前，我们告诉所有年轻人去上大学，从事银行业、媒体或法律行业，现在需要平衡一下，有些人或许更适合做体力劳动者，在水暖工和电工这些领域，职业生涯同样可以很成功。
+
+-- [拉里·芬克](https://www.bbc.com/news/articles/c9wqrdkx8ppo)，美国金融巨头贝莱德集团的老板
 
 3、
 
-一项研究发现，远程教学下，外形出众学生的作业成绩，要比面对面教学时更低。
+写作的目的不在于写完，而在于增进你自己的理解，进而增进周围人的理解。
 
--- [《经济学快报》](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
+让 AI 为你写作，就像花钱请人为你健身一样。
+
+-- [《别让 AI 替你写作》](https://alexhwoods.com/dont-let-ai-write-for-you/)
 
 4、
 
-这些年对我影响最大的事情，就是我变成了一个“白天型”的人。
+程序员的工作不是编程，而是通过抽象，来管理软件的复杂性。如果你做到了这一点，那么编程就很容易了。
 
-我以前经常熬夜，有时会到天亮。最近五年，我强迫自己养成早起的习惯。现在，我的生活都在白天，亲眼看到黎明和黄昏，让我感到心安，生命与自然循环和谐一致。
-
--- [《成为一个白天生活的人》](https://herman.bearblog.dev/becoming-a-day-person/)
-
-5、
-
-AI 很擅长将清晰的想法转化为可运行的代码。真正耗时的是弄清楚我到底想开发什么。
-
--- [lustin.fr](https://lustin.fr/blog/building-digs/)
+-- [《你的工作不是编程》](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 
 
 <!-- End -->
