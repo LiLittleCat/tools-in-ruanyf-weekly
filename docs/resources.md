@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#资源)
+
+
+1、[佛津](https://fojin.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040301.webp)
+
+全球佛教古籍数字化聚合平台。（[@xr843](https://github.com/ruanyf/weekly/issues/9507) 投稿）
+
+2、[Flight Viz](https://flight-viz.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040811.webp)
+
+实时 3D 显示全球的航班。（[@haojiang99](https://github.com/ruanyf/weekly/issues/9538) 投稿）
+
+3、[GPU 时间线](https://sheets.works/data-viz/every-gpu)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040809.webp)
+
+这个网站用图片展示了 GPU 显卡的发展历程，从1996年的 Voodoo 卡到2025年的 RTX 5090 显卡。
+
+
 ## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#资源)
 
 

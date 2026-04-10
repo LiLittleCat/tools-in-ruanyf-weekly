@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#工具)
+
+
+1、[Google AI Edge Gallery](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040601.webp)
+
+本周，谷歌官方推出了一款苹果手机 App，为手机提供离线使用的 Gemma 4 模型。不需要上网，手机也能使用大模型了。
+
+2、[apfel](https://apfel.franzai.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040401.webp)
+
+Mac 电脑内置了一个本地大模型，可以离线使用。但是，默认只有苹果自家的 Siri 能调用，安装了这个工具以后，就可以自己在命令行调用它了。
+
+3、[Docking](https://docking.cc/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040701.webp)
+
+为 Linux 桌面添加类似苹果桌面的程序坞。
+
+4、[Tantivy](https://github.com/quickwit-oss/tantivy)
+
+Rust 语言写的全文搜索引擎库，可以替代 Apache Lucene，参见[介绍文章](https://www.paradedb.com/blog/tantivy-interview)。
+
+5、[Open Screen](https://github.com/siddharthvaddem/openscreen)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040501.webp)
+
+跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。
+
+6、[epub-tts](https://github.com/rafael1mc/epub-tts)
+
+这个开源工具将 epub 文件转成音频文件，也就是电子书转成有声书。
+
+7、[NVTOP](https://github.com/Syllo/nvtop)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031301.webp)
+
+一个 Linux 系统的命令行程序，用来监控 GPU 显卡的状态，等同于显卡专用的 top 命令。
+
+8、[dmcheck](https://github.com/PlayerYK/dmcheck)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040812.webp)
+
+检查某个主题词的域名占用情况。（[@PlayerYK](https://github.com/ruanyf/weekly/issues/9542) 投稿）
+
+9、[Reze Studio](https://github.com/AmyangXYZ/reze-studio)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040901.webp)
+
+开源的动画曲线编辑网站。（[@AmyangXYZ](https://github.com/ruanyf/weekly/issues/9555) 投稿）
+
+10、[gitlogue](https://github.com/unhappychoice/gitlogue)
+
+这个工具可以将 Git 仓库的提交历史，在终端里面以动画形式重现，甚至可以显示为屏保。
+
+
 ## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#工具)
 
 

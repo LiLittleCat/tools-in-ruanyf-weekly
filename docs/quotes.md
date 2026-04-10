@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#言论)
+
+
+1、
+
+如果你认为编写代码的速度是你的问题，那你面临的问题更大。
+
+-- [Andrew Murphy](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)，澳大利亚程序员
+
+2、
+
+有一种兴奋，叫做2017年才刚接触加密货币的人才有的兴奋。
+
+-- [Andrew Murphy](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)，澳大利亚程序员
+
+3、
+
+一项民意调查发现，美国年轻人对于婚姻、子女、信仰的重视程度，远不及他们的父母，对于传统的价值观——爱国主义、宗教、社区和家庭也很冷淡。
+
+年轻人把市场和金钱当作道德准则。在他们眼里，市场决定了事物的价值、事件的意义、谁是正确的、谁是赢家、谁举足轻重。
+
+-- [《预测市场的最糟糕后果》](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+
+4、
+
+对我来说，未来城市实际上是像阿姆斯特丹那样的地方，到处都是舒适的街道和自行车道，而不是像迪拜那样的地方，有16车道的高速公路，以及一群被压迫的劳工阶级在俗气的豪华购物中心里工作。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=47643388)
+
+5、
+
+高校都要求博士生发表论文，至于你写什么、怎么写的、内容与研究方向有没有关系，系里其实都不在意。系里需要论文，因为论文能证明经费的合理性，而经费又能证明系的存在价值。学生只不过是达成这个目标的生产资料。
+
+-- [《机器没问题，有问题的是我们自己》](https://ergosphere.blog/posts/the-machines-are-fine/)
+
+
 ## [科技爱好者周刊（第 391 期）：AI 的贫富分化](https://github.com/ruanyf/weekly/blob/master/docs/issue-391.md#言论)
 
 
