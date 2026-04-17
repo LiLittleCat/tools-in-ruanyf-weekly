@@ -1,5 +1,29 @@
 # 资源
 
+## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#资源)
+
+
+1、[中国卷烟博物馆](https://www.ciggies.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041601.webp)
+
+一个个人网站，收集各种国产品牌的卷烟。
+
+2、[2026世界新闻摄影大赛获奖作品](https://petapixel.com/2026/04/09/over-70-powerful-winners-from-the-2026-world-press-photo-contest/?user_id=66c4c9305d78644b3ac5df9c)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041302.webp)
+
+这个页面列出了世界新闻摄影奖今年一共70幅获奖作品，记录了去年的许多新闻事件。
+
+上图是在四川绵阳的大熊猫公园王朗保护区，使用红外线感应相机拍摄到的野外大熊猫。
+
+3、[guide.world](https://guide.world/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041605.webp)
+
+这个网站收集世界各地的优秀游记散文，不过文章还不多。
+
+
 ## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#资源)
 
 

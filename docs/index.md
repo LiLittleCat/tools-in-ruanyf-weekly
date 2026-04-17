@@ -16,87 +16,87 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>392</currentVersion> -->
+<!-- <currentVersion>393</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md)
+# [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md)
 ### 工具
 
 
-1、[Google AI Edge Gallery](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+1、[DAVINCI RESOLVE 21](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041501.webp)
 
-本周，谷歌官方推出了一款苹果手机 App，为手机提供离线使用的 Gemma 4 模型。不需要上网，手机也能使用大模型了。
+著名视频编辑软件“达芬奇”的新版本，加入了图像编辑，可以当作照片编辑软件了。
 
-2、[apfel](https://apfel.franzai.com/)
+2、[Phyphox](https://phyphox.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041616.webp)
 
-Mac 电脑内置了一个本地大模型，可以离线使用。但是，默认只有苹果自家的 Siri 能调用，安装了这个工具以后，就可以自己在命令行调用它了。
+一个著名的老牌手机应用（支持 iPhone 和安卓），提供各种手机传感器的应用界面，由德国亚琛工业大学开发。
 
-3、[Docking](https://docking.cc/)
+3、[Material You NewTab](https://github.com/XengShi/materialYouNewTab)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100501.webp)
 
-为 Linux 桌面添加类似苹果桌面的程序坞。
+一个 Chrome 插件，用来定制新标签的主页。
 
-4、[Tantivy](https://github.com/quickwit-oss/tantivy)
+4、[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
 
-Rust 语言写的全文搜索引擎库，可以替代 Apache Lucene，参见[介绍文章](https://www.paradedb.com/blog/tantivy-interview)。
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100503.webp)
 
-5、[Open Screen](https://github.com/siddharthvaddem/openscreen)
+一个同步剪贴板的工具，可以将一台电脑的剪贴板自动同步到另一台电脑，不过需要安装它的服务端和客户端（支持 Windows、Linux、安卓）。
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040501.webp)
+5、[Gridea Pro](https://github.com/Gridea-Pro/gridea-pro)
 
-跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041201.webp)
 
-6、[epub-tts](https://github.com/rafael1mc/epub-tts)
+桌面静态博客写作客户端，不用设置服务器，零门槛建立自己的静态博客网站。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9565) 投稿）
 
-这个开源工具将 epub 文件转成音频文件，也就是电子书转成有声书。
+6、[Recordly](https://github.com/webadderall/Recordly)
 
-7、[NVTOP](https://github.com/Syllo/nvtop)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202403/bg2024031301.webp)
+开源的录屏与编辑工具，适用于制作演示、产品展示、教程、讲解视频等，可以录制整个屏幕或单个窗口，并直接进入编辑器。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9571) 投稿）
 
-一个 Linux 系统的命令行程序，用来监控 GPU 显卡的状态，等同于显卡专用的 top 命令。
+7、[水印](https://wt.65536.dev/)
 
-8、[dmcheck](https://github.com/PlayerYK/dmcheck)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040812.webp)
+为图像和视频添加水印的网站，支持自定义模板。（[@FurryR](https://github.com/ruanyf/weekly/issues/9579) 投稿）
 
-检查某个主题词的域名占用情况。（[@PlayerYK](https://github.com/ruanyf/weekly/issues/9542) 投稿）
+8、[Input 0](https://github.com/10xChengTu/input0)
 
-9、[Reze Studio](https://github.com/AmyangXYZ/reze-studio)
+免费开源的 macOS 语音输入工具，本地运行，支持大模型识别语音文本，并进行文本润色。（[@Justin3go](https://github.com/ruanyf/weekly/issues/9607) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040901.webp)
+9、[OpenToggl](https://github.com/CorrectRoadH/OpenToggl)
 
-开源的动画曲线编辑网站。（[@AmyangXYZ](https://github.com/ruanyf/weekly/issues/9555) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041401.webp)
 
-10、[gitlogue](https://github.com/unhappychoice/gitlogue)
-
-这个工具可以将 Git 仓库的提交历史，在终端里面以动画形式重现，甚至可以显示为屏保。
+开源的时间追踪工具，商业软件 [Toggl](https://toggl.com/) 的替代品。（[@CorrectRoadH](https://github.com/ruanyf/weekly/issues/9615) 投稿）
 
 
 ### 资源
 
 
-1、[佛津](https://fojin.app/)
+1、[中国卷烟博物馆](https://www.ciggies.app/)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040301.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041601.webp)
 
-全球佛教古籍数字化聚合平台。（[@xr843](https://github.com/ruanyf/weekly/issues/9507) 投稿）
+一个个人网站，收集各种国产品牌的卷烟。
 
-2、[Flight Viz](https://flight-viz.com/)
+2、[2026世界新闻摄影大赛获奖作品](https://petapixel.com/2026/04/09/over-70-powerful-winners-from-the-2026-world-press-photo-contest/?user_id=66c4c9305d78644b3ac5df9c)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040811.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041302.webp)
 
-实时 3D 显示全球的航班。（[@haojiang99](https://github.com/ruanyf/weekly/issues/9538) 投稿）
+这个页面列出了世界新闻摄影奖今年一共70幅获奖作品，记录了去年的许多新闻事件。
 
-3、[GPU 时间线](https://sheets.works/data-viz/every-gpu)
+上图是在四川绵阳的大熊猫公园王朗保护区，使用红外线感应相机拍摄到的野外大熊猫。
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026040809.webp)
+3、[guide.world](https://guide.world/)
 
-这个网站用图片展示了 GPU 显卡的发展历程，从1996年的 Voodoo 卡到2025年的 RTX 5090 显卡。
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041605.webp)
+
+这个网站收集世界各地的优秀游记散文，不过文章还不多。
 
 
 ### 言论
@@ -104,35 +104,39 @@ Rust 语言写的全文搜索引擎库，可以替代 Apache Lucene，参见[介
 
 1、
 
-如果你认为编写代码的速度是你的问题，那你面临的问题更大。
+哈佛大学2024-2025学年，成绩为 A 的作业比例约为60%，远远高于2005-2006学年的约25%，可见成绩膨胀有多严重。
 
--- [Andrew Murphy](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)，澳大利亚程序员
+-- [《华尔街日报》](https://www.wsj.com/us-news/education/harvard-grade-cap-a-proposal-gpa-7c921630?st=aF9vkr&mod=1440&user_id=66c4c9305d78644b3ac5df9c)
 
 2、
 
-有一种兴奋，叫做2017年才刚接触加密货币的人才有的兴奋。
+Claude Mythos 模型可以发现并利用系统漏洞，外部评测证实了这一点。但是，评测者也发现了一个残酷的事实：你花费的 Token 费用越多，它发现的漏洞就越多，系统也就越安全。
 
--- [Andrew Murphy](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)，澳大利亚程序员
+这意味着，你想要系统安全，就必须比攻击者花费更多的 Token。因此，安全行业变得像采矿的工作量证明，谁的投入多，谁就赢。
+
+-- [Simon Willison](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-blogmarks)，著名开发者
 
 3、
 
-一项民意调查发现，美国年轻人对于婚姻、子女、信仰的重视程度，远不及他们的父母，对于传统的价值观——爱国主义、宗教、社区和家庭也很冷淡。
+一年前，我经常收到代码质量低劣、甚至完全不知所云的 pull request，这让我怀疑提交者是不是用了 AI，所以代码才这么糟糕。
 
-年轻人把市场和金钱当作道德准则。在他们眼里，市场决定了事物的价值、事件的意义、谁是正确的、谁是赢家、谁举足轻重。
+今年不同了，当我收到拼写错误、语法错误的低质量 pull request 时，我反而会怀疑贡献者是不是忘了使用 AI 来写代码，因为 AI 会显著提高代码质量的下限。
 
--- [《预测市场的最糟糕后果》](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+-- [《ClickHouse 的 AI 编程实践》](https://clickhouse.com/blog/agentic-coding)
 
 4、
 
-对我来说，未来城市实际上是像阿姆斯特丹那样的地方，到处都是舒适的街道和自行车道，而不是像迪拜那样的地方，有16车道的高速公路，以及一群被压迫的劳工阶级在俗气的豪华购物中心里工作。
+当代战争进行时，政府通过表情包和玩偶动画进行宣传，这或许让人觉得匪夷所思，但这正是平台时代的体现。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=47643388)
+将战争包装成娱乐性的视觉语言，会使得宣传更容易传播。社交媒体是一个开放的竞技场，最具吸引力的内容将获得最大的传播范围。 
+
+-- [《当病毒式传播成为信息》](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 
 5、
 
-高校都要求博士生发表论文，至于你写什么、怎么写的、内容与研究方向有没有关系，系里其实都不在意。系里需要论文，因为论文能证明经费的合理性，而经费又能证明系的存在价值。学生只不过是达成这个目标的生产资料。
+大模型意味着，Markdown 现在是一种可执行文件格式。你下载一个 Markdown 文件，你的大模型就多了一个新的第三方依赖项，它的任何修改都可能是注入攻击。
 
--- [《机器没问题，有问题的是我们自己》](https://ergosphere.blog/posts/the-machines-are-fine/)
+-- [《第三方依赖的冷却时间》](https://calpaterson.com/deps.html)
 
 
 <!-- End -->

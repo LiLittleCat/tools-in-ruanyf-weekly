@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#言论)
+
+
+1、
+
+哈佛大学2024-2025学年，成绩为 A 的作业比例约为60%，远远高于2005-2006学年的约25%，可见成绩膨胀有多严重。
+
+-- [《华尔街日报》](https://www.wsj.com/us-news/education/harvard-grade-cap-a-proposal-gpa-7c921630?st=aF9vkr&mod=1440&user_id=66c4c9305d78644b3ac5df9c)
+
+2、
+
+Claude Mythos 模型可以发现并利用系统漏洞，外部评测证实了这一点。但是，评测者也发现了一个残酷的事实：你花费的 Token 费用越多，它发现的漏洞就越多，系统也就越安全。
+
+这意味着，你想要系统安全，就必须比攻击者花费更多的 Token。因此，安全行业变得像采矿的工作量证明，谁的投入多，谁就赢。
+
+-- [Simon Willison](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-blogmarks)，著名开发者
+
+3、
+
+一年前，我经常收到代码质量低劣、甚至完全不知所云的 pull request，这让我怀疑提交者是不是用了 AI，所以代码才这么糟糕。
+
+今年不同了，当我收到拼写错误、语法错误的低质量 pull request 时，我反而会怀疑贡献者是不是忘了使用 AI 来写代码，因为 AI 会显著提高代码质量的下限。
+
+-- [《ClickHouse 的 AI 编程实践》](https://clickhouse.com/blog/agentic-coding)
+
+4、
+
+当代战争进行时，政府通过表情包和玩偶动画进行宣传，这或许让人觉得匪夷所思，但这正是平台时代的体现。
+
+将战争包装成娱乐性的视觉语言，会使得宣传更容易传播。社交媒体是一个开放的竞技场，最具吸引力的内容将获得最大的传播范围。 
+
+-- [《当病毒式传播成为信息》](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+
+5、
+
+大模型意味着，Markdown 现在是一种可执行文件格式。你下载一个 Markdown 文件，你的大模型就多了一个新的第三方依赖项，它的任何修改都可能是注入攻击。
+
+-- [《第三方依赖的冷却时间》](https://calpaterson.com/deps.html)
+
+
 ## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#言论)
 
 

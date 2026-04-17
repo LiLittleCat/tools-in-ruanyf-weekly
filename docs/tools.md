@@ -1,5 +1,61 @@
 # 工具
 
+## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#工具)
+
+
+1、[DAVINCI RESOLVE 21](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041501.webp)
+
+著名视频编辑软件“达芬奇”的新版本，加入了图像编辑，可以当作照片编辑软件了。
+
+2、[Phyphox](https://phyphox.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041616.webp)
+
+一个著名的老牌手机应用（支持 iPhone 和安卓），提供各种手机传感器的应用界面，由德国亚琛工业大学开发。
+
+3、[Material You NewTab](https://github.com/XengShi/materialYouNewTab)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100501.webp)
+
+一个 Chrome 插件，用来定制新标签的主页。
+
+4、[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100503.webp)
+
+一个同步剪贴板的工具，可以将一台电脑的剪贴板自动同步到另一台电脑，不过需要安装它的服务端和客户端（支持 Windows、Linux、安卓）。
+
+5、[Gridea Pro](https://github.com/Gridea-Pro/gridea-pro)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041201.webp)
+
+桌面静态博客写作客户端，不用设置服务器，零门槛建立自己的静态博客网站。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9565) 投稿）
+
+6、[Recordly](https://github.com/webadderall/Recordly)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041202.webp)
+
+开源的录屏与编辑工具，适用于制作演示、产品展示、教程、讲解视频等，可以录制整个屏幕或单个窗口，并直接进入编辑器。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9571) 投稿）
+
+7、[水印](https://wt.65536.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041301.webp)
+
+为图像和视频添加水印的网站，支持自定义模板。（[@FurryR](https://github.com/ruanyf/weekly/issues/9579) 投稿）
+
+8、[Input 0](https://github.com/10xChengTu/input0)
+
+免费开源的 macOS 语音输入工具，本地运行，支持大模型识别语音文本，并进行文本润色。（[@Justin3go](https://github.com/ruanyf/weekly/issues/9607) 投稿）
+
+9、[OpenToggl](https://github.com/CorrectRoadH/OpenToggl)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041401.webp)
+
+开源的时间追踪工具，商业软件 [Toggl](https://toggl.com/) 的替代品。（[@CorrectRoadH](https://github.com/ruanyf/weekly/issues/9615) 投稿）
+
+
 ## [科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术](https://github.com/ruanyf/weekly/blob/master/docs/issue-392.md#工具)
 
 
