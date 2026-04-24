@@ -16,87 +16,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>393</currentVersion> -->
+<!-- <currentVersion>394</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md)
+# [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md)
 ### 工具
 
 
-1、[DAVINCI RESOLVE 21](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+1、[Little Snitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041812.webp)
 
-著名视频编辑软件“达芬奇”的新版本，加入了图像编辑，可以当作照片编辑软件了。
+著名的网络通信监控软件 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)，终于推出了 Linux 版，可以用它看到每个应用跟什么网址通信。
 
-2、[Phyphox](https://phyphox.org/)
+2、[quien](https://github.com/retlehs/quien/)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041616.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041807.webp)
 
-一个著名的老牌手机应用（支持 iPhone 和安卓），提供各种手机传感器的应用界面，由德国亚琛工业大学开发。
+查询域名信息的终端工具，提供清晰易用的界面。
 
-3、[Material You NewTab](https://github.com/XengShi/materialYouNewTab)
+3、[ggsql](https://ggsql.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042101.webp)
 
-一个 Chrome 插件，用来定制新标签的主页。
+可以生成图形的 SQL 查询工具，直接查询数据库，将结果表示成可视化图形，参见[介绍文章](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)。
 
-4、[ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)
+4、[Himi Recorder](https://github.com/jrainlau/himi-recorder)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100503.webp)
+开源的 Mac 录屏应用，可以绕过录屏检测机制，让被录制的应用无法感知正在被录屏。（[@jrainlau](https://github.com/ruanyf/weekly/issues/9663) 投稿）
 
-一个同步剪贴板的工具，可以将一台电脑的剪贴板自动同步到另一台电脑，不过需要安装它的服务端和客户端（支持 Windows、Linux、安卓）。
+5、[Tab Harbor](https://github.com/V-IOLE-T/tab-harbor)
 
-5、[Gridea Pro](https://github.com/Gridea-Pro/gridea-pro)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041804.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041201.webp)
+开源的 Chrome 插件，把新打开的标签主页变成标签管理器。（[@V-IOLE-T](https://github.com/ruanyf/weekly/issues/9665) 投稿）
 
-桌面静态博客写作客户端，不用设置服务器，零门槛建立自己的静态博客网站。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9565) 投稿）
+另有一个类似插件 [Tab Out](https://github.com/zarazhangrui/tab-out)。（[@Acorn2](https://github.com/ruanyf/weekly/issues/9687) 投稿）
 
-6、[Recordly](https://github.com/webadderall/Recordly)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041202.webp)
+6、[animal-island-ui](https://github.com/guokaigdg/animal-island-ui)
 
-开源的录屏与编辑工具，适用于制作演示、产品展示、教程、讲解视频等，可以录制整个屏幕或单个窗口，并直接进入编辑器。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9571) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041805.webp)
 
-7、[水印](https://wt.65536.dev/)
+《动物森友会》风格的 React UI 组件库。（[@guokaigdg](https://github.com/ruanyf/weekly/issues/9668) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041301.webp)
+7、[CUPS Web](https://github.com/hanxi/cups-web)
 
-为图像和视频添加水印的网站，支持自定义模板。（[@FurryR](https://github.com/ruanyf/weekly/issues/9579) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041901.webp)
 
-8、[Input 0](https://github.com/10xChengTu/input0)
+网页版打印机管理工具，通过浏览器远程控制打印机，支持多用户、打印记录追踪等功能。（[@hanxi](https://github.com/ruanyf/weekly/issues/8587) 投稿）
 
-免费开源的 macOS 语音输入工具，本地运行，支持大模型识别语音文本，并进行文本润色。（[@Justin3go](https://github.com/ruanyf/weekly/issues/9607) 投稿）
+8、[Blog Helper](https://github.com/thinkycx/blog-helper)
 
-9、[OpenToggl](https://github.com/CorrectRoadH/OpenToggl)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041401.webp)
+开源的访客统计服务，提供 PV/UV 统计、热门文章、趋势图等，一个实例服务多个站点。（[@thinkycx](https://github.com/ruanyf/weekly/issues/9677) 投稿）
 
-开源的时间追踪工具，商业软件 [Toggl](https://toggl.com/) 的替代品。（[@CorrectRoadH](https://github.com/ruanyf/weekly/issues/9615) 投稿）
+9、[HiKid](https://github.com/xiaochong/hi-kid)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042002.webp)
+
+帮助小朋友练习英语口语和听力的桌面应用，完全免费，目前仅支持 macOS。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9689) 投稿）
+
+10、[Kite Desktop](https://github.com/eryajf/kite-desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042302.webp)
+
+桌面端的 K8S 多集群管理工具。（[@eryajf](https://github.com/ruanyf/weekly/issues/9719) 投稿）
+
+11、[Project River](https://github.com/Lionad-Morotar/project-river)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042303.webp)
+
+Git 仓库提交历史的可视化河流图，支持多项目对比、贡献者信息等特性，[在线体验](https://lionad-morotar.github.io/project-river)。（[@Lionad-Morotar](https://github.com/ruanyf/weekly/issues/9722) 投稿）
 
 
 ### 资源
 
 
-1、[中国卷烟博物馆](https://www.ciggies.app/)
+1、[The Listening Museum](https://sheets.works/data-viz/keyboard-sounds)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042006.webp)
 
-一个个人网站，收集各种国产品牌的卷烟。
+一个有意思的网站，收集键盘打字的声音。你可以先听一下某种键盘的打字声，再确定是否购买它。
 
-2、[2026世界新闻摄影大赛获奖作品](https://petapixel.com/2026/04/09/over-70-powerful-winners-from-the-2026-world-press-photo-contest/?user_id=66c4c9305d78644b3ac5df9c)
+2、[软件工程定律](https://lawsofsoftwareengineering.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041302.webp)
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042201.webp)
 
-这个页面列出了世界新闻摄影奖今年一共70幅获奖作品，记录了去年的许多新闻事件。
+这个网站收集各种软件相关的定律，目前有56条。
 
-上图是在四川绵阳的大熊猫公园王朗保护区，使用红外线感应相机拍摄到的野外大熊猫。
-
-3、[guide.world](https://guide.world/)
-
-![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041605.webp)
-
-这个网站收集世界各地的优秀游记散文，不过文章还不多。
+比如，“[帕金森定律](https://lawsofsoftwareengineering.com/laws/parkinsons-law/)”（Parkinson's Law）：工作量总是会增加，直至填满所有可用时间。推论就是，不管设置多长的开发时间，项目开发总是会做到最后一刻。
 
 
 ### 言论
@@ -104,39 +114,31 @@
 
 1、
 
-哈佛大学2024-2025学年，成绩为 A 的作业比例约为60%，远远高于2005-2006学年的约25%，可见成绩膨胀有多严重。
+美国鞋类生产商 Allbirds 宣布转型为 AI 公司，股价一天暴涨了5倍。
 
--- [《华尔街日报》](https://www.wsj.com/us-news/education/harvard-grade-cap-a-proposal-gpa-7c921630?st=aF9vkr&mod=1440&user_id=66c4c9305d78644b3ac5df9c)
+这让人想起2017年，美国一家名为“长岛冰茶”的饮料企业，宣布转型为区块链公司，卖柠檬茶的同时，探索区块链的投资机会，股价也是暴涨。后来，它的区块链业务还没建立好，就破产了。
+
+-- [雅虎](https://gemini.google.com/app/1833a525ff94d60a)
 
 2、
 
-Claude Mythos 模型可以发现并利用系统漏洞，外部评测证实了这一点。但是，评测者也发现了一个残酷的事实：你花费的 Token 费用越多，它发现的漏洞就越多，系统也就越安全。
+Figma 拥有近 2000 名员工（当然并非所有员工都从事产品开发），而 Anthropic 新推出的 Claude Design 的开发团队，我甚至怀疑是否超过10个人。
 
-这意味着，你想要系统安全，就必须比攻击者花费更多的 Token。因此，安全行业变得像采矿的工作量证明，谁的投入多，谁就赢。
-
--- [Simon Willison](https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-blogmarks)，著名开发者
+-- [《Figma 的困境》](https://finance.yahoo.com/quote/FIG/)，本文评论 Claude Design 对 Figma 造成重大打击，在 AI 的开发速度和开发成本面前，传统软件不堪一击。
 
 3、
 
-一年前，我经常收到代码质量低劣、甚至完全不知所云的 pull request，这让我怀疑提交者是不是用了 AI，所以代码才这么糟糕。
+我对未来世界的憧憬是，她或许不那样充满未来感，反而更像田园牧歌。我们可以回归传统的生活形态，同时又不放弃新技术带来的便利，几乎无需再去看屏幕或触碰屏幕。
 
-今年不同了，当我收到拼写错误、语法错误的低质量 pull request 时，我反而会怀疑贡献者是不是忘了使用 AI 来写代码，因为 AI 会显著提高代码质量的下限。
-
--- [《ClickHouse 的 AI 编程实践》](https://clickhouse.com/blog/agentic-coding)
+-- [jsomers.net](https://jsomers.net/blog/the-paper-computer)
 
 4、
 
-当代战争进行时，政府通过表情包和玩偶动画进行宣传，这或许让人觉得匪夷所思，但这正是平台时代的体现。
+每一种文化都会造就反映其最深层焦虑的英雄。
 
-将战争包装成娱乐性的视觉语言，会使得宣传更容易传播。社交媒体是一个开放的竞技场，最具吸引力的内容将获得最大的传播范围。 
+硅谷最焦虑的，就是增长停滞，无法创造出大受市场欢迎的新产品，所以大肆宣传“英雄开发者”：他们能在午夜发布新功能，凭借着咖啡因带来的强大意志力，将白板上的涂鸦变成价值数十亿美元的独角兽企业。
 
--- [《当病毒式传播成为信息》](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
-
-5、
-
-大模型意味着，Markdown 现在是一种可执行文件格式。你下载一个 Markdown 文件，你的大模型就多了一个新的第三方依赖项，它的任何修改都可能是注入攻击。
-
--- [《第三方依赖的冷却时间》](https://calpaterson.com/deps.html)
+-- [《古典维护者的挽歌》](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/)
 
 
 <!-- End -->

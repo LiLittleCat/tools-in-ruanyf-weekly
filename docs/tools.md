@@ -1,5 +1,77 @@
 # 工具
 
+## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#工具)
+
+
+1、[Little Snitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041812.webp)
+
+著名的网络通信监控软件 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)，终于推出了 Linux 版，可以用它看到每个应用跟什么网址通信。
+
+2、[quien](https://github.com/retlehs/quien/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041807.webp)
+
+查询域名信息的终端工具，提供清晰易用的界面。
+
+3、[ggsql](https://ggsql.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042101.webp)
+
+可以生成图形的 SQL 查询工具，直接查询数据库，将结果表示成可视化图形，参见[介绍文章](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)。
+
+4、[Himi Recorder](https://github.com/jrainlau/himi-recorder)
+
+开源的 Mac 录屏应用，可以绕过录屏检测机制，让被录制的应用无法感知正在被录屏。（[@jrainlau](https://github.com/ruanyf/weekly/issues/9663) 投稿）
+
+5、[Tab Harbor](https://github.com/V-IOLE-T/tab-harbor)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041804.webp)
+
+开源的 Chrome 插件，把新打开的标签主页变成标签管理器。（[@V-IOLE-T](https://github.com/ruanyf/weekly/issues/9665) 投稿）
+
+另有一个类似插件 [Tab Out](https://github.com/zarazhangrui/tab-out)。（[@Acorn2](https://github.com/ruanyf/weekly/issues/9687) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042001.webp)
+
+6、[animal-island-ui](https://github.com/guokaigdg/animal-island-ui)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041805.webp)
+
+《动物森友会》风格的 React UI 组件库。（[@guokaigdg](https://github.com/ruanyf/weekly/issues/9668) 投稿）
+
+7、[CUPS Web](https://github.com/hanxi/cups-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041901.webp)
+
+网页版打印机管理工具，通过浏览器远程控制打印机，支持多用户、打印记录追踪等功能。（[@hanxi](https://github.com/ruanyf/weekly/issues/8587) 投稿）
+
+8、[Blog Helper](https://github.com/thinkycx/blog-helper)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026041902.webp)
+
+开源的访客统计服务，提供 PV/UV 统计、热门文章、趋势图等，一个实例服务多个站点。（[@thinkycx](https://github.com/ruanyf/weekly/issues/9677) 投稿）
+
+9、[HiKid](https://github.com/xiaochong/hi-kid)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042002.webp)
+
+帮助小朋友练习英语口语和听力的桌面应用，完全免费，目前仅支持 macOS。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/9689) 投稿）
+
+10、[Kite Desktop](https://github.com/eryajf/kite-desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042302.webp)
+
+桌面端的 K8S 多集群管理工具。（[@eryajf](https://github.com/ruanyf/weekly/issues/9719) 投稿）
+
+11、[Project River](https://github.com/Lionad-Morotar/project-river)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042303.webp)
+
+Git 仓库提交历史的可视化河流图，支持多项目对比、贡献者信息等特性，[在线体验](https://lionad-morotar.github.io/project-river)。（[@Lionad-Morotar](https://github.com/ruanyf/weekly/issues/9722) 投稿）
+
+
 ## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#工具)
 
 

@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#言论)
+
+
+1、
+
+美国鞋类生产商 Allbirds 宣布转型为 AI 公司，股价一天暴涨了5倍。
+
+这让人想起2017年，美国一家名为“长岛冰茶”的饮料企业，宣布转型为区块链公司，卖柠檬茶的同时，探索区块链的投资机会，股价也是暴涨。后来，它的区块链业务还没建立好，就破产了。
+
+-- [雅虎](https://gemini.google.com/app/1833a525ff94d60a)
+
+2、
+
+Figma 拥有近 2000 名员工（当然并非所有员工都从事产品开发），而 Anthropic 新推出的 Claude Design 的开发团队，我甚至怀疑是否超过10个人。
+
+-- [《Figma 的困境》](https://finance.yahoo.com/quote/FIG/)，本文评论 Claude Design 对 Figma 造成重大打击，在 AI 的开发速度和开发成本面前，传统软件不堪一击。
+
+3、
+
+我对未来世界的憧憬是，她或许不那样充满未来感，反而更像田园牧歌。我们可以回归传统的生活形态，同时又不放弃新技术带来的便利，几乎无需再去看屏幕或触碰屏幕。
+
+-- [jsomers.net](https://jsomers.net/blog/the-paper-computer)
+
+4、
+
+每一种文化都会造就反映其最深层焦虑的英雄。
+
+硅谷最焦虑的，就是增长停滞，无法创造出大受市场欢迎的新产品，所以大肆宣传“英雄开发者”：他们能在午夜发布新功能，凭借着咖啡因带来的强大意志力，将白板上的涂鸦变成价值数十亿美元的独角兽企业。
+
+-- [《古典维护者的挽歌》](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/)
+
+
 ## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#言论)
 
 

@@ -1,5 +1,23 @@
 # 资源
 
+## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#资源)
+
+
+1、[The Listening Museum](https://sheets.works/data-viz/keyboard-sounds)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042006.webp)
+
+一个有意思的网站，收集键盘打字的声音。你可以先听一下某种键盘的打字声，再确定是否购买它。
+
+2、[软件工程定律](https://lawsofsoftwareengineering.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042201.webp)
+
+这个网站收集各种软件相关的定律，目前有56条。
+
+比如，“[帕金森定律](https://lawsofsoftwareengineering.com/laws/parkinsons-law/)”（Parkinson's Law）：工作量总是会增加，直至填满所有可用时间。推论就是，不管设置多长的开发时间，项目开发总是会做到最后一刻。
+
+
 ## [科技爱好者周刊（第 393 期）：脑腐状态](https://github.com/ruanyf/weekly/blob/master/docs/issue-393.md#资源)
 
 
