@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#工具)
+
+
+1、[auge](https://auge.franzai.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042701.webp)
+
+基于 macOS 系统内置视觉框架 Apple Vision 的命令行工具，可以在命令行完成图像的视觉分析。
+
+2、[BleachBit](https://github.com/bleachbit/bleachbit)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042702.webp)
+
+著名的跨平台桌面应用，用来清理各种浏览器的垃圾文件。
+
+3、[Cicada](https://asong56.github.io/Cicada)
+
+一个网页白板，不需要服务器，只是单个 13KB 的 HTML 文件，没有任何依赖，绘制的图形保存在 URL 里面。（[@Bennet7291](https://github.com/ruanyf/weekly/issues/9737) 投稿）
+
+4、[ASS Subsetter](https://subs.js.org/ass-subset/)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042401.webp)
+
+ASS 字幕字体嵌入的网页工具，可以减少字幕文件的体积。（[@mtsubs](https://github.com/ruanyf/weekly/issues/9739) 投稿）
+
+5、[Infinitum](https://github.com/shawnxie94/infinitum)
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042912.webp)
+
+开源的 RSS 服务器，需要自己架设，支持正文补取、AI 分析、事件归组等功能，自带前端阅读器。（[@shawnxie94](https://github.com/ruanyf/weekly/issues/9773) 投稿）
+
+6、[tunnix](https://github.com/aeroxy/tunnix)
+
+加密的 SOCKS5/HTTP 隧道，需要安装服务器端和本地命令行客户端。（[@aeroxy](https://github.com/ruanyf/weekly/issues/9779) 投稿）
+
+7、[curve-arrow](https://github.com/YYsuni/curve-arrow)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050102.webp)
+
+弧形箭头的 SVG 格式生成器。（[@YYsuni](https://github.com/ruanyf/weekly/issues/9801) 投稿）
+
+8、[LynxDB](https://github.com/lynxbase/lynxdb)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050303.webp)
+
+单个二进制文件的日志分析引擎，可以设定各种条件，从多种服务器日志提取信息。（[@OrlovEvgeny](https://github.com/ruanyf/weekly/issues/9821) 投稿）
+
+9、[Chrome DevTools CLI](https://github.com/aeroxy/chrome-devtools-cli)
+
+一个 Rust 命令行工具，通过 DevTools 协议连接到系列里的 Chrome 浏览器，进行网页操作，默认自动连接，可供 AI Agent 调用。（[@aeroxy](https://github.com/ruanyf/weekly/issues/9833) 投稿）
+
+10、[LaunchNext](https://github.com/RoversX/LaunchNext)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050701.webp)
+
+macOS 的新版移除了 Launchpad，新的界面很难用，这是它的开源替代品。（[@meichiny](https://github.com/ruanyf/weekly/issues/9862) 投稿）
+
+
 ## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#工具)
 
 

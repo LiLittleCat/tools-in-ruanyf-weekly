@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#言论)
+
+
+1、
+
+门罗币的挖矿与比特币完全不同，它的设计思路是，尽量让所有人都能参与挖矿，防止那些拥有矿机的人占优势。
+
+它的挖矿程序会模拟一个通用 CPU，使得矿机的专用 CPU 失效，也就是说它的挖矿只适合家用电脑的普通 CPU。
+
+-- [《门罗币的工作量证明机制》](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
+
+2、
+
+以后没有初级工程师了，机器能做他们现在做的事，而且更便宜。但是，初级工程师的价值不在于他们能做的事，而在于他们未来会成为什么样的人。也许几年后，我们会纳闷，那些高级工程师都去哪儿了？
+
+-- [stvn.sh](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+
+3、
+
+AI 加速了编码，创业公司现在面临的主要挑战是产品管理。
+
+如果原型开发只需要一天，而推广和用户反馈需要一周，团队就只能依赖直觉来更快地做出决策。
+
+-- [吴恩达](https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8)，著名 AI 计算机科学家
+
+4、
+
+你的职业规划就是三步：（1）让自己擅长某事，（2）设法从中赚钱，（3）尽可能久地做下去。
+
+-- [《我如何进入游戏行业》](https://garry.net/posts/how-do-i-get-into-the-game-industry)
+
+
 ## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#言论)
 
 

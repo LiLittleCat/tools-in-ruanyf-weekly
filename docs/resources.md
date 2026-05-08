@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#资源)
+
+
+1、[大模型运行原理](https://ynarwal.github.io/how-llms-work/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202604/bg2026042703.webp)
+
+大模型原理的长篇讲解，带有可互动的图形解释，针对初学者，基于 Andrej Karpathy 的技术深度分析文章。
+
+2、[现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)（Modern C++ Programming）
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050408.webp)
+
+开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。
+
+
 ## [科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](https://github.com/ruanyf/weekly/blob/master/docs/issue-394.md#资源)
 
 
