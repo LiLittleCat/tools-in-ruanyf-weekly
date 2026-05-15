@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#言论)
+
+
+1、
+
+全世界每年售出15亿部智能手机，其中大部分的使用时间不到两年，然后就被丢弃或闲置。
+
+这是计算资源的巨大浪费。现代智能手机的配置越来越高，完全可以用来提升全球计算能力。
+
+-- [《废旧智能手机再利用》](https://arxiv.org/abs/2110.06870)
+
+2、
+
+未来的编程语言，不会是你最容易掌握的语言，而是 AI 最容易掌握的语言。
+
+-- [@RealRichomie](https://x.com/RealRichomie/status/2047509168442196230)
+
+3、
+
+创造力是否随着年龄增长而衰退？
+
+一项美国的研究提出，创造力分成两种：关联性创新能力往往随着年龄增长而增强，而颠覆性创新能力则会下降。
+
+--[《科学进步总是以葬礼为代价》](https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650)
+
+4、
+
+大模型是对训练数据的有损压缩，而训练数据又是对真实世界的有损采样。
+
+当 AI 生成输出时，则需要填补压缩过程中丢失的信息，将其膨胀成文章、图片、软件、视频等等。
+
+-- [《膨胀神器》](https://mattstromawn.com/writing/expansion-artifacts/)
+
+
 ## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#言论)
 
 

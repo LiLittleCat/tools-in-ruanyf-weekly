@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#资源)
+
+
+1、[taken.](https://sinceyouarrived.world/taken)
+
+这个网站可以查看，你的网页请求包含多少个人信息。
+
+2、[DataCenter.fm](https://datacenter.fm)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050904.webp)
+
+一个背景音生成器，模拟机房运行的声音。
+
+3、[MathNet](https://mathnet.mit.edu/)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050906.webp)
+
+麻省理工学院维护的一个网站，收集了3万多道数学题。
+
+4、[用户体验法则](https://lawsofux.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050907.webp)
+
+这个网站收集各种用户体验（UX）法则，比如[米勒法则](https://lawsofux.com/millers-law/)：普通人一次能记住7个项目（变动范围为5～9）”。
+
+
 ## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#资源)
 
 

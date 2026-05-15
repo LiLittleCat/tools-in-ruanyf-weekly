@@ -1,5 +1,55 @@
 # 工具
 
+## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#工具)
+
+
+1、[RethinkDNS](https://github.com/serverless-dns/serverless-dns)
+
+一个开源的 DNS 服务器，可以部署在 Serverless 环境（比如 Cloudflare worker）。
+
+2、[Pinta](https://www.pinta-project.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025122501.webp)
+
+开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台。
+
+3、[GitForms](https://github.com/Luigigreco/gitforms)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121901.webp)
+
+这个开源应用可以把表单数据存到 GitHub issue。也就是说，你可以不要后端，通过它收集用户提交的表单数据。
+
+4、[gecit](https://github.com/boratanrikulu/gecit)
+
+一个安装在本地计算机、伪装网络请求目的地的命令行工具，也就是变造数据包的 SNI（域名）字段。
+
+5、[MapPoster Online](https://github.com/ianho7/maptoposter-online)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026050801.webp)
+
+开源 Web 应用，将城市地图变成海报。（[@ianho7](https://github.com/ruanyf/weekly/issues/9880) 投稿）
+
+6、[boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
+
+BOSS 直聘 + 智联招聘的命令行工具，可以搜索/查看岗位，求职者 + 招聘者两种角色都可以使用，支持接入 AI Agent。（[@can4hou6joeng4](https://github.com/ruanyf/weekly/issues/9908) 投稿）
+
+7、[TITAN PLANET](https://github.com/ezet-galaxy/-ezetgalaxy-titan)
+
+一个挺有创意的项目，本身是一个 JavaScript 后端框架，但可以编译成单个 Rust 二进制包，从而大大提高执行速度。
+
+8、[qjp](https://github.com/plainas/qjp)
+
+一个命令行的 JSON 互动查询器，打开 JSON 文件，它会显示所有一级项目，你可以选择要某一项，进行树状展开。
+
+9、[tinypdf](https://github.com/Lulzx/tinypdf)
+
+一个极小化的 JS 库，用来生成 PDF 文件，只有 3KB。
+
+10、[edge-tts](https://github.com/rany2/edge-tts)
+
+一个 Python 包，使用微软的在线语音服务，将文本转成语音。
+
+
 ## [科技爱好者周刊（第 395 期）：软件开发的第三种方式](https://github.com/ruanyf/weekly/blob/master/docs/issue-395.md#工具)
 
 
