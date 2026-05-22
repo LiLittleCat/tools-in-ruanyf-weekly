@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#资源)
+
+
+1、[高斯泼溅作品集](https://superspl.at/)
+
+高斯泼溅（Gaussian Splatting）是一种算法，可以将多张照片合成为 3D 图像。
+
+网站 [SuperSplat](https://superspl.at/) 提供在线的高斯泼溅处理，可以上传照片进行处理，还能浏览很多合成好的 3D 模型。
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051910.webp)
+
+大家看作品[《草莓》](https://superspl.at/scene/84df8849)，效果非常好。
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051911.webp)
+
+2、[IP66](https://ip66.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030404.webp)
+
+免费的 IP 地理位置数据库，可以自由下载，在脚本中调用查询。
+
+
 ## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#资源)
 
 

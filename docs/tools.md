@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#工具)
+
+
+1、[Abogen](https://github.com/denizsafak/abogen)
+
+![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081106.webp)
+
+一个跨平台的桌面应用，将 ePub/PDF/text 文件转成有声书。
+
+2、[FFmpeg Explorer](https://ffmpeg.lav.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101508.webp)
+
+通过可视化图形、生成 FFmpeg 命令的网页应用，[代码开源](https://github.com/antiboredom/ffmpeg-explorer)。
+
+3、[Stock SDK](https://github.com/chengzuopeng/stock-sdk)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051601.webp)
+
+获取股票行情的开源 JavaScript SDK，纯前端抓取，无需后端服务，实时行情来自腾讯财经/东方财富等公开接口。（[@chengzuopeng](https://github.com/ruanyf/weekly/issues/9933) 投稿）
+
+4、[Zephyr](https://github.com/Juwan-Hwang/Zephyr)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051602.webp)
+
+开源的 Mihomo/Clash 跨平台桌面客户端。（[@Juwan-Hwang](https://github.com/ruanyf/weekly/issues/9936) 投稿）
+
+5、[DimCut](https://github.com/hughfenghen/dimcut)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051901.webp)
+
+开源的剪辑软件，将时间轴折叠成多行，并在时间轴上方显示插入的文字，所有处理在本地浏览器完成。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/9978) 投稿）
+
+6、[NotchNotes](https://oil-oil.github.io/NotchNotes/)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051903.webp)
+
+隐藏在 Macbook 的刘海里面的便签工具，鼠标 Hover 时自动展开。（[@oil-oil](https://github.com/ruanyf/weekly/issues/9983) 投稿）
+
+7、[markstream-vue](https://github.com/Simon-He95/markstream-vue)
+
+针对 AI 吐出的流式 markdown 的渲染库，提供 Vue 实现。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/9999) 投稿）
+
+8、[彩读｜ColorTxt](https://github.com/ssnangua/ColorTxt)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052006.webp)
+
+跨平台的 TXT 文件桌面阅读器，可以给内容上色，还支持章节识别、空行压缩、行首缩进、语音朗读、AI 阅读助手等功能。（[@ssnangua](https://github.com/ruanyf/weekly/issues/10004) 投稿）
+
+9、[Forgejo](https://forgejo.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101702.webp)
+
+Gitea 的一个分叉项目，可以用来搭建自己的 Git 服务器，自带 Web 前端，作为个人的 GitHub 服务。
+
+10、[Web Visual Editor](https://github.com/urin/vscode-web-visual-editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101402.webp)
+
+开源的 VS Code 插件，实时编辑预览 HTML 文件。
+
+
 ## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#工具)
 
 

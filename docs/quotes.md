@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#言论)
+
+
+1、
+
+过去一两年，我一直完全依赖 AI 进行编程，自己一行代码都没写过。
+
+有一天，我自己动手写了一篇文章，没有用 AI，但写完后我忍不住把它复制粘贴到 Claude 里，看看 AI 怎么想，因为我担心文章逻辑混乱、文笔幼稚，或者漏掉了什么内容。这就是大量使用 AI 的后果，它让你滋生自我怀疑，我已经不太相信自己，更相信 AI 了。
+
+-- [《该死的 AI 把我变笨了》](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+
+2、
+
+无论工具发展到何种程度，无论它们变得多么强大，它们始终只是工具。它们无法取代我们的理性和价值观，依然由你来选择什么值得去创造。
+
+-- [davidabram.dev](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)
+
+3、
+
+我建议放慢速度，给自己一些时间，思考你到底在构建什么，以及为什么要构建。这样你才有机会告诉自己“不，我们不需要这个”。
+
+-- [《放慢速度》](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+
+4、
+
+石油行业有一句谚语：一家健康的石油公司由一位地质学家负责，一家成熟的石油公司由一位工程师负责，一家衰落的石油公司由一位会计师负责，一家垂死的石油公司由一位律师负责。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=45429423)
+
+
 ## [科技爱好者周刊（第 396 期）：互联网通信的替代方案](https://github.com/ruanyf/weekly/blob/master/docs/issue-396.md#言论)
 
 
