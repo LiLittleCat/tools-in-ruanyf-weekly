@@ -16,91 +16,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>397</currentVersion> -->
+<!-- <currentVersion>398</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md)
+# [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md)
 ### 工具
 
 
-1、[Abogen](https://github.com/denizsafak/abogen)
+1、[DOCX Editor](https://github.com/eigenpal/docx-editor)
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081106.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052202.webp)
 
-一个跨平台的桌面应用，将 ePub/PDF/text 文件转成有声书。
+开源的 docx 文件的网页编辑器，所见即所得。
 
-2、[FFmpeg Explorer](https://ffmpeg.lav.io/)
+2、[DvnIP](https://dynip.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101508.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052601.webp)
 
-通过可视化图形、生成 FFmpeg 命令的网页应用，[代码开源](https://github.com/antiboredom/ffmpeg-explorer)。
+动态 IP 服务，个人用户免费。
 
-3、[Stock SDK](https://github.com/chengzuopeng/stock-sdk)
+3、[Graphite](https://editor.graphite.rs/)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101704.webp)
 
-获取股票行情的开源 JavaScript SDK，纯前端抓取，无需后端服务，实时行情来自腾讯财经/东方财富等公开接口。（[@chengzuopeng](https://github.com/ruanyf/weekly/issues/9933) 投稿）
+一个矢量作图的 Web 应用，[代码开源](https://github.com/GraphiteEditor/Graphite)。
 
-4、[Zephyr](https://github.com/Juwan-Hwang/Zephyr)
+4、[Hindsight](https://github.com/chaosprint/hindsight)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051602.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010203.webp)
 
-开源的 Mihomo/Clash 跨平台桌面客户端。（[@Juwan-Hwang](https://github.com/ruanyf/weekly/issues/9936) 投稿）
+一个命令行工具，扫描本地的 git 仓库，生成 GitHub 风格的个人提交热力图。
 
-5、[DimCut](https://github.com/hughfenghen/dimcut)
+5、[NyaTerm](https://github.com/nyakang/nyaterm)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052201.webp)
 
-开源的剪辑软件，将时间轴折叠成多行，并在时间轴上方显示插入的文字，所有处理在本地浏览器完成。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/9978) 投稿）
+跨平台的桌面应用，将 SSH、终端会话、远程文件、认证信息、端口转发和配置备份放在同一个工作区。（[@nyakang](https://github.com/ruanyf/weekly/issues/10021) 投稿）
 
-6、[NotchNotes](https://oil-oil.github.io/NotchNotes/)
+6、[diving-rs](https://github.com/wagoodman/dive)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051903.webp)
+一个命令行工具，展示 docker 镜像内部的每一层文件列表。（[@vicanso](https://github.com/ruanyf/weekly/issues/10037) 投稿）
 
-隐藏在 Macbook 的刘海里面的便签工具，鼠标 Hover 时自动展开。（[@oil-oil](https://github.com/ruanyf/weekly/issues/9983) 投稿）
+7、[CanvasCast](https://github.com/nine19een/CanvasCast)
 
-7、[markstream-vue](https://github.com/Simon-He95/markstream-vue)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052401.webp)
 
-针对 AI 吐出的流式 markdown 的渲染库，提供 Vue 实现。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/9999) 投稿）
+白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/10055) 投稿）
 
-8、[彩读｜ColorTxt](https://github.com/ssnangua/ColorTxt)
+8、[Echo Loop](https://github.com/echo-loop/Echo-Loop)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052704.webp)
 
-跨平台的 TXT 文件桌面阅读器，可以给内容上色，还支持章节识别、空行压缩、行首缩进、语音朗读、AI 阅读助手等功能。（[@ssnangua](https://github.com/ruanyf/weekly/issues/10004) 投稿）
+开源的英语听说训练 App。（[@echo-loop](https://github.com/ruanyf/weekly/issues/10082) 投稿）
 
-9、[Forgejo](https://forgejo.org/)
+9、[Vue TUI](https://github.com/Simon-He95/vue-tui)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052705.webp)
 
-Gitea 的一个分叉项目，可以用来搭建自己的 Git 服务器，自带 Web 前端，作为个人的 GitHub 服务。
+基于 Vue 的终端组件库，可以用来开发 agent。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/10083) 投稿）
 
-10、[Web Visual Editor](https://github.com/urin/vscode-web-visual-editor)
+10、[witr](https://github.com/pranshuparmar/witr)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101402.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010313.webp)
 
-开源的 VS Code 插件，实时编辑预览 HTML 文件。
+命令行工具，显示当前每个进程对应什么命令，可以用命令名或端口号查询。
 
 
 ### 资源
 
 
-1、[高斯泼溅作品集](https://superspl.at/)
+1、[微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)
 
-高斯泼溅（Gaussian Splatting）是一种算法，可以将多张照片合成为 3D 图像。
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052407.webp)
 
-网站 [SuperSplat](https://superspl.at/) 提供在线的高斯泼溅处理，可以上传照片进行处理，还能浏览很多合成好的 3D 模型。
+著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以[在线阅读](https://keen-ginger-62hw.here.now/)。（[@KeyAI](https://github.com/ruanyf/weekly/issues/10065) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051910.webp)
+2、[小西天 3D 全景](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
 
-大家看作品[《草莓》](https://superspl.at/scene/84df8849)，效果非常好。
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052104.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026051911.webp)
+山西省隰县小西天的网页 3D 全景导览。
 
-2、[IP66](https://ip66.dev/)
+3、[C 语言小测验](https://stefansf.de/c-quiz/)（英文）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030404.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052304.webp)
 
-免费的 IP 地理位置数据库，可以自由下载，在脚本中调用查询。
+一组 C 语言的语法选择题。
 
 
 ### 言论
@@ -108,29 +108,39 @@ Gitea 的一个分叉项目，可以用来搭建自己的 Git 服务器，自带
 
 1、
 
-过去一两年，我一直完全依赖 AI 进行编程，自己一行代码都没写过。
+很多人看不到 AI 改变世界的潜力，原因在于他们不明白一切事物都是算法。
 
-有一天，我自己动手写了一篇文章，没有用 AI，但写完后我忍不住把它复制粘贴到 Claude 里，看看 AI 怎么想，因为我担心文章逻辑混乱、文笔幼稚，或者漏掉了什么内容。这就是大量使用 AI 的后果，它让你滋生自我怀疑，我已经不太相信自己，更相信 AI 了。
+具体来说，他们没有意识到，社会和公司只不过是一系列算法的集合。
 
--- [《该死的 AI 把我变笨了》](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+-- [《公司不过是算法图而已》](https://danielmiessler.com/blog/companies-graph-of-algorithms)
 
 2、
 
-无论工具发展到何种程度，无论它们变得多么强大，它们始终只是工具。它们无法取代我们的理性和价值观，依然由你来选择什么值得去创造。
+为了应对“软件包投毒”，现在的流行做法是，新发布的软件包设置一个冷却时间，普通用户需要过了“冷却期”才能安装这个包。
 
--- [davidabram.dev](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/)
+这种机制可以有效抵御供应链攻击，但它有一个棘手的问题：它依赖于其他人先安装这个包。到哪里去找这些人，第一时间试用每个新发布的包呢？
+
+-- [《软件包应该分阶段推出》](https://illegalcode.net/rfcs/phased_rollouts.html)
 
 3、
 
-我建议放慢速度，给自己一些时间，思考你到底在构建什么，以及为什么要构建。这样你才有机会告诉自己“不，我们不需要这个”。
+AI 可以一对一的定制化教育，效果更好，大学对很多人将变得没有价值。
 
--- [《放慢速度》](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+-- [萨姆·奥特曼](https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/)（Sam Altman），OpenAI 公司首席执行官
 
 4、
 
-石油行业有一句谚语：一家健康的石油公司由一位地质学家负责，一家成熟的石油公司由一位工程师负责，一家衰落的石油公司由一位会计师负责，一家垂死的石油公司由一位律师负责。
+那些从未编写过一行代码的非技术型中层管理人员，现在感觉通往成功的最大障碍已经消失。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=45429423)
+他们再也不用应付那些烦人的程序员了，不需要程序员就能更改网页样式和用户体验，自己实现某些功能。而且，AI 不会抱怨，不会组织工会，也不会抗议，只会服从任何命令。
+
+-- [《AI 将把我们引向何方》](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+
+5、
+
+我喜欢 PHP 的一个理由是，它的变量使用美元符号（$）识别，这会提醒你，你使用它是为了什么。
+
+-- [《PHP 的奇特之处》](https://flowtwo.io/post/php's-oddities)
 
 
 <!-- End -->

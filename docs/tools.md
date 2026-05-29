@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#工具)
+
+
+1、[DOCX Editor](https://github.com/eigenpal/docx-editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052202.webp)
+
+开源的 docx 文件的网页编辑器，所见即所得。
+
+2、[DvnIP](https://dynip.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052601.webp)
+
+动态 IP 服务，个人用户免费。
+
+3、[Graphite](https://editor.graphite.rs/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101704.webp)
+
+一个矢量作图的 Web 应用，[代码开源](https://github.com/GraphiteEditor/Graphite)。
+
+4、[Hindsight](https://github.com/chaosprint/hindsight)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010203.webp)
+
+一个命令行工具，扫描本地的 git 仓库，生成 GitHub 风格的个人提交热力图。
+
+5、[NyaTerm](https://github.com/nyakang/nyaterm)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052201.webp)
+
+跨平台的桌面应用，将 SSH、终端会话、远程文件、认证信息、端口转发和配置备份放在同一个工作区。（[@nyakang](https://github.com/ruanyf/weekly/issues/10021) 投稿）
+
+6、[diving-rs](https://github.com/wagoodman/dive)
+
+一个命令行工具，展示 docker 镜像内部的每一层文件列表。（[@vicanso](https://github.com/ruanyf/weekly/issues/10037) 投稿）
+
+7、[CanvasCast](https://github.com/nine19een/CanvasCast)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052401.webp)
+
+白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/10055) 投稿）
+
+8、[Echo Loop](https://github.com/echo-loop/Echo-Loop)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052704.webp)
+
+开源的英语听说训练 App。（[@echo-loop](https://github.com/ruanyf/weekly/issues/10082) 投稿）
+
+9、[Vue TUI](https://github.com/Simon-He95/vue-tui)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052705.webp)
+
+基于 Vue 的终端组件库，可以用来开发 agent。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/10083) 投稿）
+
+10、[witr](https://github.com/pranshuparmar/witr)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010313.webp)
+
+命令行工具，显示当前每个进程对应什么命令，可以用命令名或端口号查询。
+
+
 ## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#工具)
 
 

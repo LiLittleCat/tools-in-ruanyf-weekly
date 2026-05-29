@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#资源)
+
+
+1、[微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052407.webp)
+
+著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以[在线阅读](https://keen-ginger-62hw.here.now/)。（[@KeyAI](https://github.com/ruanyf/weekly/issues/10065) 投稿）
+
+2、[小西天 3D 全景](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052104.webp)
+
+山西省隰县小西天的网页 3D 全景导览。
+
+3、[C 语言小测验](https://stefansf.de/c-quiz/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052304.webp)
+
+一组 C 语言的语法选择题。
+
+
 ## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#资源)
 
 

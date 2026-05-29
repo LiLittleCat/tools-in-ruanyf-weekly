@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#言论)
+
+
+1、
+
+很多人看不到 AI 改变世界的潜力，原因在于他们不明白一切事物都是算法。
+
+具体来说，他们没有意识到，社会和公司只不过是一系列算法的集合。
+
+-- [《公司不过是算法图而已》](https://danielmiessler.com/blog/companies-graph-of-algorithms)
+
+2、
+
+为了应对“软件包投毒”，现在的流行做法是，新发布的软件包设置一个冷却时间，普通用户需要过了“冷却期”才能安装这个包。
+
+这种机制可以有效抵御供应链攻击，但它有一个棘手的问题：它依赖于其他人先安装这个包。到哪里去找这些人，第一时间试用每个新发布的包呢？
+
+-- [《软件包应该分阶段推出》](https://illegalcode.net/rfcs/phased_rollouts.html)
+
+3、
+
+AI 可以一对一的定制化教育，效果更好，大学对很多人将变得没有价值。
+
+-- [萨姆·奥特曼](https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/)（Sam Altman），OpenAI 公司首席执行官
+
+4、
+
+那些从未编写过一行代码的非技术型中层管理人员，现在感觉通往成功的最大障碍已经消失。
+
+他们再也不用应付那些烦人的程序员了，不需要程序员就能更改网页样式和用户体验，自己实现某些功能。而且，AI 不会抱怨，不会组织工会，也不会抗议，只会服从任何命令。
+
+-- [《AI 将把我们引向何方》](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+
+5、
+
+我喜欢 PHP 的一个理由是，它的变量使用美元符号（$）识别，这会提醒你，你使用它是为了什么。
+
+-- [《PHP 的奇特之处》](https://flowtwo.io/post/php's-oddities)
+
+
 ## [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](https://github.com/ruanyf/weekly/blob/master/docs/issue-397.md#言论)
 
 
