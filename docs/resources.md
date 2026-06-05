@@ -1,5 +1,15 @@
 # 资源
 
+## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#资源)
+
+
+1、[高考真题大全](https://t.urongda.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060401.webp)
+
+这个网站收集各省历年的高考试卷，另可参考这个 [GitHub 仓库](https://github.com/deekur/gaokaomath)。（[@urongda](https://github.com/ruanyf/weekly/issues/10190) 投稿）
+
+
 ## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#资源)
 
 

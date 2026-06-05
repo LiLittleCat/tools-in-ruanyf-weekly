@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#工具)
+
+
+1、[Breathe CLI](https://github.com/marekkowalczyk/breathe-cli)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026053103.webp)
+
+Mac 系统的命令行程序，显示一个进度条，让你跟着慢速呼吸，大概每分钟6次，从而改善心脏功能。
+
+2、[NMLinux](https://github.com/thongor77/nmlinux)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060201.webp)
+
+Linux 系统的网络管理图形面板。
+
+3、[Penpot](https://github.com/penpot/penpot)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041001.webp)
+
+一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
+
+4、[sky adb](https://github.com/sky22333/skyadb)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052901.webp)
+
+运行在安卓手机上的 ADB 管理工具，通过 WiFi ADB / Wireless Debugging 管理手机、平板、电视盒子。（[@sky22333](https://github.com/ruanyf/weekly/issues/10101) 投稿）
+
+5、[readNeo](https://github.com/extrastu/readneo)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052903.webp)
+
+微信读书数据面板，连接微信读书 Skill API，可视化书架、阅读统计、笔记划线，提供一键导出。（[@extrastu](https://github.com/ruanyf/weekly/issues/10110) 投稿）
+
+6、[AppPorts](https://github.com/wzh4869/AppPorts)
+
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052904.webp)
+
+一个开源应用，将 macOS 应用程序迁移至外部存储，同时保持这些应用的正常运行，可以随时还原。（[@wzh4869](https://github.com/ruanyf/weekly/issues/10119) 投稿）
+
+7、[欢乐斗地主](https://github.com/palemoky/fight-the-landlord)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060101.webp)
+
+开源的终端斗地主游戏，使用 Go 语言实现，支持联网对战、断线重连、智能机器人等功能。（[@palemoky](https://github.com/ruanyf/weekly/issues/10149) 投稿）
+
+8、[fuckssh](https://github.com/hczs/fuckssh)
+
+命令行工具，封装了 SSH 相关命令，为服务器密钥配置提供交互式向导。（[@hczs](https://github.com/ruanyf/weekly/issues/10184) 投稿）
+
+9、[StarGuard](https://github.com/m-ahmed-elbeskeri/Starguard)
+
+这个 Python 工具检查某个 GitHub 仓库的星星有多少是假的。
+
+10、[Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051008.webp)
+
+这个开源工具使用 Web 界面，管理 Nginx 反向代理，并自动开启 SSL 证书，参见[介绍文章](https://www.xda-developers.com/nginx-proxy-manager-best-reverse-proxy/)。
+
+
 ## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#工具)
 
 

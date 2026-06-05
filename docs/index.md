@@ -16,91 +16,77 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>398</currentVersion> -->
+<!-- <currentVersion>399</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md)
+# [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md)
 ### 工具
 
 
-1、[DOCX Editor](https://github.com/eigenpal/docx-editor)
+1、[Breathe CLI](https://github.com/marekkowalczyk/breathe-cli)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026053103.webp)
 
-开源的 docx 文件的网页编辑器，所见即所得。
+Mac 系统的命令行程序，显示一个进度条，让你跟着慢速呼吸，大概每分钟6次，从而改善心脏功能。
 
-2、[DvnIP](https://dynip.dev/)
+2、[NMLinux](https://github.com/thongor77/nmlinux)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060201.webp)
 
-动态 IP 服务，个人用户免费。
+Linux 系统的网络管理图形面板。
 
-3、[Graphite](https://editor.graphite.rs/)
+3、[Penpot](https://github.com/penpot/penpot)
 
-![](https://cdn.beekka.com/blogimg/asset/202410/bg2024101704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041001.webp)
 
-一个矢量作图的 Web 应用，[代码开源](https://github.com/GraphiteEditor/Graphite)。
+一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
 
-4、[Hindsight](https://github.com/chaosprint/hindsight)
+4、[sky adb](https://github.com/sky22333/skyadb)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010203.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052901.webp)
 
-一个命令行工具，扫描本地的 git 仓库，生成 GitHub 风格的个人提交热力图。
+运行在安卓手机上的 ADB 管理工具，通过 WiFi ADB / Wireless Debugging 管理手机、平板、电视盒子。（[@sky22333](https://github.com/ruanyf/weekly/issues/10101) 投稿）
 
-5、[NyaTerm](https://github.com/nyakang/nyaterm)
+5、[readNeo](https://github.com/extrastu/readneo)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052903.webp)
 
-跨平台的桌面应用，将 SSH、终端会话、远程文件、认证信息、端口转发和配置备份放在同一个工作区。（[@nyakang](https://github.com/ruanyf/weekly/issues/10021) 投稿）
+微信读书数据面板，连接微信读书 Skill API，可视化书架、阅读统计、笔记划线，提供一键导出。（[@extrastu](https://github.com/ruanyf/weekly/issues/10110) 投稿）
 
-6、[diving-rs](https://github.com/wagoodman/dive)
+6、[AppPorts](https://github.com/wzh4869/AppPorts)
 
-一个命令行工具，展示 docker 镜像内部的每一层文件列表。（[@vicanso](https://github.com/ruanyf/weekly/issues/10037) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052904.webp)
 
-7、[CanvasCast](https://github.com/nine19een/CanvasCast)
+一个开源应用，将 macOS 应用程序迁移至外部存储，同时保持这些应用的正常运行，可以随时还原。（[@wzh4869](https://github.com/ruanyf/weekly/issues/10119) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052401.webp)
+7、[欢乐斗地主](https://github.com/palemoky/fight-the-landlord)
 
-白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/10055) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060101.webp)
 
-8、[Echo Loop](https://github.com/echo-loop/Echo-Loop)
+开源的终端斗地主游戏，使用 Go 语言实现，支持联网对战、断线重连、智能机器人等功能。（[@palemoky](https://github.com/ruanyf/weekly/issues/10149) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052704.webp)
+8、[fuckssh](https://github.com/hczs/fuckssh)
 
-开源的英语听说训练 App。（[@echo-loop](https://github.com/ruanyf/weekly/issues/10082) 投稿）
+命令行工具，封装了 SSH 相关命令，为服务器密钥配置提供交互式向导。（[@hczs](https://github.com/ruanyf/weekly/issues/10184) 投稿）
 
-9、[Vue TUI](https://github.com/Simon-He95/vue-tui)
+9、[StarGuard](https://github.com/m-ahmed-elbeskeri/Starguard)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052705.webp)
+这个 Python 工具检查某个 GitHub 仓库的星星有多少是假的。
 
-基于 Vue 的终端组件库，可以用来开发 agent。（[@Simon-He95](https://github.com/ruanyf/weekly/issues/10083) 投稿）
+10、[Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-10、[witr](https://github.com/pranshuparmar/witr)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051008.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026010313.webp)
-
-命令行工具，显示当前每个进程对应什么命令，可以用命令名或端口号查询。
+这个开源工具使用 Web 界面，管理 Nginx 反向代理，并自动开启 SSL 证书，参见[介绍文章](https://www.xda-developers.com/nginx-proxy-manager-best-reverse-proxy/)。
 
 
 ### 资源
 
 
-1、[微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)
+1、[高考真题大全](https://t.urongda.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052407.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060401.webp)
 
-著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书，可以[在线阅读](https://keen-ginger-62hw.here.now/)。（[@KeyAI](https://github.com/ruanyf/weekly/issues/10065) 投稿）
-
-2、[小西天 3D 全景](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
-
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052104.webp)
-
-山西省隰县小西天的网页 3D 全景导览。
-
-3、[C 语言小测验](https://stefansf.de/c-quiz/)（英文）
-
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052304.webp)
-
-一组 C 语言的语法选择题。
+这个网站收集各省历年的高考试卷，另可参考这个 [GitHub 仓库](https://github.com/deekur/gaokaomath)。（[@urongda](https://github.com/ruanyf/weekly/issues/10190) 投稿）
 
 
 ### 言论
@@ -108,39 +94,33 @@
 
 1、
 
-很多人看不到 AI 改变世界的潜力，原因在于他们不明白一切事物都是算法。
+人为什么有眼白？大多数哺乳动物（比如猴子和猩猩）都没有眼白。一种解释是，这可以让我们发现别人在看哪里。
 
-具体来说，他们没有意识到，社会和公司只不过是一系列算法的集合。
-
--- [《公司不过是算法图而已》](https://danielmiessler.com/blog/companies-graph-of-algorithms)
+-- [《人为什么有眼白》](https://www.popsci.com/science/why-humans-have-white-part-eyes/)
 
 2、
 
-为了应对“软件包投毒”，现在的流行做法是，新发布的软件包设置一个冷却时间，普通用户需要过了“冷却期”才能安装这个包。
+（微软 CEO）纳德拉成功的一个原因是，他终结了 Windows，准确说是终结了 Windows 作为微软的核心产品，他更专注开发无处不在的软件和覆盖一切的云平台。
 
-这种机制可以有效抵御供应链攻击，但它有一个棘手的问题：它依赖于其他人先安装这个包。到哪里去找这些人，第一时间试用每个新发布的包呢？
-
--- [《软件包应该分阶段推出》](https://illegalcode.net/rfcs/phased_rollouts.html)
+-- [《微软的 AI 策略》](https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/)
 
 3、
 
-AI 可以一对一的定制化教育，效果更好，大学对很多人将变得没有价值。
+1969年，两个美国医生建立了一个心理模型，分析绝症患者的心理，提出了否认、愤怒、讨价还价（恳求）、沮丧和接受这五个阶段。该模型现在也被用于分析人工智能导致的失业案例。
 
--- [萨姆·奥特曼](https://fortune.com/2025/07/24/sam-altman-college-not-working-great-stanford-dropout/)（Sam Altman），OpenAI 公司首席执行官
+-- [《AI 带来的工作悲伤》](https://jackmaguire.org/blog/ai-job-grief/)
 
 4、
 
-那些从未编写过一行代码的非技术型中层管理人员，现在感觉通往成功的最大障碍已经消失。
+氛围编码生成的是代码，工程生成的是系统。氛围编程不是工程。
 
-他们再也不用应付那些烦人的程序员了，不需要程序员就能更改网页样式和用户体验，自己实现某些功能。而且，AI 不会抱怨，不会组织工会，也不会抗议，只会服从任何命令。
-
--- [《AI 将把我们引向何方》](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+-- [《氛围编程不是工程》](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html)
 
 5、
 
-我喜欢 PHP 的一个理由是，它的变量使用美元符号（$）识别，这会提醒你，你使用它是为了什么。
+谋生方式有三种：（1）对想听假话的人说假话，你就能发财。（2）对想听真话的人说真话，你可以维持温饱。（3）对想听假话的人说真话，你会破产。
 
--- [《PHP 的奇特之处》](https://flowtwo.io/post/php's-oddities)
+-- [《三种谋生方式》](https://jasonzweig.com/three-ways-to-get-paid/)
 
 
 <!-- End -->

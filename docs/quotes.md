@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#言论)
+
+
+1、
+
+人为什么有眼白？大多数哺乳动物（比如猴子和猩猩）都没有眼白。一种解释是，这可以让我们发现别人在看哪里。
+
+-- [《人为什么有眼白》](https://www.popsci.com/science/why-humans-have-white-part-eyes/)
+
+2、
+
+（微软 CEO）纳德拉成功的一个原因是，他终结了 Windows，准确说是终结了 Windows 作为微软的核心产品，他更专注开发无处不在的软件和覆盖一切的云平台。
+
+-- [《微软的 AI 策略》](https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/)
+
+3、
+
+1969年，两个美国医生建立了一个心理模型，分析绝症患者的心理，提出了否认、愤怒、讨价还价（恳求）、沮丧和接受这五个阶段。该模型现在也被用于分析人工智能导致的失业案例。
+
+-- [《AI 带来的工作悲伤》](https://jackmaguire.org/blog/ai-job-grief/)
+
+4、
+
+氛围编码生成的是代码，工程生成的是系统。氛围编程不是工程。
+
+-- [《氛围编程不是工程》](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html)
+
+5、
+
+谋生方式有三种：（1）对想听假话的人说假话，你就能发财。（2）对想听真话的人说真话，你可以维持温饱。（3）对想听假话的人说真话，你会破产。
+
+-- [《三种谋生方式》](https://jasonzweig.com/three-ways-to-get-paid/)
+
+
 ## [科技爱好者周刊（第 398 期）：Token 费用难以负担](https://github.com/ruanyf/weekly/blob/master/docs/issue-398.md#言论)
 
 
