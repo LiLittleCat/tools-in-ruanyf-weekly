@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#言论)
+
+
+1、
+
+如果生命是一个箱子，任何试图让箱子变得更大一些的人，最后都会发现必须冲破箱子的四边才行。
+
+-- 查理·芒格，美国著名投资家
+
+2、
+
+程序员愿意为 AI 编写详细的文档，却不愿意为其他程序员写文档。
+
+-- [plover.com](https://blog.plover.com/2026/03/09/#documentation-wins-2)
+
+3、
+
+AI 的速度太快，很烦人。我心想“让 AI 干活，我去睡个午觉”，结果还没等我离开电脑，它就已经把代码写完了。
+
+-- [Hacker News](https://news.ycombinator.com/item?id=48447699) 读者
+
+4、
+
+传统的软件开发流程正在瓦解，设计、测试、代码审查都不需要了，AI 能够同时生成代码、测试、部署。
+
+新的技能是上下文工程，新的安全保障是可观测性。
+
+-- [《软件开发生命周期已死》](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
+
+5、
+
+我始终相信，制造比人类更智能的 AI 有风险。它对我们人类的危害，可能不亚于人类对黑猩猩和渡渡鸟的危害。
+
+-- [《AI 时代的软件设计》](https://self-service.mirdin.com/software-design-in-the-age-of-ai)
+
+
 ## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#言论)
 
 

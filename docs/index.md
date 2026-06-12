@@ -16,77 +16,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>399</currentVersion> -->
+<!-- <currentVersion>400</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md)
+# [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md)
 ### 工具
 
 
-1、[Breathe CLI](https://github.com/marekkowalczyk/breathe-cli)
+1、[ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026053103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060601.webp)
 
-Mac 系统的命令行程序，显示一个进度条，让你跟着慢速呼吸，大概每分钟6次，从而改善心脏功能。
+一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。
 
-2、[NMLinux](https://github.com/thongor77/nmlinux)
+2、[oproxy](https://github.com/sauravrao637/oproxy)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061103.webp)
 
-Linux 系统的网络管理图形面板。
+一个开源的本地中间人代理，用来拦截本地流量，查看通信细节，有网页操作界面。
 
-3、[Penpot](https://github.com/penpot/penpot)
+3、[performative-ui](https://vorpus.github.io/performativeUI/#/)
 
-![](https://cdn.beekka.com/blogimg/asset/202404/bg2024041001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060903.webp)
 
-一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。
+一个 React 组件库，提供 AI 应用开发所需的各种组件。 
 
-4、[sky adb](https://github.com/sky22333/skyadb)
+4、[ALTCHA](https://altcha.org/captcha/)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051702.webp)
 
-运行在安卓手机上的 ADB 管理工具，通过 WiFi ADB / Wireless Debugging 管理手机、平板、电视盒子。（[@sky22333](https://github.com/ruanyf/weekly/issues/10101) 投稿）
+开源的 Captcha 替代品，用来过滤掉机器人，有[开源版](https://github.com/altcha-org/altcha)。
 
-5、[readNeo](https://github.com/extrastu/readneo)
+5、[oak-keyring](https://github.com/OpenKeyring/oak-keyring)
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052903.webp)
+基于终端的开源密码管理器，所有密码都保存在本地。（[@p1024k](https://github.com/ruanyf/weekly/issues/10203) 投稿）
 
-微信读书数据面板，连接微信读书 Skill API，可视化书架、阅读统计、笔记划线，提供一键导出。（[@extrastu](https://github.com/ruanyf/weekly/issues/10110) 投稿）
+6、[smctl](https://github.com/leaperone/smctl)
 
-6、[AppPorts](https://github.com/wzh4869/AppPorts)
+开源的 Mac 命令行工具，用于硬件控制，可以控制 Mac 没有开放的风扇曲线、电池充电限制、温度/功耗遥测。（[@harryisfish](https://github.com/ruanyf/weekly/issues/10233) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202605/bg2026052904.webp)
+7、[@webc.site/math](https://github.com/webc-site/math)
 
-一个开源应用，将 macOS 应用程序迁移至外部存储，同时保持这些应用的正常运行，可以随时还原。（[@wzh4869](https://github.com/ruanyf/weekly/issues/10119) 投稿）
+一个 Markdown 数学公式的渲染库，使用浏览器原生支持的 MathML Core，体积很小，渲染速度快，可以替代 KaTeX / MathJax。（[@xtco3o](https://github.com/ruanyf/weekly/issues/10241) 投稿）
 
-7、[欢乐斗地主](https://github.com/palemoky/fight-the-landlord)
+8、[office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060101.webp)
+一个前端 JS 组件，用于渲染 Office 文件。
 
-开源的终端斗地主游戏，使用 Go 语言实现，支持联网对战、断线重连、智能机器人等功能。（[@palemoky](https://github.com/ruanyf/weekly/issues/10149) 投稿）
+9、[SnackBase](https://github.com/lalitgehani/SnackBase)
 
-8、[fuckssh](https://github.com/hczs/fuckssh)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011402.webp)
 
-命令行工具，封装了 SSH 相关命令，为服务器密钥配置提供交互式向导。（[@hczs](https://github.com/ruanyf/weekly/issues/10184) 投稿）
+一个通用的 Python 项目网页管理后端。
 
-9、[StarGuard](https://github.com/m-ahmed-elbeskeri/Starguard)
+10、[MBCompass](https://github.com/CompassMB/MBCompass)
 
-这个 Python 工具检查某个 GitHub 仓库的星星有多少是假的。
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011405.webp)
 
-10、[Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051008.webp)
-
-这个开源工具使用 Web 界面，管理 Nginx 反向代理，并自动开启 SSL 证书，参见[介绍文章](https://www.xda-developers.com/nginx-proxy-manager-best-reverse-proxy/)。
+开源的安卓指南针应用。
 
 
 ### 资源
 
 
-1、[高考真题大全](https://t.urongda.com/)
+1、[中文诗词 API](https://github.com/palemoky/chinese-poetry-api)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060401.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060603.webp)
 
-这个网站收集各省历年的高考试卷，另可参考这个 [GitHub 仓库](https://github.com/deekur/gaokaomath)。（[@urongda](https://github.com/ruanyf/weekly/issues/10190) 投稿）
+Go 语言开发的高性能中国古诗词 API 服务，有部署到 Cloudflare 的现成版本。（[@palemoky](https://github.com/ruanyf/weekly/issues/10216) 投稿）
+
+2、[生产验证的编程模式](https://totoro-jam.github.io/battle-tested-patterns/zh/patterns/)（Battle-Tested Patterns）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060901.webp)
+
+一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。（[@Totoro-jam](https://github.com/ruanyf/weekly/issues/10257) 投稿）
+
+3、[WorldIP.io](https://worldip.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060802.webp)
+
+免费查询 IP 地址详细情况的网站。
 
 
 ### 言论
@@ -94,33 +102,35 @@ Linux 系统的网络管理图形面板。
 
 1、
 
-人为什么有眼白？大多数哺乳动物（比如猴子和猩猩）都没有眼白。一种解释是，这可以让我们发现别人在看哪里。
+如果生命是一个箱子，任何试图让箱子变得更大一些的人，最后都会发现必须冲破箱子的四边才行。
 
--- [《人为什么有眼白》](https://www.popsci.com/science/why-humans-have-white-part-eyes/)
+-- 查理·芒格，美国著名投资家
 
 2、
 
-（微软 CEO）纳德拉成功的一个原因是，他终结了 Windows，准确说是终结了 Windows 作为微软的核心产品，他更专注开发无处不在的软件和覆盖一切的云平台。
+程序员愿意为 AI 编写详细的文档，却不愿意为其他程序员写文档。
 
--- [《微软的 AI 策略》](https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/)
+-- [plover.com](https://blog.plover.com/2026/03/09/#documentation-wins-2)
 
 3、
 
-1969年，两个美国医生建立了一个心理模型，分析绝症患者的心理，提出了否认、愤怒、讨价还价（恳求）、沮丧和接受这五个阶段。该模型现在也被用于分析人工智能导致的失业案例。
+AI 的速度太快，很烦人。我心想“让 AI 干活，我去睡个午觉”，结果还没等我离开电脑，它就已经把代码写完了。
 
--- [《AI 带来的工作悲伤》](https://jackmaguire.org/blog/ai-job-grief/)
+-- [Hacker News](https://news.ycombinator.com/item?id=48447699) 读者
 
 4、
 
-氛围编码生成的是代码，工程生成的是系统。氛围编程不是工程。
+传统的软件开发流程正在瓦解，设计、测试、代码审查都不需要了，AI 能够同时生成代码、测试、部署。
 
--- [《氛围编程不是工程》](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html)
+新的技能是上下文工程，新的安全保障是可观测性。
+
+-- [《软件开发生命周期已死》](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
 
 5、
 
-谋生方式有三种：（1）对想听假话的人说假话，你就能发财。（2）对想听真话的人说真话，你可以维持温饱。（3）对想听假话的人说真话，你会破产。
+我始终相信，制造比人类更智能的 AI 有风险。它对我们人类的危害，可能不亚于人类对黑猩猩和渡渡鸟的危害。
 
--- [《三种谋生方式》](https://jasonzweig.com/three-ways-to-get-paid/)
+-- [《AI 时代的软件设计》](https://self-service.mirdin.com/software-design-in-the-age-of-ai)
 
 
 <!-- End -->

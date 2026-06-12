@@ -1,5 +1,61 @@
 # 工具
 
+## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#工具)
+
+
+1、[ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060601.webp)
+
+一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。
+
+2、[oproxy](https://github.com/sauravrao637/oproxy)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061103.webp)
+
+一个开源的本地中间人代理，用来拦截本地流量，查看通信细节，有网页操作界面。
+
+3、[performative-ui](https://vorpus.github.io/performativeUI/#/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060903.webp)
+
+一个 React 组件库，提供 AI 应用开发所需的各种组件。 
+
+4、[ALTCHA](https://altcha.org/captcha/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051702.webp)
+
+开源的 Captcha 替代品，用来过滤掉机器人，有[开源版](https://github.com/altcha-org/altcha)。
+
+5、[oak-keyring](https://github.com/OpenKeyring/oak-keyring)
+
+基于终端的开源密码管理器，所有密码都保存在本地。（[@p1024k](https://github.com/ruanyf/weekly/issues/10203) 投稿）
+
+6、[smctl](https://github.com/leaperone/smctl)
+
+开源的 Mac 命令行工具，用于硬件控制，可以控制 Mac 没有开放的风扇曲线、电池充电限制、温度/功耗遥测。（[@harryisfish](https://github.com/ruanyf/weekly/issues/10233) 投稿）
+
+7、[@webc.site/math](https://github.com/webc-site/math)
+
+一个 Markdown 数学公式的渲染库，使用浏览器原生支持的 MathML Core，体积很小，渲染速度快，可以替代 KaTeX / MathJax。（[@xtco3o](https://github.com/ruanyf/weekly/issues/10241) 投稿）
+
+8、[office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer)
+
+一个前端 JS 组件，用于渲染 Office 文件。
+
+9、[SnackBase](https://github.com/lalitgehani/SnackBase)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011402.webp)
+
+一个通用的 Python 项目网页管理后端。
+
+10、[MBCompass](https://github.com/CompassMB/MBCompass)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011405.webp)
+
+开源的安卓指南针应用。
+
+
 ## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#工具)
 
 

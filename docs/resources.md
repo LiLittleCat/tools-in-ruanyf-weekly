@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#资源)
+
+
+1、[中文诗词 API](https://github.com/palemoky/chinese-poetry-api)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060603.webp)
+
+Go 语言开发的高性能中国古诗词 API 服务，有部署到 Cloudflare 的现成版本。（[@palemoky](https://github.com/ruanyf/weekly/issues/10216) 投稿）
+
+2、[生产验证的编程模式](https://totoro-jam.github.io/battle-tested-patterns/zh/patterns/)（Battle-Tested Patterns）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060901.webp)
+
+一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。（[@Totoro-jam](https://github.com/ruanyf/weekly/issues/10257) 投稿）
+
+3、[WorldIP.io](https://worldip.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060802.webp)
+
+免费查询 IP 地址详细情况的网站。
+
+
 ## [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](https://github.com/ruanyf/weekly/blob/master/docs/issue-399.md#资源)
 
 
