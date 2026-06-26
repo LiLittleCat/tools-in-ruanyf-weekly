@@ -16,85 +16,109 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>400</currentVersion> -->
+<!-- <currentVersion>401</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md)
+# [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md)
 ### 工具
 
 
-1、[ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)
+1、[Lore](https://github.com/EpicGames/lore)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062101.webp)
 
-一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。
+游戏公司 EpicGames 开源的一个版本管理系统。跟 Git 相比，它的最大特点是为二进制文件提供版本管理。
 
-2、[oproxy](https://github.com/sauravrao637/oproxy)
+它将大型的二进制文件拆分成一个个数据块，进行储存。每次提交，只保存有变动的数据块。
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061103.webp)
+2、[DNS Pick](https://github.com/palemoky/dnspick)
 
-一个开源的本地中间人代理，用来拦截本地流量，查看通信细节，有网页操作界面。
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061602.webp)
 
-3、[performative-ui](https://vorpus.github.io/performativeUI/#/)
+一个命令行的 DNS 优选工具，结合平均延迟与解析成功率，选出兼顾速度与稳定性的最优 DNS 服务器。（[@palemoky](https://github.com/ruanyf/weekly/issues/10311) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060903.webp)
+3、[GitFolio](https://github.com/azhai/gitfolio)
 
-一个 React 组件库，提供 AI 应用开发所需的各种组件。 
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061603.webp)
 
-4、[ALTCHA](https://altcha.org/captcha/)
+轻量级的 Git 仓库管理系统，类似于 Gitea，支持从 GitHub 镜像同步仓库数据。（[@azhai](https://github.com/ruanyf/weekly/issues/10316) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051702.webp)
+4、[ssh-at](https://github.com/baerwang/ssh-at)
 
-开源的 Captcha 替代品，用来过滤掉机器人，有[开源版](https://github.com/altcha-org/altcha)。
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061604.webp)
 
-5、[oak-keyring](https://github.com/OpenKeyring/oak-keyring)
+`~/.ssh/config` 的图形化管理工具。（[@baerwang](https://github.com/ruanyf/weekly/issues/10330) 投稿）
 
-基于终端的开源密码管理器，所有密码都保存在本地。（[@p1024k](https://github.com/ruanyf/weekly/issues/10203) 投稿）
+5、[LockIME](https://github.com/oomol-lab/LockIME)
 
-6、[smctl](https://github.com/leaperone/smctl)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061202.webp)
 
-开源的 Mac 命令行工具，用于硬件控制，可以控制 Mac 没有开放的风扇曲线、电池充电限制、温度/功耗遥测。（[@harryisfish](https://github.com/ruanyf/weekly/issues/10233) 投稿）
+macOS 的输入法锁定工具，可以指定不同应用的默认输入法。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/10279) 投稿）
 
-7、[@webc.site/math](https://github.com/webc-site/math)
+6、[封面生成器](https://github.com/eternityspring/article-tools)（Cover Maker）
 
-一个 Markdown 数学公式的渲染库，使用浏览器原生支持的 MathML Core，体积很小，渲染速度快，可以替代 KaTeX / MathJax。（[@xtco3o](https://github.com/ruanyf/weekly/issues/10241) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061203.webp)
 
-8、[office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer)
+封面制作的网页工具。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/10276) 投稿）
 
-一个前端 JS 组件，用于渲染 Office 文件。
+7、[PowerLens](https://github.com/luyangkk/powerlens)
 
-9、[SnackBase](https://github.com/lalitgehani/SnackBase)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061606.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011402.webp)
+Oh-My-Zsh 插件，在命令行提示符实时展示电源功率、电池、CPU、CPU 温度、风扇转速、内存和网络流量。（[@luyangkk](https://github.com/ruanyf/weekly/issues/10345) 投稿）
 
-一个通用的 Python 项目网页管理后端。
+8、[MyKVM](https://github.com/XxMinor/mykvm)
 
-10、[MBCompass](https://github.com/CompassMB/MBCompass)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061802.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026011405.webp)
+源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。（[@fc221](https://github.com/ruanyf/weekly/issues/10373) 投稿）
 
-开源的安卓指南针应用。
+9、[ai_caption_video](https://github.com/alexchan197611/ai_caption_video)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061901.webp)
+
+开源的 Windows 应用，生成大字报式的中文短视频，支持关键词高亮、字幕动效、本地 TTS 配音和语音克隆。（[@alexchan197611](https://github.com/ruanyf/weekly/issues/10378) 投稿）
+
+10、[AnyDrag](https://github.com/XueshiQiao/AnyDrag)
+
+一款 macOS 小工具，不必按住标题栏，就能拖动、缩放、最大化、平铺窗口。（[@XueshiQiao](https://github.com/ruanyf/weekly/issues/10398) 投稿）
+
+11、[Direct Light](https://github.com/oukeming64-tech/direct-light)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062107.webp)
+
+网页模拟摄影棚灯光。（[@oukeming64-tech](https://github.com/ruanyf/weekly/issues/10404) 投稿）
+
+12、[JSOS](https://jsos.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062507.webp)
+
+基于 Webcontainer 技术，在浏览器网页上运行 Node.js 应用，数据/代码均存储在本地。（[@jsos-dev](https://github.com/ruanyf/weekly/issues/10410) 投稿）
 
 
 ### 资源
 
 
-1、[中文诗词 API](https://github.com/palemoky/chinese-poetry-api)
+1、[砍柴](https://screen.toys/firewood/)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061501.webp)
 
-Go 语言开发的高性能中国古诗词 API 服务，有部署到 Cloudflare 的现成版本。（[@palemoky](https://github.com/ruanyf/weekly/issues/10216) 投稿）
+一个网页小游戏，做得特别逼真。
 
-2、[生产验证的编程模式](https://totoro-jam.github.io/battle-tested-patterns/zh/patterns/)（Battle-Tested Patterns）
+2、[Solar Wanderer](https://github.com/hyqzz/Solar-Wanderer)（遨游太阳系）
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061607.webp)
 
-一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。（[@Totoro-jam](https://github.com/ruanyf/weekly/issues/10257) 投稿）
+在浏览器里，展示真实比例的太阳系，共8颗行星、月球、21颗卫星。（[@hyqzz](https://github.com/ruanyf/weekly/issues/10349) 投稿）
 
-3、[WorldIP.io](https://worldip.io/)
+3、[PTP 时间同步技术书](https://github.com/Lularible/ptp-book/tree/main/chapters)
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026060802.webp)
+一本开源技术书，使用通俗语言介绍 PTP/IEEE 1588 精确时间协议和 LinuxPTP 源码分析。（[@Lularible](https://github.com/ruanyf/weekly/issues/10284) 投稿）
 
-免费查询 IP 地址详细情况的网站。
+4、[Cosmodial](https://killedbyapixel.github.io/Cosmodial/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062006.webp)
+
+一个网页的星空模拟器，在浏览器里探索宇宙星空。
 
 
 ### 言论
@@ -102,35 +126,29 @@ Go 语言开发的高性能中国古诗词 API 服务，有部署到 Cloudflare 
 
 1、
 
-如果生命是一个箱子，任何试图让箱子变得更大一些的人，最后都会发现必须冲破箱子的四边才行。
+以造福他人的方式来提升自己。这才是我们所追求的。
 
--- 查理·芒格，美国著名投资家
+-- [《我们为什么雇佣初级工程师》](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
 
 2、
 
-程序员愿意为 AI 编写详细的文档，却不愿意为其他程序员写文档。
+欧洲宜居住宅的标准是，从屋里能看到至少三棵树，小区的树木覆盖率至少达到30%，距离不超过300米就有一个公园。
 
--- [plover.com](https://blog.plover.com/2026/03/09/#documentation-wins-2)
+--[《你能看到三棵树吗？》](https://www.not-ship.com/can-you-see-three-trees/)
 
 3、
 
-AI 的速度太快，很烦人。我心想“让 AI 干活，我去睡个午觉”，结果还没等我离开电脑，它就已经把代码写完了。
+当我阅读2022年之前出版的书时，我知道每一个字都是人工录入、人工校对、人工编辑和人工校对的。不知何故，这会对我产生影响，让我更加重视这本书及其内容。
 
--- [Hacker News](https://news.ycombinator.com/item?id=48447699) 读者
+-- [《2022年以前的书籍》](https://notes.lorenzogravina.com/musings/pre-2022-books)
 
 4、
 
-传统的软件开发流程正在瓦解，设计、测试、代码审查都不需要了，AI 能够同时生成代码、测试、部署。
+我发现自己陷入了许多大公司工程师的困境。我的职称和薪酬只比初级工程师略高一些，但是我每天干的工作内容属于“高级”或“资深”工程师级别。
 
-新的技能是上下文工程，新的安全保障是可观测性。
+我每次晋升都失败，我感觉自己一直在解决超出自身职级两级的问题，得到的唯一回报却是上级分配更多的工作。
 
--- [《软件开发生命周期已死》](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
-
-5、
-
-我始终相信，制造比人类更智能的 AI 有风险。它对我们人类的危害，可能不亚于人类对黑猩猩和渡渡鸟的危害。
-
--- [《AI 时代的软件设计》](https://self-service.mirdin.com/software-design-in-the-age-of-ai)
+-- [《我为什么离开 Youtube》](https://zhach.news/how-i-left-youtube/)
 
 
 <!-- End -->

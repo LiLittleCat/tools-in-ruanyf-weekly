@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md#资源)
+
+
+1、[砍柴](https://screen.toys/firewood/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061501.webp)
+
+一个网页小游戏，做得特别逼真。
+
+2、[Solar Wanderer](https://github.com/hyqzz/Solar-Wanderer)（遨游太阳系）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061607.webp)
+
+在浏览器里，展示真实比例的太阳系，共8颗行星、月球、21颗卫星。（[@hyqzz](https://github.com/ruanyf/weekly/issues/10349) 投稿）
+
+3、[PTP 时间同步技术书](https://github.com/Lularible/ptp-book/tree/main/chapters)
+
+一本开源技术书，使用通俗语言介绍 PTP/IEEE 1588 精确时间协议和 LinuxPTP 源码分析。（[@Lularible](https://github.com/ruanyf/weekly/issues/10284) 投稿）
+
+4、[Cosmodial](https://killedbyapixel.github.io/Cosmodial/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062006.webp)
+
+一个网页的星空模拟器，在浏览器里探索宇宙星空。
+
+
 ## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#资源)
 
 

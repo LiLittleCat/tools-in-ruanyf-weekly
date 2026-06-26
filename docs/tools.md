@@ -1,5 +1,81 @@
 # 工具
 
+## [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md#工具)
+
+
+1、[Lore](https://github.com/EpicGames/lore)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062101.webp)
+
+游戏公司 EpicGames 开源的一个版本管理系统。跟 Git 相比，它的最大特点是为二进制文件提供版本管理。
+
+它将大型的二进制文件拆分成一个个数据块，进行储存。每次提交，只保存有变动的数据块。
+
+2、[DNS Pick](https://github.com/palemoky/dnspick)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061602.webp)
+
+一个命令行的 DNS 优选工具，结合平均延迟与解析成功率，选出兼顾速度与稳定性的最优 DNS 服务器。（[@palemoky](https://github.com/ruanyf/weekly/issues/10311) 投稿）
+
+3、[GitFolio](https://github.com/azhai/gitfolio)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061603.webp)
+
+轻量级的 Git 仓库管理系统，类似于 Gitea，支持从 GitHub 镜像同步仓库数据。（[@azhai](https://github.com/ruanyf/weekly/issues/10316) 投稿）
+
+4、[ssh-at](https://github.com/baerwang/ssh-at)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061604.webp)
+
+`~/.ssh/config` 的图形化管理工具。（[@baerwang](https://github.com/ruanyf/weekly/issues/10330) 投稿）
+
+5、[LockIME](https://github.com/oomol-lab/LockIME)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061202.webp)
+
+macOS 的输入法锁定工具，可以指定不同应用的默认输入法。（[@BlackHole1](https://github.com/ruanyf/weekly/issues/10279) 投稿）
+
+6、[封面生成器](https://github.com/eternityspring/article-tools)（Cover Maker）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061203.webp)
+
+封面制作的网页工具。（[@Hao4Wang](https://github.com/ruanyf/weekly/issues/10276) 投稿）
+
+7、[PowerLens](https://github.com/luyangkk/powerlens)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061606.webp)
+
+Oh-My-Zsh 插件，在命令行提示符实时展示电源功率、电池、CPU、CPU 温度、风扇转速、内存和网络流量。（[@luyangkk](https://github.com/ruanyf/weekly/issues/10345) 投稿）
+
+8、[MyKVM](https://github.com/XxMinor/mykvm)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061802.webp)
+
+源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。（[@fc221](https://github.com/ruanyf/weekly/issues/10373) 投稿）
+
+9、[ai_caption_video](https://github.com/alexchan197611/ai_caption_video)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026061901.webp)
+
+开源的 Windows 应用，生成大字报式的中文短视频，支持关键词高亮、字幕动效、本地 TTS 配音和语音克隆。（[@alexchan197611](https://github.com/ruanyf/weekly/issues/10378) 投稿）
+
+10、[AnyDrag](https://github.com/XueshiQiao/AnyDrag)
+
+一款 macOS 小工具，不必按住标题栏，就能拖动、缩放、最大化、平铺窗口。（[@XueshiQiao](https://github.com/ruanyf/weekly/issues/10398) 投稿）
+
+11、[Direct Light](https://github.com/oukeming64-tech/direct-light)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062107.webp)
+
+网页模拟摄影棚灯光。（[@oukeming64-tech](https://github.com/ruanyf/weekly/issues/10404) 投稿）
+
+12、[JSOS](https://jsos.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062507.webp)
+
+基于 Webcontainer 技术，在浏览器网页上运行 Node.js 应用，数据/代码均存储在本地。（[@jsos-dev](https://github.com/ruanyf/weekly/issues/10410) 投稿）
+
+
 ## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#工具)
 
 

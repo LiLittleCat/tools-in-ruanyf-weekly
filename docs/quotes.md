@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md#言论)
+
+
+1、
+
+以造福他人的方式来提升自己。这才是我们所追求的。
+
+-- [《我们为什么雇佣初级工程师》](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+
+2、
+
+欧洲宜居住宅的标准是，从屋里能看到至少三棵树，小区的树木覆盖率至少达到30%，距离不超过300米就有一个公园。
+
+--[《你能看到三棵树吗？》](https://www.not-ship.com/can-you-see-three-trees/)
+
+3、
+
+当我阅读2022年之前出版的书时，我知道每一个字都是人工录入、人工校对、人工编辑和人工校对的。不知何故，这会对我产生影响，让我更加重视这本书及其内容。
+
+-- [《2022年以前的书籍》](https://notes.lorenzogravina.com/musings/pre-2022-books)
+
+4、
+
+我发现自己陷入了许多大公司工程师的困境。我的职称和薪酬只比初级工程师略高一些，但是我每天干的工作内容属于“高级”或“资深”工程师级别。
+
+我每次晋升都失败，我感觉自己一直在解决超出自身职级两级的问题，得到的唯一回报却是上级分配更多的工作。
+
+-- [《我为什么离开 Youtube》](https://zhach.news/how-i-left-youtube/)
+
+
 ## [科技爱好者周刊（第 400 期）：rsync 的争论](https://github.com/ruanyf/weekly/blob/master/docs/issue-400.md#言论)
 
 
