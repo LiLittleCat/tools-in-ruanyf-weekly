@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](https://github.com/ruanyf/weekly/blob/master/docs/issue-402.md#言论)
+
+
+1、
+
+跟大多数人想的不一样，互联网最重要的地方，不是那些公开的网站或社交平台，而私密的群聊。
+
+无数最具影响力、最重要的事件，是在 Whatsapp、Telegram、Signal、Discord 的那些仅限邀请的小型群组里决定的。
+
+-- [《私密群聊统治世界》](https://sriramk.com/group-chats-rule-the-world)
+
+2、
+
+大多数争论都是与自我意识有关，而非理念。
+
+--[《我为什么不再与人争论》](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+
+3、
+
+大模型可以当做压缩工具，记住单个文件并预测下一个字节。
+
+我训练了一个 Transformer 模型，可以把 100MB 的 CSV 文件压缩为 7MB。缺点是非常耗时，在我的家用电脑上，训练大约需要20-30分钟，压缩和解压缩各需要45分钟。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=48644463)
+
+4、
+
+缓慢思考，快速行动，这就是成功的秘诀。
+
+（Think slow, act fast: That’s the secret of success.）
+
+-- [《如何完成大型项目》](https://www.goodreads.com/work/quotes/96704571-how-big-things-get-done-the-surprising-factors-that-determine-the-fate)
+
+
 ## [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md#言论)
 
 

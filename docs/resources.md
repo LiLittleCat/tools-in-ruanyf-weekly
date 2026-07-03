@@ -1,5 +1,21 @@
 # 资源
 
+## [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](https://github.com/ruanyf/weekly/blob/master/docs/issue-402.md#资源)
+
+
+1、[Jest/Vitest 测试入门教程](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062902.webp)
+
+网页互动式课程，通过实例学习 Jest 或 Vitest 进行测试的基础知识。
+
+2、[C 语言小书](https://little-book-of.github.io/c/books/en-US/book.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032701.webp)
+
+一本面向初学者的 C 语言小教程。
+
+
 ## [科技爱好者周刊（第 401 期）：如何赚到10亿美元](https://github.com/ruanyf/weekly/blob/master/docs/issue-401.md#资源)
 
 
