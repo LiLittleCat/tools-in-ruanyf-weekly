@@ -1,5 +1,72 @@
 # 工具
 
+## [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-403.md#工具)
+
+
+1、[Vite+](https://voidzero.dev/posts/announcing-vite-plus-beta)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070401.webp)
+
+一个 JS 的统一工具，将运行时、包管理器、前端工具集做在一个二进制文件里面，JS 开发只需要它就够了。
+
+类似项目还有 [meow](https://meow.style/)，也是一个二进制文件，包括了整个 JS/TS 运行时和配套工具。
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070903.webp)
+
+2、[Davit](https://davit.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070809.webp)
+
+一个 macOS 应用，苹果电脑的 Docker 容器桌面管理工具，Docker desktop 的替代品。
+
+3、[Flint](https://github.com/microsoft/flint-chart)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070901.webp)
+
+微软研究院与中国人民大学合作的一个可视化图表引擎，将原始数据处理成统一格式，再经由指定的图表库渲染成可视化图表。它主要给 AI 调用。
+
+目前，支持的图表库有 Vega-Lite、ECharts、 Chart.js。
+
+4、[LaTeXSnipper](https://github.com/SakuraMathcraft/LaTeXSnipper)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070710.webp)
+
+一个桌面的 LaTex 工作台，能够将手写的或截图的数学公式，转为 LaTex 代码，并提供 Office 插件。（[@SakuraMathcraft](https://github.com/ruanyf/weekly/issues/10582) 投稿）
+
+5、[OnlyOffice Web Comp](https://github.com/electroluxcode/onlyoffice-web-comp)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070711.webp)
+
+基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。（[@electroluxcode](https://github.com/ruanyf/weekly/issues/10583) 投稿）
+
+6、[BOSS 直聘爬虫](https://github.com/eatmoreduck/boss-zhipin-scraper)
+
+通过 Chrome CDP 协议，直接向已登录的网页注入脚本，抓取数据。（[@eatmoreduck](https://github.com/ruanyf/weekly/issues/10357) 投稿）
+
+7、[EdgeEver](https://github.com/tianma-if/edgeever)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070713.webp)
+
+部署在 Cloudflare 的免费开源笔记应用。（[@tianma-if](https://github.com/ruanyf/weekly/issues/10591) 投稿）
+
+8、[AI Shortlink](https://github.com/flyfish-dev/shortlink)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070714.webp)
+
+开源的轻量级短链与活码管理平台。（[@wybaby168](https://github.com/ruanyf/weekly/issues/10595) 投稿）
+
+9、[FlareStarter](https://github.com/FlareStarter/flarestarter)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070801.webp)
+
+基于 Cloudflare Workers 的开源全栈 SaaS 起步模板，自带认证、支付、后台等基础设施模块,用于快速启动 SaaS / 出海产品。（[@beilunyang](https://github.com/ruanyf/weekly/issues/10620) 投稿）
+
+10、[Rheo](https://rheo.ohrg.org/)
+
+这个工具将 Typst 文档，转换成三种格式的电子书：HTML、EPUB、PDF。
+
+
+
 ## [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](https://github.com/ruanyf/weekly/blob/master/docs/issue-402.md#工具)
 
 

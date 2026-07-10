@@ -1,5 +1,23 @@
 # 资源
 
+## [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-403.md#资源)
+
+
+1、[Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free)
+
+这个仓库收集免费的追剧资源。（[@laoma2053](https://github.com/ruanyf/weekly/issues/10587) 投稿）
+
+2、[存储技术书](https://github.com/Lularible/storage-book/tree/master/chapters)
+
+开源中文技术书，从存储的本质讲到文件系统设计与实现。（[@Lularible](https://github.com/ruanyf/weekly/issues/10633) 投稿）
+
+3、[山手线的声音](https://www.yamanote.fun)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070803.webp)
+
+背景音网站，提供日本铁路山手线行进中的声音，包括铁轨声、车厢广播、人声、门铃声等。
+
+
 ## [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](https://github.com/ruanyf/weekly/blob/master/docs/issue-402.md#资源)
 
 
