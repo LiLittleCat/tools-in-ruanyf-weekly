@@ -1,5 +1,59 @@
 # 工具
 
+## [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-404.md#工具)
+
+
+1、[WhatCable](https://github.com/darrylmorley/whatcable)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071510.webp)
+
+macOS 的顶部菜单栏应用，可以显示当前插入电脑的 usb-c 电缆特征。
+
+2、[amber](https://amber-lang.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071401.webp)
+
+一种简化 Bash 语法的新语言，它的脚本可以编译成 Bash。
+
+3、 [Ant](https://antjs.org)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071402.webp)
+
+一种轻量级的 JS/TS 语言运行时，好像是自己从头开始写的，二进制文件只有 8MB。
+
+4、[屏译](https://github.com/ciddwd/overlay-translator)（Screen Translator）
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071404.webp)
+
+开源安卓应用，实时屏幕翻译工具。（[@ciddwd](https://github.com/ruanyf/weekly/issues/10701) 投稿）
+
+5、[TurboOCR](https://turboocr.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071406.webp)
+
+使用 GPU 进行高速文字识别（OCR）的工具。（[@nataell95](https://github.com/ruanyf/weekly/issues/10706) 投稿）
+
+另有一个纯本地的文字识别库 [light-ocr](https://github.com/arcships/light-ocr)，提供 JS/C++ API。（[@eric8810](https://github.com/ruanyf/weekly/issues/10714) 投稿）
+
+6、[Visprex](https://visprex.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202411/bg2024111013.webp)
+
+该网站可以上传 CSV 数据文件，自动生成可视化图形。
+
+7、[Loro](https://www.loro.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111321.webp)
+
+一个开源的 CRDT 的同步算法库，用来多人实时同步状态。
+
+8、[File Wizard](https://github.com/LoredCast)
+
+![](https://cdn.beekka.com/blogimg/asset/202510/bg2025100202.webp)
+
+一个自托管的、基于 Web 的常见文件格式转换服务，还支持图像 OCR、音频转文字。
+
+
 ## [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-403.md#工具)
 
 

@@ -1,5 +1,39 @@
 # 言论
 
+## [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-404.md#言论)
+
+
+1、
+
+如果你是太阳，我就是黑洞。
+
+—— [史蒂芬·霍金](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
+
+2、
+
+AI 模型的世界就像一个城市，里面有五个企业总部区域，以及一个中国城。
+
+-- [《奇点越来越近了》](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
+
+3、
+
+AI 是一个完全的黑箱，这意味着所谓的“AI 工程”或“提示工程”完全是骗局，任何声称能够以某种巧妙的方式操控黑箱的说法都是虚假的。
+
+你无法探究 AI 的运行逻辑，它只是一种机器实现的“相信我，兄弟”。
+
+-- [《AI 是一个糟糕的工具》](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
+
+4、
+
+我有一台面包机，它几乎包办一切：揉面、发酵、烘焙。我把原料倒进去，按下一个按钮，三个小时后面包就出炉了。
+
+嗯，三年里我大概只用过这台机器两次。相反，我每周都会去超市买一条包装好的预切片面包。
+
+这解释了为什么即使 AI 可以轻松生成代码，SaaS 公司仍远未走向衰落。
+
+-- [《为什么便利总是胜出，以及为什么 SaaS 不会消亡》](https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience)
+
+
 ## [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-403.md#言论)
 
 

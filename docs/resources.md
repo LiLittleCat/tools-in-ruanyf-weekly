@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-404.md#资源)
+
+
+1、[Goto Onion](https://gotoonion.site/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071506.webp)
+
+暗网 Tor 网站的网关，使得普通浏览器可以访问 Onion 网址。
+
+2、[Fading Maize](https://www.fadingmaize.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071507.webp)
+
+一个很有意思的网站，一支美国大学乐队在2001年录制了专辑，随后就解散了。
+
+现在，他们让 AI 将当年的录音改成2026年的风格。该网站就将两种录音同时放出来，让大家比较。
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071508.webp)
+
+音乐真是很神奇，20多年前的音乐，毫无时光的痕迹，吉他声仿佛还是昨天。
+
+3、[迷宫算法](https://www.jamisbuck.org/mazes/)（Maze Algorithms）
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012505.webp)
+
+这个网站收集各种迷宫生成算法。
+
+
 ## [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](https://github.com/ruanyf/weekly/blob/master/docs/issue-403.md#资源)
 
 
