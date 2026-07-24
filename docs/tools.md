@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 405 期）：资源，社会公平与算力](https://github.com/ruanyf/weekly/blob/master/docs/issue-405.md#工具)
+
+
+1、[Satteri](https://github.com/bruits/satteri)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026071606.webp)
+
+一个 JS 的 Markdown 引擎，使用 Rust 语言开发，可以快速把 Markdown 语法转为 HTML，提供众多插件。
+
+2、[AsteroidOS](https://asteroidos.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021801.webp)
+
+智能手表的开源操作系统，不基于安卓，而是基于 Linux。
+
+3、[GNU TeXmacs](https://www.texmacs.org)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072313.webp)
+
+一个跨平台的桌面编辑器，主要用于编写科技文档，提供数学内容的“所见即所得”。
+
+4、[Elysia](https://elysiajs.com)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026021614.webp)
+
+一个基于 TypeScript 的轻量级 Web 框架，号称以简单易用的方式构建 Web 服务。
+
+5、[CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072202.webp)
+
+基于 Cloudflare 的零成本图床系统及配套桌面端，支持 Docker 和无服务器部署。（[@MarSeventh](https://github.com/ruanyf/weekly/issues/10733) 投稿）
+
+6、[DetectRadar](https://github.com/harrisonwang/detect-radar)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072203.webp)
+
+这个工具核对当前出口 IP 地址与浏览器的时区、语言和环境特征，同时检查 WebRTC、DNS 和 IPv6 泄露，用来确认 IP 地址与你的其他网络特征一致，[在线试用](https://detectradar.com/)。（[@harrisonwang](https://github.com/ruanyf/weekly/issues/10746) 投稿）
+
+7、[Véspero](https://github.com/tianrking/Vespero)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072204.webp)
+
+一个代理网关，将各种出口流量放到一个 Web 控制台下管理。（[@tianrking](https://github.com/ruanyf/weekly/issues/10757) 投稿）
+
+8、[Foursmith VR](https://github.com/foursmith/vr)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072205.webp)
+
+为手机和平面显示器打造的 VR 视频播放器。（[@ourongxing](https://github.com/ruanyf/weekly/issues/10760) 投稿）
+
+9、[Codia](https://github.com/AaronConlon/codia)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072208.webp)
+
+开源的代码片段美化工具，[在线试用](https://codia.i5lin.top/try-it)。（[@AaronConlon](https://github.com/ruanyf/weekly/issues/10763) 投稿）
+
+10、[Email Builder](https://github.com/heiheihoho1213/monto-email-builder)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072210.webp)
+
+邮件模板的 React 拖拽编辑器，[在线试用](https://heiheihoho1213.github.io/monto-email-builder/)。（[@akira0912](https://github.com/ruanyf/weekly/issues/10807) 投稿）
+
+
 ## [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-404.md#工具)
 
 
