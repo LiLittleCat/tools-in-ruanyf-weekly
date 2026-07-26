@@ -1,37 +1,28 @@
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# build output
+dist/
 
-### IntelliJ IDEA ###
-*.iws
-*.iml
-*.ipr
+# 周刊源仓库（scripts/sync-content.mjs 克隆）
+vendor/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+# 生成的内容（scripts/generate-content.mjs 输出）
+content/docs/issues/
+content/docs/columns/
+# generated types
+.astro/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+# dependencies
+node_modules/
 
-### VS Code ###
-.vscode/
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-### Mac OS ###
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
-/.idea/
-
-site
