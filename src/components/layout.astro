@@ -1,0 +1,39 @@
+---
+import { ClientRouter } from 'astro:transitions';
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/favicon.svg`}
+    />
+    <ClientRouter />
+    <script is:inline>
+      // 首屏与视图过渡换页时恢复主题，避免闪烁（与 next-themes 共用 localStorage 的 theme 键）
+      (function () {
+        const apply = () => {
+          const theme = localStorage.getItem('theme') ?? 'system';
+          const dark =
+            theme === 'dark' ||
+            (theme === 'system' && matchMedia('(prefers-color-scheme: dark)').matches);
+          document.documentElement.classList.toggle('dark', dark);
+          document.documentElement.style.colorScheme = dark ? 'dark' : 'light';
+        };
+        apply();
+        document.addEventListener('astro:after-swap', apply);
+      })();
+    </script>
+  </head>
+  <body
+    class="flex flex-col min-h-screen"
+    transition:persist
+    transition:animate="none"
+    transition:name="page-layout"
+  >
+    <slot />
+  </body>
+</html>

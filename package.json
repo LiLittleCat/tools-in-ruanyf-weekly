@@ -1,0 +1,35 @@
+{
+  "name": "tools-in-ruanyf-weekly",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-content.mjs",
+    "generate": "node scripts/generate-content.mjs",
+    "prepare-content": "node scripts/sync-content.mjs && node scripts/generate-content.mjs",
+    "dev": "npm run prepare-content && astro dev",
+    "start": "astro dev",
+    "build": "npm run prepare-content && astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "^7.2.1",
+    "@astrojs/mdx": "^7.0.3",
+    "@astrojs/react": "^6.0.1",
+    "astro": "^7.1.3",
+    "fumadocs-core": "16.12.1",
+    "fumadocs-ui": "npm:@fumadocs/base-ui@16.12.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "sharp": "^0.35.3",
+    "takumi-js": "^2.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "pagefind": "^1.5.2",
+    "tailwindcss": "^4.3.3"
+  }
+}
