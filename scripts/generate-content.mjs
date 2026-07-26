@@ -186,9 +186,9 @@ function main() {
       colYears.get(issue.year).push({ issue, sec });
     }
     if (colYears.size === 0) continue;
-    activeColumns.push(col);
 
     const colYearsDesc = [...colYears.keys()].sort((a, b) => b - a);
+    activeColumns.push({ ...col, latestYear: colYearsDesc[0] });
     let total = 0;
     for (const year of colYearsDesc) {
       const entries = colYears.get(year);
@@ -220,6 +220,37 @@ function main() {
   writeFile(
     'columns/meta.json',
     JSON.stringify({ title: '栏目汇总', defaultOpen: true, pages: activeColumns.map((c) => c.slug) }, null, 2),
+  );
+
+  /* ----- 首页（每个栏目链接到其实际存在的最新年份） ----- */
+  const latest = issues.find((i) => i.year);
+  const latestLabel = latest.subtitle ? `第 ${latest.num} 期：${latest.subtitle}` : `第 ${latest.num} 期`;
+  const esc = (s) => String(s).replace(/"/g, '&quot;');
+  const cards = activeColumns
+    .map((col) => {
+      const y = col.latestYear;
+      return `  <Card title="${esc(col.name)}" href="/columns/${col.slug}/${y}">${esc(col.desc)}</Card>`;
+    })
+    .join('\n');
+  writeFile(
+    'index.mdx',
+    frontmatter({ title: '首页', description: '阮一峰《科技爱好者周刊》栏目汇总站' }) +
+      `很喜欢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly)，但周刊已有数百期，想回头翻某个栏目的内容非常困难。
+
+这个站点把每一期按栏目拆开、跨期串联：**同一个栏目的所有内容集中在一起，按年份分册浏览**；同时也保留了每一期的完整原文（见左侧「期刊归档」）。
+
+最新一期：[${latestLabel}](/issues/${latest.year}/issue-${latest.num})
+
+## 按栏目浏览
+
+<Cards>
+${cards}
+</Cards>
+
+---
+
+内容版权归属原作者阮一峰。本站每次构建时从 [ruanyf/weekly](https://github.com/ruanyf/weekly) 拉取最新内容自动生成。
+`,
   );
 
   console.log(`[generate] 共 ${issues.length} 期，${yearsDesc.length} 个年份，输出到 content/docs/`);

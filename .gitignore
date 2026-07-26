@@ -9,6 +9,7 @@ vendor/
 # 生成的内容（scripts/generate-content.mjs 输出）
 content/docs/issues/
 content/docs/columns/
+content/docs/index.mdx
 
 # generated types
 .astro/
