@@ -1,41 +1,19 @@
-name: Weekly Rebuild
+name: Build Check
 
-# 站点由 Cloudflare Pages 发布（连接 fumadocs 分支，push 时 Cloudflare 自动构建）。
-# 这个 workflow 做两件事：
-#   1. 每周五 09:00（北京时间）触发 Cloudflare Deploy Hook，拉取最新一期周刊重新构建
-#   2. push 时跑一次构建检查，提前发现构建错误
+# 站点由 Cloudflare Pages 发布，生产分支为 master：
+#   - 旧版 Java CI（ci.yml）每周五 09:00 北京时间向 master 推送 "Update contents"，
+#     该 push 自动触发 Cloudflare 重新构建，构建时克隆最新周刊源 → 新站同步更新
+#   - 平时开发在 fumadocs 分支，合并到 master 即发布
 #
-# 需要配置仓库 Secret：CLOUDFLARE_DEPLOY_HOOK
-#（Cloudflare Pages 项目 → Settings → Builds & deployments → Deploy hooks 创建后复制 URL）
-#
-# 注意：GitHub 的定时任务只读取默认分支上的 workflow 文件；
-# 若默认分支不是 fumadocs，需把本文件也复制一份到默认分支，定时才会生效。
+# 这个 workflow 只做构建检查，提前发现构建错误。
 
 on:
-  schedule:
-    # 每周五 09:00 北京时间（UTC+8）= 周五 01:00 UTC
-    - cron: '0 1 * * 5'
   workflow_dispatch:
   push:
     branches: [fumadocs]
 
 jobs:
-  trigger-cloudflare:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger Cloudflare deploy hook
-        env:
-          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
-        run: |
-          if [ -z "$DEPLOY_HOOK" ]; then
-            echo "::error::未配置 CLOUDFLARE_DEPLOY_HOOK secret"
-            exit 1
-          fi
-          curl -sf -X POST "$DEPLOY_HOOK"
-
   build-check:
-    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
