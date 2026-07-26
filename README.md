@@ -1,11 +1,24 @@
-# 阮一峰老师科技爱好者周刊「工具」和「资源」汇总
+# 阮一峰老师科技爱好者周刊汇总
 
 ## 前言
-很喜欢阮一峰老师的 [科技爱好者周刊](https://github.com/ruanyf/weekly)，尤其是「工具」和「资源」部分内容，非常有趣且实用。 
+
+很喜欢阮一峰老师的 [科技爱好者周刊](https://github.com/ruanyf/weekly)，尤其是「工具」和「资源」部分内容，非常有趣且实用。
 
 但是到目前为止周刊已经太多期，苦于查找困难，特将其汇总于此，方便查阅。
 
-## 汇总
+## 新版站点（推荐）
+
+**在线访问：[https://ruanyf-weekly.yl.do](https://ruanyf-weekly.yl.do)**
+
+基于 [Fumadocs](https://fumadocs.dev)（Astro）重新搭建的栏目汇总站，代码在 [`fumadocs`](https://github.com/LiLittleCat/tools-in-ruanyf-weekly/tree/fumadocs) 分支：
+
+- **栏目汇总**：话题、科技动态、文章、教程、工具、资源、AI 相关、图片、文摘、言论 —— 每个栏目把所有期数的内容集中在一起，按年份分册浏览
+- **期刊归档**：每一期的完整原文，按年份归类
+- **全文搜索**：支持中文，覆盖所有期数的正文
+- 每周五自动同步最新一期，由 Cloudflare Pages 构建发布
+
+## 旧版汇总（mkdocs）
+
 由于汇总内容太多图片，使用 GitHub 打开 Markdown 文件时会造成加载缓慢，建议使用静态页面查看，或者下载到本地查看。
 
 静态页面：
