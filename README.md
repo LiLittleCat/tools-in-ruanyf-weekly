@@ -1,5 +1,7 @@
 # 科技爱好者周刊 · 栏目汇总站
 
+**在线访问：[https://ruanyf-weekly.yl.do](https://ruanyf-weekly.yl.do)**
+
 把阮一峰老师的[《科技爱好者周刊》](https://github.com/ruanyf/weekly)按栏目跨期串联的静态站点，基于 [Fumadocs](https://fumadocs.dev)（Astro 模板）搭建。
 
 - **栏目汇总**：话题、科技动态、文章、教程、工具、资源、AI 相关、图片、文摘、言论 —— 每个栏目把所有期数的内容集中在一起，按年份分册浏览。
@@ -22,7 +24,7 @@ pnpm preview
 
 ## 部署（Cloudflare Pages）
 
-站点由 Cloudflare Pages 发布，生产分支为 **master**：
+站点由 Cloudflare Pages 发布在 [ruanyf-weekly.yl.do](https://ruanyf-weekly.yl.do)，生产分支为 **master**：
 
 - **Build command**：`pnpm build`
 - **Build output directory**：`dist`
