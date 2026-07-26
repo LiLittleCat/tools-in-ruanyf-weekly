@@ -22,12 +22,12 @@ pnpm preview
 
 ## 部署（Cloudflare Pages）
 
-站点由 Cloudflare Pages 发布，连接本仓库的 `fumadocs` 分支：
+站点由 Cloudflare Pages 发布，生产分支为 **master**：
 
 - **Build command**：`pnpm build`
 - **Build output directory**：`dist`
 
-每周内容更新由 `.github/workflows/deploy.yml` 驱动：每周五 09:00（北京时间）触发 Cloudflare Deploy Hook 重新构建，拉取最新一期。需要配置仓库 Secret `CLOUDFLARE_DEPLOY_HOOK`（在 Cloudflare Pages 项目的 Deploy hooks 里创建）。注意 GitHub 定时任务只读取默认分支上的 workflow 文件。
+每周更新不需要额外配置：master 上的旧版 Java CI（ci.yml）每周五 09:00（北京时间）会推送 "Update contents" 提交，这个 push 自动触发 Cloudflare 重新构建，构建时克隆最新周刊源，新站即同步到最新一期。平时开发在 `fumadocs` 分支（push 会跑构建检查），合并到 master 即发布。
 
 如需部署到带子路径的地址，构建时设置 `BASE_PATH=/子路径`（Cloudflare 根域名部署不需要）。
 
