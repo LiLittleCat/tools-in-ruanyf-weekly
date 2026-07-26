@@ -33,7 +33,7 @@ export function Docs({
           title: '科技爱好者周刊',
           url: import.meta.env.BASE_URL,
         }}
-        githubUrl="https://github.com/ruanyf/weekly"
+        githubUrl="https://github.com/LiLittleCat/tools-in-ruanyf-weekly"
       >
         <DocsPage {...page}>{children}</DocsPage>
       </DocsLayout>
