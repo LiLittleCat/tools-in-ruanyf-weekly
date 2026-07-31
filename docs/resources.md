@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#资源)
+
+
+1、[How to Draw](https://www.howtodraw.ai/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073002.webp)
+
+这个网站有各种小动物的分步绘图指导，适合小朋友使用。（[@Etshop-AI](https://github.com/ruanyf/weekly/issues/10934) 投稿）
+
+2、[网页滚动的动画效果](https://scroll-driven-animations.style/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073001.webp)
+
+这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
+
+3、[学习下围棋](https://online-go.com/learn-to-play-go)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092903.webp)
+
+在线互动围棋教程，从零开始分课讲解。
+
+
 ## [科技爱好者周刊（第 405 期）：资源，社会公平与算力](https://github.com/ruanyf/weekly/blob/master/docs/issue-405.md#资源)
 ，社会公平与算力
 

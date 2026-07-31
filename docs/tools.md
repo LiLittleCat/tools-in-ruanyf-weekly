@@ -1,5 +1,69 @@
 # 工具
 
+## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#工具)
+
+
+1、[Orion](https://orionbrowser.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072701.webp)
+
+Kagi 公司推出的浏览器，支持桌面和手机，采用 WebKit 内核，同时支持 Safari、Chrome 和 Firefox 扩展程序，承诺隐私保护、零遥测和广告拦截。
+
+2、[Chirp](https://github.com/solst-ice/chirp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030503.webp)
+
+通过声音（喇叭和麦克风），发送和接收数据的一个开源工具。
+
+3、[Bento Slides](https://bento.page/slides/)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073005.webp)
+
+只需要[一个 HTML 文件](https://bento.page/)的 PowerPoint 编辑器/播放器。
+
+4、[lazyrsync](https://github.com/westpoint-io/lazyrsync)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072622.webp)
+
+为文件同步工具 rsync 添加的终端界面。（[@pobin6](https://github.com/ruanyf/weekly/issues/10830) 投稿）
+
+5、[Birth](https://github.com/iAmCorey/birth)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072623.webp)
+
+开源的 macOS 启动项管理工具，把系统里每一个后台项、守护进程和登录项收进同一个窗口，可以一键停用或移除。（[@iAmCorey](https://github.com/ruanyf/weekly/issues/10842) 投稿）
+
+6、[Linux Router](https://github.com/Jaksay/Linux-Router)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072624.webp)
+
+将 Debian 或 Armbian 设备变成路由器，并提供一个清晰的 Web 控制台。（[@Jaksay](https://github.com/ruanyf/weekly/issues/10847) 投稿）
+
+7、[RepoMirror](https://github.com/wutongyuonce/RepoMirror)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072626.webp)
+
+一个 macOS 桌面应用，将 GitHub 仓库或其中的指定目录镜像同步至本地，不必检查几十个 GitHub 项目有没有更新。（[@wutongyuonce](https://github.com/ruanyf/weekly/issues/10851) 投稿）
+
+8、[FluxDown](https://github.com/zerx-lab/FluxDown)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072704.webp)
+
+开源的多协议下载器，内置 MCP 服务器，可供 Agent 调用。（[@zerx-lab](https://github.com/ruanyf/weekly/issues/10901) 投稿）
+
+9、[米饭云盘](https://github.com/AndySkaura/mifun-storage)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073003.webp)
+
+基于 Telegram Channel 的小文件开源存储系统，适合部署为个人图床 / Markdown 图床。（[@AndySkaura](https://github.com/ruanyf/weekly/issues/10936#issuecomment-5115313857) 投稿）
+
+10、[StaticShield](https://github.com/wangshengithub/staticshield)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073004.webp)
+
+为网页加上密码保护的 JS 库，加密后只有输入密码才能访问。（[@wangshengithub](https://github.com/ruanyf/weekly/issues/10940#issuecomment-5117097770) 投稿）
+
+
 ## [科技爱好者周刊（第 405 期）：资源，社会公平与算力](https://github.com/ruanyf/weekly/blob/master/docs/issue-405.md#工具)
 
 

@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#言论)
+
+
+1、
+
+有些网站的“登录”按钮比“注册”按钮小，或者默认只显示“注册”按钮。
+
+我很讨厌这种网站，这表明他们优先考虑新用户，而不是让老用户满意。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=48971030)
+
+2、
+
+人类程序员的职责从来都不是为编写代码而编写代码，而是在面对模糊性、各种限制和变化时降低代码的风险。以前如此，不写代码的 AI 时代更是如此。
+
+-- [《无人阅读的代码》](https://www.heavybit.com/library/article/write-only-code)
+
+3、
+
+我认识很多功成名就的人，都已经退休了，但是最近重出江湖，因为 AI 带来的挑战和机遇对他们来说有着不可抗拒的吸引力。
+
+过去几十年里，他们那些零散的副业项目想法，现在突然变得切实可行了，有太多新的事物值得探索和创造。
+
+-- [Simon Willison](https://news.ycombinator.com/item?id=47152086)，著名开发者
+
+4、
+
+有人认为，现在的 CSS 是一团极度臃肿的大杂烩。我的看法恰恰相反，CSS 正尽力用人类易读的文本形式，完整地表达视觉呈现、布局设计、排版、动画、数字互动以及其他一些内容。它不是臃肿，而是极具野心。
+
+-- [Eric A. Meyer](https://mastodon.social/@Meyerweb/116065151451468199)，著名互联网开发者
+
+
 ## [科技爱好者周刊（第 405 期）：资源，社会公平与算力](https://github.com/ruanyf/weekly/blob/master/docs/issue-405.md#言论)
 
 
