@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#资源)
+
+
+1、[欧元纸币设计竞赛](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080101.webp)
+
+欧洲央行正在征集新的欧元纸币设计方案，这个网站展示了入围者的作品。你认识上面三个人吗？
+
+2、[洛杉矶像素地图](https://sf.isopolis.city)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080601.webp)
+
+像游戏《模拟城市》一样的洛杉矶像素地图，标出了主要科技公司的位置。
+
+3、[拉面馆](https://ramen.haus/japan/tokyo/classic-rekka-ramen/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080604.webp)
+
+这个网站收集世界各地日本拉面的照片。
+
+4、[宋飞正传](https://seinfeld.visualisingdata.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080603.webp)
+
+美国著名肥皂剧《宋飞正传》的可视化网站。
+
+
 ## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#资源)
 
 

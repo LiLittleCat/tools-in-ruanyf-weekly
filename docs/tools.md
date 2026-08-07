@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#工具)
+
+
+1、[Gander](https://github.com/mokshablr/gander)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080606.webp)
+
+开源的安卓应用，用来查看各种文件的内容，体积约 15MB，完全离线使用。
+
+2、[StatLite](https://github.com/PVRLabs/statlite)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080406.webp)
+
+一个开源的 Spring Boot 应用的服务器仪表板，适合个人架设。
+
+3、[presenterm](https://github.com/mfontanini/presenterm)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030902.webp)
+
+一个命令行程序，在终端播放 Markdown 文件的幻灯片。
+
+4、[Reconya](https://github.com/Dyneteq/reconya)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062703.webp)
+
+一个需要自搭建的工具，通过 Web 界面，查看局域网内所有设备和可用端口，参考[介绍文章](https://www.xda-developers.com/i-used-this-self-hosted-tool-to-scan-my-network-and-you-wont-believe-what-i-found/)。
+
+5、[Quickdraw](https://github.com/quickdrawjs/quickdraw)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080501.webp)
+
+无限画布白板 SDK，可以集成到 React、React Native 或纯 JS 应用中。（[@nmndwivedi](https://github.com/ruanyf/weekly/issues/10977) 投稿）
+
+6、[魔尺](https://github.com/regomne/magic-snake)（Rubik's Snake）
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080608.webp)
+
+一个开源的 3D 造型设计工具，在网页上设计 3D 魔尺，[在线体验](https://regomne.github.io/magic-snake)。（[@regomne](https://github.com/ruanyf/weekly/issues/11018) 投稿）
+
+7、[LiteSnap](https://github.com/HuibingLin/LiteSnap)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080609.webp)
+
+开源的 Windows 截图工具。（[@HuibingLin](https://github.com/ruanyf/weekly/issues/11048) 投稿）
+
+8、[水杉输入法](https://github.com/metasequoiaime/MetasequoiaImeTsf)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080611.webp)
+
+开源的 Windows 输入法。（[@fanlusky](https://github.com/ruanyf/weekly/issues/11040) 投稿）
+
+9、[rime vim](https://github.com/TSalmon3/rime.vim)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080612.webp)
+
+Vim/Neovim 的一个插件，能够直接输入中文，不依赖系统的中文输入法，从而可以自动补全。（[@TSalmon3](https://github.com/ruanyf/weekly/issues/11053) 投稿）
+
+10、[history4feed](https://github.com/muchdogesec/history4feed)
+
+一个自动从 Feed 抓取全文的工具，需要自己搭建服务。它本身只提供 API，参见[教程](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)。
+
+
 ## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#工具)
 
 

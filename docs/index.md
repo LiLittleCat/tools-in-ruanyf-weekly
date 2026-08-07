@@ -29,93 +29,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>406</currentVersion> -->
+<!-- <currentVersion>407</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md)
+# [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md)
 ### 工具
 
 
-1、[Orion](https://orionbrowser.com/)
+1、[Gander](https://github.com/mokshablr/gander)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080606.webp)
 
-Kagi 公司推出的浏览器，支持桌面和手机，采用 WebKit 内核，同时支持 Safari、Chrome 和 Firefox 扩展程序，承诺隐私保护、零遥测和广告拦截。
+开源的安卓应用，用来查看各种文件的内容，体积约 15MB，完全离线使用。
 
-2、[Chirp](https://github.com/solst-ice/chirp)
+2、[StatLite](https://github.com/PVRLabs/statlite)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080406.webp)
 
-通过声音（喇叭和麦克风），发送和接收数据的一个开源工具。
+一个开源的 Spring Boot 应用的服务器仪表板，适合个人架设。
 
-3、[Bento Slides](https://bento.page/slides/)
+3、[presenterm](https://github.com/mfontanini/presenterm)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073005.webp)
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030902.webp)
 
-只需要[一个 HTML 文件](https://bento.page/)的 PowerPoint 编辑器/播放器。
+一个命令行程序，在终端播放 Markdown 文件的幻灯片。
 
-4、[lazyrsync](https://github.com/westpoint-io/lazyrsync)
+4、[Reconya](https://github.com/Dyneteq/reconya)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072622.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062703.webp)
 
-为文件同步工具 rsync 添加的终端界面。（[@pobin6](https://github.com/ruanyf/weekly/issues/10830) 投稿）
+一个需要自搭建的工具，通过 Web 界面，查看局域网内所有设备和可用端口，参考[介绍文章](https://www.xda-developers.com/i-used-this-self-hosted-tool-to-scan-my-network-and-you-wont-believe-what-i-found/)。
 
-5、[Birth](https://github.com/iAmCorey/birth)
+5、[Quickdraw](https://github.com/quickdrawjs/quickdraw)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072623.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080501.webp)
 
-开源的 macOS 启动项管理工具，把系统里每一个后台项、守护进程和登录项收进同一个窗口，可以一键停用或移除。（[@iAmCorey](https://github.com/ruanyf/weekly/issues/10842) 投稿）
+无限画布白板 SDK，可以集成到 React、React Native 或纯 JS 应用中。（[@nmndwivedi](https://github.com/ruanyf/weekly/issues/10977) 投稿）
 
-6、[Linux Router](https://github.com/Jaksay/Linux-Router)
+6、[魔尺](https://github.com/regomne/magic-snake)（Rubik's Snake）
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072624.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080608.webp)
 
-将 Debian 或 Armbian 设备变成路由器，并提供一个清晰的 Web 控制台。（[@Jaksay](https://github.com/ruanyf/weekly/issues/10847) 投稿）
+一个开源的 3D 造型设计工具，在网页上设计 3D 魔尺，[在线体验](https://regomne.github.io/magic-snake)。（[@regomne](https://github.com/ruanyf/weekly/issues/11018) 投稿）
 
-7、[RepoMirror](https://github.com/wutongyuonce/RepoMirror)
+7、[LiteSnap](https://github.com/HuibingLin/LiteSnap)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072626.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080609.webp)
 
-一个 macOS 桌面应用，将 GitHub 仓库或其中的指定目录镜像同步至本地，不必检查几十个 GitHub 项目有没有更新。（[@wutongyuonce](https://github.com/ruanyf/weekly/issues/10851) 投稿）
+开源的 Windows 截图工具。（[@HuibingLin](https://github.com/ruanyf/weekly/issues/11048) 投稿）
 
-8、[FluxDown](https://github.com/zerx-lab/FluxDown)
+8、[水杉输入法](https://github.com/metasequoiaime/MetasequoiaImeTsf)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026072704.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080611.webp)
 
-开源的多协议下载器，内置 MCP 服务器，可供 Agent 调用。（[@zerx-lab](https://github.com/ruanyf/weekly/issues/10901) 投稿）
+开源的 Windows 输入法。（[@fanlusky](https://github.com/ruanyf/weekly/issues/11040) 投稿）
 
-9、[米饭云盘](https://github.com/AndySkaura/mifun-storage)
+9、[rime vim](https://github.com/TSalmon3/rime.vim)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073003.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080612.webp)
 
-基于 Telegram Channel 的小文件开源存储系统，适合部署为个人图床 / Markdown 图床。（[@AndySkaura](https://github.com/ruanyf/weekly/issues/10936#issuecomment-5115313857) 投稿）
+Vim/Neovim 的一个插件，能够直接输入中文，不依赖系统的中文输入法，从而可以自动补全。（[@TSalmon3](https://github.com/ruanyf/weekly/issues/11053) 投稿）
 
-10、[StaticShield](https://github.com/wangshengithub/staticshield)
+10、[history4feed](https://github.com/muchdogesec/history4feed)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073004.webp)
-
-为网页加上密码保护的 JS 库，加密后只有输入密码才能访问。（[@wangshengithub](https://github.com/ruanyf/weekly/issues/10940#issuecomment-5117097770) 投稿）
+一个自动从 Feed 抓取全文的工具，需要自己搭建服务。它本身只提供 API，参见[教程](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)。
 
 
 ### 资源
 
 
-1、[How to Draw](https://www.howtodraw.ai/)
+1、[欧元纸币设计竞赛](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080101.webp)
 
-这个网站有各种小动物的分步绘图指导，适合小朋友使用。（[@Etshop-AI](https://github.com/ruanyf/weekly/issues/10934) 投稿）
+欧洲央行正在征集新的欧元纸币设计方案，这个网站展示了入围者的作品。你认识上面三个人吗？
 
-2、[网页滚动的动画效果](https://scroll-driven-animations.style/)（英文）
+2、[洛杉矶像素地图](https://sf.isopolis.city)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026073001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080601.webp)
 
-这个网站收集各种网页滚动的动画效果，使用 Web Animations API (WAAPI) 和 CSS Animations API 实现。
+像游戏《模拟城市》一样的洛杉矶像素地图，标出了主要科技公司的位置。
 
-3、[学习下围棋](https://online-go.com/learn-to-play-go)
+3、[拉面馆](https://ramen.haus/japan/tokyo/classic-rekka-ramen/)
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080604.webp)
 
-在线互动围棋教程，从零开始分课讲解。
+这个网站收集世界各地日本拉面的照片。
+
+4、[宋飞正传](https://seinfeld.visualisingdata.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080603.webp)
+
+美国著名肥皂剧《宋飞正传》的可视化网站。
 
 
 ### 言论
@@ -123,31 +127,35 @@ Kagi 公司推出的浏览器，支持桌面和手机，采用 WebKit 内核，�
 
 1、
 
-有些网站的“登录”按钮比“注册”按钮小，或者默认只显示“注册”按钮。
+你的首要原则是不要骗自己，因为你是最容易被自己骗的人。
 
-我很讨厌这种网站，这表明他们优先考虑新用户，而不是让老用户满意。
-
--- [Hacker News 读者](https://news.ycombinator.com/item?id=48971030)
+-- 著名物理学家[理查德·费曼](https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html)，1974年加州理工学院毕业典礼演讲
 
 2、
 
-人类程序员的职责从来都不是为编写代码而编写代码，而是在面对模糊性、各种限制和变化时降低代码的风险。以前如此，不写代码的 AI 时代更是如此。
+我确信2026年将是最后一次人类独揽菲尔兹奖，下一批获奖者都将与 AI 合作撰写论文。
 
--- [《无人阅读的代码》](https://www.heavybit.com/library/article/write-only-code)
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=48906573)
 
 3、
 
-我认识很多功成名就的人，都已经退休了，但是最近重出江湖，因为 AI 带来的挑战和机遇对他们来说有着不可抗拒的吸引力。
+我把华硕路由器换成 Ubiquiti 路由器，哇，差别太大了！Ubiquiti 的用户界面/用户体验设计得非常人性化，让人感觉他们很乐于我来使用他们的产品，而不是指望我去查手册才能操作。
 
-过去几十年里，他们那些零散的副业项目想法，现在突然变得切实可行了，有太多新的事物值得探索和创造。
-
--- [Simon Willison](https://news.ycombinator.com/item?id=47152086)，著名开发者
+-- [《我的家庭实验室的全面改造》](https://timharek.no/blog/kaizen-4/)
 
 4、
 
-有人认为，现在的 CSS 是一团极度臃肿的大杂烩。我的看法恰恰相反，CSS 正尽力用人类易读的文本形式，完整地表达视觉呈现、布局设计、排版、动画、数字互动以及其他一些内容。它不是臃肿，而是极具野心。
+对于普通任务，使用功能最强大、价格最昂贵的 AI 模型，就好像开着兰博基尼去杂货店买牛奶。
 
--- [Eric A. Meyer](https://mastodon.social/@Meyerweb/116065151451468199)，著名互联网开发者
+-- [《华尔街日报》](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
+
+5、
+
+现在只需几秒钟，AI 就能找到代码错误，或者读取整本使用手册。这些都节省了过去浪费在无意义学习、手工输入的大量时间。
+
+与此同时，AI 也让我们失去了一些东西，就是那种你必须仔细阅读、理解每一行代码的投入。你有捷径可走，就不会下苦功专研了。
+
+-- [《80年代的编程体验》](https://comuniq.xyz/post?t=1439)
 
 
 <!-- End -->

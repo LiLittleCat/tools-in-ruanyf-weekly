@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#言论)
+
+
+1、
+
+你的首要原则是不要骗自己，因为你是最容易被自己骗的人。
+
+-- 著名物理学家[理查德·费曼](https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html)，1974年加州理工学院毕业典礼演讲
+
+2、
+
+我确信2026年将是最后一次人类独揽菲尔兹奖，下一批获奖者都将与 AI 合作撰写论文。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=48906573)
+
+3、
+
+我把华硕路由器换成 Ubiquiti 路由器，哇，差别太大了！Ubiquiti 的用户界面/用户体验设计得非常人性化，让人感觉他们很乐于我来使用他们的产品，而不是指望我去查手册才能操作。
+
+-- [《我的家庭实验室的全面改造》](https://timharek.no/blog/kaizen-4/)
+
+4、
+
+对于普通任务，使用功能最强大、价格最昂贵的 AI 模型，就好像开着兰博基尼去杂货店买牛奶。
+
+-- [《华尔街日报》](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
+
+5、
+
+现在只需几秒钟，AI 就能找到代码错误，或者读取整本使用手册。这些都节省了过去浪费在无意义学习、手工输入的大量时间。
+
+与此同时，AI 也让我们失去了一些东西，就是那种你必须仔细阅读、理解每一行代码的投入。你有捷径可走，就不会下苦功专研了。
+
+-- [《80年代的编程体验》](https://comuniq.xyz/post?t=1439)
+
+
 ## [科技爱好者周刊（第 406 期）：道可，道非，常道](https://github.com/ruanyf/weekly/blob/master/docs/issue-406.md#言论)
 
 
