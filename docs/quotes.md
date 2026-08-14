@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#言论)
+
+
+1、
+
+AI 省下的时间，不是用来休假的，而是应该用来开发更多产品。你们正在做这个星球上最令人兴奋的事情。
+
+-- [Andrew Bosworth](https://finance.sina.cn/7x24/2026-08-09/detail-inimsssr1991323.d.html)，Meta 公司 CTO 回答员工的提问，关于 AI 带来的生产力提升是否可以转化为更多的休假时间的。
+
+2、
+
+一些人试图将蒸馏描述为有害行为，但我认为，应当保护“可以从任何能够观察到的事物中学习”这一原则。
+
+-- [扎克伯格](https://finance.sina.cn/7x24/2026-08-11/detail-inimxrnq5879406.d.html)，Meta 公司创始人
+
+3、
+
+有很多理由在本地运行大模型，但省钱不在其中。
+
+目前，OpenCode Go 套餐的用户，平均每天花费1.14美元，来运行 DeepSeek Flash v4。同样的功能在本地运行，你需要使用双 DGX 架构，即使每天费用翻上10倍，也需要 24 年才能收回成本。
+
+-- [Dax Raad](https://x.com/thdxr/status/2086599224674681242)，OpenCode 创始人
+
+4、
+
+你不接受某种想法，但仍然愿意对其进行思考，这是受过良好教育的标志。
+
+-- [亚里士多德](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
+
+
 ## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#言论)
 
 

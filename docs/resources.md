@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#资源)
+
+
+1、[昆虫世界](https://github.com/xr843/insect-world)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081303.webp)
+
+60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。（[@xr843](https://github.com/ruanyf/weekly/issues/11135) 投稿）
+
+2、[图解分布式系统原理](https://github.com/ruanyf/weekly/issues/11121)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081204.webp)
+
+本系列采用图示和直观解释的方式，深入探讨分布式系统背后的核心思想。（[@lichuang](https://github.com/ruanyf/weekly/issues/11121) 投稿）
+
+3、[吹口哨练习器](https://howtowhistle.org/zh)（HowToWhistle）
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081205.webp)
+
+练习吹口哨的在线工具，实时检测你吹出的音高，显示当前音符以及与目标音的偏差。（[@0647-cyber](https://github.com/ruanyf/weekly/issues/11127) 投稿）
+
+
 ## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#资源)
 
 

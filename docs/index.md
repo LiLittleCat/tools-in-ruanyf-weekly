@@ -29,97 +29,79 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>407</currentVersion> -->
+<!-- <currentVersion>408</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md)
+# [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md)
 ### 工具
 
 
-1、[Gander](https://github.com/mokshablr/gander)
+1、[Docker 沙箱](https://www.docker.com/products/docker-sandboxes/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080606.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081307.webp)
 
-开源的安卓应用，用来查看各种文件的内容，体积约 15MB，完全离线使用。
+Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agent 在里面运行，跟底层系统隔离。
 
-2、[StatLite](https://github.com/PVRLabs/statlite)
+2、[CertMate](https://github.com/fabriziosalmi/certmate)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080406.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070101.webp)
 
-一个开源的 Spring Boot 应用的服务器仪表板，适合个人架设。
+一个自搭建的 SSL 证书管理系统，可以自动申请证书，支持多家云服务商。
 
-3、[presenterm](https://github.com/mfontanini/presenterm)
+3、[crontab guru Dashboard](https://crontab.guru/dashboard.html)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025030902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063001.webp)
 
-一个命令行程序，在终端播放 Markdown 文件的幻灯片。
+这个工具让你用图形界面，来管理 Cron 任务。
 
-4、[Reconya](https://github.com/Dyneteq/reconya)
+4、[trash-cli](https://github.com/andreafrancia/trash-cli)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062703.webp)
+一个 Linux 命令行程序，提供回收箱功能，保存已删除的文件，以备将来恢复，参考[介绍文章](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)。
 
-一个需要自搭建的工具，通过 Web 界面，查看局域网内所有设备和可用端口，参考[介绍文章](https://www.xda-developers.com/i-used-this-self-hosted-tool-to-scan-my-network-and-you-wont-believe-what-i-found/)。
+5、[LeePanel](https://github.com/gna1280072/LeePanel)
 
-5、[Quickdraw](https://github.com/quickdrawjs/quickdraw)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080501.webp)
+安装在本地计算机的远程服务器管理面板，所有操作都由 SSH 操作完成，不需要在服务器安装任何东西。（[@gna1280072](https://github.com/ruanyf/weekly/issues/11083) 投稿）
 
-无限画布白板 SDK，可以集成到 React、React Native 或纯 JS 应用中。（[@nmndwivedi](https://github.com/ruanyf/weekly/issues/10977) 投稿）
+6、[MarkCard Studio](https://github.com/pangxiaobin/MarkCardStudio)
 
-6、[魔尺](https://github.com/regomne/magic-snake)（Rubik's Snake）
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081002.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080608.webp)
+将 Markdown 文本转成分享卡片，提供16套内置主题，可以自动分页、排版，一次导出整套图片或 PDF。（[@pangxiaobin](https://github.com/ruanyf/weekly/issues/11097) 投稿）
 
-一个开源的 3D 造型设计工具，在网页上设计 3D 魔尺，[在线体验](https://regomne.github.io/magic-snake)。（[@regomne](https://github.com/ruanyf/weekly/issues/11018) 投稿）
+7、[日全食 3D 模拟器](https://github.com/DophinL/solar-eclipse-2026-simulator)
 
-7、[LiteSnap](https://github.com/HuibingLin/LiteSnap)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080609.webp)
+在地图上模拟2026年8月12日的日全食，查看指定地点什么时候开始日食、食甚和结束，以及天空的样子。（[@DophinL](https://github.com/ruanyf/weekly/issues/11136) 投稿）
 
-开源的 Windows 截图工具。（[@HuibingLin](https://github.com/ruanyf/weekly/issues/11048) 投稿）
+8、[DBX](https://github.com/t8y2/dbx)
 
-8、[水杉输入法](https://github.com/metasequoiaime/MetasequoiaImeTsf)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080611.webp)
-
-开源的 Windows 输入法。（[@fanlusky](https://github.com/ruanyf/weekly/issues/11040) 投稿）
-
-9、[rime vim](https://github.com/TSalmon3/rime.vim)
-
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080612.webp)
-
-Vim/Neovim 的一个插件，能够直接输入中文，不依赖系统的中文输入法，从而可以自动补全。（[@TSalmon3](https://github.com/ruanyf/weekly/issues/11053) 投稿）
-
-10、[history4feed](https://github.com/muchdogesec/history4feed)
-
-一个自动从 Feed 抓取全文的工具，需要自己搭建服务。它本身只提供 API，参见[教程](https://www.dogesec.com/blog/full_text_rss_atom_blog_feeds/)。
+轻量级跨平台的数据库管理工具，支持79余种数据库，并且可以接入 AI 与 MCP。（[@t8y2](https://github.com/ruanyf/weekly/issues/11143) 投稿）
 
 
 ### 资源
 
 
-1、[欧元纸币设计竞赛](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
+1、[昆虫世界](https://github.com/xr843/insect-world)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081303.webp)
 
-欧洲央行正在征集新的欧元纸币设计方案，这个网站展示了入围者的作品。你认识上面三个人吗？
+60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。（[@xr843](https://github.com/ruanyf/weekly/issues/11135) 投稿）
 
-2、[洛杉矶像素地图](https://sf.isopolis.city)
+2、[图解分布式系统原理](https://github.com/ruanyf/weekly/issues/11121)（中文）
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081204.webp)
 
-像游戏《模拟城市》一样的洛杉矶像素地图，标出了主要科技公司的位置。
+本系列采用图示和直观解释的方式，深入探讨分布式系统背后的核心思想。（[@lichuang](https://github.com/ruanyf/weekly/issues/11121) 投稿）
 
-3、[拉面馆](https://ramen.haus/japan/tokyo/classic-rekka-ramen/)
+3、[吹口哨练习器](https://howtowhistle.org/zh)（HowToWhistle）
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081205.webp)
 
-这个网站收集世界各地日本拉面的照片。
-
-4、[宋飞正传](https://seinfeld.visualisingdata.com/)
-
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026080603.webp)
-
-美国著名肥皂剧《宋飞正传》的可视化网站。
+练习吹口哨的在线工具，实时检测你吹出的音高，显示当前音符以及与目标音的偏差。（[@0647-cyber](https://github.com/ruanyf/weekly/issues/11127) 投稿）
 
 
 ### 言论
@@ -127,35 +109,29 @@ Vim/Neovim 的一个插件，能够直接输入中文，不依赖系统的中文
 
 1、
 
-你的首要原则是不要骗自己，因为你是最容易被自己骗的人。
+AI 省下的时间，不是用来休假的，而是应该用来开发更多产品。你们正在做这个星球上最令人兴奋的事情。
 
--- 著名物理学家[理查德·费曼](https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html)，1974年加州理工学院毕业典礼演讲
+-- [Andrew Bosworth](https://finance.sina.cn/7x24/2026-08-09/detail-inimsssr1991323.d.html)，Meta 公司 CTO 回答员工的提问，关于 AI 带来的生产力提升是否可以转化为更多的休假时间的。
 
 2、
 
-我确信2026年将是最后一次人类独揽菲尔兹奖，下一批获奖者都将与 AI 合作撰写论文。
+一些人试图将蒸馏描述为有害行为，但我认为，应当保护“可以从任何能够观察到的事物中学习”这一原则。
 
--- [Hacker News 读者](https://news.ycombinator.com/item?id=48906573)
+-- [扎克伯格](https://finance.sina.cn/7x24/2026-08-11/detail-inimxrnq5879406.d.html)，Meta 公司创始人
 
 3、
 
-我把华硕路由器换成 Ubiquiti 路由器，哇，差别太大了！Ubiquiti 的用户界面/用户体验设计得非常人性化，让人感觉他们很乐于我来使用他们的产品，而不是指望我去查手册才能操作。
+有很多理由在本地运行大模型，但省钱不在其中。
 
--- [《我的家庭实验室的全面改造》](https://timharek.no/blog/kaizen-4/)
+目前，OpenCode Go 套餐的用户，平均每天花费1.14美元，来运行 DeepSeek Flash v4。同样的功能在本地运行，你需要使用双 DGX 架构，即使每天费用翻上10倍，也需要 24 年才能收回成本。
+
+-- [Dax Raad](https://x.com/thdxr/status/2086599224674681242)，OpenCode 创始人
 
 4、
 
-对于普通任务，使用功能最强大、价格最昂贵的 AI 模型，就好像开着兰博基尼去杂货店买牛奶。
+你不接受某种想法，但仍然愿意对其进行思考，这是受过良好教育的标志。
 
--- [《华尔街日报》](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
-
-5、
-
-现在只需几秒钟，AI 就能找到代码错误，或者读取整本使用手册。这些都节省了过去浪费在无意义学习、手工输入的大量时间。
-
-与此同时，AI 也让我们失去了一些东西，就是那种你必须仔细阅读、理解每一行代码的投入。你有捷径可走，就不会下苦功专研了。
-
--- [《80年代的编程体验》](https://comuniq.xyz/post?t=1439)
+-- [亚里士多德](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
 
 
 <!-- End -->

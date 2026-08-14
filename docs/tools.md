@@ -1,5 +1,55 @@
 # 工具
 
+## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#工具)
+
+
+1、[Docker 沙箱](https://www.docker.com/products/docker-sandboxes/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081307.webp)
+
+Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agent 在里面运行，跟底层系统隔离。
+
+2、[CertMate](https://github.com/fabriziosalmi/certmate)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070101.webp)
+
+一个自搭建的 SSL 证书管理系统，可以自动申请证书，支持多家云服务商。
+
+3、[crontab guru Dashboard](https://crontab.guru/dashboard.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063001.webp)
+
+这个工具让你用图形界面，来管理 Cron 任务。
+
+4、[trash-cli](https://github.com/andreafrancia/trash-cli)
+
+一个 Linux 命令行程序，提供回收箱功能，保存已删除的文件，以备将来恢复，参考[介绍文章](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)。
+
+5、[LeePanel](https://github.com/gna1280072/LeePanel)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081001.webp)
+
+安装在本地计算机的远程服务器管理面板，所有操作都由 SSH 操作完成，不需要在服务器安装任何东西。（[@gna1280072](https://github.com/ruanyf/weekly/issues/11083) 投稿）
+
+6、[MarkCard Studio](https://github.com/pangxiaobin/MarkCardStudio)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081002.webp)
+
+将 Markdown 文本转成分享卡片，提供16套内置主题，可以自动分页、排版，一次导出整套图片或 PDF。（[@pangxiaobin](https://github.com/ruanyf/weekly/issues/11097) 投稿）
+
+7、[日全食 3D 模拟器](https://github.com/DophinL/solar-eclipse-2026-simulator)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081301.webp)
+
+在地图上模拟2026年8月12日的日全食，查看指定地点什么时候开始日食、食甚和结束，以及天空的样子。（[@DophinL](https://github.com/ruanyf/weekly/issues/11136) 投稿）
+
+8、[DBX](https://github.com/t8y2/dbx)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081302.webp)
+
+轻量级跨平台的数据库管理工具，支持79余种数据库，并且可以接入 AI 与 MCP。（[@t8y2](https://github.com/ruanyf/weekly/issues/11143) 投稿）
+
+
 ## [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](https://github.com/ruanyf/weekly/blob/master/docs/issue-407.md#工具)
 
 
