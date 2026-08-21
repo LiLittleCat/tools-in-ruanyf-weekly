@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#工具)
+
+
+1、[Beszel](https://github.com/henrygd/beszel)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081501.webp)
+
+轻量级服务器监控工具，包含 Docker 统计信息、历史数据和警报功能，支持自动备份、多用户、OAuth 身份验证和 API 访问。
+
+2、[microlighter](https://davatron5000.github.io/microlighter/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082002.webp)
+
+一个轻量级的代码高亮 JS 库，压缩后只有 2KB，使用了 CSS 的 [Custom Highlight API](https://drafts.csswg.org/css-highlight-api-1/)。
+
+3、[dgit](https://github.com/littledivy/dgit)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082006.webp)
+
+为个人的 Git 仓库添加网页界面。
+
+4、[Bython](https://pypi.org/project/Bython/)
+
+这个工具使用大括号替代 Python 代码的缩进，适合那些不喜欢每一行开头都要按 Tab 键的程序员。
+
+5、[LibreDB Studio](https://github.com/libredb/libredb-studio)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081901.webp)
+
+在浏览器里面使用的开源 SQL IDE，可以连接各种数据库。（[@yusuf-gundogdu](https://github.com/ruanyf/weekly/issues/11212) 投稿）
+
+6、[shotsync](https://github.com/Defiabell/shotsync)
+
+部署在 Cloudflare 的免费图片/文字中转池，方便在不同设备之间分享内容。（[@Defiabell](https://github.com/ruanyf/weekly/issues/11227) 投稿）
+
+7、[悟空图片转 SVG 工具](https://github.com/goku-open/goku-image-to-svg-tool)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081903.webp)
+
+开源的各种图像转 SVG 矢量图的网页工具。（[@gokuscraper](https://github.com/ruanyf/weekly/issues/11249) 投稿）
+
+8、[Gitu](https://github.com/altsem/gitu)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061705.webp)
+
+一个基于终端的 Git 图形客户端，比较清晰简单。
+
+9、[Dbmate](https://github.com/amacneil/dbmate)
+
+一个轻量级的数据库迁移工具，支持各种主流数据库。
+
+10、[lnav](https://lnav.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061901.webp)
+
+一个基于终端的日志文件查看器，支持搜索、过滤和查询日志文件。
+
+
 ## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#工具)
 
 

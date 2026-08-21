@@ -1,5 +1,39 @@
 # 资源
 
+## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#资源)
+
+
+1、[midipiano.app](https://midipiano.app/zh/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081902.webp)
+
+免费的网页版练钢琴应用，电脑连接 MIDI 键盘直接弹，网页显示实时反馈。（[@noxss](https://github.com/ruanyf/weekly/issues/11225) 投稿）
+
+2、[线性代数应该这样学](https://linear.axler.net/)（Linear Algebra Done Right）
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082008.webp)
+
+免费的中文版线性代数教程。
+
+3、[Flexport Atlas](https://atlas.flexport.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030205.webp)
+
+这个网站在地图上实时显示大型货轮的位置。
+
+4、[插头和插座博物馆](https://plugsocketmuseum.nl)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022701.webp)
+
+这个网站收集世界各地的插头和插座资料。
+
+5、[Cure Dolly](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061601.webp)
+
+一个英文的日语教程。
+
+
 ## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#资源)
 
 

@@ -1,5 +1,37 @@
 # 言论
 
+## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#言论)
+
+
+1、
+
+红皇后是小说《爱丽丝镜中奇遇记》的虚构人物，她说过一句名言：“你拼命奔跑，也只能留在原地。”
+
+这被称为“红皇后效应”，用来描述进化生物学的一种假说：物种必须时刻保持进化，才能在物种的竞争中生存下来。
+
+现在，AI 领域似乎也出现了“红皇后效应”，每一种大模型都必须保持进化，一刻也不能停，才能在激烈竞争中生存下来。
+
+-- [《AI 的红皇后效应》](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
+
+2、
+
+我之前读到过，动物（包括人类）的群体行为可以用两个非常简单的规则来解释：1）每个个体尽量跟上群体，2）个体之间尽量避免碰撞。
+
+-- [《模拟群体行为》](https://community.wolfram.com/groups/-/m/t/122095)
+
+3、
+
+互联网最初的设想，只是 `/var/ww/html`目录里面几个 HTML 文件，谁能想到后来竟变成了如今这样复杂的软件和内容管理系统。
+
+-- [《网站管理员的宣言》](https://brennan.day/webmaster-a-manifesto-for-everyone/)
+
+4、
+
+拖延症患者安慰自己的方法：如果拖延解决问题的时间足够长，或许别人就会帮你解决了。
+
+-- [claytonwramsey.com](https://claytonwramsey.com/blog/mvt/)
+
+
 ## [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md#言论)
 
 

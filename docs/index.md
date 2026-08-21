@@ -29,79 +29,99 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>408</currentVersion> -->
+<!-- <currentVersion>409</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](https://github.com/ruanyf/weekly/blob/master/docs/issue-408.md)
+# [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md)
 ### 工具
 
 
-1、[Docker 沙箱](https://www.docker.com/products/docker-sandboxes/)
+1、[Beszel](https://github.com/henrygd/beszel)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081307.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081501.webp)
 
-Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agent 在里面运行，跟底层系统隔离。
+轻量级服务器监控工具，包含 Docker 统计信息、历史数据和警报功能，支持自动备份、多用户、OAuth 身份验证和 API 访问。
 
-2、[CertMate](https://github.com/fabriziosalmi/certmate)
+2、[microlighter](https://davatron5000.github.io/microlighter/)
 
-![](https://cdn.beekka.com/blogimg/asset/202507/bg2025070101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082002.webp)
 
-一个自搭建的 SSL 证书管理系统，可以自动申请证书，支持多家云服务商。
+一个轻量级的代码高亮 JS 库，压缩后只有 2KB，使用了 CSS 的 [Custom Highlight API](https://drafts.csswg.org/css-highlight-api-1/)。
 
-3、[crontab guru Dashboard](https://crontab.guru/dashboard.html)
+3、[dgit](https://github.com/littledivy/dgit)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025063001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082006.webp)
 
-这个工具让你用图形界面，来管理 Cron 任务。
+为个人的 Git 仓库添加网页界面。
 
-4、[trash-cli](https://github.com/andreafrancia/trash-cli)
+4、[Bython](https://pypi.org/project/Bython/)
 
-一个 Linux 命令行程序，提供回收箱功能，保存已删除的文件，以备将来恢复，参考[介绍文章](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)。
+这个工具使用大括号替代 Python 代码的缩进，适合那些不喜欢每一行开头都要按 Tab 键的程序员。
 
-5、[LeePanel](https://github.com/gna1280072/LeePanel)
+5、[LibreDB Studio](https://github.com/libredb/libredb-studio)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081901.webp)
 
-安装在本地计算机的远程服务器管理面板，所有操作都由 SSH 操作完成，不需要在服务器安装任何东西。（[@gna1280072](https://github.com/ruanyf/weekly/issues/11083) 投稿）
+在浏览器里面使用的开源 SQL IDE，可以连接各种数据库。（[@yusuf-gundogdu](https://github.com/ruanyf/weekly/issues/11212) 投稿）
 
-6、[MarkCard Studio](https://github.com/pangxiaobin/MarkCardStudio)
+6、[shotsync](https://github.com/Defiabell/shotsync)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081002.webp)
+部署在 Cloudflare 的免费图片/文字中转池，方便在不同设备之间分享内容。（[@Defiabell](https://github.com/ruanyf/weekly/issues/11227) 投稿）
 
-将 Markdown 文本转成分享卡片，提供16套内置主题，可以自动分页、排版，一次导出整套图片或 PDF。（[@pangxiaobin](https://github.com/ruanyf/weekly/issues/11097) 投稿）
+7、[悟空图片转 SVG 工具](https://github.com/goku-open/goku-image-to-svg-tool)
 
-7、[日全食 3D 模拟器](https://github.com/DophinL/solar-eclipse-2026-simulator)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081301.webp)
+开源的各种图像转 SVG 矢量图的网页工具。（[@gokuscraper](https://github.com/ruanyf/weekly/issues/11249) 投稿）
 
-在地图上模拟2026年8月12日的日全食，查看指定地点什么时候开始日食、食甚和结束，以及天空的样子。（[@DophinL](https://github.com/ruanyf/weekly/issues/11136) 投稿）
+8、[Gitu](https://github.com/altsem/gitu)
 
-8、[DBX](https://github.com/t8y2/dbx)
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061705.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081302.webp)
+一个基于终端的 Git 图形客户端，比较清晰简单。
 
-轻量级跨平台的数据库管理工具，支持79余种数据库，并且可以接入 AI 与 MCP。（[@t8y2](https://github.com/ruanyf/weekly/issues/11143) 投稿）
+9、[Dbmate](https://github.com/amacneil/dbmate)
+
+一个轻量级的数据库迁移工具，支持各种主流数据库。
+
+10、[lnav](https://lnav.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061901.webp)
+
+一个基于终端的日志文件查看器，支持搜索、过滤和查询日志文件。
 
 
 ### 资源
 
 
-1、[昆虫世界](https://github.com/xr843/insect-world)
+1、[midipiano.app](https://midipiano.app/zh/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081303.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081902.webp)
 
-60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。（[@xr843](https://github.com/ruanyf/weekly/issues/11135) 投稿）
+免费的网页版练钢琴应用，电脑连接 MIDI 键盘直接弹，网页显示实时反馈。（[@noxss](https://github.com/ruanyf/weekly/issues/11225) 投稿）
 
-2、[图解分布式系统原理](https://github.com/ruanyf/weekly/issues/11121)（中文）
+2、[线性代数应该这样学](https://linear.axler.net/)（Linear Algebra Done Right）
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081204.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082008.webp)
 
-本系列采用图示和直观解释的方式，深入探讨分布式系统背后的核心思想。（[@lichuang](https://github.com/ruanyf/weekly/issues/11121) 投稿）
+免费的中文版线性代数教程。
 
-3、[吹口哨练习器](https://howtowhistle.org/zh)（HowToWhistle）
+3、[Flexport Atlas](https://atlas.flexport.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030205.webp)
 
-练习吹口哨的在线工具，实时检测你吹出的音高，显示当前音符以及与目标音的偏差。（[@0647-cyber](https://github.com/ruanyf/weekly/issues/11127) 投稿）
+这个网站在地图上实时显示大型货轮的位置。
+
+4、[插头和插座博物馆](https://plugsocketmuseum.nl)
+
+![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022701.webp)
+
+这个网站收集世界各地的插头和插座资料。
+
+5、[Cure Dolly](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061601.webp)
+
+一个英文的日语教程。
 
 
 ### 言论
@@ -109,29 +129,31 @@ Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agen
 
 1、
 
-AI 省下的时间，不是用来休假的，而是应该用来开发更多产品。你们正在做这个星球上最令人兴奋的事情。
+红皇后是小说《爱丽丝镜中奇遇记》的虚构人物，她说过一句名言：“你拼命奔跑，也只能留在原地。”
 
--- [Andrew Bosworth](https://finance.sina.cn/7x24/2026-08-09/detail-inimsssr1991323.d.html)，Meta 公司 CTO 回答员工的提问，关于 AI 带来的生产力提升是否可以转化为更多的休假时间的。
+这被称为“红皇后效应”，用来描述进化生物学的一种假说：物种必须时刻保持进化，才能在物种的竞争中生存下来。
+
+现在，AI 领域似乎也出现了“红皇后效应”，每一种大模型都必须保持进化，一刻也不能停，才能在激烈竞争中生存下来。
+
+-- [《AI 的红皇后效应》](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
 
 2、
 
-一些人试图将蒸馏描述为有害行为，但我认为，应当保护“可以从任何能够观察到的事物中学习”这一原则。
+我之前读到过，动物（包括人类）的群体行为可以用两个非常简单的规则来解释：1）每个个体尽量跟上群体，2）个体之间尽量避免碰撞。
 
--- [扎克伯格](https://finance.sina.cn/7x24/2026-08-11/detail-inimxrnq5879406.d.html)，Meta 公司创始人
+-- [《模拟群体行为》](https://community.wolfram.com/groups/-/m/t/122095)
 
 3、
 
-有很多理由在本地运行大模型，但省钱不在其中。
+互联网最初的设想，只是 `/var/ww/html`目录里面几个 HTML 文件，谁能想到后来竟变成了如今这样复杂的软件和内容管理系统。
 
-目前，OpenCode Go 套餐的用户，平均每天花费1.14美元，来运行 DeepSeek Flash v4。同样的功能在本地运行，你需要使用双 DGX 架构，即使每天费用翻上10倍，也需要 24 年才能收回成本。
-
--- [Dax Raad](https://x.com/thdxr/status/2086599224674681242)，OpenCode 创始人
+-- [《网站管理员的宣言》](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 
 4、
 
-你不接受某种想法，但仍然愿意对其进行思考，这是受过良好教育的标志。
+拖延症患者安慰自己的方法：如果拖延解决问题的时间足够长，或许别人就会帮你解决了。
 
--- [亚里士多德](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
+-- [claytonwramsey.com](https://claytonwramsey.com/blog/mvt/)
 
 
 <!-- End -->
