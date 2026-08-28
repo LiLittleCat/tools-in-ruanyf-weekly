@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#资源)
+
+
+1、[星舰基地](https://www.spacex.com/sites/starbase-la)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082603.webp)
+
+SpaceX 公司要在路易斯安那州新建一个“星舰基地”，这是它的官网，看上去就像科幻电影一样。
+
+2、[漫游旧金山](https://sf.thijs.gg/)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082503.webp)
+
+一款网页游戏，让用户在实景的旧金山街景地图上漫游，可以指定地点，非常酷。
+
+3、[城市道路](https://anvaka.github.io/city-roads/)（city road）
+
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122612.webp)
+
+这个网站可以将某个城市的所有道路，变成一张线条图，支持缩放。
+
+
 ## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#资源)
 
 

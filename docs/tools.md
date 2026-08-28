@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#工具)
+
+
+1、[Vanilla OS 3](https://vanillaos.org)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082601.webp)
+
+一个基于 Debian 的 Linux 发行版，实现不可变（immutable）系统，所有操作都是原子化（atomic）操作。（[@NN708](https://github.com/ruanyf/weekly/issues/11356) 投稿）
+
+2、[stock-tui](https://github.com/Folgerjun/stock-tui)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082602.webp)
+
+终端查看 A 股 K 线图、市盈率、成交量的小工具。（[@Folgerjun](https://github.com/ruanyf/weekly/issues/11354) 投稿）
+
+3、[Dark mode PDFs](https://veil.simoneamico.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032702.webp)
+
+一个很有意思的小工具网站，将上传的 PDF 文件反转颜色，即白底黑字变成黑底白字。
+
+4、[Termio](https://github.com/termio-sh/termio)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082410.webp)
+
+mac 版的 AI 编程开发环境（ADE），有配套的 iPhone 版本。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/11273) 投稿）
+
+5、[PicLite](https://github.com/amiaoapp/PicLite)（图轻）
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082411.webp)
+
+跨平台的图片压缩工具，支持本地文件夹监控、图片格式转换、批量压缩、添加水印、上传图床等功能。（[@amiaoapp](https://github.com/ruanyf/weekly/issues/11290) 投稿）
+
+6、[Multi-Row Tabs](https://github.com/hezhizheng/multi-row-tabs)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082412.webp)
+
+这个 Chrome 插件以多行平铺的形式，显示当前窗口的所有标签页。（[@hezhizheng](https://github.com/ruanyf/weekly/issues/11310) 投稿）
+
+7、[InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader)
+
+开源的电子发票整理与报销的桌面工具，连接用户自己的 QQ 或 163 邮箱，批量收集邮件中的发票，完成 OCR 识别、分类归档，并生成 Excel 汇总。（[@EthanYoQ](https://github.com/ruanyf/weekly/issues/11327) 投稿）
+
+8、[CozyClay](https://github.com/NomaDamas/CozyClay)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082501.webp)
+
+在浏览器中搭建场景框架、摆放角色姿势、编写镜头运动和剪辑，然后交给 AI 视频模型更准确生成视频。（[@HaD0Yun](https://github.com/ruanyf/weekly/issues/11329) 投稿）
+
+9、[Email.md](https://www.emailmd.dev/templates)
+
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032801.webp)
+
+这个网站提供电子邮件模板，用户只需填入 MarkDown 格式，就会生成一封格式化的电子邮件。
+
+10、[Minimalytics](https://github.com/nafey/minimalytics)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032101.webp)
+
+一个统计服务器，记录和监控各种事件，基于 Go 语言和 SQLite 数据库，内置 Web 界面。
+
+
 ## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#工具)
 
 

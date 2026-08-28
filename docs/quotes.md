@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#言论)
+
+
+1、
+
+一个人有教养的表现，就是他可以享受最好的，也可以承受最差的。
+
+--[唐师曾](https://news.pku.edu.cn/xwzh/129-116805.htm)，本周去世的著名记者
+
+2、
+
+我们的世界并不是一个常常设身处地为他人着想的世界。但是，如果你能够做到，向一个10岁的孩子解释世界，或者设计一个80岁的老人可以打开的罐子，有时会让你更好地完成最初想要做的事情。
+
+-- [《请用10岁小孩都能听懂的方式向我解释》](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
+
+3、
+
+有人写了一篇《值班已成往事》，提出应该让 AI 来值班。只有当 AI 无法解决问题时，才应该让人类接手，而且应该由 AI 来呼叫人类。
+
+-- [《与 AI 相关的可靠性事故即将发生》](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
+
+4、
+
+人们逐渐意识到，如果使用 AI 学习新知识，学习速度比传统方法快得多，因为 AI 非常擅长概括大量不同的信息。
+
+但是，通过 AI 学习，大脑没有积极参与学习过程，对知识的理解和记忆不如传统方法。人脑的运作方式决定了，螺旋式学习是记忆知识的最佳方法之一。AI 直接给出了结果，让我们省略了中间的反复思考的步骤。
+
+-- [《AI 和司机式知识》](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
+
+5、
+
+如果房价暴跌，我会遭受损失，但也又有好处：我的孩子能住上更便宜的房子。没错，他们继承的遗产会减少，但他们将终生享受更便宜的住房。
+
+-- [《CD 与邻避效应》](https://www.betonit.ai/p/cds-vs-nimby)
+
+
 ## [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md#言论)
 
 

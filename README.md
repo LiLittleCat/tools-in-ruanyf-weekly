@@ -29,99 +29,91 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>409</currentVersion> -->
+<!-- <currentVersion>410</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 409 期）：程序员的职业未来](https://github.com/ruanyf/weekly/blob/master/docs/issue-409.md)
+# [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md)
 ### 工具
 
 
-1、[Beszel](https://github.com/henrygd/beszel)
+1、[Vanilla OS 3](https://vanillaos.org)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081501.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082601.webp)
 
-轻量级服务器监控工具，包含 Docker 统计信息、历史数据和警报功能，支持自动备份、多用户、OAuth 身份验证和 API 访问。
+一个基于 Debian 的 Linux 发行版，实现不可变（immutable）系统，所有操作都是原子化（atomic）操作。（[@NN708](https://github.com/ruanyf/weekly/issues/11356) 投稿）
 
-2、[microlighter](https://davatron5000.github.io/microlighter/)
+2、[stock-tui](https://github.com/Folgerjun/stock-tui)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082602.webp)
 
-一个轻量级的代码高亮 JS 库，压缩后只有 2KB，使用了 CSS 的 [Custom Highlight API](https://drafts.csswg.org/css-highlight-api-1/)。
+终端查看 A 股 K 线图、市盈率、成交量的小工具。（[@Folgerjun](https://github.com/ruanyf/weekly/issues/11354) 投稿）
 
-3、[dgit](https://github.com/littledivy/dgit)
+3、[Dark mode PDFs](https://veil.simoneamico.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082006.webp)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032702.webp)
 
-为个人的 Git 仓库添加网页界面。
+一个很有意思的小工具网站，将上传的 PDF 文件反转颜色，即白底黑字变成黑底白字。
 
-4、[Bython](https://pypi.org/project/Bython/)
+4、[Termio](https://github.com/termio-sh/termio)
 
-这个工具使用大括号替代 Python 代码的缩进，适合那些不喜欢每一行开头都要按 Tab 键的程序员。
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082410.webp)
 
-5、[LibreDB Studio](https://github.com/libredb/libredb-studio)
+mac 版的 AI 编程开发环境（ADE），有配套的 iPhone 版本。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/11273) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081901.webp)
+5、[PicLite](https://github.com/amiaoapp/PicLite)（图轻）
 
-在浏览器里面使用的开源 SQL IDE，可以连接各种数据库。（[@yusuf-gundogdu](https://github.com/ruanyf/weekly/issues/11212) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082411.webp)
 
-6、[shotsync](https://github.com/Defiabell/shotsync)
+跨平台的图片压缩工具，支持本地文件夹监控、图片格式转换、批量压缩、添加水印、上传图床等功能。（[@amiaoapp](https://github.com/ruanyf/weekly/issues/11290) 投稿）
 
-部署在 Cloudflare 的免费图片/文字中转池，方便在不同设备之间分享内容。（[@Defiabell](https://github.com/ruanyf/weekly/issues/11227) 投稿）
+6、[Multi-Row Tabs](https://github.com/hezhizheng/multi-row-tabs)
 
-7、[悟空图片转 SVG 工具](https://github.com/goku-open/goku-image-to-svg-tool)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082412.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081903.webp)
+这个 Chrome 插件以多行平铺的形式，显示当前窗口的所有标签页。（[@hezhizheng](https://github.com/ruanyf/weekly/issues/11310) 投稿）
 
-开源的各种图像转 SVG 矢量图的网页工具。（[@gokuscraper](https://github.com/ruanyf/weekly/issues/11249) 投稿）
+7、[InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader)
 
-8、[Gitu](https://github.com/altsem/gitu)
+开源的电子发票整理与报销的桌面工具，连接用户自己的 QQ 或 163 邮箱，批量收集邮件中的发票，完成 OCR 识别、分类归档，并生成 Excel 汇总。（[@EthanYoQ](https://github.com/ruanyf/weekly/issues/11327) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061705.webp)
+8、[CozyClay](https://github.com/NomaDamas/CozyClay)
 
-一个基于终端的 Git 图形客户端，比较清晰简单。
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082501.webp)
 
-9、[Dbmate](https://github.com/amacneil/dbmate)
+在浏览器中搭建场景框架、摆放角色姿势、编写镜头运动和剪辑，然后交给 AI 视频模型更准确生成视频。（[@HaD0Yun](https://github.com/ruanyf/weekly/issues/11329) 投稿）
 
-一个轻量级的数据库迁移工具，支持各种主流数据库。
+9、[Email.md](https://www.emailmd.dev/templates)
 
-10、[lnav](https://lnav.org/)
+![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032801.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202406/bg2024061901.webp)
+这个网站提供电子邮件模板，用户只需填入 MarkDown 格式，就会生成一封格式化的电子邮件。
 
-一个基于终端的日志文件查看器，支持搜索、过滤和查询日志文件。
+10、[Minimalytics](https://github.com/nafey/minimalytics)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032101.webp)
+
+一个统计服务器，记录和监控各种事件，基于 Go 语言和 SQLite 数据库，内置 Web 界面。
 
 
 ### 资源
 
 
-1、[midipiano.app](https://midipiano.app/zh/)
+1、[星舰基地](https://www.spacex.com/sites/starbase-la)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026081902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082603.webp)
 
-免费的网页版练钢琴应用，电脑连接 MIDI 键盘直接弹，网页显示实时反馈。（[@noxss](https://github.com/ruanyf/weekly/issues/11225) 投稿）
+SpaceX 公司要在路易斯安那州新建一个“星舰基地”，这是它的官网，看上去就像科幻电影一样。
 
-2、[线性代数应该这样学](https://linear.axler.net/)（Linear Algebra Done Right）
+2、[漫游旧金山](https://sf.thijs.gg/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082008.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082503.webp)
 
-免费的中文版线性代数教程。
+一款网页游戏，让用户在实景的旧金山街景地图上漫游，可以指定地点，非常酷。
 
-3、[Flexport Atlas](https://atlas.flexport.com/)
+3、[城市道路](https://anvaka.github.io/city-roads/)（city road）
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026030205.webp)
+![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122612.webp)
 
-这个网站在地图上实时显示大型货轮的位置。
-
-4、[插头和插座博物馆](https://plugsocketmuseum.nl)
-
-![](https://cdn.beekka.com/blogimg/asset/202602/bg2026022701.webp)
-
-这个网站收集世界各地的插头和插座资料。
-
-5、[Cure Dolly](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)
-
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061601.webp)
-
-一个英文的日语教程。
+这个网站可以将某个城市的所有道路，变成一张线条图，支持缩放。
 
 
 ### 言论
@@ -129,31 +121,35 @@
 
 1、
 
-红皇后是小说《爱丽丝镜中奇遇记》的虚构人物，她说过一句名言：“你拼命奔跑，也只能留在原地。”
+一个人有教养的表现，就是他可以享受最好的，也可以承受最差的。
 
-这被称为“红皇后效应”，用来描述进化生物学的一种假说：物种必须时刻保持进化，才能在物种的竞争中生存下来。
-
-现在，AI 领域似乎也出现了“红皇后效应”，每一种大模型都必须保持进化，一刻也不能停，才能在激烈竞争中生存下来。
-
--- [《AI 的红皇后效应》](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
+--[唐师曾](https://news.pku.edu.cn/xwzh/129-116805.htm)，本周去世的著名记者
 
 2、
 
-我之前读到过，动物（包括人类）的群体行为可以用两个非常简单的规则来解释：1）每个个体尽量跟上群体，2）个体之间尽量避免碰撞。
+我们的世界并不是一个常常设身处地为他人着想的世界。但是，如果你能够做到，向一个10岁的孩子解释世界，或者设计一个80岁的老人可以打开的罐子，有时会让你更好地完成最初想要做的事情。
 
--- [《模拟群体行为》](https://community.wolfram.com/groups/-/m/t/122095)
+-- [《请用10岁小孩都能听懂的方式向我解释》](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
 
 3、
 
-互联网最初的设想，只是 `/var/ww/html`目录里面几个 HTML 文件，谁能想到后来竟变成了如今这样复杂的软件和内容管理系统。
+有人写了一篇《值班已成往事》，提出应该让 AI 来值班。只有当 AI 无法解决问题时，才应该让人类接手，而且应该由 AI 来呼叫人类。
 
--- [《网站管理员的宣言》](https://brennan.day/webmaster-a-manifesto-for-everyone/)
+-- [《与 AI 相关的可靠性事故即将发生》](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
 
 4、
 
-拖延症患者安慰自己的方法：如果拖延解决问题的时间足够长，或许别人就会帮你解决了。
+人们逐渐意识到，如果使用 AI 学习新知识，学习速度比传统方法快得多，因为 AI 非常擅长概括大量不同的信息。
 
--- [claytonwramsey.com](https://claytonwramsey.com/blog/mvt/)
+但是，通过 AI 学习，大脑没有积极参与学习过程，对知识的理解和记忆不如传统方法。人脑的运作方式决定了，螺旋式学习是记忆知识的最佳方法之一。AI 直接给出了结果，让我们省略了中间的反复思考的步骤。
+
+-- [《AI 和司机式知识》](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
+
+5、
+
+如果房价暴跌，我会遭受损失，但也又有好处：我的孩子能住上更便宜的房子。没错，他们继承的遗产会减少，但他们将终生享受更便宜的住房。
+
+-- [《CD 与邻避效应》](https://www.betonit.ai/p/cds-vs-nimby)
 
 
 <!-- End -->
