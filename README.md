@@ -29,91 +29,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>410</currentVersion> -->
+<!-- <currentVersion>411</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md)
+# [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md)
 ### 工具
 
 
-1、[Vanilla OS 3](https://vanillaos.org)
+1、[OpenCode Mobile](https://github.com/learning233/opencode_mobile)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082601.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082908.webp)
 
-一个基于 Debian 的 Linux 发行版，实现不可变（immutable）系统，所有操作都是原子化（atomic）操作。（[@NN708](https://github.com/ruanyf/weekly/issues/11356) 投稿）
+OpenCode 的非官方安卓客户端。（[@learning233](https://github.com/ruanyf/weekly/issues/11381) 投稿）
 
-2、[stock-tui](https://github.com/Folgerjun/stock-tui)
+2、[Blob Downloader](https://github.com/aeroxy/blob-downloader)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082602.webp)
+Chrome 浏览器插件，用来将网页的 blob 链接后面的视频和文件导出下载。（[@aeroxy](https://github.com/ruanyf/weekly/issues/11392) 投稿）
 
-终端查看 A 股 K 线图、市盈率、成交量的小工具。（[@Folgerjun](https://github.com/ruanyf/weekly/issues/11354) 投稿）
+3、[zlib](https://github.com/heartleo/zlib)
 
-3、[Dark mode PDFs](https://veil.simoneamico.com/)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082909.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032702.webp)
+Go 语言编写的 Z-Library 图书馆命令行工具。（[@heartleo](https://github.com/ruanyf/weekly/issues/11405) 投稿）
 
-一个很有意思的小工具网站，将上传的 PDF 文件反转颜色，即白底黑字变成黑底白字。
+4、[ATBClone](https://github.com/aitobox/ATBClone)
 
-4、[Termio](https://github.com/termio-sh/termio)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083107.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082410.webp)
+开源的 macOS 应用，允许应用程序多开，并进行分身管理。（[@aitoboxinc](https://github.com/ruanyf/weekly/issues/11432) 投稿）
 
-mac 版的 AI 编程开发环境（ADE），有配套的 iPhone 版本。（[@jiweiyuan](https://github.com/ruanyf/weekly/issues/11273) 投稿）
+5、[Orange Cloud](https://github.com/chen2he/orange-cloud)
 
-5、[PicLite](https://github.com/amiaoapp/PicLite)（图轻）
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083105.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082411.webp)
+开源的 Cloudflare 的 iOS 客户端。（[@chen2he](https://github.com/ruanyf/weekly/issues/11428) 投稿）
 
-跨平台的图片压缩工具，支持本地文件夹监控、图片格式转换、批量压缩、添加水印、上传图床等功能。（[@amiaoapp](https://github.com/ruanyf/weekly/issues/11290) 投稿）
+6、[Apolu](https://apolu.app/zh-Hans)
 
-6、[Multi-Row Tabs](https://github.com/hezhizheng/multi-row-tabs)
+一款苹果设备应用，免费追踪某个 App 在各个 App Store 的排名和评论。（[@chen2he](https://github.com/ruanyf/weekly/issues/11429) 投稿） 
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082412.webp)
+7、[DanKS](https://github.com/Calix-L/DanKS)
 
-这个 Chrome 插件以多行平铺的形式，显示当前窗口的所有标签页。（[@hezhizheng](https://github.com/ruanyf/weekly/issues/11310) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083103.webp)
 
-7、[InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader)
+金山软件 AI Product Center 发布的一个开源的掼蛋游戏智能体，可以用来玩掼蛋。（[@Calix-L](https://github.com/ruanyf/weekly/issues/11422) 投稿）
 
-开源的电子发票整理与报销的桌面工具，连接用户自己的 QQ 或 163 邮箱，批量收集邮件中的发票，完成 OCR 识别、分类归档，并生成 Excel 汇总。（[@EthanYoQ](https://github.com/ruanyf/weekly/issues/11327) 投稿）
+8、[video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking)
 
-8、[CozyClay](https://github.com/NomaDamas/CozyClay)
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090212.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082501.webp)
+一个开源 Web 应用，输入文案，生成真人口播视频。（[@yizhi-chengzi](https://github.com/ruanyf/weekly/issues/11449) 投稿）
 
-在浏览器中搭建场景框架、摆放角色姿势、编写镜头运动和剪辑，然后交给 AI 视频模型更准确生成视频。（[@HaD0Yun](https://github.com/ruanyf/weekly/issues/11329) 投稿）
+9、[Git Agent](https://github.com/adoin/git-Agent)
 
-9、[Email.md](https://www.emailmd.dev/templates)
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202603/bg2026032801.webp)
+开源的跨平台 Git 桌面客户端，将工作区、提交历史、差异审查、三方合并放在一个窗口，支持 AI 功能。（[@adoin](https://github.com/ruanyf/weekly/issues/11464) 投稿）
 
-这个网站提供电子邮件模板，用户只需填入 MarkDown 格式，就会生成一封格式化的电子邮件。
+10、[Subtitle Scout](https://github.com/fancydirty/subtitle-scout)
 
-10、[Minimalytics](https://github.com/nafey/minimalytics)
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090302.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032101.webp)
-
-一个统计服务器，记录和监控各种事件，基于 Go 语言和 SQLite 数据库，内置 Web 界面。
+一个自托管的字幕应用，根据你的视频，自动搜五个字幕源，用 AI 找出最合适的字幕。（[@fancydirty](https://github.com/ruanyf/weekly/issues/11468) 投稿）
 
 
 ### 资源
 
 
-1、[星舰基地](https://www.spacex.com/sites/starbase-la)
+1、[Ad Astra](https://github.com/gunerguner/AdAstra)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082603.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082907.webp)
 
-SpaceX 公司要在路易斯安那州新建一个“星舰基地”，这是它的官网，看上去就像科幻电影一样。
+可交互、可离线使用的实时星空 Web 应用，还原任意观测地点和观测时刻的天空，提供星空随时间的变化。（[@gunerguner](https://github.com/ruanyf/weekly/issues/11360) 投稿）
 
-2、[漫游旧金山](https://sf.thijs.gg/)
+2、[3D 钢琴](https://autopiano.cn/3d)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082503.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083106.webp)
 
-一款网页游戏，让用户在实景的旧金山街景地图上漫游，可以指定地点，非常酷。
+在一个 3D 钢琴上，可视化某个曲子或 MIDI 键盘演奏时的键位变化。（[@WarpPrism](https://github.com/ruanyf/weekly/issues/11431) 投稿）
 
-3、[城市道路](https://anvaka.github.io/city-roads/)（city road）
+3、[ScriptSpool](https://scriptspool.pixzens.com/zh/editor)
 
-![](https://cdn.beekka.com/blogimg/asset/202412/bg2024122612.webp)
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083108.webp)
 
-这个网站可以将某个城市的所有道路，变成一张线条图，支持缩放。
+这个网站将一段代码的输入变成逐键输入的动画。（[@liyuouyu](https://github.com/ruanyf/weekly/issues/11433) 投稿）
+
+4、[卫生间建模](https://restroomarchive.com/r/2024-10-16-commonwealth-bar-some-restroom)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090206.webp)
+
+这个网站选取美国多个真实的家庭卫生间，进行 3D 建模。你可以在网页上360度浏览这些卫生间的模型。
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090207.webp)
 
 
 ### 言论
@@ -121,35 +127,29 @@ SpaceX 公司要在路易斯安那州新建一个“星舰基地”，这是它�
 
 1、
 
-一个人有教养的表现，就是他可以享受最好的，也可以承受最差的。
+禁止向中国出口 GPU，这会促使他们发展自己的技术。没错，这会花费他们更长的时间，但从长远来看，中国凭借自主研发的 GPU 技术会取得更大的成功。
 
---[唐师曾](https://news.pku.edu.cn/xwzh/129-116805.htm)，本周去世的著名记者
+-- [Hacker News 网友](https://news.ycombinator.com/item?id=49487064)
 
 2、
 
-我们的世界并不是一个常常设身处地为他人着想的世界。但是，如果你能够做到，向一个10岁的孩子解释世界，或者设计一个80岁的老人可以打开的罐子，有时会让你更好地完成最初想要做的事情。
+当你读一本好小说，沉浸其中时，作者仿佛在某种程度上劫持了你的大脑——你会想象出他们的世界，他们的文字会变成你的思绪。
 
--- [《请用10岁小孩都能听懂的方式向我解释》](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
+-- [《不成为半机械人》](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
 
 3、
 
-有人写了一篇《值班已成往事》，提出应该让 AI 来值班。只有当 AI 无法解决问题时，才应该让人类接手，而且应该由 AI 来呼叫人类。
+我最近参加了一个公开论坛，在问答环节，我和其他嘉宾坐在台上，接收听众的提问。
 
--- [《与 AI 相关的可靠性事故即将发生》](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
+让我震惊的是，当我在台上回答问题时，其他所有人都用笔记本电脑上的 AI 软件在查询问题的答案。如果我们都是用 AI 准备演讲内容、幻灯片和问答，这种公开论坛就只剩下社交目的了。
+
+-- [Lobste.rs 读者](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
 
 4、
 
-人们逐渐意识到，如果使用 AI 学习新知识，学习速度比传统方法快得多，因为 AI 非常擅长概括大量不同的信息。
+不要把运动和进步混淆，摇摇木马一直在动，但并没有取得任何进步。
 
-但是，通过 AI 学习，大脑没有积极参与学习过程，对知识的理解和记忆不如传统方法。人脑的运作方式决定了，螺旋式学习是记忆知识的最佳方法之一。AI 直接给出了结果，让我们省略了中间的反复思考的步骤。
-
--- [《AI 和司机式知识》](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
-
-5、
-
-如果房价暴跌，我会遭受损失，但也又有好处：我的孩子能住上更便宜的房子。没错，他们继承的遗产会减少，但他们将终生享受更便宜的住房。
-
--- [《CD 与邻避效应》](https://www.betonit.ai/p/cds-vs-nimby)
+—— [阿尔弗雷德·A·蒙塔珀特](https://graybeard.ing/the-religion-of-speed/)，美国作家
 
 
 <!-- End -->

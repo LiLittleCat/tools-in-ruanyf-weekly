@@ -1,5 +1,35 @@
 # 言论
 
+## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#言论)
+
+
+1、
+
+禁止向中国出口 GPU，这会促使他们发展自己的技术。没错，这会花费他们更长的时间，但从长远来看，中国凭借自主研发的 GPU 技术会取得更大的成功。
+
+-- [Hacker News 网友](https://news.ycombinator.com/item?id=49487064)
+
+2、
+
+当你读一本好小说，沉浸其中时，作者仿佛在某种程度上劫持了你的大脑——你会想象出他们的世界，他们的文字会变成你的思绪。
+
+-- [《不成为半机械人》](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
+
+3、
+
+我最近参加了一个公开论坛，在问答环节，我和其他嘉宾坐在台上，接收听众的提问。
+
+让我震惊的是，当我在台上回答问题时，其他所有人都用笔记本电脑上的 AI 软件在查询问题的答案。如果我们都是用 AI 准备演讲内容、幻灯片和问答，这种公开论坛就只剩下社交目的了。
+
+-- [Lobste.rs 读者](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
+
+4、
+
+不要把运动和进步混淆，摇摇木马一直在动，但并没有取得任何进步。
+
+—— [阿尔弗雷德·A·蒙塔珀特](https://graybeard.ing/the-religion-of-speed/)，美国作家
+
+
 ## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#言论)
 
 

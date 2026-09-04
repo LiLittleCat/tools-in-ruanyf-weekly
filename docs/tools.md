@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#工具)
+
+
+1、[OpenCode Mobile](https://github.com/learning233/opencode_mobile)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082908.webp)
+
+OpenCode 的非官方安卓客户端。（[@learning233](https://github.com/ruanyf/weekly/issues/11381) 投稿）
+
+2、[Blob Downloader](https://github.com/aeroxy/blob-downloader)
+
+Chrome 浏览器插件，用来将网页的 blob 链接后面的视频和文件导出下载。（[@aeroxy](https://github.com/ruanyf/weekly/issues/11392) 投稿）
+
+3、[zlib](https://github.com/heartleo/zlib)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082909.webp)
+
+Go 语言编写的 Z-Library 图书馆命令行工具。（[@heartleo](https://github.com/ruanyf/weekly/issues/11405) 投稿）
+
+4、[ATBClone](https://github.com/aitobox/ATBClone)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083107.webp)
+
+开源的 macOS 应用，允许应用程序多开，并进行分身管理。（[@aitoboxinc](https://github.com/ruanyf/weekly/issues/11432) 投稿）
+
+5、[Orange Cloud](https://github.com/chen2he/orange-cloud)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083105.webp)
+
+开源的 Cloudflare 的 iOS 客户端。（[@chen2he](https://github.com/ruanyf/weekly/issues/11428) 投稿）
+
+6、[Apolu](https://apolu.app/zh-Hans)
+
+一款苹果设备应用，免费追踪某个 App 在各个 App Store 的排名和评论。（[@chen2he](https://github.com/ruanyf/weekly/issues/11429) 投稿） 
+
+7、[DanKS](https://github.com/Calix-L/DanKS)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083103.webp)
+
+金山软件 AI Product Center 发布的一个开源的掼蛋游戏智能体，可以用来玩掼蛋。（[@Calix-L](https://github.com/ruanyf/weekly/issues/11422) 投稿）
+
+8、[video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090212.webp)
+
+一个开源 Web 应用，输入文案，生成真人口播视频。（[@yizhi-chengzi](https://github.com/ruanyf/weekly/issues/11449) 投稿）
+
+9、[Git Agent](https://github.com/adoin/git-Agent)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090301.webp)
+
+开源的跨平台 Git 桌面客户端，将工作区、提交历史、差异审查、三方合并放在一个窗口，支持 AI 功能。（[@adoin](https://github.com/ruanyf/weekly/issues/11464) 投稿）
+
+10、[Subtitle Scout](https://github.com/fancydirty/subtitle-scout)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090302.webp)
+
+一个自托管的字幕应用，根据你的视频，自动搜五个字幕源，用 AI 找出最合适的字幕。（[@fancydirty](https://github.com/ruanyf/weekly/issues/11468) 投稿）
+
+
 ## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#工具)
 
 

@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#资源)
+
+
+1、[Ad Astra](https://github.com/gunerguner/AdAstra)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082907.webp)
+
+可交互、可离线使用的实时星空 Web 应用，还原任意观测地点和观测时刻的天空，提供星空随时间的变化。（[@gunerguner](https://github.com/ruanyf/weekly/issues/11360) 投稿）
+
+2、[3D 钢琴](https://autopiano.cn/3d)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083106.webp)
+
+在一个 3D 钢琴上，可视化某个曲子或 MIDI 键盘演奏时的键位变化。（[@WarpPrism](https://github.com/ruanyf/weekly/issues/11431) 投稿）
+
+3、[ScriptSpool](https://scriptspool.pixzens.com/zh/editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083108.webp)
+
+这个网站将一段代码的输入变成逐键输入的动画。（[@liyuouyu](https://github.com/ruanyf/weekly/issues/11433) 投稿）
+
+4、[卫生间建模](https://restroomarchive.com/r/2024-10-16-commonwealth-bar-some-restroom)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090206.webp)
+
+这个网站选取美国多个真实的家庭卫生间，进行 3D 建模。你可以在网页上360度浏览这些卫生间的模型。
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090207.webp)
+
+
 ## [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](https://github.com/ruanyf/weekly/blob/master/docs/issue-410.md#资源)
 
 
