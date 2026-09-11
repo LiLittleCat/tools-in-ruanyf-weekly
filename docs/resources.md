@@ -1,5 +1,25 @@
 # 资源
 
+## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#资源)
+
+
+1、[黑客的 Linux 基础知识](https://github.com/ahegazy0/linux-basics-for-hackers-notes)（Linux Basics for Hackers）
+
+一个英文教程，用通俗语言解释 Linux 基础概念，可以当做入门教材。
+
+2、[DNSSEC 的工作原理](https://howdnssec.works/)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062508.webp)
+
+这个英文网站使用大量漫画，解释 DNS 安全扩展 (DNSSEC) 的机制，它可以防止 DNS 投毒。
+
+3、[Gorgeous GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050406.webp)
+
+这个仓库收集系统启动软件 Grub 的各种启动画面主题。
+
+
 ## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#资源)
 
 

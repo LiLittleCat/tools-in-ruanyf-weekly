@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#言论)
+
+
+1、
+
+AI 替代作家，我没有出声，因为我不是作家。
+
+然后，AI 替代艺术家，我没有出声，因为我不是艺术家。
+
+现在，AI 替代程序员，已经没有人能为我说话了。
+
+-- [《然后 AI 替代程序员了》](https://medium.com/@sebastiancarlos/the-tech-market-situation-is-crazy-ec49ea772903)
+
+2、
+
+目前，每五个新注册的顶级域名，就有一个是诈骗域名。
+
+-- [《域名的恶意注册》](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/)
+
+3、
+
+人们让 AI 大量解决数学难题，但是数学难题是不可再生的，如今好的问题已经变得稀缺。
+
+自动化工具解题，并没有增加人类的数学思维，损害了未来的数学发展。
+
+-- [陶哲轩](https://mathstodon.xyz/@tao/117237320796901560)，著名数学家
+
+4、
+
+世界正在“电动化”，电池和电动机构成了生活的基础，再加上 AI 的飞速发展，意味着我们周围许多“无意识之物”将变得智能化，能够自主思考和移动。
+
+-- [Noah Smith](https://www.noahpinion.blog/p/at-least-five-interesting-things-304)，美国经济分析师
+
+5、
+
+科学分成两种。“科学1”是一种理想化的追求真理，“科学2”是实际的科学实践，更多是一种社交活动，要考虑社会和政治现实。
+
+如果你是一个博士生，你必须知道，你主要从事科学2，而不是科学1。
+
+-- [《博士生不要试图改革科学》](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
+
+
 ## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#言论)
 
 

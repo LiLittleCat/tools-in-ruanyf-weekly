@@ -1,5 +1,63 @@
 # 工具
 
+## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#工具)
+
+
+1、[FlyonUI](https://flyonui.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100504.webp)
+
+一个基于 Tailwind CSS 的页面组件库。
+
+2、[endlessh-go](https://github.com/shizunge/endlessh-go)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032905.webp)
+
+一个抵御恶意的 SSH 登陆的工具，它不会阻断那些请求，而是让它们一直处在等待状态，从而增加对方的成本。它支持 Grafana 面板。
+
+3、[PuTTYgen](https://puttykeyinfo.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033001.webp)
+
+Windows 平台生成密钥对的工具。
+
+4、[gh gfm-preview](https://github.com/thiagokokada/gh-gfm-preview)
+
+一个 Go 语言程序，用来新建一个服务，查看 Markdown 渲染结果。
+
+5、[caddy-waf](https://github.com/fabriziosalmi/caddy-waf)
+
+Web 服务器软件 Caddy 的应用防火墙（waf）插件，支持正则规则和 IP/DNS/ASN/国家黑名单来阻拦恶意请求。（[@abriziosalmi](https://github.com/ruanyf/weekly/issues/11486) 投稿）
+
+6、[一息](https://github.com/Defiabell/yixi)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090501.webp)
+
+一个部署在 Cloudwork Worker 的网页应用，利用 iOS 的“快捷指令”，在打开某个 App 前自动跳转到该页面，10秒后再决定是否打开该 App。（[@Defiabell](https://github.com/ruanyf/weekly/issues/11509) 投稿）
+
+7、[ctty](https://github.com/zsuroy/ctty)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091001.webp)
+
+一个开源的终端应用，在终端图形界面中，管理 SSH、串口、Telnet 等连接。（[@zsuroy](https://github.com/ruanyf/weekly/issues/11522) 投稿）
+
+8、[vet](https://github.com/vet-run/vet)
+
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072420.webp)
+
+一个 Bash 脚本检查工具，可以用它运行网上下载的脚本，它会告诉你脚本做了哪些变动，得到你的批准后才会实际运行。
+
+9、[Krep](https://github.com/davidesantangelo/krep)
+
+一个 grep 命令的替代品，用来在文本文件搜索指定字符串，据说比 grep 速度快50倍。
+
+10、[Inbucket](https://inbucket.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070709.webp)
+
+一个测试邮件发送功能的应用程序，嵌入你的应用，用它测试应用的邮件发送功能，自带 Web 后台。
+
+
 ## [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md#工具)
 
 

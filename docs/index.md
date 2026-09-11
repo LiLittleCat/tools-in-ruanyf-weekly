@@ -29,97 +29,85 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>411</currentVersion> -->
+<!-- <currentVersion>412</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](https://github.com/ruanyf/weekly/blob/master/docs/issue-411.md)
+# [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md)
 ### 工具
 
 
-1、[OpenCode Mobile](https://github.com/learning233/opencode_mobile)
+1、[FlyonUI](https://flyonui.com/)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082908.webp)
+![](https://cdn.beekka.com/blogimg/asset/202410/bg2024100504.webp)
 
-OpenCode 的非官方安卓客户端。（[@learning233](https://github.com/ruanyf/weekly/issues/11381) 投稿）
+一个基于 Tailwind CSS 的页面组件库。
 
-2、[Blob Downloader](https://github.com/aeroxy/blob-downloader)
+2、[endlessh-go](https://github.com/shizunge/endlessh-go)
 
-Chrome 浏览器插件，用来将网页的 blob 链接后面的视频和文件导出下载。（[@aeroxy](https://github.com/ruanyf/weekly/issues/11392) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032905.webp)
 
-3、[zlib](https://github.com/heartleo/zlib)
+一个抵御恶意的 SSH 登陆的工具，它不会阻断那些请求，而是让它们一直处在等待状态，从而增加对方的成本。它支持 Grafana 面板。
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082909.webp)
+3、[PuTTYgen](https://puttykeyinfo.com/)
 
-Go 语言编写的 Z-Library 图书馆命令行工具。（[@heartleo](https://github.com/ruanyf/weekly/issues/11405) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024033001.webp)
 
-4、[ATBClone](https://github.com/aitobox/ATBClone)
+Windows 平台生成密钥对的工具。
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083107.webp)
+4、[gh gfm-preview](https://github.com/thiagokokada/gh-gfm-preview)
 
-开源的 macOS 应用，允许应用程序多开，并进行分身管理。（[@aitoboxinc](https://github.com/ruanyf/weekly/issues/11432) 投稿）
+一个 Go 语言程序，用来新建一个服务，查看 Markdown 渲染结果。
 
-5、[Orange Cloud](https://github.com/chen2he/orange-cloud)
+5、[caddy-waf](https://github.com/fabriziosalmi/caddy-waf)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083105.webp)
+Web 服务器软件 Caddy 的应用防火墙（waf）插件，支持正则规则和 IP/DNS/ASN/国家黑名单来阻拦恶意请求。（[@abriziosalmi](https://github.com/ruanyf/weekly/issues/11486) 投稿）
 
-开源的 Cloudflare 的 iOS 客户端。（[@chen2he](https://github.com/ruanyf/weekly/issues/11428) 投稿）
+6、[一息](https://github.com/Defiabell/yixi)
 
-6、[Apolu](https://apolu.app/zh-Hans)
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090501.webp)
 
-一款苹果设备应用，免费追踪某个 App 在各个 App Store 的排名和评论。（[@chen2he](https://github.com/ruanyf/weekly/issues/11429) 投稿） 
+一个部署在 Cloudwork Worker 的网页应用，利用 iOS 的“快捷指令”，在打开某个 App 前自动跳转到该页面，10秒后再决定是否打开该 App。（[@Defiabell](https://github.com/ruanyf/weekly/issues/11509) 投稿）
 
-7、[DanKS](https://github.com/Calix-L/DanKS)
+7、[ctty](https://github.com/zsuroy/ctty)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083103.webp)
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091001.webp)
 
-金山软件 AI Product Center 发布的一个开源的掼蛋游戏智能体，可以用来玩掼蛋。（[@Calix-L](https://github.com/ruanyf/weekly/issues/11422) 投稿）
+一个开源的终端应用，在终端图形界面中，管理 SSH、串口、Telnet 等连接。（[@zsuroy](https://github.com/ruanyf/weekly/issues/11522) 投稿）
 
-8、[video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking)
+8、[vet](https://github.com/vet-run/vet)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090212.webp)
+![](https://cdn.beekka.com/blogimg/asset/202507/bg2025072420.webp)
 
-一个开源 Web 应用，输入文案，生成真人口播视频。（[@yizhi-chengzi](https://github.com/ruanyf/weekly/issues/11449) 投稿）
+一个 Bash 脚本检查工具，可以用它运行网上下载的脚本，它会告诉你脚本做了哪些变动，得到你的批准后才会实际运行。
 
-9、[Git Agent](https://github.com/adoin/git-Agent)
+9、[Krep](https://github.com/davidesantangelo/krep)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090301.webp)
+一个 grep 命令的替代品，用来在文本文件搜索指定字符串，据说比 grep 速度快50倍。
 
-开源的跨平台 Git 桌面客户端，将工作区、提交历史、差异审查、三方合并放在一个窗口，支持 AI 功能。（[@adoin](https://github.com/ruanyf/weekly/issues/11464) 投稿）
+10、[Inbucket](https://inbucket.org/)
 
-10、[Subtitle Scout](https://github.com/fancydirty/subtitle-scout)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070709.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090302.webp)
-
-一个自托管的字幕应用，根据你的视频，自动搜五个字幕源，用 AI 找出最合适的字幕。（[@fancydirty](https://github.com/ruanyf/weekly/issues/11468) 投稿）
+一个测试邮件发送功能的应用程序，嵌入你的应用，用它测试应用的邮件发送功能，自带 Web 后台。
 
 
 ### 资源
 
 
-1、[Ad Astra](https://github.com/gunerguner/AdAstra)
+1、[黑客的 Linux 基础知识](https://github.com/ahegazy0/linux-basics-for-hackers-notes)（Linux Basics for Hackers）
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082907.webp)
+一个英文教程，用通俗语言解释 Linux 基础概念，可以当做入门教材。
 
-可交互、可离线使用的实时星空 Web 应用，还原任意观测地点和观测时刻的天空，提供星空随时间的变化。（[@gunerguner](https://github.com/ruanyf/weekly/issues/11360) 投稿）
+2、[DNSSEC 的工作原理](https://howdnssec.works/)
 
-2、[3D 钢琴](https://autopiano.cn/3d)
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025062508.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083106.webp)
+这个英文网站使用大量漫画，解释 DNS 安全扩展 (DNSSEC) 的机制，它可以防止 DNS 投毒。
 
-在一个 3D 钢琴上，可视化某个曲子或 MIDI 键盘演奏时的键位变化。（[@WarpPrism](https://github.com/ruanyf/weekly/issues/11431) 投稿）
+3、[Gorgeous GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
 
-3、[ScriptSpool](https://scriptspool.pixzens.com/zh/editor)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050406.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202608/bg2026083108.webp)
-
-这个网站将一段代码的输入变成逐键输入的动画。（[@liyuouyu](https://github.com/ruanyf/weekly/issues/11433) 投稿）
-
-4、[卫生间建模](https://restroomarchive.com/r/2024-10-16-commonwealth-bar-some-restroom)
-
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090206.webp)
-
-这个网站选取美国多个真实的家庭卫生间，进行 3D 建模。你可以在网页上360度浏览这些卫生间的模型。
-
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026090207.webp)
+这个仓库收集系统启动软件 Grub 的各种启动画面主题。
 
 
 ### 言论
@@ -127,29 +115,41 @@ Go 语言编写的 Z-Library 图书馆命令行工具。（[@heartleo](https://g
 
 1、
 
-禁止向中国出口 GPU，这会促使他们发展自己的技术。没错，这会花费他们更长的时间，但从长远来看，中国凭借自主研发的 GPU 技术会取得更大的成功。
+AI 替代作家，我没有出声，因为我不是作家。
 
--- [Hacker News 网友](https://news.ycombinator.com/item?id=49487064)
+然后，AI 替代艺术家，我没有出声，因为我不是艺术家。
+
+现在，AI 替代程序员，已经没有人能为我说话了。
+
+-- [《然后 AI 替代程序员了》](https://medium.com/@sebastiancarlos/the-tech-market-situation-is-crazy-ec49ea772903)
 
 2、
 
-当你读一本好小说，沉浸其中时，作者仿佛在某种程度上劫持了你的大脑——你会想象出他们的世界，他们的文字会变成你的思绪。
+目前，每五个新注册的顶级域名，就有一个是诈骗域名。
 
--- [《不成为半机械人》](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/)
+-- [《域名的恶意注册》](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/)
 
 3、
 
-我最近参加了一个公开论坛，在问答环节，我和其他嘉宾坐在台上，接收听众的提问。
+人们让 AI 大量解决数学难题，但是数学难题是不可再生的，如今好的问题已经变得稀缺。
 
-让我震惊的是，当我在台上回答问题时，其他所有人都用笔记本电脑上的 AI 软件在查询问题的答案。如果我们都是用 AI 准备演讲内容、幻灯片和问答，这种公开论坛就只剩下社交目的了。
+自动化工具解题，并没有增加人类的数学思维，损害了未来的数学发展。
 
--- [Lobste.rs 读者](https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by)
+-- [陶哲轩](https://mathstodon.xyz/@tao/117237320796901560)，著名数学家
 
 4、
 
-不要把运动和进步混淆，摇摇木马一直在动，但并没有取得任何进步。
+世界正在“电动化”，电池和电动机构成了生活的基础，再加上 AI 的飞速发展，意味着我们周围许多“无意识之物”将变得智能化，能够自主思考和移动。
 
-—— [阿尔弗雷德·A·蒙塔珀特](https://graybeard.ing/the-religion-of-speed/)，美国作家
+-- [Noah Smith](https://www.noahpinion.blog/p/at-least-five-interesting-things-304)，美国经济分析师
+
+5、
+
+科学分成两种。“科学1”是一种理想化的追求真理，“科学2”是实际的科学实践，更多是一种社交活动，要考虑社会和政治现实。
+
+如果你是一个博士生，你必须知道，你主要从事科学2，而不是科学1。
+
+-- [《博士生不要试图改革科学》](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
 
 
 <!-- End -->
