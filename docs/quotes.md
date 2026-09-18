@@ -1,5 +1,47 @@
 # 言论
 
+## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#言论)
+
+
+1、
+
+卫星会消耗行星的自转能量，从而加速行星的毁灭。
+
+-- [《金星吞噬了自己的卫星吗》](https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon)
+
+2、
+
+想象两家非常相似的软件公司，收入相似，软件产品也相似。它们唯一的区别是，A 公司使用了 100 万行代码，而 B 公司使用了 10 万行代码。哪家公司会表现更好 ？
+
+显然，代码行数只有别人十分之一的公司会表现更好。代码行数越少，就能更快地理解和修改代码。
+
+-- [《代码就是债务》](https://tornikeo.com/code-is-debt/)
+
+3、
+
+大模型会将你从一个编写代码的程序员，转变为一个管理上下文、剔除无关信息、编写详细提示词的程序员。
+
+-- [Liz Fong-Jones](https://simonwillison.net/2025/Dec/30/liz-fong-jones/)
+
+4、
+
+一位创始人，如果在2024年组建了合适的团队却打造了错误的产品，那么坚持到2027年，他的团队就会变成久经沙场的团队，很可能打造出正确的产品。
+
+失败带来的经验，就像根系中的养分被储存起来，等待下一个春天的到来，而不是白白浪费。
+
+-- [《AI 不会崩溃，但会经历一场风暴》](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+
+5、
+
+很多技术出错，并不是太大的问题。GPS 出错，我很快会发现地点不对；Netflix 推荐的电影不好看，我就不看了。
+
+但 AI 就不同了，它越先进，就越难知道它是否出错，因为我们会用 AI 去完成那些我们自己无法完成、也无法验证的任务。
+
+一旦 AI 出错，我们只能不停召唤更强大 的 AI，希望咒语能够奏效。欢迎来到魔法师时代。
+
+-- [《AI 就是与魔法师合作》](https://www.oneusefulthing.org/p/on-working-with-wizards)
+
+
 ## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#言论)
 
 

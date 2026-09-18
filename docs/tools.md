@@ -1,5 +1,65 @@
 # 工具
 
+## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#工具)
+
+
+1、[Great Tables](https://github.com/posit-dev/great-tables)
+
+![](https://cdn.beekka.com/blogimg/asset/202404/bg2024040402.webp)
+
+一个可以生成复杂表格的 Python 库。
+
+2、[ghostty-web](https://github.com/coder/ghostty-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120214.webp)
+
+这个项目将终端模拟器 [Ghostty](https://ghostty.org/) 编译成 WASM 代码，从而可以在网页里面使用一个全功能的终端。
+
+3、[Infat](https://github.com/philocalyst/infat)
+
+一个命令行工具，在 Mac 电脑上设置不同后缀名文件的默认打开方法。
+
+4、[mini-img-editor](https://github.com/xdadda/mini-photo-editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025042901.webp)
+
+一个使用 WebGL 的在线图片编辑器，作为原型演示，界面非常简洁。
+
+5、[CryptPad](https://cryptpad.fr/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050101.webp)
+
+免费使用的线上 Office 办公套件，支持端对端加密，参见[介绍文章](https://www.xda-developers.com/reasons-why-use-cryptpad-instead-google-docs/)。
+
+6、[Lyrimuse](https://github.com/Yudaotor/lyrimuse)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091308.webp)
+
+macOS 桌面歌词工具，实时查找显示正在播放的歌曲的歌词。（[@Yudaotor](https://github.com/ruanyf/weekly/issues/11551) 投稿）
+
+7、[capcut-cli](https://github.com/renezander030/capcut-cli)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091619.webp)
+
+剪映（capcut）的非官方命令行工具，在终端里面创建/编辑视频。（[@renezander030](https://github.com/ruanyf/weekly/issues/11634) 投稿）
+
+8、[mailez](https://github.com/mailez-hq/mailez)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091621.webp)
+
+一个 Go 语言的二进制文件，实现自托管邮件系统，网页收发邮件，支持 SMTP / IMAP / POP3 / ManageSieve 四个协议。（[@lianguan](https://github.com/ruanyf/weekly/issues/11680) 投稿）
+
+9、[Status Trio](https://github.com/lingyired/status-trio)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091622.webp)
+
+一款借鉴 iPhone Duo 设计的三合一 Mac 状态栏图标，集成 Wi‑Fi 、电池与音量。（[@lingyired](https://github.com/ruanyf/weekly/issues/11670) 投稿）
+
+10、[Polycompiler](https://github.com/EvanZhouDev/polycompiler)
+
+一个有意思的项目，可以把 JS 脚本和 Python 脚本打包成一个脚本，同时能在 JS 环境和 Python 环境运行。
+
+
 ## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#工具)
 
 

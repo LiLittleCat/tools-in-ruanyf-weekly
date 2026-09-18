@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#资源)
+
+
+1、[gpcb.net](https://gpcb.net/net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091620.webp)
+
+网络设备拓扑图的网页设计工具。（[@abpyu](https://github.com/ruanyf/weekly/issues/11622) 投稿）
+
+2、[视觉风格图鉴](https://ruanyf.github.io/squoosh/editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091309.webp)
+
+用一颗苹果，展示100多种视觉风格，比如上图是霓虹风格的苹果。（[@jerrymakes](https://github.com/ruanyf/weekly/issues/11555) 投稿）
+
+3、[AI IP 检测](https://store.xiu.ai/zh/ai-ip/)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091407.webp)
+
+这个网站显示你连接 Claude、ChatGPT、Grok、Perplexity、Cloudflare 时，实际连接的 IP 地址。（[@MuduiClaw](https://github.com/ruanyf/weekly/issues/11571) 投稿）
+
+4、[引力](https://qunabu.github.io/Gravity/#what-is-gravity)（Gravity）
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062007.webp)
+
+一个网页的多媒体教程，向观众介绍万有引力的相关知识。
+
+
 ## [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](https://github.com/ruanyf/weekly/blob/master/docs/issue-412.md#资源)
 
 
