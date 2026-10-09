@@ -1,5 +1,127 @@
 # 工具
 
+## [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md#工具)
+
+
+1、[Crafting Apps](https://getartcraft.com/apps)
+
+有人让 AI 使用 Rust 语言重写了 Adobe 套件。Adobe 的7个主力产品，都有对应的重写版，而且全部开源。
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100810.webp)
+
+其中的 [PhotoCraft](https://github.com/storytold/photocraft)，界面跟 PhotoShop 简直一模一样。
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100811.webp)
+
+我看到一条评论说，这件事的结果不是 Adobe 公司完蛋，就是美国修改版权法。
+
+2、[Pass Designer](https://developer.apple.com/pass-designer/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100508.webp)
+
+苹果公司官方推出的一款二维码卡片设计软件，用来设计二维码的背景卡片。
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100509.webp)
+
+3、[tui-dashboard](https://github.com/lyuangg/tui-dashboard)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091901.webp)
+
+一个可以自定义的终端面板，通过配置定义不同的布局和内容。（[@lyuangg](https://github.com/ruanyf/weekly/issues/11718) 投稿）
+
+4、[yovoice](https://github.com/leemysw/yovoice)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091903.webp)
+
+一个桌面的本地 TTS 配音工具，支持音色复刻和情绪调节，可以按照文稿生成配音，语音在本地生成。（[@leemysw](https://github.com/ruanyf/weekly/issues/11764) 投稿）
+
+5、[sh.cd](https://github.com/CleanIP/sh.cd)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091905.webp)
+
+一个服务器体检脚本，检查硬件、性能、IP 质量、网络质量等。（[@gentpan](https://github.com/ruanyf/weekly/issues/11781) 投稿）
+
+6、[AirStats](https://github.com/byrencheema/airstats)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092601.webp)
+
+macOS 菜单栏上的系统监控器。（[@byrencheema](https://github.com/ruanyf/weekly/issues/11877) 投稿）
+
+7、[Video Transcript](https://github.com/anghunk/video-transcript)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092602.webp)
+
+识别视频语音、并自动添加字幕的 Web 应用。通过本地模型完成识别，视频、字幕、导出结果均在本地完成，不上传服务器。（[@anghunk](https://github.com/ruanyf/weekly/issues/11881) 投稿）
+
+另有一个同类应用 [OpenSubs](https://github.com/open-subs/opensubs)。（[@open-subs](https://github.com/ruanyf/weekly/issues/11895) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092603.webp)
+
+8、[PecoFence](https://github.com/DayuanJiang/PecoFence)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092604.webp)
+
+免费开源的 Windows 11 桌面图标管理工具，整理桌面上的程序快捷方式、文件和文件夹。（[@DayuanJiang](https://github.com/ruanyf/weekly/issues/11887) 投稿）
+
+9、[skillsgist](https://github.com/Qsnh/skillsgist)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092605.webp)
+
+基于 Cloudflare Worker 的私有 Skill 仓库，下载 Skill 需要口令，使用小团队内部使用。（[@Qsnh](https://github.com/ruanyf/weekly/issues/11897) 投稿）
+
+10、[Pebrel](https://github.com/Kuddev/pebrel)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092606.webp)
+
+一个跨平台的终端，适合 Windows 使用，以前的名字是 Nebula。（[@Kuddev](https://github.com/ruanyf/weekly/issues/11909) 投稿）
+
+11、[WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine)
+
+开源的 macOS 动态壁纸应用，在 Mac 上运行 Wallpaper Engine 壁纸。（[@fzlzjerry](https://github.com/ruanyf/weekly/issues/11935) 投稿）
+
+12、[LiteZip](https://github.com/gentpan/LiteZip)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100602.webp)
+
+免费开源的 macOS 压缩与解压工具，把打包、加密、分卷和查看压缩包内容等操作放进一个窗口。（[@gentpan](https://github.com/ruanyf/weekly/issues/12025) 投稿）
+
+13、[Burrow](https://github.com/ArkGravity/burrow)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100603.webp)
+
+面向小团队和自托管的轻量 OIDC 单点登录服务，使用密码和验证器登录，通过 OpenID Connect 接入支持该协议的应用。（[@logic3579](https://github.com/ruanyf/weekly/issues/12039) 投稿）
+
+14、[atv-core](https://github.com/corvofeng/atv-core)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100604.webp)
+
+让 iPhone 控制中心自带的 Apple TV 遥控器，可以直接操控 Android TV 和 Mac。iPhone 无需安装额外 App，也不需要购买 Apple TV。（[@corvofeng](https://github.com/ruanyf/weekly/issues/12051) 投稿）
+
+15、[open-compute](https://github.com/elliothux/open-compute)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100807.webp)
+
+Cloudflare Workers 的开源兼容平台，让 worker 脚本不用修改就能跑在自己的机器上。（[@elliothux](https://github.com/ruanyf/weekly/issues/12062) 投稿）
+
+16、[Snitch](https://github.com/aixisstudio/Snitch)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100808.webp)
+
+开源的实时网络流量可视化工具，查看你的电脑建立的每一个连接，什么程序正在与谁通信。（[@aixisstudio](https://github.com/ruanyf/weekly/issues/12063) 投稿）
+
+17、[EdgeChat](https://github.com/aozorae/Edgechat)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100809.webp)
+
+基于 Cloudflare 的开源自部署聊天系统，支持群聊与私信，可以与 Telegram 群组双向同步消息。（[@aozorae](https://github.com/ruanyf/weekly/issues/12081) 投稿）
+
+18、[DockTerm](https://github.com/munvard/dockterm)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100601.webp)
+
+让 Claude Code 的权限请求从 Mac 刘海里弹出，方便让其在后台工作。（[@munvard](https://github.com/ruanyf/weekly/issues/12024) 投稿）
+
+
 ## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#工具)
 
 

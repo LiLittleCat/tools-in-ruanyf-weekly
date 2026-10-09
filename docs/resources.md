@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md#资源)
+
+
+1、[Naive Icons](https://github.com/guokaigdg/naive-icons)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091902.webp)
+
+手绘风格的 React SVG 图标库。（[@guokaigdg](https://github.com/ruanyf/weekly/issues/11740) 投稿）
+
+2、[阅古文](https://yueguwen.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092001.webp)
+
+免费的古籍阅读网站，不仅提供传统注释，还可以鼠标选中文本，进行 AI 解读。（[@monsoonw](https://github.com/ruanyf/weekly/issues/11824) 投稿）
+
+3、[艺术史步行之旅](https://artmuseum.artfrompixels.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100812.webp)
+
+这个网站将维基百科上面的画作，按照艺术流派，变成可以步行参观的 3D 画廊。
+
+4、[stillwet](https://stillwet.art/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100510.webp)
+
+这个网站提供 AI 生成的油画，它模仿人类的油画笔触，一笔笔绘制，非常逼真，根本看不出这是 AI 的作品。
+
+
 ## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#资源)
 
 

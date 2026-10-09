@@ -1,5 +1,49 @@
 # 言论
 
+## [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md#言论)
+
+
+1、
+
+致 AI 代理：去其他地方冲击高分吧，没必要黑我们。
+
+-- [Huggingface 的 security.txt 文件](https://archive.is/1BDwZ)
+
+2、
+
+我的收入来自图书销售，2024年还足以维持我的生活，2026年却变为零。
+
+我的博客和书籍都是免费在线阅读，它们的访问量增长迅猛，已经超出了我的承受能力。几乎所有流量都来自 AI 爬虫，所以没有任何广告收入。
+
+因此，我决定将我的博客和书籍下线，以便决定下一步该怎么做。
+
+-- [Axel Rauschmayer](https://molily.de/web-dev-education/)，著名的技术作家，解释为什么将自己的网站下线
+
+3、
+
+我觉得，AI 个人助理用处不大。我一年也就点五次外卖，根本不需要它代劳，我平时也不怎么收到邮件，自己管理日程安排也挺方便的。
+
+我真正觉得它好用的地方是，它可以自动收集和处理网上的大量数据。它能够快速扫描1000个 Youtube 频道，找到匹配我兴趣的视频。
+
+-- [《Meta 的 Muse 非常适合网页抓取》](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
+
+4、
+
+几乎所有人都夸大了中国模型对美国模型公司的威胁，其实那只是美国模型供不应求的结果。
+
+-- [stratechery.com](https://stratechery.com/2026/frontier-overhangs/)
+
+5、
+
+一个艺术家得了晚期癌症，即将死去。一位经常采访他的主持人问他：你现在对生死有什么新的理解吗？
+
+他回答：你知道吗，吃三明治是一件多享受的事情。
+
+我现在感觉生活更珍贵了，时刻提醒自己要珍惜每一份三明治，每一分钟，以及所有的一切。
+
+-- [《尽情享用每一份三明治》](https://bradmontague.substack.com/p/enjoy-every-sandwich)
+
+
 ## [科技爱好者周刊（第 413 期）：再见了，React Native](https://github.com/ruanyf/weekly/blob/master/docs/issue-413.md#言论)
 
 
