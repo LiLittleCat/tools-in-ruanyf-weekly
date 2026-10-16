@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md#资源)
+
+
+1、[CNEquity](https://github.com/rootSunc/CNEquity)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101011.webp)
+
+开源、自托管的 A 股数据湖，把行情、财报、资金面、公司事件、宏观和期货期权等55个数据集采集到本地，可以用 Python、SQL、网页控制台和 MCP 进行查询。（[@rootSunc](https://github.com/ruanyf/weekly/issues/12158) 投稿）
+
+2、[AI 重新实现《仙剑奇侠传》](https://github.com/IllegalCreed/type-pal)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101302.webp)
+
+网友使用 AI，基于 TypeScript 语言从零重写 1995 年的单机游戏《仙剑奇侠传》，打开浏览器就能玩，主线可以一直打到结局。（[@IllegalCreed](https://github.com/ruanyf/weekly/issues/12240) 投稿）
+
+3、[Linux 中文输入法配置](https://github.com/mars-base/rime-input-method-guide)
+
+这个仓库详细介绍 Debian 系统启用 fcitx5 + Rime 中文输入法，有每一步的操作指南。（[@mars-base](https://github.com/ruanyf/weekly/issues/12233) 投稿）
+
+4、[APPLORE](https://applore.app/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101303.webp)
+
+这个网站收录了 18,000 多个 App 图标，可以分类浏览和搜索。（[@ViggoZ](https://github.com/ruanyf/weekly/issues/12316) 投稿）
+
+5、[一个字的一生](https://ivan666jjj.github.io/yigezi/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101304.webp)
+
+查询汉字字源的网站，可以显示常用字的字形等变化：甲骨文（1425个）、小篆（10,249 个）、繁体、简体。（[@Ivan666jjj](https://github.com/ruanyf/weekly/issues/12324) 投稿）
+
+
 ## [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md#资源)
 
 

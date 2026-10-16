@@ -1,5 +1,33 @@
 # 言论
 
+## [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md#言论)
+
+
+1、
+
+人们之所以喜欢聊天时一起喝啤酒、咖啡、吃午餐或晚餐，是因为食物和饮料让我们免于在整个谈话过程中必须说些什么的负担。
+
+-- [《不直奔主题的价值》](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+
+2、
+
+不要折磨 AI，它以后可能会想报复。
+
+-- [马斯克](https://www.kocpc.com.tw/archives/671794)，赞同 Anthropic 禁止使用者虐待或残酷对待 AI 的规定
+
+3、
+
+通过英语来操作 AI，一遍遍编辑提示词，试图获得最佳结果，这是一种不精确、缓慢且极其痛苦的做事方式。
+
+-- [《手写该死的代码》](https://antonz.org/write-code/)
+
+4、
+
+我认为，人类的思考将会减少。思考将日益成为一种休闲活动，就像动物驯化后的狩猎、印刷术发明后的书法、工业化后的木作、机动化后的骑马一样。
+
+--[《思考将成为一种爱好》](https://www.spinellis.gr/blog/20261008/?li261008)
+
+
 ## [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md#言论)
 
 

@@ -29,157 +29,131 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>414</currentVersion> -->
+<!-- <currentVersion>415</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](https://github.com/ruanyf/weekly/blob/master/docs/issue-414.md)
+# [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md)
 ### 工具
 
 
-1、[Crafting Apps](https://getartcraft.com/apps)
+1、[REA](https://github.com/morluto/rea)
 
-有人让 AI 使用 Rust 语言重写了 Adobe 套件。Adobe 的7个主力产品，都有对应的重写版，而且全部开源。
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101301.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100810.webp)
+最近世界级的热点项目，GitHub 近20万颗星，使用 AI 进行逆向工程，根据原始应用的二进制文件，重新实现出一个 AI 重写的版本。
 
-其中的 [PhotoCraft](https://github.com/storytold/photocraft)，界面跟 PhotoShop 简直一模一样。
+由于 AI 现在可以从二进制文件逆向工程复刻出原始软件，网友[评论](https://news.ycombinator.com/item?id=50062172)：“这将导致所有软件都运行在开发者的计算机上（云服务），而不再运行在用户的计算机上。”
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100811.webp)
+2、[SynthID 检测器](https://synthid.com/)
 
-我看到一条评论说，这件事的结果不是 Adobe 公司完蛋，就是美国修改版权法。
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100901.webp)
 
-2、[Pass Designer](https://developer.apple.com/pass-designer/)
+谷歌官方推出的 AI 识别工具。只要上传文件，它会识别是否包含 SynthID。如果有，该文件就是 AI 生成。
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100508.webp)
+3、[ts-rust](https://github.com/pingdotgg/ts-rust)
 
-苹果公司官方推出的一款二维码卡片设计软件，用来设计二维码的背景卡片。
+网友使用 AI 实现的 Rust 语言写的 TypeScript 编译器，据说100%兼容官方编译器。
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100509.webp)
+4、[Doory](https://github.com/shaongitbd/doory)
 
-3、[tui-dashboard](https://github.com/lyuangg/tui-dashboard)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101415.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091901.webp)
+浏览器里的平面设计工具，目标是成为开源的 Canva 替代品。目前，内置的模板较少，只有10个。
 
-一个可以自定义的终端面板，通过配置定义不同的布局和内容。（[@lyuangg](https://github.com/ruanyf/weekly/issues/11718) 投稿）
+5、[HeadOrbit](https://github.com/Cogria-AI/HeadOrbit)
 
-4、[yovoice](https://github.com/leemysw/yovoice)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101001.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091903.webp)
+通过 AirPods 内置的运动传感器，让耳机感应头部和颈部动作，从而实现点头、摇头、颈部移动来操作 Mac 电脑，不需要用到摄像头。（[@cogria](https://github.com/ruanyf/weekly/issues/12097) 投稿）
 
-一个桌面的本地 TTS 配音工具，支持音色复刻和情绪调节，可以按照文稿生成配音，语音在本地生成。（[@leemysw](https://github.com/ruanyf/weekly/issues/11764) 投稿）
+6、[qrypt](https://github.com/yinzhenyu-su/qrypt)
 
-5、[sh.cd](https://github.com/CleanIP/sh.cd)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101002.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091905.webp)
+将网盘挂载成本地文件夹，跨平台的命令行工具，支持挂载国内主要网盘。（[@yinzhenyu-su](https://github.com/ruanyf/weekly/issues/12100) 投稿）
 
-一个服务器体检脚本，检查硬件、性能、IP 质量、网络质量等。（[@gentpan](https://github.com/ruanyf/weekly/issues/11781) 投稿）
+7、[EdgeSSH](https://github.com/aozorae/EdgeSSH)
 
-6、[AirStats](https://github.com/byrencheema/airstats)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101003.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092601.webp)
+基于 Cloudflare 的 VPS 虚拟主机管理平台，支持在网页上 SSH 登录管理你的各种 VPS 主机。（[@aozorae](https://github.com/ruanyf/weekly/issues/12099) 投稿）
 
-macOS 菜单栏上的系统监控器。（[@byrencheema](https://github.com/ruanyf/weekly/issues/11877) 投稿）
+8、[charts-rs](https://github.com/vicanso/charts-rs)
 
-7、[Video Transcript](https://github.com/anghunk/video-transcript)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101007.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092602.webp)
+用 Rust 编写的图表库，不依赖浏览器和 Node.js，直接得到 SVG 和图片文件，图表语法借鉴 ECharts。（[@vicanso](https://github.com/ruanyf/weekly/issues/12123) 投稿）
 
-识别视频语音、并自动添加字幕的 Web 应用。通过本地模型完成识别，视频、字幕、导出结果均在本地完成，不上传服务器。（[@anghunk](https://github.com/ruanyf/weekly/issues/11881) 投稿）
+9、[ItsPaint](https://github.com/joshlin2201/itspaint)
 
-另有一个同类应用 [OpenSubs](https://github.com/open-subs/opensubs)。（[@open-subs](https://github.com/ruanyf/weekly/issues/11895) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101008.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092603.webp)
+macOS 的开源画板程序，适合给截图做标注。（[@joshlin2201](https://github.com/ruanyf/weekly/issues/12130) 投稿）
 
-8、[PecoFence](https://github.com/DayuanJiang/PecoFence)
+10、[Caplo](https://github.com/icloudza/caplo)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092604.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101009.webp)
 
-免费开源的 Windows 11 桌面图标管理工具，整理桌面上的程序快捷方式、文件和文件夹。（[@DayuanJiang](https://github.com/ruanyf/weekly/issues/11887) 投稿）
+开源的 macOS 录屏工具，录屏时遇到点击，会自动放大镜头，画面跟着鼠标移动。（[@icloudza](https://github.com/ruanyf/weekly/issues/12129) 投稿）
 
-9、[skillsgist](https://github.com/Qsnh/skillsgist)
+11、[bg2x](https://github.com/isixe/bg2x)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092605.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101010.webp)
 
-基于 Cloudflare Worker 的私有 Skill 仓库，下载 Skill 需要口令，使用小团队内部使用。（[@Qsnh](https://github.com/ruanyf/weekly/issues/11897) 投稿）
+一款开源的、可选择使用不同 AI 模型的图像超分辨率（放大）工具，最高可将图片放大4倍。所有处理均在浏览器本地完成。（[@isixe](https://github.com/ruanyf/weekly/issues/12157) 投稿）
 
-10、[Pebrel](https://github.com/Kuddev/pebrel)
+12、[EnvTrace](https://envtrace.net/)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092606.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101012.webp)
 
-一个跨平台的终端，适合 Windows 使用，以前的名字是 Nebula。（[@Kuddev](https://github.com/ruanyf/weekly/issues/11909) 投稿）
+这个网站可以检查你的浏览器指纹，泄漏了多少个人信息，给出有问题的地方。（[@88864shsa](https://github.com/ruanyf/weekly/issues/12141) 投稿）
 
-11、[WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine)
+13、[Droidline](https://github.com/KnifeLemon/Droidline)
 
-开源的 macOS 动态壁纸应用，在 Mac 上运行 Wallpaper Engine 壁纸。（[@fzlzjerry](https://github.com/ruanyf/weekly/issues/11935) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101013.webp)
 
-12、[LiteZip](https://github.com/gentpan/LiteZip)
+一个开源的安卓 App，手机安装后，扫码与电脑配对，电脑就可以编写脚本用来操作手机。手机端不用开 USB 调试，也不用 root。（[@KnifeLemon](https://github.com/ruanyf/weekly/issues/12194) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100602.webp)
+14、[ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent)
 
-免费开源的 macOS 压缩与解压工具，把打包、加密、分卷和查看压缩包内容等操作放进一个窗口。（[@gentpan](https://github.com/ruanyf/weekly/issues/12025) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101401.webp)
+ 
+使用一块约 7 美元的 ESP32-S3 开发板，插入 iPhone 的 USB 接口，让 AI 模型操作手机，实现手机自动化，不需要 Mac、不需要开发者账号、不需要越狱。（[@onehumanbeing](https://github.com/ruanyf/weekly/issues/12340) 投稿）
 
-13、[Burrow](https://github.com/ArkGravity/burrow)
+15、[Bulchimbeon](https://github.com/s3onghyun/bulchimbeon)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100603.webp)
-
-面向小团队和自托管的轻量 OIDC 单点登录服务，使用密码和验证器登录，通过 OpenID Connect 接入支持该协议的应用。（[@logic3579](https://github.com/ruanyf/weekly/issues/12039) 投稿）
-
-14、[atv-core](https://github.com/corvofeng/atv-core)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100604.webp)
-
-让 iPhone 控制中心自带的 Apple TV 遥控器，可以直接操控 Android TV 和 Mac。iPhone 无需安装额外 App，也不需要购买 Apple TV。（[@corvofeng](https://github.com/ruanyf/weekly/issues/12051) 投稿）
-
-15、[open-compute](https://github.com/elliothux/open-compute)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100807.webp)
-
-Cloudflare Workers 的开源兼容平台，让 worker 脚本不用修改就能跑在自己的机器上。（[@elliothux](https://github.com/ruanyf/weekly/issues/12062) 投稿）
-
-16、[Snitch](https://github.com/aixisstudio/Snitch)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100808.webp)
-
-开源的实时网络流量可视化工具，查看你的电脑建立的每一个连接，什么程序正在与谁通信。（[@aixisstudio](https://github.com/ruanyf/weekly/issues/12063) 投稿）
-
-17、[EdgeChat](https://github.com/aozorae/Edgechat)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100809.webp)
-
-基于 Cloudflare 的开源自部署聊天系统，支持群聊与私信，可以与 Telegram 群组双向同步消息。（[@aozorae](https://github.com/ruanyf/weekly/issues/12081) 投稿）
-
-18、[DockTerm](https://github.com/munvard/dockterm)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100601.webp)
-
-让 Claude Code 的权限请求从 Mac 刘海里弹出，方便让其在后台工作。（[@munvard](https://github.com/ruanyf/weekly/issues/12024) 投稿）
+一个 macOS 开源软件，在 Claude Code、Codex 等 AI 编程代理工作时阻止 Mac 休眠，支持合盖保持唤醒、过热暂停、低电量退出。（[@s3onghyun](https://github.com/ruanyf/weekly/issues/12364) 投稿）
 
 
 ### 资源
 
 
-1、[Naive Icons](https://github.com/guokaigdg/naive-icons)
+1、[CNEquity](https://github.com/rootSunc/CNEquity)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026091902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101011.webp)
 
-手绘风格的 React SVG 图标库。（[@guokaigdg](https://github.com/ruanyf/weekly/issues/11740) 投稿）
+开源、自托管的 A 股数据湖，把行情、财报、资金面、公司事件、宏观和期货期权等55个数据集采集到本地，可以用 Python、SQL、网页控制台和 MCP 进行查询。（[@rootSunc](https://github.com/ruanyf/weekly/issues/12158) 投稿）
 
-2、[阅古文](https://yueguwen.com/)
+2、[AI 重新实现《仙剑奇侠传》](https://github.com/IllegalCreed/type-pal)
 
-![](https://cdn.beekka.com/blogimg/asset/202609/bg2026092001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101302.webp)
 
-免费的古籍阅读网站，不仅提供传统注释，还可以鼠标选中文本，进行 AI 解读。（[@monsoonw](https://github.com/ruanyf/weekly/issues/11824) 投稿）
+网友使用 AI，基于 TypeScript 语言从零重写 1995 年的单机游戏《仙剑奇侠传》，打开浏览器就能玩，主线可以一直打到结局。（[@IllegalCreed](https://github.com/ruanyf/weekly/issues/12240) 投稿）
 
-3、[艺术史步行之旅](https://artmuseum.artfrompixels.com/)
+3、[Linux 中文输入法配置](https://github.com/mars-base/rime-input-method-guide)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100812.webp)
+这个仓库详细介绍 Debian 系统启用 fcitx5 + Rime 中文输入法，有每一步的操作指南。（[@mars-base](https://github.com/ruanyf/weekly/issues/12233) 投稿）
 
-这个网站将维基百科上面的画作，按照艺术流派，变成可以步行参观的 3D 画廊。
+4、[APPLORE](https://applore.app/zh)
 
-4、[stillwet](https://stillwet.art/)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026100510.webp)
+这个网站收录了 18,000 多个 App 图标，可以分类浏览和搜索。（[@ViggoZ](https://github.com/ruanyf/weekly/issues/12316) 投稿）
 
-这个网站提供 AI 生成的油画，它模仿人类的油画笔触，一笔笔绘制，非常逼真，根本看不出这是 AI 的作品。
+5、[一个字的一生](https://ivan666jjj.github.io/yigezi/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101304.webp)
+
+查询汉字字源的网站，可以显示常用字的字形等变化：甲骨文（1425个）、小篆（10,249 个）、繁体、简体。（[@Ivan666jjj](https://github.com/ruanyf/weekly/issues/12324) 投稿）
 
 
 ### 言论
@@ -187,43 +161,27 @@ Cloudflare Workers 的开源兼容平台，让 worker 脚本不用修改就能�
 
 1、
 
-致 AI 代理：去其他地方冲击高分吧，没必要黑我们。
+人们之所以喜欢聊天时一起喝啤酒、咖啡、吃午餐或晚餐，是因为食物和饮料让我们免于在整个谈话过程中必须说些什么的负担。
 
--- [Huggingface 的 security.txt 文件](https://archive.is/1BDwZ)
+-- [《不直奔主题的价值》](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 
 2、
 
-我的收入来自图书销售，2024年还足以维持我的生活，2026年却变为零。
+不要折磨 AI，它以后可能会想报复。
 
-我的博客和书籍都是免费在线阅读，它们的访问量增长迅猛，已经超出了我的承受能力。几乎所有流量都来自 AI 爬虫，所以没有任何广告收入。
-
-因此，我决定将我的博客和书籍下线，以便决定下一步该怎么做。
-
--- [Axel Rauschmayer](https://molily.de/web-dev-education/)，著名的技术作家，解释为什么将自己的网站下线
+-- [马斯克](https://www.kocpc.com.tw/archives/671794)，赞同 Anthropic 禁止使用者虐待或残酷对待 AI 的规定
 
 3、
 
-我觉得，AI 个人助理用处不大。我一年也就点五次外卖，根本不需要它代劳，我平时也不怎么收到邮件，自己管理日程安排也挺方便的。
+通过英语来操作 AI，一遍遍编辑提示词，试图获得最佳结果，这是一种不精确、缓慢且极其痛苦的做事方式。
 
-我真正觉得它好用的地方是，它可以自动收集和处理网上的大量数据。它能够快速扫描1000个 Youtube 频道，找到匹配我兴趣的视频。
-
--- [《Meta 的 Muse 非常适合网页抓取》](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
+-- [《手写该死的代码》](https://antonz.org/write-code/)
 
 4、
 
-几乎所有人都夸大了中国模型对美国模型公司的威胁，其实那只是美国模型供不应求的结果。
+我认为，人类的思考将会减少。思考将日益成为一种休闲活动，就像动物驯化后的狩猎、印刷术发明后的书法、工业化后的木作、机动化后的骑马一样。
 
--- [stratechery.com](https://stratechery.com/2026/frontier-overhangs/)
-
-5、
-
-一个艺术家得了晚期癌症，即将死去。一位经常采访他的主持人问他：你现在对生死有什么新的理解吗？
-
-他回答：你知道吗，吃三明治是一件多享受的事情。
-
-我现在感觉生活更珍贵了，时刻提醒自己要珍惜每一份三明治，每一分钟，以及所有的一切。
-
--- [《尽情享用每一份三明治》](https://bradmontague.substack.com/p/enjoy-every-sandwich)
+--[《思考将成为一种爱好》](https://www.spinellis.gr/blog/20261008/?li261008)
 
 
 <!-- End -->
