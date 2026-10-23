@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#资源)
+
+
+1、[大鹏书法](https://zidian.dapengshufa.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101902.webp)
+
+查看某个字的各种书法。（[@gengdapeng-beep](https://github.com/ruanyf/weekly/issues/12402) 投稿）
+
+2、[学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the Smart Way）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110605.webp)
+
+一个开源的 Vim 编辑器教程，这是英文版。另有[中文版](https://gitlab.com/wsdjeg/Learn-Vim_zh_cn)。
+
+3、[编译器和语言设计导论](https://dthain.github.io/books/compiler/)（Introduction to Compilers and Language Design）
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070703.webp)
+
+一本免费的英语教材，面向初学者，介绍编译器的概念，以及如何写一个 C 语言的编译器。
+
+
 ## [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md#资源)
 
 

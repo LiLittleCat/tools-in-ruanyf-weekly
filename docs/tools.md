@@ -1,5 +1,75 @@
 # 工具
 
+## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#工具)
+
+
+1、[sslx](https://github.com/glincker/sslx)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101806.webp)
+
+一个检测、查看 HTTPS 证书信息的命令行工具。
+
+2、[Mac.apk](https://github.com/kksimp/Mac.apk)
+
+这个应用可以让 Mac 运行安卓软件，不是虚拟机，也不是模拟器，原理是模拟安卓的系统 API。
+
+3、[siltop](https://github.com/CLoaKY233/siltop)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102110.webp)
+
+一个 macOS 命令行工具，在终端显示各种实时的系统信息：CPU、GPU、内存、电力、温度、存储、网络等。
+
+4、[Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071301.webp)
+
+一个 macOS 软件，显示正在运行的所有应用的互联网连接，并可以阻断指定的单个连接。
+
+5、[Pines](https://github.com/thedevdojo/pines)
+
+![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071307.webp)
+
+一个基于 Tailwind 的 UI 组件库。
+
+6、[silkpulse](https://github.com/2234839/silkpulse)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101901.webp)
+
+前端的远程页面调试工具。在页面插入一个脚本，就可以远程打开该网页的控制台，查看各种信息，接收实时报错，适合调试手机端页面。（[@2234839](https://github.com/ruanyf/weekly/issues/12383) 投稿）
+
+7、[TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101903.webp)
+
+Windows 任务栏实时显示歌词，支持国内主要音乐服务。（[@ANYNC](https://github.com/ruanyf/weekly/issues/12408) 投稿）
+
+8、[Archify](https://github.com/tt-a1i/archify)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101905.webp)
+
+一个 Skill 项目，将一段话、一个计划、一个代码仓库变成互动式网页流程图。（[@zhengxin-wang](https://github.com/ruanyf/weekly/issues/12423) 投稿）
+
+9、[html-to-video](https://github.com/wx4766/html-to-video)
+
+一个把 HTML 网页动画逐帧渲染成 MP4 视频的命令行工具。（[@wx4766](https://github.com/ruanyf/weekly/issues/12486) 投稿）
+
+10、[Parcel](https://github.com/hyphy-void/Parcel)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102101.webp)
+
+基于 Cloudflare Worker 环境的临时文件分享应用，上传文件后生成加密的分享链接，到期自动清理。（[@hyphy-void](https://github.com/ruanyf/weekly/issues/12598) 投稿）
+
+11、[douban-cli](https://github.com/Marvae/douban-cli)
+
+豆瓣的非官方命令行客户端，可以用来获取电影、剧集、图书的数据。（[@Marvae](https://github.com/ruanyf/weekly/issues/12616) 投稿）
+
+12、[wol](https://github.com/Trugamr/wol)
+
+![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012509.webp)
+
+一个命令行工具，可以通过命令行或 Web 界面，唤醒当前局域网里面某台正在休眠的计算机。
+
+
 ## [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md#工具)
 
 

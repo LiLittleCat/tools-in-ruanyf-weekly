@@ -1,5 +1,48 @@
 # 言论
 
+## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#言论)
+
+
+1、
+
+有人问，AI 编写的代码，我根本不理解，公司却要我发布它，怎么办？
+
+我的回答是，不要让 AI 设计代码，而要让它实现你已经设计好的代码。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=50157475)
+
+2、
+
+大多数建议对于给出建议的人都是正确的，对于别人就不一定了。
+
+-- [coached.com](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+
+3、
+
+AI 让单人创业变得容易，创业失败的主要原因以后将是孤独。
+
+身边没有人对你的想法提出异议，没有人注意到你遇到的困难，或者鼓励你坚持到底。AI 或许可以帮助你更快地前进，但它无法完全取代与人倾诉或分享喜悦。
+
+-- [《自动化之后，单人创业将成为主流》](https://every.to/thesis-statements/julian-weisser)
+
+4、
+
+美国政府的主要关注，现在已经变成了如何保持对中国的技术领先优势，以及设法维持美国股市的高股价。
+
+-- [《经济学家》杂志](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)
+
+5、
+
+过去几个月，OpenAI 公司发布了 AI 做出的数百项数学证明。这震惊了数学界，一位数学家说他不禁哭了，感到 AI 毁灭了自己的研究领域。
+
+技术乐观主义者可能不会这样想，他会劝这位数学家振作起来。
+
+数学不会在意你的感受，科学现实对你的眼泪漠不关心。你感到自己的圣殿被毁灭了，可是这种事以前也发生在别人身上。接受现实吧。
+
+-- [《我知道数学家为何哭泣》](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
+
+
+
 ## [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](https://github.com/ruanyf/weekly/blob/master/docs/issue-415.md#言论)
 
 
