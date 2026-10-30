@@ -29,99 +29,117 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>416</currentVersion> -->
+<!-- <currentVersion>417</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md)
+# [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md)
 ### 工具
 
 
-1、[sslx](https://github.com/glincker/sslx)
+1、[Everything](https://github.com/HeyPuter/everything)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101806.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102803.webp)
 
-一个检测、查看 HTTPS 证书信息的命令行工具。
+这个 Everything 项目致力于将全世界所有常用软件都用 AI 重写一遍，目前已经完成了几十种。
 
-2、[Mac.apk](https://github.com/kksimp/Mac.apk)
+这些软件本身或许没什么亮点，但是这个项目的目标实在太惊人，难以想象如果实现了，会是怎样的结果。
 
-这个应用可以让 Mac 运行安卓软件，不是虚拟机，也不是模拟器，原理是模拟安卓的系统 API。
+2、[TitleArt](https://titleart.dvy.io/)
 
-3、[siltop](https://github.com/CLoaKY233/siltop)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102917.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102110.webp)
+这个 Web 应用将上个世纪的美术字编辑器，搬到了浏览器。
 
-一个 macOS 命令行工具，在终端显示各种实时的系统信息：CPU、GPU、内存、电力、温度、存储、网络等。
+3、[Overgrown](https://github.com/charliegerard/Overgrown)
 
-4、[Little Snitch Mini](https://obdev.at/products/littlesnitch-mini/index.html)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102918.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071301.webp)
+这个浏览器插件会让闲置的网页长满藤蔓，再次浏览页面的时候，需要用鼠标砍断藤蔓，参见[介绍文章](https://charliegerard.dev/blog/overgrown-extension/)。
 
-一个 macOS 软件，显示正在运行的所有应用的互联网连接，并可以阻断指定的单个连接。
+4、[make-look-scanned](https://github.com/overflowy/make-look-scanned)
 
-5、[Pines](https://github.com/thedevdojo/pines)
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062103.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202307/bg2023071307.webp)
+一个命令行工具，让 PDF 文件看起来像是通过纸张扫描生成的（上图）。
 
-一个基于 Tailwind 的 UI 组件库。
+5、[What's Up Docker](https://getwud.github.io/wud/)
 
-6、[silkpulse](https://github.com/2234839/silkpulse)
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051902.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101901.webp)
+本地的容器管理应用，带有 Web 界面。
 
-前端的远程页面调试工具。在页面插入一个脚本，就可以远程打开该网页的控制台，查看各种信息，接收实时报错，适合调试手机端页面。（[@2234839](https://github.com/ruanyf/weekly/issues/12383) 投稿）
+6、[OpenIDEA](https://github.com/l0ng-ai/openidea)
 
-7、[TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102903.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101903.webp)
+一个开源的桌面 IDE，保留 IntelliJ IDEA 的使用习惯，底层用 Rust + Tauri 2 重写。（[@l0ng-ai](https://github.com/ruanyf/weekly/issues/12734) 投稿）
 
-Windows 任务栏实时显示歌词，支持国内主要音乐服务。（[@ANYNC](https://github.com/ruanyf/weekly/issues/12408) 投稿）
+7、[Oleafly](https://github.com/Oleafly/Oleafly)
 
-8、[Archify](https://github.com/tt-a1i/archify)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102904.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101905.webp)
+开源的科研写作编辑器，支持 LaTeX、Typst 和 Markdown，不用单独安装 TeX 发行版。（[@prajwal-svm](https://github.com/ruanyf/weekly/issues/12750) 投稿）
 
-一个 Skill 项目，将一段话、一个计划、一个代码仓库变成互动式网页流程图。（[@zhengxin-wang](https://github.com/ruanyf/weekly/issues/12423) 投稿）
+8、[Weblink](https://github.com/99percentpeople/weblink)
 
-9、[html-to-video](https://github.com/wx4766/html-to-video)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102905.webp)
 
-一个把 HTML 网页动画逐帧渲染成 MP4 视频的命令行工具。（[@wx4766](https://github.com/ruanyf/weekly/issues/12486) 投稿）
+开源的 Windows 远程桌面工具，通过浏览器共享远程桌面，并可远程控制鼠标和键盘，支持文件传输、剪贴板共享、聊天及语音视频通话。（[@99percentpeople](https://github.com/ruanyf/weekly/issues/12765) 投稿）
 
-10、[Parcel](https://github.com/hyphy-void/Parcel)
+9、[MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102907.webp)
 
-基于 Cloudflare Worker 环境的临时文件分享应用，上传文件后生成加密的分享链接，到期自动清理。（[@hyphy-void](https://github.com/ruanyf/weekly/issues/12598) 投稿）
+在 Mac 菜单栏与 Win11 托盘里控制米家和 Home Assistant 设备。（[@jryang1997](https://github.com/ruanyf/weekly/issues/12858) 投稿）
 
-11、[douban-cli](https://github.com/Marvae/douban-cli)
+10、[无名大叔系统优化工具箱（3z9wOpt）](https://github.com/3z9w/3z9wopt)
 
-豆瓣的非官方命令行客户端，可以用来获取电影、剧集、图书的数据。（[@Marvae](https://github.com/ruanyf/weekly/issues/12616) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102908.webp)
 
-12、[wol](https://github.com/Trugamr/wol)
+开源的 Windows 系统优化工具箱，包括清理垃圾、管理启动项与驱动等功能，技术栈是 Go + Wails v2 的桌面程序。（[@3z9w](https://github.com/ruanyf/weekly/issues/12876) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202501/bg2025012509.webp)
+11、[Cloud Mail](https://github.com/maillab/cloud-mail)
 
-一个命令行工具，可以通过命令行或 Web 界面，唤醒当前局域网里面某台正在休眠的计算机。
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102909.webp)
+
+基于 Cloudflare 的一站式邮箱服务平台。只需要一个域名，就可以搭建自己的邮箱服务，可部署到 Cloudflare Workers。（[@aslost](https://github.com/ruanyf/weekly/issues/12875) 投稿）
+
+12、[晒窗 ShaiWin](https://github.com/19y/ShaiWin)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102910.webp)
+
+把 Windows 窗口挂到屏幕顶端的一根晾衣绳上，点击后复原。（[@19y](https://github.com/ruanyf/weekly/issues/12871) 投稿）
+
+13、[openhongguo](https://github.com/beilunyang/openhongguo)
+
+红果短剧（Hongguo）的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本。（[@beilunyang](https://github.com/ruanyf/weekly/issues/12884) 投稿）
+
+14、[FoldGit](https://github.com/dufu1991/foldgit)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102911.webp)
+
+约 4 MB 的轻量级原生 macOS Git 客户端，集中管理多个仓库与工作树。（[@dufu1991](https://github.com/ruanyf/weekly/issues/12885) 投稿）
 
 
 ### 资源
 
 
-1、[大鹏书法](https://zidian.dapengshufa.com/)
+1、[墨观 inkstone](https://github.com/Konata9/inkstone)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026101902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102906.webp)
 
-查看某个字的各种书法。（[@gengdapeng-beep](https://github.com/ruanyf/weekly/issues/12402) 投稿）
+代码编辑器的配色方案，共有六个变体，从 526 个中国传统颜色中提取。（[@Konata9](https://github.com/ruanyf/weekly/issues/12782) 投稿）
 
-2、[学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the Smart Way）
+2、[《追忆似水年华》全七卷 AI 译本](https://github.com/QriDoki/in-search-of-lost-time-translation-project)
 
-![](https://cdn.beekka.com/blogimg/asset/202311/bg2023110605.webp)
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102913.webp)
 
-一个开源的 Vim 编辑器教程，这是英文版。另有[中文版](https://gitlab.com/wsdjeg/Learn-Vim_zh_cn)。
+这个仓库是文学巨著《追忆似水年华》的 AI 翻译。（[@QriDoki](https://github.com/ruanyf/weekly/issues/12889) 投稿）
 
-3、[编译器和语言设计导论](https://dthain.github.io/books/compiler/)（Introduction to Compilers and Language Design）
+3、[吉卜力搜索](https://ghibli-search.anini.workers.dev/)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070703.webp)
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012506.webp)
 
-一本免费的英语教材，面向初学者，介绍编译器的概念，以及如何写一个 C 语言的编译器。
+这个网站可以语意搜索吉卜力工作室的电影画面。
 
 
 ### 言论
@@ -129,42 +147,39 @@ Windows 任务栏实时显示歌词，支持国内主要音乐服务。（[@ANYN
 
 1、
 
-有人问，AI 编写的代码，我根本不理解，公司却要我发布它，怎么办？
+失败不重要，重要的是赢的时候赢多大。
 
-我的回答是，不要让 AI 设计代码，而要让它实现你已经设计好的代码。
-
--- [Hacker News 读者](https://news.ycombinator.com/item?id=50157475)
+-- [扎克伯格](https://www.threads.com/@tenten.co/post/De6SPPEE58e)，Facebook 创始人
 
 2、
 
-大多数建议对于给出建议的人都是正确的，对于别人就不一定了。
+想象一下，在未来世界，AI 无处不在，而你突然被禁止使用 AI。
 
--- [coached.com](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+这意味着你失去了所有的经济价值。你周围的人都是超人，你无法跟他们竞争。别人的世界充满色彩，你的世界灰暗凄凉。当别人都在用机器人大军建造摩天大楼时，你却只能用勺子挖洞。这才是真正的末日灾难。
+
+开源是保护你的自由、经济生存能力以及对这些公司说“滚蛋”的唯一途径。不能让 OpenAI 和 Anthropologie 控制我们的生活，在他们的平台上违反服务条款都会让你直接被封禁。
+
+-- [X 用户](https://x.com/boneGPT/status/2114035719853265264)
 
 3、
 
-AI 让单人创业变得容易，创业失败的主要原因以后将是孤独。
+学生都用 AI 做作业，老师为什么还要批改作业？
 
-身边没有人对你的想法提出异议，没有人注意到你遇到的困难，或者鼓励你坚持到底。AI 或许可以帮助你更快地前进，但它无法完全取代与人倾诉或分享喜悦。
-
--- [《自动化之后，单人创业将成为主流》](https://every.to/thesis-statements/julian-weisser)
+-- [一个加州大学的教授](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)，宣布不再批改学生作业
 
 4、
 
-美国政府的主要关注，现在已经变成了如何保持对中国的技术领先优势，以及设法维持美国股市的高股价。
+一个人的音乐品味，很大程度上是在青春期形成的，25岁之后很难喜欢上不一样的东西。
 
--- [《经济学家》杂志](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)
+其他方面也是如此，你成年后喜欢的东西，往往都是青少年时期决定的。
+
+-- 《人们的音乐爱好会随年龄发生怎样的变化？》
 
 5、
 
-过去几个月，OpenAI 公司发布了 AI 做出的数百项数学证明。这震惊了数学界，一位数学家说他不禁哭了，感到 AI 毁灭了自己的研究领域。
+AI 的用法属于那种几周就能学会，几个月后就会过时的技能，除了眼前的短暂价值之外，没有任何意义。
 
-技术乐观主义者可能不会这样想，他会劝这位数学家振作起来。
-
-数学不会在意你的感受，科学现实对你的眼泪漠不关心。你感到自己的圣殿被毁灭了，可是这种事以前也发生在别人身上。接受现实吧。
-
--- [《我知道数学家为何哭泣》](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
-
+-- [《AI 技能将毫无价值》](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
 
 
 <!-- End -->

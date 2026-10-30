@@ -1,5 +1,27 @@
 # 资源
 
+## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#资源)
+
+
+1、[墨观 inkstone](https://github.com/Konata9/inkstone)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102906.webp)
+
+代码编辑器的配色方案，共有六个变体，从 526 个中国传统颜色中提取。（[@Konata9](https://github.com/ruanyf/weekly/issues/12782) 投稿）
+
+2、[《追忆似水年华》全七卷 AI 译本](https://github.com/QriDoki/in-search-of-lost-time-translation-project)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102913.webp)
+
+这个仓库是文学巨著《追忆似水年华》的 AI 翻译。（[@QriDoki](https://github.com/ruanyf/weekly/issues/12889) 投稿）
+
+3、[吉卜力搜索](https://ghibli-search.anini.workers.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012506.webp)
+
+这个网站可以语意搜索吉卜力工作室的电影画面。
+
+
 ## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#资源)
 
 

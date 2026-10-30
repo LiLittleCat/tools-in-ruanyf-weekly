@@ -1,5 +1,93 @@
 # 工具
 
+## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#工具)
+
+
+1、[Everything](https://github.com/HeyPuter/everything)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102803.webp)
+
+这个 Everything 项目致力于将全世界所有常用软件都用 AI 重写一遍，目前已经完成了几十种。
+
+这些软件本身或许没什么亮点，但是这个项目的目标实在太惊人，难以想象如果实现了，会是怎样的结果。
+
+2、[TitleArt](https://titleart.dvy.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102917.webp)
+
+这个 Web 应用将上个世纪的美术字编辑器，搬到了浏览器。
+
+3、[Overgrown](https://github.com/charliegerard/Overgrown)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102918.webp)
+
+这个浏览器插件会让闲置的网页长满藤蔓，再次浏览页面的时候，需要用鼠标砍断藤蔓，参见[介绍文章](https://charliegerard.dev/blog/overgrown-extension/)。
+
+4、[make-look-scanned](https://github.com/overflowy/make-look-scanned)
+
+![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062103.webp)
+
+一个命令行工具，让 PDF 文件看起来像是通过纸张扫描生成的（上图）。
+
+5、[What's Up Docker](https://getwud.github.io/wud/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051902.webp)
+
+本地的容器管理应用，带有 Web 界面。
+
+6、[OpenIDEA](https://github.com/l0ng-ai/openidea)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102903.webp)
+
+一个开源的桌面 IDE，保留 IntelliJ IDEA 的使用习惯，底层用 Rust + Tauri 2 重写。（[@l0ng-ai](https://github.com/ruanyf/weekly/issues/12734) 投稿）
+
+7、[Oleafly](https://github.com/Oleafly/Oleafly)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102904.webp)
+
+开源的科研写作编辑器，支持 LaTeX、Typst 和 Markdown，不用单独安装 TeX 发行版。（[@prajwal-svm](https://github.com/ruanyf/weekly/issues/12750) 投稿）
+
+8、[Weblink](https://github.com/99percentpeople/weblink)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102905.webp)
+
+开源的 Windows 远程桌面工具，通过浏览器共享远程桌面，并可远程控制鼠标和键盘，支持文件传输、剪贴板共享、聊天及语音视频通话。（[@99percentpeople](https://github.com/ruanyf/weekly/issues/12765) 投稿）
+
+9、[MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102907.webp)
+
+在 Mac 菜单栏与 Win11 托盘里控制米家和 Home Assistant 设备。（[@jryang1997](https://github.com/ruanyf/weekly/issues/12858) 投稿）
+
+10、[无名大叔系统优化工具箱（3z9wOpt）](https://github.com/3z9w/3z9wopt)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102908.webp)
+
+开源的 Windows 系统优化工具箱，包括清理垃圾、管理启动项与驱动等功能，技术栈是 Go + Wails v2 的桌面程序。（[@3z9w](https://github.com/ruanyf/weekly/issues/12876) 投稿）
+
+11、[Cloud Mail](https://github.com/maillab/cloud-mail)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102909.webp)
+
+基于 Cloudflare 的一站式邮箱服务平台。只需要一个域名，就可以搭建自己的邮箱服务，可部署到 Cloudflare Workers。（[@aslost](https://github.com/ruanyf/weekly/issues/12875) 投稿）
+
+12、[晒窗 ShaiWin](https://github.com/19y/ShaiWin)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102910.webp)
+
+把 Windows 窗口挂到屏幕顶端的一根晾衣绳上，点击后复原。（[@19y](https://github.com/ruanyf/weekly/issues/12871) 投稿）
+
+13、[openhongguo](https://github.com/beilunyang/openhongguo)
+
+红果短剧（Hongguo）的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本。（[@beilunyang](https://github.com/ruanyf/weekly/issues/12884) 投稿）
+
+14、[FoldGit](https://github.com/dufu1991/foldgit)
+
+![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102911.webp)
+
+约 4 MB 的轻量级原生 macOS Git 客户端，集中管理多个仓库与工作树。（[@dufu1991](https://github.com/ruanyf/weekly/issues/12885) 投稿）
+
+
 ## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#工具)
 
 

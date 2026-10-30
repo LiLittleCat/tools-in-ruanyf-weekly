@@ -1,5 +1,45 @@
 # 言论
 
+## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#言论)
+
+
+1、
+
+失败不重要，重要的是赢的时候赢多大。
+
+-- [扎克伯格](https://www.threads.com/@tenten.co/post/De6SPPEE58e)，Facebook 创始人
+
+2、
+
+想象一下，在未来世界，AI 无处不在，而你突然被禁止使用 AI。
+
+这意味着你失去了所有的经济价值。你周围的人都是超人，你无法跟他们竞争。别人的世界充满色彩，你的世界灰暗凄凉。当别人都在用机器人大军建造摩天大楼时，你却只能用勺子挖洞。这才是真正的末日灾难。
+
+开源是保护你的自由、经济生存能力以及对这些公司说“滚蛋”的唯一途径。不能让 OpenAI 和 Anthropologie 控制我们的生活，在他们的平台上违反服务条款都会让你直接被封禁。
+
+-- [X 用户](https://x.com/boneGPT/status/2114035719853265264)
+
+3、
+
+学生都用 AI 做作业，老师为什么还要批改作业？
+
+-- [一个加州大学的教授](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)，宣布不再批改学生作业
+
+4、
+
+一个人的音乐品味，很大程度上是在青春期形成的，25岁之后很难喜欢上不一样的东西。
+
+其他方面也是如此，你成年后喜欢的东西，往往都是青少年时期决定的。
+
+-- 《人们的音乐爱好会随年龄发生怎样的变化？》
+
+5、
+
+AI 的用法属于那种几周就能学会，几个月后就会过时的技能，除了眼前的短暂价值之外，没有任何意义。
+
+-- [《AI 技能将毫无价值》](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
+
+
 ## [科技爱好者周刊（第 416 期）：编程已经面目全非](https://github.com/ruanyf/weekly/blob/master/docs/issue-416.md#言论)
 
 
