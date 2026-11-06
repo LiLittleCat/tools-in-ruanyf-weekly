@@ -29,117 +29,97 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>417</currentVersion> -->
+<!-- <currentVersion>418</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md)
+# [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md)
 ### 工具
 
 
-1、[Everything](https://github.com/HeyPuter/everything)
+1、[florilegium](https://github.com/kevinraymond/florilegium)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110302.webp)
 
-这个 Everything 项目致力于将全世界所有常用软件都用 AI 重写一遍，目前已经完成了几十种。
+LaTex 排版软件的插件，在页面空白处生成植物图案。
 
-这些软件本身或许没什么亮点，但是这个项目的目标实在太惊人，难以想象如果实现了，会是怎样的结果。
+这个概念很棒，而且可以移植到网页。
 
-2、[TitleArt](https://titleart.dvy.io/)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102917.webp)
+2、[Disc Image Studio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
-这个 Web 应用将上个世纪的美术字编辑器，搬到了浏览器。
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110404.webp)
 
-3、[Overgrown](https://github.com/charliegerard/Overgrown)
+这个工具可以将指定的图片刻录到光碟上，使得图案在光碟表面上肉眼可见。
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102918.webp)
+3、[OutCrap](https://outcrop.rocks/)
 
-这个浏览器插件会让闲置的网页长满藤蔓，再次浏览页面的时候，需要用鼠标砍断藤蔓，参见[介绍文章](https://charliegerard.dev/blog/overgrown-extension/)。
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110406.webp)
 
-4、[make-look-scanned](https://github.com/overflowy/make-look-scanned)
+一个免费的手机 App（苹果和安卓），可以根据照片分析地质地貌，也可以根据 GPS 定位给出地质信息。
 
-![](https://cdn.beekka.com/blogimg/asset/202606/bg2026062103.webp)
+4、[SOML](https://github.com/soml-lang/soml)
 
-一个命令行工具，让 PDF 文件看起来像是通过纸张扫描生成的（上图）。
+一种可以取代 JSON 的数据文件格式，消除了 JSON 的大多数缺点，更容易使用，基本上是 YAML 的简化版，提供各种语言的实现。
 
-5、[What's Up Docker](https://getwud.github.io/wud/)
+5、[Casnode](https://github.com/casnode/casnode)
 
-![](https://cdn.beekka.com/blogimg/asset/202505/bg2025051902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110419.webp)
 
-本地的容器管理应用，带有 Web 界面。
+开源的 Discourse 风格的论坛程序，采用 Go + Next.js 开发，数据库默认为 SQLite。（[@hsluoyz](https://github.com/ruanyf/weekly/issues/12933) 投稿）
 
-6、[OpenIDEA](https://github.com/l0ng-ai/openidea)
+6、[澜姿](https://github.com/wzc520pyfm/gen-ai-pose-image)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102903.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110418.webp)
 
-一个开源的桌面 IDE，保留 IntelliJ IDEA 的使用习惯，底层用 Rust + Tauri 2 重写。（[@l0ng-ai](https://github.com/ruanyf/weekly/issues/12734) 投稿）
+这个开源工具提供一套可以微调的人体姿态/服装/表情模板，供 AI 模型套用到图片上面。（[@zc520pyfm](https://github.com/ruanyf/weekly/issues/12899) 投稿）
 
-7、[Oleafly](https://github.com/Oleafly/Oleafly)
+7、[Crossbow](https://github.com/Richard-Zhang1019/Crossbow)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102904.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110420.webp)
 
-开源的科研写作编辑器，支持 LaTeX、Typst 和 Markdown，不用单独安装 TeX 发行版。（[@prajwal-svm](https://github.com/ruanyf/weekly/issues/12750) 投稿）
+开源的代理桌面客户端，支持双内核一键切换。（[@Richard-Zhang1019](https://github.com/ruanyf/weekly/issues/12940) 投稿）
 
-8、[Weblink](https://github.com/99percentpeople/weblink)
+8、[WeRead Book Exporter](https://github.com/WANGXIN-567/weread-book-exporter)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102905.webp)
+微信读书全书无损导出工具，抓取微信读书 Web 端已购或会员书籍全文，一键导出为 PDF、EPUB 以及 Markdown 笔记。（[@WANGXIN-567](https://github.com/ruanyf/weekly/issues/12942) 投稿）
 
-开源的 Windows 远程桌面工具，通过浏览器共享远程桌面，并可远程控制鼠标和键盘，支持文件传输、剪贴板共享、聊天及语音视频通话。（[@99percentpeople](https://github.com/ruanyf/weekly/issues/12765) 投稿）
+9、[Linkit](https://github.com/blue-idea/linkit)
 
-9、[MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110421.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102907.webp)
+浏览器书签的桌面管理器，基于 Go + Wails + SQLite 构建，支持本地语义向量检索、404 死链检测与知识图谱。（[@blue-idea](https://github.com/ruanyf/weekly/issues/13018) 投稿）
 
-在 Mac 菜单栏与 Win11 托盘里控制米家和 Home Assistant 设备。（[@jryang1997](https://github.com/ruanyf/weekly/issues/12858) 投稿）
+10、[halfsize](https://github.com/YKLovePython/halfsize)
 
-10、[无名大叔系统优化工具箱（3z9wOpt）](https://github.com/3z9w/3z9wopt)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102908.webp)
-
-开源的 Windows 系统优化工具箱，包括清理垃圾、管理启动项与驱动等功能，技术栈是 Go + Wails v2 的桌面程序。（[@3z9w](https://github.com/ruanyf/weekly/issues/12876) 投稿）
-
-11、[Cloud Mail](https://github.com/maillab/cloud-mail)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102909.webp)
-
-基于 Cloudflare 的一站式邮箱服务平台。只需要一个域名，就可以搭建自己的邮箱服务，可部署到 Cloudflare Workers。（[@aslost](https://github.com/ruanyf/weekly/issues/12875) 投稿）
-
-12、[晒窗 ShaiWin](https://github.com/19y/ShaiWin)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102910.webp)
-
-把 Windows 窗口挂到屏幕顶端的一根晾衣绳上，点击后复原。（[@19y](https://github.com/ruanyf/weekly/issues/12871) 投稿）
-
-13、[openhongguo](https://github.com/beilunyang/openhongguo)
-
-红果短剧（Hongguo）的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本。（[@beilunyang](https://github.com/ruanyf/weekly/issues/12884) 投稿）
-
-14、[FoldGit](https://github.com/dufu1991/foldgit)
-
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102911.webp)
-
-约 4 MB 的轻量级原生 macOS Git 客户端，集中管理多个仓库与工作树。（[@dufu1991](https://github.com/ruanyf/weekly/issues/12885) 投稿）
+开源的命令行工具，将视频文件压缩到指定大小。（[@YKLovePython](https://github.com/ruanyf/weekly/issues/13072) 投稿）
 
 
 ### 资源
 
 
-1、[墨观 inkstone](https://github.com/Konata9/inkstone)
+1、[HackerTube](https://hackertube.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102906.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110407.webp)
 
-代码编辑器的配色方案，共有六个变体，从 526 个中国传统颜色中提取。（[@Konata9](https://github.com/ruanyf/weekly/issues/12782) 投稿）
+一个 Youtube 视频网站，汇集了“黑客新闻”论坛上提到的所有 Youtube 视频，可以用来寻找值得看的科技视频。
 
-2、[《追忆似水年华》全七卷 AI 译本](https://github.com/QriDoki/in-search-of-lost-time-translation-project)
+另有 [HackerBooks](https://hackerbooks.org/topic/fantasy) 和 [HackerPodcasts](https://www.hackerpodcasts.org/)，分别收集了“黑客新闻”提到过的各种书籍和播客。（[@qcrao](https://github.com/ruanyf/weekly/issues/13061) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202610/bg2026102913.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110408.webp)
 
-这个仓库是文学巨著《追忆似水年华》的 AI 翻译。（[@QriDoki](https://github.com/ruanyf/weekly/issues/12889) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110422.webp)
 
-3、[吉卜力搜索](https://ghibli-search.anini.workers.dev/)
+2、[开始学习图论](https://vertex.degree/)（Start Doing Graph Theory）
 
-![](https://cdn.beekka.com/blogimg/asset/202601/bg2026012506.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110301.webp)
 
-这个网站可以语意搜索吉卜力工作室的电影画面。
+一本面向初学者的图论入门教材（英文），免费阅读和下载。
+
+3、[Python 数据科学手册](https://jakevdp.github.io/PythonDataScienceHandbook/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120404.webp)
+
+该书向初学者介绍用于数据处理的一些 Python 基本工具（比如 NumPy、Pandas），出版于2016年，免费阅读。
 
 
 ### 言论
@@ -147,39 +127,35 @@
 
 1、
 
-失败不重要，重要的是赢的时候赢多大。
+真心，正义，无畏，同情。 
 
--- [扎克伯格](https://www.threads.com/@tenten.co/post/De6SPPEE58e)，Facebook 创始人
+-- 电影《无问西东》
 
 2、
 
-想象一下，在未来世界，AI 无处不在，而你突然被禁止使用 AI。
+民众在自己电脑上装内存，其实是一件很糟糕的事情。因为这些内存95％的时间都处于闲置状态，如果人们想要解决当前的内存供应问题，那就应该把内存都交给我们用在机房。
 
-这意味着你失去了所有的经济价值。你周围的人都是超人，你无法跟他们竞争。别人的世界充满色彩，你的世界灰暗凄凉。当别人都在用机器人大军建造摩天大楼时，你却只能用勺子挖洞。这才是真正的末日灾难。
-
-开源是保护你的自由、经济生存能力以及对这些公司说“滚蛋”的唯一途径。不能让 OpenAI 和 Anthropologie 控制我们的生活，在他们的平台上违反服务条款都会让你直接被封禁。
-
--- [X 用户](https://x.com/boneGPT/status/2114035719853265264)
+-- [山姆·奥特曼](https://www.kocpc.com.tw/archives/701674)，OpenAI 公司首席执行官
 
 3、
 
-学生都用 AI 做作业，老师为什么还要批改作业？
+人们还没有充分认识到，既然电动汽车配备了大容量电池，为什么还要买个小电池仅仅为了应急？
 
--- [一个加州大学的教授](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)，宣布不再批改学生作业
+电动汽车其实是家庭的备用电源。
+
+-- [《电网中断期间的双向充电》](https://www.jefftk.com/p/bidirectional-charging-during-grid-outages)
 
 4、
 
-一个人的音乐品味，很大程度上是在青春期形成的，25岁之后很难喜欢上不一样的东西。
+AI 生成的内容就像沥青，看起来光鲜明亮，而且很容易随处涂抹。但如果你以后需要清除沥青，即使一切顺利，也需要数年时间。
 
-其他方面也是如此，你成年后喜欢的东西，往往都是青少年时期决定的。
-
--- 《人们的音乐爱好会随年龄发生怎样的变化？》
+-- [《AI 帕斯卡的赌注》](https://ploum.net/2026-10-01-pascal_wager.html)
 
 5、
 
-AI 的用法属于那种几周就能学会，几个月后就会过时的技能，除了眼前的短暂价值之外，没有任何意义。
+“说清楚你的需求”是21世纪的一项关键技能。
 
--- [《AI 技能将毫无价值》](https://fishbowl.pastiche.org/2026/10/26/ai-skills)
+-- [robinsloan.com](https://www.robinsloan.com/lab/ask-for-what-you-want/)
 
 
 <!-- End -->

@@ -1,5 +1,67 @@
 # 工具
 
+## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#工具)
+
+
+1、[florilegium](https://github.com/kevinraymond/florilegium)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110302.webp)
+
+LaTex 排版软件的插件，在页面空白处生成植物图案。
+
+这个概念很棒，而且可以移植到网页。
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110303.webp)
+
+2、[Disc Image Studio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110404.webp)
+
+这个工具可以将指定的图片刻录到光碟上，使得图案在光碟表面上肉眼可见。
+
+3、[OutCrap](https://outcrop.rocks/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110406.webp)
+
+一个免费的手机 App（苹果和安卓），可以根据照片分析地质地貌，也可以根据 GPS 定位给出地质信息。
+
+4、[SOML](https://github.com/soml-lang/soml)
+
+一种可以取代 JSON 的数据文件格式，消除了 JSON 的大多数缺点，更容易使用，基本上是 YAML 的简化版，提供各种语言的实现。
+
+5、[Casnode](https://github.com/casnode/casnode)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110419.webp)
+
+开源的 Discourse 风格的论坛程序，采用 Go + Next.js 开发，数据库默认为 SQLite。（[@hsluoyz](https://github.com/ruanyf/weekly/issues/12933) 投稿）
+
+6、[澜姿](https://github.com/wzc520pyfm/gen-ai-pose-image)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110418.webp)
+
+这个开源工具提供一套可以微调的人体姿态/服装/表情模板，供 AI 模型套用到图片上面。（[@zc520pyfm](https://github.com/ruanyf/weekly/issues/12899) 投稿）
+
+7、[Crossbow](https://github.com/Richard-Zhang1019/Crossbow)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110420.webp)
+
+开源的代理桌面客户端，支持双内核一键切换。（[@Richard-Zhang1019](https://github.com/ruanyf/weekly/issues/12940) 投稿）
+
+8、[WeRead Book Exporter](https://github.com/WANGXIN-567/weread-book-exporter)
+
+微信读书全书无损导出工具，抓取微信读书 Web 端已购或会员书籍全文，一键导出为 PDF、EPUB 以及 Markdown 笔记。（[@WANGXIN-567](https://github.com/ruanyf/weekly/issues/12942) 投稿）
+
+9、[Linkit](https://github.com/blue-idea/linkit)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110421.webp)
+
+浏览器书签的桌面管理器，基于 Go + Wails + SQLite 构建，支持本地语义向量检索、404 死链检测与知识图谱。（[@blue-idea](https://github.com/ruanyf/weekly/issues/13018) 投稿）
+
+10、[halfsize](https://github.com/YKLovePython/halfsize)
+
+开源的命令行工具，将视频文件压缩到指定大小。（[@YKLovePython](https://github.com/ruanyf/weekly/issues/13072) 投稿）
+
+
 ## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#工具)
 
 

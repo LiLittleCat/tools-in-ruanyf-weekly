@@ -1,5 +1,33 @@
 # 资源
 
+## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#资源)
+
+
+1、[HackerTube](https://hackertube.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110407.webp)
+
+一个 Youtube 视频网站，汇集了“黑客新闻”论坛上提到的所有 Youtube 视频，可以用来寻找值得看的科技视频。
+
+另有 [HackerBooks](https://hackerbooks.org/topic/fantasy) 和 [HackerPodcasts](https://www.hackerpodcasts.org/)，分别收集了“黑客新闻”提到过的各种书籍和播客。（[@qcrao](https://github.com/ruanyf/weekly/issues/13061) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110408.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110422.webp)
+
+2、[开始学习图论](https://vertex.degree/)（Start Doing Graph Theory）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110301.webp)
+
+一本面向初学者的图论入门教材（英文），免费阅读和下载。
+
+3、[Python 数据科学手册](https://jakevdp.github.io/PythonDataScienceHandbook/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025120404.webp)
+
+该书向初学者介绍用于数据处理的一些 Python 基本工具（比如 NumPy、Pandas），出版于2016年，免费阅读。
+
+
 ## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#资源)
 
 

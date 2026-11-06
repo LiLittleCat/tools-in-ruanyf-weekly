@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#言论)
+
+
+1、
+
+真心，正义，无畏，同情。 
+
+-- 电影《无问西东》
+
+2、
+
+民众在自己电脑上装内存，其实是一件很糟糕的事情。因为这些内存95％的时间都处于闲置状态，如果人们想要解决当前的内存供应问题，那就应该把内存都交给我们用在机房。
+
+-- [山姆·奥特曼](https://www.kocpc.com.tw/archives/701674)，OpenAI 公司首席执行官
+
+3、
+
+人们还没有充分认识到，既然电动汽车配备了大容量电池，为什么还要买个小电池仅仅为了应急？
+
+电动汽车其实是家庭的备用电源。
+
+-- [《电网中断期间的双向充电》](https://www.jefftk.com/p/bidirectional-charging-during-grid-outages)
+
+4、
+
+AI 生成的内容就像沥青，看起来光鲜明亮，而且很容易随处涂抹。但如果你以后需要清除沥青，即使一切顺利，也需要数年时间。
+
+-- [《AI 帕斯卡的赌注》](https://ploum.net/2026-10-01-pascal_wager.html)
+
+5、
+
+“说清楚你的需求”是21世纪的一项关键技能。
+
+-- [robinsloan.com](https://www.robinsloan.com/lab/ask-for-what-you-want/)
+
+
 ## [科技爱好者周刊（第 417 期）：不要让 AI 代表你](https://github.com/ruanyf/weekly/blob/master/docs/issue-417.md#言论)
 
 
