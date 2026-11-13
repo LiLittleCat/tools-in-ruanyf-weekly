@@ -1,5 +1,31 @@
 # 资源
 
+## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#资源)
+
+
+1、[temp-api](https://www.temp-api.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110901.webp)
+
+这个网站提供免费的 JSON API 的 Mock 服务。（[@sunjian-github](https://github.com/ruanyf/weekly/issues/13211) 投稿）
+
+2、[MCP 详解](https://mcp-explained.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111105.webp)
+
+这个网站提供 MCP 教程，把相关概念都用图形解释。看上去是用 AI 生成的，但对于了解 MCP 还是有帮助。
+
+3、[Rail Cube](https://owenlacey.dev/railcube-optimisation/post)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111015.webp)
+
+这个网站演示使用类似于乐高积木的火车积木 Rail Cube，可以搭建的约2700万个轨道布局。
+
+4、[Hacker News 未公开的特性](https://github.com/minimaxir/hacker-news-undocumented)
+
+这个仓库收集 Hacker News 网站没有公开的各种特性和功能。
+
+
 ## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#资源)
 
 

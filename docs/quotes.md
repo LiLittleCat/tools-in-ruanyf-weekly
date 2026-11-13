@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#言论)
+
+
+1、
+
+很多人以为，AI 编程很轻松。其实，完全不是这样，它让人精疲力尽，因为你需要不停做出决策。
+
+空中交通管理员和卡车司机都有强制休息时间，但是没有人会强制要求 AI 编程的使用者休息，你只有一块智能手表提醒自己站起来活动活动。
+
+-- [《为什么 AI 编程令人如此疲惫》](https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/)
+
+2、
+
+实体的文字，尤其是书籍，比一切都长久。它们比书架更长久，比房子更长久，比购买它们的人和银行账户更长久。
+
+二十年前，我在一家如今已不复存在的书店里，从一位现已退休的书商手中，在一座我已不再居住的城市里，买了一本书，它至今仍在，也必将比我活得更久。这是电子文档比拟不了的。
+
+-- [《我拥有28000本书》](https://www.shelvd.org/blog/28000-books)
+
+3、
+
+学校教育的真正目标是，技能掌握、知识积累和思维方式的形成。
+
+-- [Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)，Go 语言创造者
+
+4、
+
+以前为变量和文件起名很伤脑筋，现在有了 AI，变得轻而易举了。
+
+-- [《我的 AI 编程》](https://www.minid.net/2026/7/10/ai-works-for-me)
+
+5、
+
+如果你观察过程序员，可能会发现他们发呆的时间远比敲击键盘的时间多。不，他们（可能）并没有偷懒，程序员大部分工作都是在脑子里完成的。
+
+-- [《AI 编码陷阱》](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
+
+
 ## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#言论)
 
 

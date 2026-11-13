@@ -1,5 +1,73 @@
 # 工具
 
+## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#工具)
+
+
+1、[Window Sweaters for macOS](https://github.com/saragordic/window-sweaters)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111017.webp)
+
+一个 Mac 应用，为常见应用的窗口穿上毛衣。
+
+2、[dnsglobe](https://github.com/514-labs/dnsglobe)
+
+![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070702.webp)
+
+一个命令行工具，对全球34个公共 DNS 进行测速，找出到你速度最快的 DNS 服务器。
+
+3、[kan.ban](https://github.com/kanbn/kan)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060312.webp)
+
+基于 JS 的开源看板应用，Trello 替代品。
+
+4、[Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111102.webp)
+
+一个 macOS 桌面应用，可以查看每个进程的详细信息，相当于把 Process Explorer 移植到 Mac。
+
+5、[rVPN](https://rvpn.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111101.webp)
+
+一种开源的加密通信协议，可以让加密通信与 HTTPS 无法区分，提供服务端与各种客户端。
+
+6、[BoopFace](https://github.com/CX-ArtLab/BoopFace)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110902.webp)
+
+一个 Web 组件，可以在网页插入 SVG 机器人脸组件，适用于 AI 聊天机器人和 Agent 界面，提供18种表情和互动。（[@CX-ArtLab](https://github.com/ruanyf/weekly/issues/13144) 投稿）
+
+7、[Melarka](https://github.com/aaronsuns/melarka)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111001.webp)
+
+一个本地的音乐流媒体服务器，可以播放本地和 YouTube 音乐，支持多账号，提供安卓和 iOS 客户端。（[@aaronsuns](https://github.com/ruanyf/weekly/issues/13226) 投稿）
+
+8、[Cyber API](https://github.com/vicanso/cyberapi)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111002.webp)
+
+用于 API 调试的桌面客户端，使用 Rust + GPUI 构建，由于通过 GPU 直接绘制，没有了 Electron 的内存占用与卡顿。（[@vicanso](https://github.com/ruanyf/weekly/issues/13233) 投稿）
+
+9、[Beamlynx](https://beamlynx.com/zh)
+
+一个桌面的数据库客户端，在数据库里删一行数据，它会找出所有指向这行数据的表，删除时不会留下指向已删除行的外键，非商业使用免费。（[@ahmadnazir](https://github.com/ruanyf/weekly/issues/13271) 投稿）
+
+10、[MD-Vault](https://github.com/xiangc579/md-vault)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111201.webp)
+
+一个 Web 应用，使用 Markdown 格式保存 2FA 双因素认证的动态时间码，通过网页看板查看。（[@xiangc579](https://github.com/ruanyf/weekly/issues/13295) 投稿）
+
+11、[zlib](https://github.com/heartleo/zlib)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111202.webp)
+
+Z-Library 的命令行客户端，可以搜索、下载图书。（[@heartleo](https://github.com/ruanyf/weekly/issues/13316) 投稿）
+
+
 ## [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](https://github.com/ruanyf/weekly/blob/master/docs/issue-418.md#工具)
 
 
