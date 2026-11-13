@@ -31,5 +31,10 @@
     "@types/react-dom": "^19.2.3",
     "pagefind": "^1.5.2",
     "tailwindcss": "^4.3.3"
+  },
+  "pnpm": {
+    "overrides": {
+      "devalue": "5.9.3"
+    }
   }
 }
