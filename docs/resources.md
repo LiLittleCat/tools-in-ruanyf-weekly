@@ -1,5 +1,37 @@
 # 资源
 
+## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#资源)
+
+
+1、[周刊导航站](https://ruanyf.cjai.site/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111701.webp)
+
+网友做的周刊导航，共收入17,382个条目，可以检索。（[@mwhzwh](https://github.com/ruanyf/weekly/issues/13443) 投稿）
+
+2、[tinybrain](https://github.com/cai114514114514/tinybrain)
+
+从零开始做一个中文为主的小模型，包括数据清洗、分词器、模型、预训练、SFT、蒸馏、强化学习，每一步的代码都用 PyTorch 写出来。（[@cai114514114514](https://github.com/ruanyf/weekly/issues/13398) 投稿）
+
+3、[Lean Init IDE](https://github.com/3y3y3y-huaiji/lean-init-ide)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111402.webp)
+
+浏览器里的 Lean 4 语言练习环境，自带中英双语的[入门课](https://criticalthinking.de5.net/zh/learn/what-is-lean)，从基础逻辑一直讲到归纳、素数和插入排序验证。（[@3y3y3y-huaiji](https://github.com/ruanyf/weekly/issues/13372) 投稿）
+
+4、[浏览器工程](https://browser.engineering/)（Web Browser Engineering）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111905.webp)
+
+免费阅读下载的英文电子书，介绍网络浏览器的工作原理，演示几千行 Python 代码构建一个简单的网络浏览器。
+
+5、[生成式 AI 基础数学入门](https://arxiv.org/abs/2605.29713)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111401.webp)
+
+免费下载的 AI 数学入门教程。
+
+
 ## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#资源)
 
 

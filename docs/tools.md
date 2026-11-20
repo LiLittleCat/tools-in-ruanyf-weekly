@@ -1,5 +1,85 @@
 # 工具
 
+## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#工具)
+
+
+1、[sgrep](https://github.com/arunsupe/semantic-grep)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072803.webp)
+
+grep 的替代品，返回语义搜索的结果。
+
+2、[Netdata](https://github.com/netdata/netdata)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092707.webp)
+
+开源仪表板，在一个地方显示所有服务器和服务的状态。
+
+3、[FlowVision](https://github.com/netdcy/FlowVision)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082008.webp)
+
+macOS 的瀑布式图像浏览器。
+
+4、[13ft](https://github.com/wasi-master/13ft)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082009.webp)
+
+一个开源网站，可以抓取付费墙后面的网页内容，需要自搭建。
+
+5、[netboot.xyz](https://netboot.xyz/)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082010.webp)
+
+一个操作系统的启动盘，把 Windows、Linux、BSD 的安装文件都做在一个启动盘里面。
+
+6、[Srcbook](https://github.com/srcbookdev/srcbook)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082013.webp)
+
+类似于 Jupyter Notebook 的网页互动式笔记本，但是适用于 TypeScript 和 JavaScript。
+
+7、[Photoshot](https://github.com/Abraham721/photoshot)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111301.webp)
+
+开源的基于浏览器的图片编辑器。（[@Abraham721](https://github.com/ruanyf/weekly/issues/13332) 投稿）
+
+8、[XJY Editor](https://github.com/lizhaowu-79/xjyeditor)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111501.webp)
+
+一个纯静态的网页应用，采用表格形式可视化编辑 XML / KML / JSON / YAML 文件。（[@lizhaowu-79](https://github.com/ruanyf/weekly/issues/13394) 投稿）
+
+9、[GCS](https://github.com/aeroxy/google-cloud-shell-cli)
+
+谷歌云的非官方命令行客户端，可以从命令行登录谷歌云的主机，进行各种操作。（[@aeroxy](https://github.com/ruanyf/weekly/issues/13399) 投稿）
+
+10、[Waytrace](https://github.com/lxyeternal/PathTracker)（漫迹）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111502.webp)
+
+开源的 iOS 应用，不需要手动操作，在后台全天记录你当天的足迹动向。（[@lxyeternal](https://github.com/ruanyf/weekly/issues/13400) 投稿）
+
+11、[Tomoru](https://github.com/ACAne0320/Tomoru)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111702.webp)
+
+跨平台桌面应用，捕获电脑或指定应用播放的声音，实时识别，并在屏幕上显示双语悬浮字幕。（[@ACAne0320](https://github.com/ruanyf/weekly/issues/13457) 投稿）
+
+12、[crFiles](https://github.com/libcr/crFiles/releases)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111703.webp)
+
+跨平台的桌面文件管理器，最大特色是内置 Android Quick Share 协议，方便跟 Android 设备交换文件。（[@wuruxu](https://github.com/ruanyf/weekly/issues/13464) 投稿）
+
+13、[Arke](https://github.com/Koimsurai/Arke)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111801.webp)
+
+开源的 Windows 资源管理器替代品，特色是读取、排序、缩略图、搜索都不在界面线程上，因此打开巨大文件夹或网络共享断线，都不会卡住窗口。（[@Koimsurai](https://github.com/ruanyf/weekly/issues/13498) 投稿）
+
+
 ## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#工具)
 
 

@@ -1,5 +1,41 @@
 # 言论
 
+## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#言论)
+
+
+1、
+
+AI 编码使得软件开发的瓶颈，从编写代码转移到了代码审查。
+
+-- [哈佛大学研究团队](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+
+2、
+
+我们的公司 Iconfactory 依靠为用户设计图标谋生。AI 出现以后，我们的客户越来越少，我真的担心 Iconfactory 已经进入倒计时了。
+
+-- [Ged Maheux](https://coyotetracks.org/blog/right-amount-of-ai/)，Iconfactory 共同创始人
+
+3、
+
+请记住，AI 并没有增加需要软件的人数，也没有增加软件维护的人员数量。它主要增加的是代码量和项目数量，其中有一些项目是有益的，但很多时候却分散了本应共享的资源。
+
+-- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+
+4、
+
+软件公司的职位头衔一直在变。我曾是 Linux 系统管理工程师，后来改叫 SRE 工程师（Site Reliability Engineer），工作大同小异，只是名称变了。
+
+接着，同样的工作又变成了 DevOps，现在的名字是平台工程（Platform Engineer）。
+
+-- [《软件职位名称谱系图》](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+
+5、
+
+人与人的沟通是困难的，当你可以独自一人与机器为伴时，很容易就会选择不与人沟通。但是不要忘了，正是社区和人际交往，才会创造项目长久存在的价值。
+
+-- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+
+
 ## [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md#言论)
 
 

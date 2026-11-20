@@ -29,101 +29,119 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>419</currentVersion> -->
+<!-- <currentVersion>420</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://github.com/ruanyf/weekly/blob/master/docs/issue-419.md)
+# [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md)
 ### 工具
 
 
-1、[Window Sweaters for macOS](https://github.com/saragordic/window-sweaters)
+1、[sgrep](https://github.com/arunsupe/semantic-grep)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111017.webp)
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072803.webp)
 
-一个 Mac 应用，为常见应用的窗口穿上毛衣。
+grep 的替代品，返回语义搜索的结果。
 
-2、[dnsglobe](https://github.com/514-labs/dnsglobe)
+2、[Netdata](https://github.com/netdata/netdata)
 
-![](https://cdn.beekka.com/blogimg/asset/202607/bg2026070702.webp)
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092707.webp)
 
-一个命令行工具，对全球34个公共 DNS 进行测速，找出到你速度最快的 DNS 服务器。
+开源仪表板，在一个地方显示所有服务器和服务的状态。
 
-3、[kan.ban](https://github.com/kanbn/kan)
+3、[FlowVision](https://github.com/netdcy/FlowVision)
 
-![](https://cdn.beekka.com/blogimg/asset/202506/bg2025060312.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082008.webp)
 
-基于 JS 的开源看板应用，Trello 替代品。
+macOS 的瀑布式图像浏览器。
 
-4、[Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
+4、[13ft](https://github.com/wasi-master/13ft)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111102.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082009.webp)
 
-一个 macOS 桌面应用，可以查看每个进程的详细信息，相当于把 Process Explorer 移植到 Mac。
+一个开源网站，可以抓取付费墙后面的网页内容，需要自搭建。
 
-5、[rVPN](https://rvpn.org/)
+5、[netboot.xyz](https://netboot.xyz/)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111101.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082010.webp)
 
-一种开源的加密通信协议，可以让加密通信与 HTTPS 无法区分，提供服务端与各种客户端。
+一个操作系统的启动盘，把 Windows、Linux、BSD 的安装文件都做在一个启动盘里面。
 
-6、[BoopFace](https://github.com/CX-ArtLab/BoopFace)
+6、[Srcbook](https://github.com/srcbookdev/srcbook)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110902.webp)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082013.webp)
 
-一个 Web 组件，可以在网页插入 SVG 机器人脸组件，适用于 AI 聊天机器人和 Agent 界面，提供18种表情和互动。（[@CX-ArtLab](https://github.com/ruanyf/weekly/issues/13144) 投稿）
+类似于 Jupyter Notebook 的网页互动式笔记本，但是适用于 TypeScript 和 JavaScript。
 
-7、[Melarka](https://github.com/aaronsuns/melarka)
+7、[Photoshot](https://github.com/Abraham721/photoshot)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111001.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111301.webp)
 
-一个本地的音乐流媒体服务器，可以播放本地和 YouTube 音乐，支持多账号，提供安卓和 iOS 客户端。（[@aaronsuns](https://github.com/ruanyf/weekly/issues/13226) 投稿）
+开源的基于浏览器的图片编辑器。（[@Abraham721](https://github.com/ruanyf/weekly/issues/13332) 投稿）
 
-8、[Cyber API](https://github.com/vicanso/cyberapi)
+8、[XJY Editor](https://github.com/lizhaowu-79/xjyeditor)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111002.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111501.webp)
 
-用于 API 调试的桌面客户端，使用 Rust + GPUI 构建，由于通过 GPU 直接绘制，没有了 Electron 的内存占用与卡顿。（[@vicanso](https://github.com/ruanyf/weekly/issues/13233) 投稿）
+一个纯静态的网页应用，采用表格形式可视化编辑 XML / KML / JSON / YAML 文件。（[@lizhaowu-79](https://github.com/ruanyf/weekly/issues/13394) 投稿）
 
-9、[Beamlynx](https://beamlynx.com/zh)
+9、[GCS](https://github.com/aeroxy/google-cloud-shell-cli)
 
-一个桌面的数据库客户端，在数据库里删一行数据，它会找出所有指向这行数据的表，删除时不会留下指向已删除行的外键，非商业使用免费。（[@ahmadnazir](https://github.com/ruanyf/weekly/issues/13271) 投稿）
+谷歌云的非官方命令行客户端，可以从命令行登录谷歌云的主机，进行各种操作。（[@aeroxy](https://github.com/ruanyf/weekly/issues/13399) 投稿）
 
-10、[MD-Vault](https://github.com/xiangc579/md-vault)
+10、[Waytrace](https://github.com/lxyeternal/PathTracker)（漫迹）
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111201.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111502.webp)
 
-一个 Web 应用，使用 Markdown 格式保存 2FA 双因素认证的动态时间码，通过网页看板查看。（[@xiangc579](https://github.com/ruanyf/weekly/issues/13295) 投稿）
+开源的 iOS 应用，不需要手动操作，在后台全天记录你当天的足迹动向。（[@lxyeternal](https://github.com/ruanyf/weekly/issues/13400) 投稿）
 
-11、[zlib](https://github.com/heartleo/zlib)
+11、[Tomoru](https://github.com/ACAne0320/Tomoru)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111202.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111702.webp)
 
-Z-Library 的命令行客户端，可以搜索、下载图书。（[@heartleo](https://github.com/ruanyf/weekly/issues/13316) 投稿）
+跨平台桌面应用，捕获电脑或指定应用播放的声音，实时识别，并在屏幕上显示双语悬浮字幕。（[@ACAne0320](https://github.com/ruanyf/weekly/issues/13457) 投稿）
+
+12、[crFiles](https://github.com/libcr/crFiles/releases)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111703.webp)
+
+跨平台的桌面文件管理器，最大特色是内置 Android Quick Share 协议，方便跟 Android 设备交换文件。（[@wuruxu](https://github.com/ruanyf/weekly/issues/13464) 投稿）
+
+13、[Arke](https://github.com/Koimsurai/Arke)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111801.webp)
+
+开源的 Windows 资源管理器替代品，特色是读取、排序、缩略图、搜索都不在界面线程上，因此打开巨大文件夹或网络共享断线，都不会卡住窗口。（[@Koimsurai](https://github.com/ruanyf/weekly/issues/13498) 投稿）
 
 
 ### 资源
 
 
-1、[temp-api](https://www.temp-api.com/)
+1、[周刊导航站](https://ruanyf.cjai.site/)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026110901.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111701.webp)
 
-这个网站提供免费的 JSON API 的 Mock 服务。（[@sunjian-github](https://github.com/ruanyf/weekly/issues/13211) 投稿）
+网友做的周刊导航，共收入17,382个条目，可以检索。（[@mwhzwh](https://github.com/ruanyf/weekly/issues/13443) 投稿）
 
-2、[MCP 详解](https://mcp-explained.com/)
+2、[tinybrain](https://github.com/cai114514114514/tinybrain)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111105.webp)
+从零开始做一个中文为主的小模型，包括数据清洗、分词器、模型、预训练、SFT、蒸馏、强化学习，每一步的代码都用 PyTorch 写出来。（[@cai114514114514](https://github.com/ruanyf/weekly/issues/13398) 投稿）
 
-这个网站提供 MCP 教程，把相关概念都用图形解释。看上去是用 AI 生成的，但对于了解 MCP 还是有帮助。
+3、[Lean Init IDE](https://github.com/3y3y3y-huaiji/lean-init-ide)
 
-3、[Rail Cube](https://owenlacey.dev/railcube-optimisation/post)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111402.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111015.webp)
+浏览器里的 Lean 4 语言练习环境，自带中英双语的[入门课](https://criticalthinking.de5.net/zh/learn/what-is-lean)，从基础逻辑一直讲到归纳、素数和插入排序验证。（[@3y3y3y-huaiji](https://github.com/ruanyf/weekly/issues/13372) 投稿）
 
-这个网站演示使用类似于乐高积木的火车积木 Rail Cube，可以搭建的约2700万个轨道布局。
+4、[浏览器工程](https://browser.engineering/)（Web Browser Engineering）
 
-4、[Hacker News 未公开的特性](https://github.com/minimaxir/hacker-news-undocumented)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111905.webp)
 
-这个仓库收集 Hacker News 网站没有公开的各种特性和功能。
+免费阅读下载的英文电子书，介绍网络浏览器的工作原理，演示几千行 Python 代码构建一个简单的网络浏览器。
+
+5、[生成式 AI 基础数学入门](https://arxiv.org/abs/2605.29713)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111401.webp)
+
+免费下载的 AI 数学入门教程。
 
 
 ### 言论
@@ -131,37 +149,35 @@ Z-Library 的命令行客户端，可以搜索、下载图书。（[@heartleo](h
 
 1、
 
-很多人以为，AI 编程很轻松。其实，完全不是这样，它让人精疲力尽，因为你需要不停做出决策。
+AI 编码使得软件开发的瓶颈，从编写代码转移到了代码审查。
 
-空中交通管理员和卡车司机都有强制休息时间，但是没有人会强制要求 AI 编程的使用者休息，你只有一块智能手表提醒自己站起来活动活动。
-
--- [《为什么 AI 编程令人如此疲惫》](https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/)
+-- [哈佛大学研究团队](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 
 2、
 
-实体的文字，尤其是书籍，比一切都长久。它们比书架更长久，比房子更长久，比购买它们的人和银行账户更长久。
+我们的公司 Iconfactory 依靠为用户设计图标谋生。AI 出现以后，我们的客户越来越少，我真的担心 Iconfactory 已经进入倒计时了。
 
-二十年前，我在一家如今已不复存在的书店里，从一位现已退休的书商手中，在一座我已不再居住的城市里，买了一本书，它至今仍在，也必将比我活得更久。这是电子文档比拟不了的。
-
--- [《我拥有28000本书》](https://www.shelvd.org/blog/28000-books)
+-- [Ged Maheux](https://coyotetracks.org/blog/right-amount-of-ai/)，Iconfactory 共同创始人
 
 3、
 
-学校教育的真正目标是，技能掌握、知识积累和思维方式的形成。
+请记住，AI 并没有增加需要软件的人数，也没有增加软件维护的人员数量。它主要增加的是代码量和项目数量，其中有一些项目是有益的，但很多时候却分散了本应共享的资源。
 
--- [Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)，Go 语言创造者
+-- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 
 4、
 
-以前为变量和文件起名很伤脑筋，现在有了 AI，变得轻而易举了。
+软件公司的职位头衔一直在变。我曾是 Linux 系统管理工程师，后来改叫 SRE 工程师（Site Reliability Engineer），工作大同小异，只是名称变了。
 
--- [《我的 AI 编程》](https://www.minid.net/2026/7/10/ai-works-for-me)
+接着，同样的工作又变成了 DevOps，现在的名字是平台工程（Platform Engineer）。
+
+-- [《软件职位名称谱系图》](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 
 5、
 
-如果你观察过程序员，可能会发现他们发呆的时间远比敲击键盘的时间多。不，他们（可能）并没有偷懒，程序员大部分工作都是在脑子里完成的。
+人与人的沟通是困难的，当你可以独自一人与机器为伴时，很容易就会选择不与人沟通。但是不要忘了，正是社区和人际交往，才会创造项目长久存在的价值。
 
--- [《AI 编码陷阱》](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
+-- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 
 
 <!-- End -->
