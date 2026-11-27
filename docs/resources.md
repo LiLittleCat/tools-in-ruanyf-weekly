@@ -1,5 +1,35 @@
 # 资源
 
+## [科技爱好者周刊（第 421 期）：AI 的疯狂造富](https://github.com/ruanyf/weekly/blob/master/docs/issue-421.md#资源)
+
+
+1、[圆明园数字复原计划](https://github.com/Ivan666jjj/yuanmingyuan-restoration)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112101.webp)
+
+数字还原圆明园，目前完成了15景的还原图，其中2景可以三维浏览。（[@Ivan666jjj](https://github.com/ruanyf/weekly/issues/13579) 投稿）
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112102.webp)
+
+2、[Ohmwork](https://github.com/linjiejim/ohmwork)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112515.webp)
+
+学习电路知识的零基础互动式教程，每个概念配一个互动小实验，从电压电流讲到传感器、射频和 PCB 设计。（[@linjiejim](https://github.com/ruanyf/weekly/issues/13751) 投稿）
+
+3、[deflate x-ray](https://hrih.si/projects/deflate-xray/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112523.webp)
+
+这个网站可以将文件的压缩过程，用动画表示出来，让你了解到底是怎么压缩的。
+
+4、[小旧金山](https://smallsf.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112524.webp)
+
+一个互动式地图，用像素图呈现真实的旧金山。
+
+
 ## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#资源)
 
 

@@ -1,5 +1,75 @@
 # 工具
 
+## [科技爱好者周刊（第 421 期）：AI 的疯狂造富](https://github.com/ruanyf/weekly/blob/master/docs/issue-421.md#工具)
+
+
+1、[Ladybird](https://ladybird.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112403.webp)
+
+Ladybird 是一个全新的开源浏览器，它的底层引擎是从头写的，跟市场上所有浏览器都不一样，是一个真正的独立替代方案。
+
+本周，它发布了 alpha 版，也就是第一个可用版本（下图）。我推荐大家关注，它很可能将来会取代 Firefox 的位置。
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112404.webp)
+
+2、[PenGPT](https://greydanus.github.io/2026/11/12/pengpt/)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112517.webp)
+
+一个小型转换器（transformer），可以将英文输入转成手写字体，或者生成手绘草图。
+
+3、[ScreenPlay](https://gitlab.com/kelteseth/ScreenPlay)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082203.webp)
+
+一款适用于 Windows 和 OSX 的开源动态壁纸应用。
+
+4、[Plasmo](https://github.com/PlasmoHQ/plasmo)
+
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082205.webp)
+
+一个开发 Chrome 浏览器插件的框架。
+
+5、[Trace](https://github.com/lxyeternal/Trace)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112202.webp)
+
+一个 macOS 菜单栏应用，自动记录你打开的应用、窗口、文件、网页，以及停留了多久，不需要手动计时。（[@lxyeternal](https://github.com/ruanyf/weekly/issues/13610) 投稿）
+
+6、[Uptime Polaris](https://github.com/XingLingQAQ/UptimePolaris)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112201.webp)
+
+开源的服务监控系统，检查网站是否在线，采集服务器指标，在状态变化时发送通知，可以部署在 Cloudflare Worker。（[@XingLingQAQ](https://github.com/ruanyf/weekly/issues/13628) 投稿）
+
+7、[GuestPass](https://github.com/fengyiqicoder/guestpass)
+
+这个工具可以把 Claude Code、Codex、Gemini CLI 的会话，变成一个链接，通过 Cloudflare tunnel 分享出去。访问该链接，就能实时访问/操作该会话，不需要安装 Agent 软件。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/13613) 投稿）
+
+8、[vl](https://github.com/foursmith/vl)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112302.webp)
+
+一个终端环境，将 VS Code 的体验搬到终端里面。（[@ourongxing](https://github.com/ruanyf/weekly/issues/13633) 投稿）
+
+9、[Locus](https://github.com/sao-coding/locus)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112303.webp)
+
+开源的 Windows 数据库客户端，单个 exe，不用安装，支持 MySQL/MariaDB、PostgreSQL、SQLite、Redis、Oracle。最大特点是 Rust + GPUI 编写，不会出现卡顿，查询结果边传输边显示。（[@sao-coding](https://github.com/ruanyf/weekly/issues/13646) 投稿）
+
+10、[TabRetake](https://github.com/gnawbit/tabretake)
+
+根据设置，自动操作网页、录制演示视频的工具。（[@gnawbit](https://github.com/ruanyf/weekly/issues/13728) 投稿）
+
+11、[AllInOneIME](https://github.com/MicroZ-LLC/AllInOneIME)
+
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112516.webp)
+
+macOS 的开源输入法，平时可用作拼音输入，句子开头打 @ 可以在输入框中调用 AI 结果。（[@melatonin98034](https://github.com/ruanyf/weekly/issues/13764) 投稿）
+
+
 ## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#工具)
 
 

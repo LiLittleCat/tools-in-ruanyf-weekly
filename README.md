@@ -29,119 +29,107 @@
 - [资源](https://cdn.jsdelivr.net/gh/LiLittleCat/tools-in-ruanyf-weekly/docs/resources.md)
 
 ## 最新一期
-<!-- <currentVersion>420</currentVersion> -->
+<!-- <currentVersion>421</currentVersion> -->
 <!-- Begin -->
-# [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md)
+# [科技爱好者周刊（第 421 期）：AI 的疯狂造富](https://github.com/ruanyf/weekly/blob/master/docs/issue-421.md)
 ### 工具
 
 
-1、[sgrep](https://github.com/arunsupe/semantic-grep)
+1、[Ladybird](https://ladybird.org/)
 
-![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072803.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112403.webp)
 
-grep 的替代品，返回语义搜索的结果。
+Ladybird 是一个全新的开源浏览器，它的底层引擎是从头写的，跟市场上所有浏览器都不一样，是一个真正的独立替代方案。
 
-2、[Netdata](https://github.com/netdata/netdata)
+本周，它发布了 alpha 版，也就是第一个可用版本（下图）。我推荐大家关注，它很可能将来会取代 Firefox 的位置。
 
-![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092707.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112404.webp)
 
-开源仪表板，在一个地方显示所有服务器和服务的状态。
+2、[PenGPT](https://greydanus.github.io/2026/11/12/pengpt/)
 
-3、[FlowVision](https://github.com/netdcy/FlowVision)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112517.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082008.webp)
+一个小型转换器（transformer），可以将英文输入转成手写字体，或者生成手绘草图。
 
-macOS 的瀑布式图像浏览器。
+3、[ScreenPlay](https://gitlab.com/kelteseth/ScreenPlay)
 
-4、[13ft](https://github.com/wasi-master/13ft)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082203.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082009.webp)
+一款适用于 Windows 和 OSX 的开源动态壁纸应用。
 
-一个开源网站，可以抓取付费墙后面的网页内容，需要自搭建。
+4、[Plasmo](https://github.com/PlasmoHQ/plasmo)
 
-5、[netboot.xyz](https://netboot.xyz/)
+![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082205.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082010.webp)
+一个开发 Chrome 浏览器插件的框架。
 
-一个操作系统的启动盘，把 Windows、Linux、BSD 的安装文件都做在一个启动盘里面。
+5、[Trace](https://github.com/lxyeternal/Trace)
 
-6、[Srcbook](https://github.com/srcbookdev/srcbook)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112202.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202408/bg2024082013.webp)
+一个 macOS 菜单栏应用，自动记录你打开的应用、窗口、文件、网页，以及停留了多久，不需要手动计时。（[@lxyeternal](https://github.com/ruanyf/weekly/issues/13610) 投稿）
 
-类似于 Jupyter Notebook 的网页互动式笔记本，但是适用于 TypeScript 和 JavaScript。
+6、[Uptime Polaris](https://github.com/XingLingQAQ/UptimePolaris)
 
-7、[Photoshot](https://github.com/Abraham721/photoshot)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112201.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111301.webp)
+开源的服务监控系统，检查网站是否在线，采集服务器指标，在状态变化时发送通知，可以部署在 Cloudflare Worker。（[@XingLingQAQ](https://github.com/ruanyf/weekly/issues/13628) 投稿）
 
-开源的基于浏览器的图片编辑器。（[@Abraham721](https://github.com/ruanyf/weekly/issues/13332) 投稿）
+7、[GuestPass](https://github.com/fengyiqicoder/guestpass)
 
-8、[XJY Editor](https://github.com/lizhaowu-79/xjyeditor)
+这个工具可以把 Claude Code、Codex、Gemini CLI 的会话，变成一个链接，通过 Cloudflare tunnel 分享出去。访问该链接，就能实时访问/操作该会话，不需要安装 Agent 软件。（[@fengyiqicoder](https://github.com/ruanyf/weekly/issues/13613) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111501.webp)
+8、[vl](https://github.com/foursmith/vl)
 
-一个纯静态的网页应用，采用表格形式可视化编辑 XML / KML / JSON / YAML 文件。（[@lizhaowu-79](https://github.com/ruanyf/weekly/issues/13394) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112302.webp)
 
-9、[GCS](https://github.com/aeroxy/google-cloud-shell-cli)
+一个终端环境，将 VS Code 的体验搬到终端里面。（[@ourongxing](https://github.com/ruanyf/weekly/issues/13633) 投稿）
 
-谷歌云的非官方命令行客户端，可以从命令行登录谷歌云的主机，进行各种操作。（[@aeroxy](https://github.com/ruanyf/weekly/issues/13399) 投稿）
+9、[Locus](https://github.com/sao-coding/locus)
 
-10、[Waytrace](https://github.com/lxyeternal/PathTracker)（漫迹）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112303.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111502.webp)
+开源的 Windows 数据库客户端，单个 exe，不用安装，支持 MySQL/MariaDB、PostgreSQL、SQLite、Redis、Oracle。最大特点是 Rust + GPUI 编写，不会出现卡顿，查询结果边传输边显示。（[@sao-coding](https://github.com/ruanyf/weekly/issues/13646) 投稿）
 
-开源的 iOS 应用，不需要手动操作，在后台全天记录你当天的足迹动向。（[@lxyeternal](https://github.com/ruanyf/weekly/issues/13400) 投稿）
+10、[TabRetake](https://github.com/gnawbit/tabretake)
 
-11、[Tomoru](https://github.com/ACAne0320/Tomoru)
+根据设置，自动操作网页、录制演示视频的工具。（[@gnawbit](https://github.com/ruanyf/weekly/issues/13728) 投稿）
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111702.webp)
+11、[AllInOneIME](https://github.com/MicroZ-LLC/AllInOneIME)
 
-跨平台桌面应用，捕获电脑或指定应用播放的声音，实时识别，并在屏幕上显示双语悬浮字幕。（[@ACAne0320](https://github.com/ruanyf/weekly/issues/13457) 投稿）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112516.webp)
 
-12、[crFiles](https://github.com/libcr/crFiles/releases)
-
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111703.webp)
-
-跨平台的桌面文件管理器，最大特色是内置 Android Quick Share 协议，方便跟 Android 设备交换文件。（[@wuruxu](https://github.com/ruanyf/weekly/issues/13464) 投稿）
-
-13、[Arke](https://github.com/Koimsurai/Arke)
-
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111801.webp)
-
-开源的 Windows 资源管理器替代品，特色是读取、排序、缩略图、搜索都不在界面线程上，因此打开巨大文件夹或网络共享断线，都不会卡住窗口。（[@Koimsurai](https://github.com/ruanyf/weekly/issues/13498) 投稿）
+macOS 的开源输入法，平时可用作拼音输入，句子开头打 @ 可以在输入框中调用 AI 结果。（[@melatonin98034](https://github.com/ruanyf/weekly/issues/13764) 投稿）
 
 
 ### 资源
 
 
-1、[周刊导航站](https://ruanyf.cjai.site/)
+1、[圆明园数字复原计划](https://github.com/Ivan666jjj/yuanmingyuan-restoration)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111701.webp)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112101.webp)
 
-网友做的周刊导航，共收入17,382个条目，可以检索。（[@mwhzwh](https://github.com/ruanyf/weekly/issues/13443) 投稿）
+数字还原圆明园，目前完成了15景的还原图，其中2景可以三维浏览。（[@Ivan666jjj](https://github.com/ruanyf/weekly/issues/13579) 投稿）
 
-2、[tinybrain](https://github.com/cai114514114514/tinybrain)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112102.webp)
 
-从零开始做一个中文为主的小模型，包括数据清洗、分词器、模型、预训练、SFT、蒸馏、强化学习，每一步的代码都用 PyTorch 写出来。（[@cai114514114514](https://github.com/ruanyf/weekly/issues/13398) 投稿）
+2、[Ohmwork](https://github.com/linjiejim/ohmwork)
 
-3、[Lean Init IDE](https://github.com/3y3y3y-huaiji/lean-init-ide)
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112515.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111402.webp)
+学习电路知识的零基础互动式教程，每个概念配一个互动小实验，从电压电流讲到传感器、射频和 PCB 设计。（[@linjiejim](https://github.com/ruanyf/weekly/issues/13751) 投稿）
 
-浏览器里的 Lean 4 语言练习环境，自带中英双语的[入门课](https://criticalthinking.de5.net/zh/learn/what-is-lean)，从基础逻辑一直讲到归纳、素数和插入排序验证。（[@3y3y3y-huaiji](https://github.com/ruanyf/weekly/issues/13372) 投稿）
+3、[deflate x-ray](https://hrih.si/projects/deflate-xray/)
 
-4、[浏览器工程](https://browser.engineering/)（Web Browser Engineering）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112523.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111905.webp)
+这个网站可以将文件的压缩过程，用动画表示出来，让你了解到底是怎么压缩的。
 
-免费阅读下载的英文电子书，介绍网络浏览器的工作原理，演示几千行 Python 代码构建一个简单的网络浏览器。
+4、[小旧金山](https://smallsf.com/)
 
-5、[生成式 AI 基础数学入门](https://arxiv.org/abs/2605.29713)（英文）
+![](https://cdn.beekka.com/blogimg/asset/202611/bg2026112524.webp)
 
-![](https://cdn.beekka.com/blogimg/asset/202611/bg2026111401.webp)
-
-免费下载的 AI 数学入门教程。
+一个互动式地图，用像素图呈现真实的旧金山。
 
 
 ### 言论
@@ -149,35 +137,37 @@ macOS 的瀑布式图像浏览器。
 
 1、
 
-AI 编码使得软件开发的瓶颈，从编写代码转移到了代码审查。
+如果 AI 生成了一个经 Lean 语言验证的黎曼猜想证明，而这个证明对人类来说是无法理解的，数学家会作何感想？
 
--- [哈佛大学研究团队](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+-- [3Blue1Brown](https://www.youtube.com/watch?v=zqzk43bSdDI)，著名的数学 Youtuber
 
 2、
 
-我们的公司 Iconfactory 依靠为用户设计图标谋生。AI 出现以后，我们的客户越来越少，我真的担心 Iconfactory 已经进入倒计时了。
+在旧金山，你可以率先看到未来。 
 
--- [Ged Maheux](https://coyotetracks.org/blog/right-amount-of-ai/)，Iconfactory 共同创始人
+-- [一个 OpenAI 前员工](https://situational-awareness.ai/)
 
 3、
 
-请记住，AI 并没有增加需要软件的人数，也没有增加软件维护的人员数量。它主要增加的是代码量和项目数量，其中有一些项目是有益的，但很多时候却分散了本应共享的资源。
+大模型的使用者分成两种。一种人充满了好奇心和责任心，将大模型用来放大自身的能力，提升自己的工作效率和理解深度。
 
--- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+另一种人比较懒惰，只充当“人肉代理”，把收到的需求放到输入框里，然后点击“生成”按钮进行处理。
+
+-- [《聪明人怎样使用工具》](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
 
 4、
 
-软件公司的职位头衔一直在变。我曾是 Linux 系统管理工程师，后来改叫 SRE 工程师（Site Reliability Engineer），工作大同小异，只是名称变了。
+由于 AI 降低了制造业的智能成本，长期来看，原材料将在制成品成本中占据更大的份额。这使得采矿业在 AI 时代成为一个极其重要的行业。
 
-接着，同样的工作又变成了 DevOps，现在的名字是平台工程（Platform Engineer）。
-
--- [《软件职位名称谱系图》](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+-- [《硬件即软件》](https://unchartedterritories.tomaspueyo.com/p/hardware-is-software)
 
 5、
 
-人与人的沟通是困难的，当你可以独自一人与机器为伴时，很容易就会选择不与人沟通。但是不要忘了，正是社区和人际交往，才会创造项目长久存在的价值。
+你把 AI 生成的代码称为“AI 垃圾”，通常只是表明你根本没读过它。只有当你止步于此，这种侮辱才成立。
 
--- [《用 Pi 构建 Pi》](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
+如果你愿意投入大量精力，不断完善这些代码，它可以成为值得信赖的东西。
+
+-- [《AI 作为一种生活方式的选择》](https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/)
 
 
 <!-- End -->

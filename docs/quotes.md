@@ -1,5 +1,43 @@
 # 言论
 
+## [科技爱好者周刊（第 421 期）：AI 的疯狂造富](https://github.com/ruanyf/weekly/blob/master/docs/issue-421.md#言论)
+
+
+1、
+
+如果 AI 生成了一个经 Lean 语言验证的黎曼猜想证明，而这个证明对人类来说是无法理解的，数学家会作何感想？
+
+-- [3Blue1Brown](https://www.youtube.com/watch?v=zqzk43bSdDI)，著名的数学 Youtuber
+
+2、
+
+在旧金山，你可以率先看到未来。 
+
+-- [一个 OpenAI 前员工](https://situational-awareness.ai/)
+
+3、
+
+大模型的使用者分成两种。一种人充满了好奇心和责任心，将大模型用来放大自身的能力，提升自己的工作效率和理解深度。
+
+另一种人比较懒惰，只充当“人肉代理”，把收到的需求放到输入框里，然后点击“生成”按钮进行处理。
+
+-- [《聪明人怎样使用工具》](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
+
+4、
+
+由于 AI 降低了制造业的智能成本，长期来看，原材料将在制成品成本中占据更大的份额。这使得采矿业在 AI 时代成为一个极其重要的行业。
+
+-- [《硬件即软件》](https://unchartedterritories.tomaspueyo.com/p/hardware-is-software)
+
+5、
+
+你把 AI 生成的代码称为“AI 垃圾”，通常只是表明你根本没读过它。只有当你止步于此，这种侮辱才成立。
+
+如果你愿意投入大量精力，不断完善这些代码，它可以成为值得信赖的东西。
+
+-- [《AI 作为一种生活方式的选择》](https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/)
+
+
 ## [科技爱好者周刊（第 420 期）：最分心的一年](https://github.com/ruanyf/weekly/blob/master/docs/issue-420.md#言论)
 
 
